@@ -1,0 +1,929 @@
+In the Office of the Secratary iy State
+of the State of Califomia
+
+ZIL44 Ofer} 1 O258€ FILED |
+
+AGREEMENT OF MERGER APR j 6 2010
+OF |
+! APERTO NETWORKS, INC.; A CALIFORNIA CORPORATION
+AND
+BLUE ACQUISITION CORPORATION, A CALIFORNIA CORPORATION oe enna nea ie Ses
+
+This Agreement of Merger (the “Agreement”’) is made and entered into as of April 16,
+2010, between Aperto Networks, Inc., a California corporation (the “Company”), and Blue
+Acquisition Corporation, a California corporation (‘Merger Sub” and, together with the
+Company, the “Constituent Corporations’) and a wholly-owned subsidiary of Tranzeo Wireless
+Technologies, a corporation amalgamated under the Canada Business Corporation Act
+(‘Parent’).
+
+RECITALS
+
+A. Parent, Merger Sub, the Company and certain other parties set forth therein have
+entered into that certain Agreement and Plan of Merger dated as of March 31, 2010 (the “Merger
+Agreement’), providing, among other things, for the execution and filing of this Agreement and
+the merger of Merger Sub with and into the Company (the “Merger’’).
+
+B. The respective Boards of Directors of each of the Constituent Corporations deem
+it advisable and in the best interests of each of such corporations and their respective
+shareholders that Merger Sub be merged with and into the. Company and have approved this
+
+Agreement and the Merger.
+
+C. ‘The Merger Agreement, this Agreement and the Merger have been ‘approved by
+the shareholders of the Company and by the sole shareholder of Merger Sub.
+
+Now, THEREFORE, in consideration of the mutual agreements and covenants ‘set forth
+herein, the parties hereto hereby agree as follows:
+
+ARTICLE I
+' THE CONSTITUENT CORPORATIONS
+
+1.1 The Company. The Company is a corporation duly organized, validly existing
+and in corporate and tax good standing under the laws of the State of California. As of the date
+of this Agreement, the authorized capital stock of the Company consists of 84,000,000 shares of
+common stock, par value $0.001 per share (“Company Common Stock’), of which 8,314,607
+shares are issued and outstanding, and 59,389,162 shares of preferred stock stock, par value
+$0,001 per share, 41,000,000 of which shares have been designated as Series A Preferred Stock
+(the “Series A Preferred Stock’), 11,000,000 of which shares have been designated as Series B
+Preferred Stock (the “Series B Preferred Stock”), and 7,389,162 of which shares have been
+designated as Series C Preferred Stock (the “Series C Preferred Stock” and collectively with the
+Series A Preferred Stock and Series B Preferred Stock, the “Company Preferred Stock’), of
+which a total of 29,751,455 are issued and outstanding. The Company Common Stock and
+Company Preferred Stock are sometimes referred to herein, collectively, as “Company Capital
+Stock”. The Company was incorporated under the laws of the State of California on October 29,
+1998.
+1.2. Merger Sub. Merger Sub is a corporation duly organized and validly existing
+under the laws of the State of California. The authorized capital stock of Merger Sub consists of
+1,000 shares of common stock, $0.001 par value (“Merger Sub Common Stock’). As of the date
+of this Agreement, 1,000 shares of Merger Sub Common Stock are outstanding, all of which are
+validly issued, fully paid and non-assessable, and held by Parent. Merger Sub was incorporated
+under the laws of the State of California on February 11, 2010.
+
+ARTICLE It
+THE MERGER
+
+2.1 The Merger. At the Effective Time (as defined in Section 2.2) and subject to and
+upon the terms of this Agreement and the applicable provisions of the laws of the State of
+Califomia (“California Law’), Merger Sub shall be merged with and into the Company, the
+separate corporate existence of. Merger Sub shall cease, and the Company shall continue as the
+surviving corporation. The Company as the surviving corporation after the Merger is sometimes
+referred to hereinafter as the “Surviving Corporation”.
+
+2.2 Effective Time; Closing. This Agreement shall be effective, in accordance with
+California Law, upon filing with the Secretary of State of the State of Califomia (the time of
+such filing, the “Effective Time’).
+
+2.3 Effect Of the Merger. The effect of the Merger shall be as provided in this
+Agreement and the applicable provisions of California Law. Without limiting the generality of
+the foregoing, and subject thereto, at the Effective Time all the property, rights, privileges,
+powers and franchises of the Company and Merger Sub shall vest in the Surviving Corporation,
+and all debts, liabilities and duties of the Company and Merger Sub shall become the debts,
+liabilities and duties of the Surviving Corporation.
+
+2.4 Articles of Incorporation. At the Effective Time, the Articles of Incorporation of
+the Company shall be amended and restated as set forth in Exhibit A attached hereto.
+
+2.5 Effect_of the Merger_on the Capital Stock of the Constituent_Corporations.
+Subject to the terms and conditions of this Agreement, by virtue of the Merger and without any
+
+action on the part of Parent, Merger Sub, the Company or the holders of any of the following
+securities, the following shall occur:
+
+(i) Certain Definitions. As used in this Agreement, the terms below shall
+have the following respective meanings. Any of such terms, unless the context requires
+otherwise, may be used in the singular or plural, depending upon the reference.
+
+(1) ‘Additional Purchase Price” shall mean an amount: equal to the
+aggregate amount of the Attributable Sales that occur during the Earn-Out Period.
+
+(2) “Aggregate Preferred Preference Amount” shall mean the sum of
+(x) the Series A Preferred Preference and (y) the Series C/B Preferred Preference.
+
+(3) “Attributable Sales” shall mean the gross revenues of Parent,
+calculated in accordance with Canadian GAAP (reduced, for the avoidance of
+
+4954621_7.DOC 2
+4954621_7,.DOC
+
+doubt, by returns), consistent with Parent’s past practices, that are directly
+attributable to the sale of any and all types of products manufactured or sold by
+the Company immediately prior to the Closing and maintenance and support
+services for such Company products less Excess Commissions in respect of such
+sales; provided, however, that: (1) for Company SKU CPE products (e.g. PM120,
+PM320) and Pico base stations manufactured by Parent for the Company,
+Attributable Sales shal] be an amount (the “CPE Amount”) equal to: (A) the gross
+revenues of Parent from the sale of such products, calculated in accordance with
+Canadian GAAP (reduced, for the avoidance of doubt, by returns), consistent with
+Parent’s past practices, less (B) Excess Commissions paid in respect of such sales
+and less (C) the purchase price which would have been payable by the Company
+to Parent for the manufacture of such units for Company, provided, however, that
+in no event shall the CPE Amount be less than zero; and (ii) except as otherwise
+provided in this Section 2.5(1)(3), no revenue shall be included in the definition of
+Attributable Sales for any products manufactured or produced by Parent but sold
+to end-users as a product of the Company. Other than set forth in this definition of
+Attributable Sales, all revenue will be calculated in accordance with Canadian
+GAAP, consistent with Parent’s past practices.
+
+(4) “Audit Costs” shall mean the costs associated with the preparation
+of the audited consolidated balance sheets of the Company and its Subsidiaries as
+of January 31, 2009 and 2010 and the related consolidated statements of income,
+cash flow and retained earnings for the twelve (12) month periods then ended.
+
+(5) “Base Merger Consideration” shall mean Five Million Dollars
+($5,000,000).
+
+(6) “Bridge Loan Agreement” shall mean the Secured Promissory
+Note Purchase Agreement made as of February 17, 2010 by and among the
+Company and Parent, as amended.
+
+(7) “Buyout Consideration” shall mean a combination of (A) cash in
+an aggregate amount of Seven Million Dollars ($7,000,000) (the “Cash Buyout
+Amount”) and (B) a number of shares (the “Buyout Shares”) of validly issued,
+fully paid and non-assesssable shares of Parent Common Stock with an aggregate
+value of $1,500,000 (calculated with each share of Parent Common Stock valued
+at the Closing Price Per Share).
+
+(8) “Closing” shall mean the closing of the Merger.
+
+(9) “Closing Consideration Amount” shall equal the sum of (A) the
+Base Merger Consideration minus (B) the sum of (i) the Total Liabilities set forth
+in the Total Liabilities Statement minus (ii) all cash and cash equivalents of the
+Company as of immediately prior to the Effective Time.
+
+(10) “Closing Date” shall mean the date upon which the Closing
+actually occurs.
+49$4621_7.DOC
+
+(141) “Closing Shares” shall mean that number of shares of Parent
+Common: Stock with a value equal to the Closing Consideration Amount
+(calculated with each share of Parent Common Stock valued at the Closing Price
+Per Share).
+
+(12) “Closing Price Per Share” shall mean the volume-weighted
+average of the closing sales prices for Parent Common Stock, rounded ‘to the
+nearest one-hundredth of a cent, on the TSX for the five (5) most recent
+
+- consecutive trading days ending on (and including) the trading day immediately
+
+prior to the date hereof.
+
+(13) “Code” shall mean the Internal Revenue Code of 1986, as
+amended.
+
+(14) “Company Capital Stock” shall mean the Company Common
+Stock, the Company Series A Preferred Stock, the Company Series B Preferred
+Stock, the Company Series C Preferred Stock and any other shares of capital
+stock of the Company.
+
+(15) “Company Option” shall mean any issued and outstanding option
+to purchase or otherwise acquire shares of Company Capital Stock.
+
+(16) “Company Preferred Stock” shall mean the Company Series A
+Preferred Stock, the Company Series B Preferred Stock and the Company Series
+C Preferred Stock.
+
+(17) “Company Series A Preferred Stock” shall mean the Series A
+Convertible Preferred Stock, par value $0.001 per share, of the Company.
+
+(18) “Company Series B Preferred Stock” shall mean the Series B
+Convertible Preferred Stock, par value $0.001 per share, of the Company.
+
+(19) “Company Series C Preferred Stock” shall mean the: Series C
+Convertible Preferred Stock, par value $0.001 per share, of the Company.
+
+(20) “Company Stockholder” shall mean any holder of any Company
+Capital Stock immediately prior to the Effective Time.
+
+(21) “Company Warrant” shall mean any issued and outstanding
+warrant to purchase or otherwise acquire shares of Company Capital Stock.
+
+(22) “Disqualified Inventory” shall mean products sold but not yet
+produced by the Company or its Subsidiaries prior to the Closing and for which
+the Company has received payment prior to the Closing.
+
+(23) “Earn-Out Period” shail mean the period commencing on the
+Closing Date and ending at 11:59 p.m. California Time on the one (1) year
+anniversary of the Closing Date.
+4954621_7.DOC
+
+(24) ‘“Earn-Out Shares” shall mean that number of validly issued, fully
+paid and non-assessable shares of Parent Common Stock with an aggregate value
+equal to the Additional Purchase Price (calculated with each share of Parent
+Common Stock valued at the Closing Price Per Share); provided, however, that
+the number of Earn-Out Shares may be reduced in accordance with the Merger
+Agreement.
+
+(25) “Employee” shall mean any current or former employee,
+consultant, independent contractor, advisor or director of the Company or any
+ERISA Affiliate.
+
+- (26) “ERISA Affiliate” shall mean each Subsidiary of the Company
+and any other Person under common control with the Company or any Subsidiary
+of the Company, or that, together with the Company or any Subsidiary of the
+Company, could be deemed a “single employer” within the meaning of Sections
+414(b), (c), (m) or (0) of the Code, and the regulations issued hereunder.
+
+(27) “Escrow Shares” shall mean that number of shares of Parent
+Common Stock equal to the Closing Shares multiplied by twenty percent (20%).
+
+(28) “Excepted Liabilities” shall mean (i) Audit Costs, and (ii) any
+amounts outstanding under the Bridge Loan Agreement as of the Effective Time
+directly attributable to the purchase or production by the Company or any of its
+Subsidiaries of Qualified Inventory.
+
+(29) “Excess Commissions” shall mean with respect to the sale of any
+products commissions (which shall not include payments to manufacturers’
+representatives) in excess of 3% paid after the Closing pursuant to the terms of the
+Company commission plan as in effect prior to the Closing.
+
+(30) “Governmental Entity’ shall mean any government, any
+governmental, regulatory or quasi-governmental or self-regulatory entity or body,
+department, commission, board, agency or instrumentality, and any court, tribunal
+or judicial or arbitral body, in each case whether federal, state, county, provincial,
+and whether local or foreign.
+
+(31) “Indebtedness” shall mean (i) all indebtedness for borrowed money
+or for the deferred purchase price of property or services (other than current trade
+liabilities incurred in the ordinary course of business and payable in accordance
+with customary practices), (ii) any other indebtedness that is evidenced by a note,
+bond, debenture or similar instrument, (iii) all obligations under financing leases,
+(iv) all liabilities secured by ariy Lien on any property, (v) any penalties, fees or
+additional interest payable on any Indebtedness, (vi) any increase in Indebtedness
+resulting from the prepayment or repayment of any Indebtedness in connection
+with the Merger, the transactions contemplated by this Agreement or otherwise
+and (vii) all guarantees of the foregoing obligations of a third party.
+4954621_7.DOC
+
+(32) “Law” shall mean any statutes, rules, codes, regulations,
+restrictions, ordinances, orders, decrees, approvals, guidance, directives,
+judgments, injunctions, writs, awards and decrees of, issued by, adopted,
+promulgated, or put into effect by any Governmental Entity.
+
+(33) “Leased Real Property” shall mean all real property currently
+leased, subleased or licensed by or from the Company or any of its Subsidiaries or
+otherwise used or occupied by the Company or any of its Subsidiaries.
+
+(34) “Lien” shall mean any lien, pledge, charge, claim, mortgage,
+security interest, restriction or other encumbrance of any sort, other than
+Permitted Liens.
+
+(35) ‘Merger Consideration” shall mean the Closing Shares and the
+Earn-Out Shares.
+
+(36) “Parent Common Stock” shall mean the common shares of Parent,
+without par value.
+
+(37) “Permitted Liens” shall mean (a) statutory liens for Taxes accrued
+but not yet due and payable; (b) statutory liens in favor of carriers,
+warehousemen, mechanics and materialmen, to secure claims for labor, materials
+or supplies and other like liens arising or accrued as a matter of law in the
+ordinary course of business, provided that the obligations secured by such Liens
+are not delinquent; (c) statutory or common law Liens to secure landlords, lessors
+or renters under leases or rental agreements confined to the premises rented and
+Liens against the landlord’s or owner’s interest in any Leased Real Property that
+do not interfere with the lessee’s use of such Leased Real Property; (d) deposits or
+pledges made in connection with, or to secure payment of, workers’
+compensation, unemployment insurance, old age pension or other social security
+programs mandated under applicable Law; and (e) restrictions on transfer of
+securities imposed by applicable Law.
+
+(38) “Per Share Residual Amount” shall mean an amount equal to the
+quotient obtained by dividing (i) the sum of (A) the Closing Consideration
+Amount minus (B) the Aggregate Preferred Preference Amount, by (ii) the Total
+Outstanding Fully Diluted Shares, rounded to the nearest one-hundredth
+thousandth (0.00001) (with amounts 0.00005 and above rounded up).
+
+(39) “Pro Rata Portion” shall mean with respect to each Company
+Stockholder an amount equal to the quotient obtained by dividing (x) the portion
+of the Closing Consideration payable pursuant to Section 2.5(v) to such Company
+Stockholder in respect of shares of Company Capital Stock owned by such
+Company Stockholder as of immediately prior to the Effective Time by (y) the
+ageregate Closing Consideration payable pursuant to Section 2.5(v) to all
+Company Stockholders in respect of shares of Company Common Stock owned
+by such Company Stockholders as of immediately prior to the Effective Time.
+4954621_7.DOC
+
+(40) “Qualified Inventory” shall mean inventory other than Disqualified
+Inventory.
+
+(41) “Series A Preference Percentage” shall mean an amount equal to
+the quotient obtained by dividing (i) the sum of (A) the Closing Consideration
+Amount minus (B)the Series C/B Preferred Preference by (ii) the Closing
+Consideration Amount; provided that the Series A Preference Percentage will be
+deemed to equal one hundred percent (100%) if it would otherwise equal or
+exceed one hundred percent (100%).
+
+(42) “Series A Preferred Preference” shall mean that amount obtained
+by multiplying (x) the aggregate number of shares of Company Series A Preferred
+Stock issued and outstanding immediately prior to the Effective Time (after
+giving effect to any exercise of Company Warrants occurring immediately prior
+to the Effective Time), by (y)the Series A Preferred Preference Per Share,
+rounded to the nearest one hundredth (0.01) (with amounts 0.005 and above
+rounded up).
+
+(43) “Series A Preferred Preference Per Share” shall mean an amount
+per share of Company Series A Preferred Stock equal to 3.045, plus the per share
+amount of any declared and unpaid dividends payable in respect thereof.
+
+(44) ‘Series C/B Preference Percentage” shall mean an amount equal to
+the quotient obtained by dividing the (i) the Series C/B Preferred Preference by
+(ii) the Closing Consideration Amount provided that the Series C/B Preference
+Percentage will be deemed to equal one hundred percent (100%) if it would
+otherwise equal or exceed one hundred percent (100%).
+
+(45) “Series C/B Preferred Preference” shall mean the amount obtained
+by multiplying (x) the sum of (I) the aggregate number of shares of Company
+Series B Preferred Stock issued and outstanding immediately prior to the
+Effective Time (after giving effect to any exercise of Company Warrants
+occurring immediately prior to the Effective Time) and (II) the aggregate number
+of shares of Company Series C Preferred Stock issued and outstanding
+immediately prior to the Effective Time (after giving effect to any exercise of
+Company Warrants occurring immediately prior to the Effective Time), by (y) the
+Series C/B Preferred Preference Per Share.
+
+(46) “Series C/B Preferred Preference Per Share” shall mean an amount
+per share of Company Series B Preferred Stack equal to $3.045, plus the per share
+amount of any declared and unpaid dividends payable in respect thereto.
+
+(47) “Severance Obligation” shall mean any amounts payable by, or
+increased obligations of, the Company or any of its Subsidiaries to any Employee
+in connection with or on account of (A) any involuntary termination of such
+Employee’s employment by the Company or any of its Subsidiaries prior to the
+4954621_7.DOC
+
+Effective Time and (B) this Agreement, the Merger or the consummation of the
+
+' transactions contemplated hereby.
+
+(48) “Shortfall Amount” shall mean an number of shares of Parent
+Common Stock with a value equal to the difference between the amount of Total
+Liabilities used to calculate the Closing Consideration Amount and the actual
+amount Parent pays to settle the Total Liabilities of the Company and its
+Subsidiaries (calculated with each share of Parent Common Stock valued at the
+Closing Price Per Share).
+
+(49) “Subsidiary” shall mean any Person, whether or not existing on the
+date hereof, in which the Company or Parent, as the context requires, directly or
+indirectly through subsidiaries or otherwise, beneficially owns at least fifty
+percent (50%) of either the equity interest, or voting power of or in such Person.
+
+(50) “Third Party Expenses” shal! mean all fees and expenses incurred
+in connection with the Merger and the other transactions contemplated by this
+Agreement, including all accounting, consulting, financial advisory, investment
+banking, legal and all other fees and expenses of third parties incurred in
+connection with the negotiation and effectuation of the terms and conditions of
+this Agreement and the consummation of the transactions contemplated hereby,
+excluding, in the case of the Company, Audit Costs.
+
+(51) “Total Liabilities” shall mean the sum of (A) all Indebtedness of
+the Company and its Subsidiaries as of immediately prior to the Effective Time,
+(B) the aggregate amount of all unpaid Severance Obligations as of immediately
+prior to the Effective Time, (C) the amount of all unpaid Third Party Expenses
+incurred by or on behalf of the Company as of the Effective Time, and (D) the
+
+prior to the Effective Time (other than Excepted Liabilities). For the avoidance of
+
+doubt, “Indebtedness” shall include any amounts outstanding under the Bridge
+
+Loan Agreement as of the Effective Time other than any such amounts directly
+attributable to the purchase or production by the Company or any of its
+Subsidiaries of Qualified Inventory.
+
+(52) “Total Liabilities Statement” shall mean the Schedule to the
+Merger Agreement setting forth the Company’s estimate of the Total Liabilities of
+the Company and its Subsidiaries as of immediately prior to the Effective Time.
+
+(53) “Total Outstanding Fully Diluted Shares” shall mean the sum of
+(x) the aggregate number of shares of Company Common Stock issued and
+
+outstanding immediately prior to the Effective Time, and (y) the aggregate
+number of shares of Company Common Stock that are issuable upon full exercise, ©
+exchange or conversion of all Company Options, Company Warrants, Company
+Preferred Stock, convertible notes and any other nghts (whether vested or
+unvested) outstanding immediately prior to the Effective Time that are convertible
+into, exercisable for or exchangeable for, shares of Company Capital Stock,
+calculated on an as converted to Company Common Stock basis.
+
+(54) “TSX” shall mean the Toronto Stock Exchange.
+
+(ii) Merger Sub Common Stock. At the Effective Time, each share of
+Common Stock of Merger Sub that is issued and outstanding immediately prior to the
+Effective Time will be converted into and thereafter represent one validly issued, fully
+paid and non-assessable share of Common Stock of the Company as the Surviving
+Corporation, such that immediately following the Effective Time, Parent shall become
+the sole and exclusive owner of all of the issued and outstanding capital stock of the
+Company as the Surviving Corporation. Each stock certificate of Merger Sub shall
+thereupon evidence ownership of such shares of capital stock of the Company as the
+Surviving Corporation.
+
+(iii), Company-Owned Company Capital Stock. At the Effective Time,
+notwithstanding anything to the contrary in this Section 2.5, each share of Company
+
+Capital Stock that is held by the Company or any direct or indirect Subsidiary of the
+Company immediately prior to the Effective Time shall be canceled and extinguished
+without any consideration paid therefor or in respect thereof.
+
+(iv) Dissenting Shares. Notwithstanding anything to the contrary in this
+Section 2.5, Dissenting Shares (as defined in Section 2.6) shall be treated in accordance
+with terms of Section 2.6.
+
+(v) | Company Capital Stock Generally. Upon the terms and subject to the
+conditions set forth in this Agreement, the maximum aggregate consideration payable by
+Parent and Merger Sub in the Merger to holders of shares of Company Capital Stock
+shall be an amount of shares of Parent Common Stock equal to the Closing Shares and
+the Earn-Out Shares. At the Effective Time, by virtue of the Merger and without any
+action on the part of Parent, Merger Sub, the Company or the holders of any shares of
+Company Capital Stock, each share of Company Capital Stock that is issued and
+outstanding immediately prior to the Effective Time (other than (i) any shares of
+Company Capital Stock then held by the Company and (ii) any Dissenting Shares) shall
+be cancelled and extinguished and shall be converted automatically into the right to
+receive, upon the terms and subject to the conditions set forth in this Agreement, the
+following consideration (such consideration, the “Closing Consideration’):
+
+(a) Company Series A Preferred Stock. At the Effective Time, each
+share of Company Series A Preferred Stock issued and outstanding immediately
+prior to the Effective Time (other than Dissenting Shares) will be cancelled and
+extinguished and will be converted automatically into the right to receive, upon
+surrender of the certificate representing such shares of Company Series A
+Preferred Stock: (A) a number of shares of Parent Common Stock equal to the
+quotient obtained by dividing. (I) the product of the Series A Preference
+Percentage multiplied by the Series A Preference Per Share by (II) the Closing
+Price Per Share and (B) a number of shares of Parent Common Stock equal to the
+
+4984621_7.DOC 9
+quotient obtained by dividing (1) the Per Share Residual Amount by (ID the
+Closing Price Per Share.
+
+(b) Company Series B Preferred Stock and Series C Preferred Stock.
+At the Effective Time, each share of Company Series B Preferred Stock and
+
+Series C Preferred Stock issued and outstanding immediately prior to the
+Effective Time (other than Dissenting Shares) will be cancelled and extinguished
+and will be converted automatically into the right to receive, upon surrender of the
+certificate representing such shares of Company SeriesB Preferred Stock or
+Series C Preferred Stock, (A) a number of shares of Parent Common Stock equal
+to the quotient obtained by dividing (I) the product of the Series C/B Preference
+Percentage multiplied by the Series C/B Preference Per Share by (II) the Closing
+Price Per Share, and (B) a number of shares of Parent Common Stock equal to the
+quotient obtained by dividing (1) the Per Share Residual Amount by (II) the
+Closing Price Per Share.
+
+(c) Company Common Stock. At the Effective Time, each
+outstanding share of Company Common Stock issued and outstanding
+immediately prior to the Effective Time (other than Dissenting Shares) will be
+cancelled and extinguished and will be converted automatically into the right to
+receive, upon surrender of the certificate representing such shares of Company
+Common Stock, and a number of shares of Parent Common Stock equal to the
+quotient obtained by dividing (J) the Per Share Residual Amount by (IJ) the
+Closing Price Per Share.
+
+(vi) Treatment of Company Options. Each Company Option, whether vested
+
+or unvested, held by any Person as of immediately prior to the Effective Time will vest in
+full (to the extent unvested) as of immediately prior to the Effective Time and will
+terminate in its entirety at the Effective Time, and the holder of each such Company
+Option will be entitled to receive an amount (the “Option Cashout Amount’) equal to the
+product of the number of shares of Company Common Stock that is still issuable under
+such Company Option as of the Effective Time and the excess of (A) the Merger
+Consideration payable in respect of each share of Company Common Stock pursuant to
+Section 2.5(v)(c) less (B) the per share option exercise price.
+
+(vii) Treatment_of Company Warrants. The Company will take any actions
+necessary to cause the Company Warrants to be exercised and terminated prior to the
+Effective Time.
+
+(viii) Withholding of Taxes. Notwithstanding anything to the contrary set forth
+herein, the Company, Parent and the Surviving Corporation will be entitled to deduct and
+withhold from any Merger Consideration payable pursuant to this Agreement to any
+holder or former holder of Company Capital Stock, a Company Option or a Company
+Warrant such amounts as may be required to be deducted or withheld therefrom under
+any provision of U.S. federal, state, local or non-U.S. tax Law or under any applicable
+legal requirement. To the extent such amounts are so deducted or withheld and paid over
+
+495462_7.DOC 10
+to the appropriate Governmental Entity, such amounts will be treated for all purposes as
+having been paid to the person to whom such amounts would otherwise have been paid.
+
+(ix) Aggregation of Merger Consideration. For purposes of calculating the
+amount of Merger Consideration payable to each Company Stockholder pursuant to this
+
+Agreement, all shares of the Company Capital Stock held by each Company Stockholder
+will be aggregated on a certificate-by-certificate basis prior to such calculation. Subject
+to Section 2.5(xi), the aggregate number of shares of Parent Common Stock issuable and
+the amount of cash payable to each Company Stockholder in respect of all share
+certificates held by such Company Stockholder will be rounded down to the nearest
+whole number of shares of Parent Common Stock and the nearest whole cent,
+respectively.
+
+(x) Adjustments for Stock Splits, etc. If there is a stock split, reverse stock
+split, stock dividend (including any dividend or distribution of securities convertible into
+capital stock), reorganization, reclassification, combination, recapitalization or other like
+change with respect to shares of Company Capital Stock or Parent Common Stock |
+occurring after the date of this Agreement and before the Effective Time, all references in
+this Agreement to specified numbers of shares of any class or series affected thereby, and
+all calculations that are based upon numbers of shares of any class or series (or trading
+prices therefor) affected thereby, will be equitably adjusted to the extent necessary to
+provide the parties the same economic effect as contemplated by this Agreement prior to
+such stock split, reverse stock split, stock dividend, reorganization, reclassification,
+combination, recapitalization or other like change. .
+
+(xi) | Fractional Shares. No fraction of a share of Parent Common Stock will be
+issued in connection with the Merger, and in lieu thereof each holder of shares of
+Company Capital Stock who would otherwise be entitled to a fraction of a share of Parent
+
+’ Common Stock (after aggregating all fractional shares of Parent Common Stock to be
+received by such holder) will receive from Parent an amount of cash equal to such
+fraction of a share multiplied by the Closing Price Per Share.
+
+(xii) Securities Legends. All certificates representing one or more shares of
+Parent Common Stock deliverable to any Company Stockholder pursuant to this
+Agreement and in connection with the Merger and any certificates subsequently issued
+with respect thereto or in substitution therefor (including any shares issued or issuable in
+respect of any such shares upon any stock split, reverse stock split, stock dividend
+(including any dividend or distribution of securities convertible into capital stock),
+reorganization, reclassification, combination, recapitalization or other like change) will
+bear any legend required by applicable Laws, including any federal, state, local or foreign
+securities Laws.
+
+4954621_7.DOC il
+2.6 Dissenting Shares.
+
+(i) Notwithstanding any other provisions of this Agreement to the contrary,
+any shares of Company Capital Stock held by a Company Stockholder as of immediately
+prior to the Effective Time who has not effectively withdrawn or lost such Company
+Stockholder’s appraisal rights under California Law (any such shares, the “Dissenting
+Shares’’) shall not be converted into or represent a right to receive the applicable Merger
+Consideration for such Company Stockholder’s shares of Company Capital Stock set
+forth in this Agreement, but in lieu thereof, such Company Stockholder shall be entitled
+to such rights as are provided by California Law.
+
+(ii) | Notwithstanding the provisions of Section 2.6(i), if any holder of
+Dissenting Shares shall effectively withdraw or lose (through failure to perfect or
+otherwise) such holder’s appraisal rights under California law, then, as of the later of the
+Effective Time and the occurrence of such event, such holder’s shares shall automatically
+be converted into and represent only the right to receive the Merger Consideration for
+Company Capital Stock, as applicable, set forth in Section 2.5, without interest thereon,
+and upon surrender of the certificate representing such shares in accordance with the
+terms of this Agreement.
+
+(iii) | The Company shail give Parent (i) prompt notice of any written demand
+for appraisal or other payment received by the Company pursuant to the applicable
+provisions of California law, and (ii) the opportunity to participate in all negotiations and
+proceedings with respect to such demands. The Company shall not, except with the prior
+written consent of Parent (which shall not be unreasonably withheld, conditioned or
+delayed), make any payment with respect to any such demands or offer to settle or settle
+any such demands. Any communication to be made by the Company to any Company
+Stockholder with respect to such demands shall be submitted to Parent in advance and
+shall not be presented to any Company Stockholder prior to the Company receiving
+Parent’s consent, provided that such consent is not unreasonably withheld, conditioned or
+delayed.
+
+2.7 Escrow. -
+
+(i) As soon as practicable following the Effective Time, Parent will deposit
+with the Deutsche Bank National Trust Company (the “Escrow Agent’) a number of
+shares of Parent Common Stock equal to the Escrow Shares. Parent will be deemed to
+have contributed to the Escrow Agent, with respect to each Company Stockholder, each
+such Company Stockholder’s Pro Rata Portion of the Escrow Shares.
+
+(ii) | The execution and adoption of the Merger Agreement and the approval of
+the Merger by the Company shareholders shall constitute approval of the Escrow
+Agreement and of all of the arrangements relating thereto, including without limitation
+the placement of the Escrow Shares in escrow and the appointment of the Escrow Agent
+and AVM Capital, L.P., as stockholder representative (the “Stockholder
+Representative’).
+
+4954621_7.DOC 12
+(iii) The Escrow Shares and the Earn-Out Shares shall both serve as a source
+for indemnification claims under Article VIII of the Merger Agreement.
+
+2.8 Directors and Officers.
+
+(i) Directors. Unless otherwise determined by Parent prior to the Effective
+Time, the directors of Merger Sub immediately prior to the Effective Time shall be the
+directors of the Surviving Corporation from and after the Effective Time, each to hold the
+office of a director of the Surviving Corporation in accordance with the provisions of
+California Law and the certificate of incorporation and bylaws of the Surviving
+Corporation until their successors are duly elected and qualified.
+
+(ii) Officers. Unless otherwise determined by Parent prior to the Effective
+Time, the officers of Merger Sub immediately prior to the Effective Time shall be the
+officers of the Surviving Corporation from and after the Effective Time, each to hold
+office in accordance with the provisions of the bylaws of the Surviving Corporation.
+
+2.9 No Further Ownership Rights in Capital Stock. The Merger Consideration paid
+
+or payable in respect of the surrender for exchange of shares of Company Capital Stock in
+accordance with the terms of the Merger Agreement will be deemed to be full satisfaction of all
+rights pertaining to such shares of Company Capital Stock, and there will be no further
+registration of transfers on the records of the Surviving Corporation of shares of Company
+Capital Stock which were outstanding immediately prior to the Effective Time. If, after the
+Effective Time, Company Stock Certificates are presented to the Surviving Corporation for any
+~ reason, they shall be canceled and exchanged as provided in Article II of the Merger Agreement.
+
+ARTICLE Ili
+MISCELLANEOUS
+
+3.1 Termination by Mutual Agreement. Notwithstanding the approval of the Merger
+Agreement by the shareholders of Merger Sub and the Company, this Agreement may be
+terminated at any time prior to the Effective Time by mutual agreement of the Boards of
+Directors of Parent, Merger Sub and the Company.
+
+3.2 Termination of Merger Agreement. Prior to the Effective Time, notwithstanding
+the approval of the Merger Agreement by the shareholders of Merger Sub and the Company, this
+Agreement shall terminate forthwith in the event that the Merger Agreement shall be terminated
+as therein provided.
+
+3.3 Amendment. Prior to the Effective Time, this Agreement may be amended by the
+Parties at any time by execution of an instrument in writing signed on behalf of each of the
+Parties hereto.
+
+3.4 Counterparts. This Agreement may be executed in one or more counterparts, each
+of which shall be deemed an original, but all of which together shall constitute one agreement.
+
+3.5 Governing Law. This Agreement shall be governed in all respects, including
+validity, interpretation and effect by the laws of the State of California, without giving effect to
+
+4954621_7.DOC . 13
+any choice or conflict of law provision or mule (whether of the State of California or any other
+jurisdiction) that could cause the application of laws of any jurisdictions other than those of the
+State of California.
+
+3.6 Headings. The section headings contained in this Agreement are inserted for
+convenience only and shall not affect in any way the meaning or interpretation of this
+Agreement.
+
+3.7 Notices. All notices and other communications hereunder shall be in writing and
+shall be deemed given if delivered personally or by commercial messenger or courier service, or —
+mailed by registered or certified mail (return receipt requested) or sent via facsimile (with
+acknowledgment of complete transmission) to the parties at the following addresses (or at such
+other address for a party as shall be specified by like notice); provided, however, that notices sent
+by mail will not be deemed given until received:
+
+(i) If to Merger Sub, to:
+Blue Acquisition Corporation
+19473 Fraser Way
+Pitt Meadows, BC
+Canada
+
+- V3Y 2V4
+
+Attention: Doug Howes, CFO
+Facsimile No.: (604) 460-6005
+
+with a copy to:
+
+Wilson Sonsini Goodrich & Rosati, P.C.
+
+650 Page Mill Road
+
+Palo Alto, California 94304
+
+Attention: Michael J. Murphy, Esq.
+Robert T. Ishii, Esq.
+
+Facsimile No.: (650) 493-6811
+
+(ii)  Ifto the Company, to:
+Aperto Networks, Inc.
+598 Gibraltar Drive
+Milpitas, CA 95035
+Attention: Keith Corbin
+Facsimile No.: (408) 719-9970
+
+4954621_7.DOC 14
+with a copy to:
+
+‘Skadden, Arps, Slate, Meagher & Flom LLP
+525 University Avenue
+Palo Alto, CA 94301
+Attention: Leif B. King, Esq.
+Amr Razzak, Esq.
+Facsimile No.: (650) 470-4570
+
+3.8 Severability. In the event that any provision of this Agreement or the application
+thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or
+unenforceable, the remainder of this Agreement will continue in full force and effect and the
+application of such provision to other persons or circumstances will be interpreted so as
+reasonably to effect the intent of the parties hereto. The Parties further agree to replace such
+void or unenforceable provision of this Agreement with a valid and enforceable provision that
+will achieve, to the extent possible, the economic, business and other purposes of such void or
+unenforceable provision.
+
+3.9 Rules of Construction. The Parties hereto agree that they have been represented
+by counsel during the negotiation and execution of this Agreement and, therefor, waive the
+application of any law, regulation, holding or rule of construction providing that ambiguities in
+an agreement or other document will be construed against the Party drafting such agreement or
+document.
+
+[Remainder of page intentionally left blank]
+
+4954621 7.D0C 15
+EXHIBIT A
+
+AMENDED AND RESTATED
+ARTICLES OF INCORPORATION
+OF
+APERTO NETWORKS, INC.
+
+ARTICLE I
+The name of the Corporation is Aperto Networks, Inc.
+
+ARTICLE II
+
+The purpose of this Corporation is to engage in any lawful act or activity for which a
+corporation may be organized under the General Corporation Law of California other than the
+banking business, the trust company business or the practice of a profession permitted to be
+incorporated by the California Corporations Code.
+
+ARTICLE II .
+
+The Corporation is authorized to issue one class of stock to be designated as “Common
+Stock.” The total number of shares of Common Stock that the Corporation is authorized to issue
+is one thousand (1,000) shares, and each such share shall have a par value of one-tenth of one
+cent ($0.001). |
+
+ARTICLE IV
+[Reserved.]
+ARTICLE V
+
+In furtherance and not in limitation of the powers conferred by statute, and subject to the
+limitations set forth in Section 212 of the California Corporations Code, the board of directors of
+the Corporation is expressly authorized to make, repeal, alter, amend and rescind the bylaws of
+the Corporation.
+
+ARTICLE VI
+
+Meetings of shareholders may be held within or without the State of California, as the
+bylaws of the Corporation may provide.
+
+ARTICLE VII
+
+1. Limitation of Directors’ Liability. The liability of the directors of the Corporation
+for monetary damages shall be eliminated to the fullest extent permissible under California law.
+
+A-l
+2. Indemnification of Corporate Agents. The Corporation is authorized to indemnify
+the directors and officers of the Corporation to the fullest extent permissible under California
+
+law.
+
+3, Repeal or Modification. Any repeal or modification of the foregoing provisions
+of this Article VII by the shareholders of the Corporation shall not adversely affect any right or
+protection of a director of the Corporation existing at the time of such repeal or modification.
+{N WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed tye their
+duly authorized respective officers as of the date first written above.
+
+APERTO NETWORKS, INC
+
+Name: Brian Deutsch
+Title: President and Chief Executive Officer
+
+By: ; ee
+Name: Keith Corbin
+Title: Assistant Secretary
+
+BLUE ACQUISITION CORPORATION
+
+By:
+Name: James A. Tocher .
+Title: President, Chief Financial Officer and
+
+Secretary
+
+{Signature Page to Agreement of Merger]
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their
+duly authorized respective officers as of the date first written above.
+
+APERTO NETWORKS, INC
+
+By: _.
+Name: Brian Deutsch
+Title: President and Chief Executive Officer
+
+lame: Keith Corbin
+
+Title; Assistant Secretary
+
+BLUE ACQUISITION CORPORATION
+
+By:
+Name: James A. Tocher .
+Title: President, Chief Financial Officer and
+Secretary
+
+[Signature Page to Agreement of Merger]
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
+by their duly authorized respective officers as of the date first written above.
+
+APERTO NETWORKS, INC
+
+By:
+Name: Brian Deutsch
+Title: President and Chief Executive Officer
+
+By:
+Name: Keith Corbin
+Title: Assistant Secretary
+
+BLUE ACQUISITION CORPORATION
+
+Secretary
+OFFICERS’ CERTIFICATE OF APPROVAL OF MERGER
+
+The undersigned, Brian Deutsch and Keith Corbin hereby certify that:
+
+1. They are the President and Chief Executive Officer, and Assistant Secretary,
+respectively, of Aperto Networks, Inc., ¢ a California corporation (the “Company”.
+
+2. The Agreement of Merger to which this Certificate is attached (the “Merger
+Agreement’), providing for the merger (the “Merger’”) of Blue Acquisition Corporation, a
+California corporation, with and into the Company, was duly approved by the Board of Directors
+and shareholders of the Company. )
+
+3. As of April 16, 2010, the authorized capital stock of the Company consisted of
+84,000,000 shares of common stock, par value 0.001 per share (“Company Common Stock’),
+and 59,389,162 shares of preferred stock, par 0.001 value, 41,000,000 of which shares were
+designated as Series A Preferred Stock (the “Series A Preferred Stock”), 11,000,000 of which
+shares were designated as Series B Preferred Stock (the “Series B Preferred Stock’), and
+7,389,162 of which shares were designated as Series C Preferred Stock (the “Series C Preferred
+Stock’). The total number of shares of Company Capital Stock entitled to vote on the Merger
+Agreement was 8,314,607 shares of Company Common Stock, 16,003,471 shares of Series A
+Preferred Stock, 10,027,248 shares of Series B Preferred Stock, and 3,720,734 shares of Series
+C Preferred Stock. The votes of holders of (i) a majority of the shares of Company Common
+Stock, voting together as a single class, (11) a majority of the shares of Company Common Stock
+and Company Preferred Stock, voting together as a single class on an as-converted to Company
+Common Stock basis, and (iii) at least sixty percent (60%) of the shares of Company Preferred
+Stock voting together as a single class on an as-converted to Company Common Stock basis
+were required to approve the Merger and the principal terms of the Merger Agreement.
+
+4. The Merger and the principal terms of the Merger Agreement were approved by
+the shareholders of this Company by votes of the number of shares of each class or series and of
+all classes voting together as a single class which equaled or exceeded the vote required by each
+class and series: and all classes voting together as a single class to approve the Merger
+Agreement.
+
+[SIGNATURE PAGE TO FOLLOW]
+We further declare under penalty of perjury under the laws of the State of California that
+the matters set forth in this certificate are true and correct of our own knowledge.
+
+Date: Agri) Ie, 2010 | |
+
+Brian Deutsch
+President and Chief Executive Officer
+
+By:
+Keith Corbin
+Assistant Secretary
+
+[Signature Page to Officer’s Certificate of Approval of Merger]
+We further declare under penalty of perjury under the laws of the State of California that
+the matters set forth in this certificate are true and correct of our own knowledge.
+
+Date: Apvi\ {G , 2010
+
+By: _-
+
+Brian Deutsch
+President and Chief Executive Officer
+
+By: /\&
+Keith Corbin
+Assistant Secretary
+
+(Signature Page to Officer’s Certificate of Approval of Merger}
+OFFICER’S CERTIFICATE OF APPROVAL OF MERGER
+
+The undersigned, James A. Tocher does hereby certify that:
+
+5. He is the President and Secretary of Blue Acquisition Corporation, a California -
+corporation (“Merger Sub”).
+
+6. The Agreement of Merger to which this Certificate is attached (the “Merger
+Agreement’), providing for the merger (the “Merger”) of Merger Sub with and into [A], a
+California corporation, was duly approved by the Board of Directors and by the shareholders of
+Merger Sub.
+
+7. As of April 16, 2010, the authorized capital stock of Merger Sub consisted of
+1,000 shares of Common Stock, par value 0.001 per share (“Merger Sub Common Stock”). The
+total number of shares of Merger Sub Common Stock entitled to vote on the Merger Agreement
+was 1,000 shares of Merger Sub Common Stock. The votes of holders of a majority of the shares
+of Merger Sub Common Stock, voting together as a single class, were required to approve the
+Merger and the principal terms of the Merger Agreement.
+
+8. The Merger and the principal terms of the Merger Agreement were approved by
+the shareholders of Merger Sub by votes of the number of shares of each class or series and of all
+classes voting together as a single class which equaled or exceeded the vote required by each
+class and series and all classes voting together as a single class to approve the Merger
+
+Agreement.
+
+9. No vote of the stockholders of Tranzeo Wireless Technologies Inc., as the sole
+shareholder of Merger Sub, was required to approve the Merger Agreement or the Merger.
+
+[SIGNATURES PAGE TO FOLLOW}
+I further declare under penalty of perjury under the laws of the State of California that the
+matters set forth in this certificate are true and correct of my own kno C
+
+Date: Agci\ \e _, 2010
+

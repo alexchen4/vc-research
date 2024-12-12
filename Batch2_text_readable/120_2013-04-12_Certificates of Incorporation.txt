@@ -1,0 +1,110 @@
+EX-3.1B
+
+EX-3 3 filename3 htm
+Exhibit 3.1(B)
+
+CERTIFICATE OF AMENDMENT TO THE
+AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+OF
+ACHAOGEN, INC.
+
+Achaogen, Inc., a corporation organized and existing under and by virtue of the General Corporation Law of the State of Delaware (the
+“Corporation”), does hereby certify that:
+
+I. The name of the Corporation is Achaogen, Inc. The original Certificate of Incorporation of the Corporation, filed under the Corporation’s
+original name VVII NewCo 2003, Inc., was filed with the Secretary of State of the State of Delaware on November 26, 2002.
+
+II. The Corporation filed an Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware on
+March 5, 2013 (the “Certificate of Incorporation”).
+
+If. This amendment of the Certificate of Incorporation was duly adopted by this Corporation’s Board of Directors in accordance with the
+applicable provisions of Section 242 of the General Corporation Law of the State of Delaware, and the Corporation’s stockholders have given their
+written consent in accordance with Section 228 of the General Corporation Law of the State of Delaware.
+
+IV. ARTICLE V, Section 1(m) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“(m) “First Closing Conversion Portion” shall mean the number shares of Preferred Stock determined by multiplying the number of
+shares of each series of Preferred Stock held by such First Closing Non-Participating Investor as of 12:00 a.m. Pacific Daylight Time on
+May 2, 2013 by the quotient of (x) the result of (A) such investor’s Pro Rata Share minus (B) the aggregate dollar amount of shares either
+purchased by such First Closing Non-Participating Investor (by itself or through one or more of its Affiliates) in the First Closing or any
+Supplemental Closing or irrevocably committed to be purchased by such First Closing Non-Participating Investor (by itself or through one or
+more of its Affiliates) in the Second Closing, divided by (y) such investor’s Pro Rata Share.”
+
+V. ARTICLE V, Section 1(t) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“(t) “Pro Rata Share” shall be determined by multiplying $25,000,000.00 by the quotient of (x) the number of shares of Preferred
+Stock (other than Series D Preferred Stock) held by such holder as of 11:59 p.m. Pacific Daylight Time on May 1, 2013, on an as-converted-
+to-Common-Stock basis, divided by (y) the aggregate number of shares of Preferred Stock (other than Series D Preferred Stock) held by all
+stockholders (other than Excluded Holders) as of 11:59 p.m. Pacific Daylight Time on May 1, 2013, on an as-converted-to-Common-Stock
+basis.”
+
+VI. ARTICLE V, Section 1(v) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“(v) “Second Closing Conversion Portion” shall mean the number shares of Preferred Stock determined by multiplying the number of
+
+shares of each series of Preferred Stock (other than Series D Preferred Stock) held by such Second Closing Non-Participating Investor as of
+11:59 p.m. Pacific Daylight Time on May 1, 2013 by the quotient of (x) the result of (A) such investor’s Pro Rata Share minus (B) the
+aggregate dollar amount of shares purchased by such Second Closing Non-Participating Investor in the First Closing, any Supplemental
+Closing and the Second Closing, divided by (y) such investor’s Pro Rata Share.”
+
+VII. ARTICLE V, Section 4(c)(i) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“(i) In the event that a holder of Preferred Stock (other than an Excluded Holder) as of 12:00 a.m. Pacific Daylight Time on May 2,
+2013 (a “First Closing Obligee’’) has not, prior to May 2, 2013, by itself or through one or more of its Affiliates (subject to Section 4(c)(vii)
+below), purchased in the First Closing or a Supplemental Closing and, by execution of the Series D Purchase Agreement, irrevocably
+committed to purchase in the Second Closing (taken together with the First Closing and any Supplemental Closings, the “Mandatory
+Financing”), an aggregate amount in the Mandatory Financing at least equal to such holder’s Pro Rata Share, then the First Closing
+Conversion Portion of each series of Preferred Stock (other than Series D Preferred Stock) held by such holder (a “First Closing Non-
+Participating Investor”) shall automatically, and without further action on the part of such holder, be converted into Common Stock at ten
+(10) times the applicable Conversion Price of such series of Preferred Stock. The amount of principal and interest of any Bridge Note
+converted by a holder into Series D Preferred Stock at the First Closing shall be deemed to have been purchased by such holder for the
+purpose of the foregoing calculation. Upon conversion pursuant to this Section 4(c)(i), the shares of Preferred Stock so converted shall be
+cancelled and not subject to reissuance.”
+
+http://www.sec.gov/Archives/edgar/data/1301501/0000950123 13010387/filename3.htm[4/25/2014 9:18:37 AM]
+EX-3.1B
+
+VIII. ARTICLE V, Section 4(c)(ii) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“i) In the event that a holder or an Eligible Transferee commits in the Series D Preferred Stock Purchase Agreement to purchase
+Second Closing Shares in the Second Closing (a “Second Closing Obligee”) but does not, by itself or through one or more of its Affiliates
+(subject to Section 4(c)(vii) below), purchase at the Second Closing (if such occurs) at least the number of Second Closing Shares set forth
+opposite such Second Closing Obligee’s name in the column titled “Shares of Series D Preferred Stock Committed to Purchase in Second
+Closing” on Exhibit A-2 attached to the Series D Purchase Agreement, then (i) the Second Closing Conversion Portion of each series of
+Preferred Stock (other than Series D Preferred Stock) held by such Second Closing Obligee (a “Second Closing Non-Participating
+Investor”’) shall automatically, and without further action on the part of such holder, be converted into Common Stock at ten (10) times the
+applicable Conversion Price of such series of Preferred Stock, and (ii) the Series D Conversion Portion of the Series D Preferred Stock held
+by such Second Closing Non-Participating Investor and originally issued in the First Closing and any Supplemental Closing shall
+automatically, and without further action on the part of such holder, be converted into Common Stock at ten (10)
+
+times the Conversion Price of the Series D Preferred Stock. Upon conversion pursuant to this Section 4(c)(ii), the shares of Preferred Stock so
+converted shall be cancelled and not subject to reissuance. Shares of Preferred Stock that are held by a Second Closing Obligee as of 11:59
+p.m. Pacific Daylight Time on May 1, 2013, including any shares of Series D Preferred Stock purchased by such Second Closing Obligee in
+the First Closing or any Supplemental Closing, will remain subject to conversion under this provision through the date of the Second Closing,
+even if such shares are transferred to another holder prior to the Second Closing, and will be converted on the terms provided in the forgoing
+sentence as if such shares of Preferred Stock were still held by such Second Closing Obligee.”
+
+IX. ARTICLE V, Section 4(c)(iv) of the Certificate of Incorporation is hereby amended and restated in its entirety as follows:
+
+“(iv) The conversions that may occur pursuant to Sections 4(c)(i) shall be effective as of 12:00 a.m. Pacific Daylight Time on May 2,
+2013 and the conversions that may occur pursuant to Section 4(c)(ii) shall be effective immediately following the Second Closing, in each
+case, whether or not the certificates evidencing such shares are surrendered to the Corporation or its transfer agent, provided, however, that
+the Corporation shall not be obligated to issue certificates evidencing the shares of Common Stock issuable upon such conversions unless
+either the certificates evidencing such shares of Preferred Stock are delivered to the Corporation or its transfer agent, or the holder notifies the
+Corporation or its transfer agent that such certificates have been lost, stolen or destroyed and executes an agreement satisfactory to the
+Corporation to indemnify the Corporation from any loss incurred by it in connection with such certificates.”
+
+X. All other provisions of the Certificate of Incorporation shall remain in full force and effect.
+
+(Signature Page Follows)
+
+IN WITNESS WHEREOF, Achaogen, Inc. has caused this Certificate of Amendment to the Amended and Restated Certificate of
+
+Incorporation to be signed by its duly authorized officer on this 12th day of April, 2013.
+
+/s/ Kenneth J. Hillan
+
+Kenneth J. Hillan
+President & Chief Executive Officer
+
+http://www.sec.gov/Archives/edgar/data/1301501/0000950123 13010387/filename3.htm[4/25/2014 9:18:37 AM]

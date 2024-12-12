@@ -1,0 +1,210 @@
+State of Delaware
+_ Secre of State
+Division of Co rations
+Delivered 05:24 PM 06/11/2010
+FILED 05:21 PM 06/11/2010
+SRV 100651377 - 4173936 FILE
+
+CERTIFICATE OF AMENDMENT
+TO THE SECOND AMENDED AND RESTATED
+CERTIFICATE OF INCORPORATION OF
+AXOGEN CORPORATION
+
+Pursuant to Section 242 of the
+Delaware General Corporation Law
+
+AxoGen Corporation, a Delaware corporation (the “Corporation’), hereby
+certifies as follows:
+
+l. The Second Amended and Restated Certificate of Incorporation of the
+Corporation (“Second Amended Certificate’) was filed with the Secretary of State of Delaware
+on January 7, 2010.
+
+2. ARTICLE FOURTH, Section A of the Second Amended Certificate is hereby
+amended and restated in its entirety as follows:
+
+‘(A) Classes of Stock. The aggregate number of shares which the Corporation shall
+have the authority to issue is 236,408,891 shares, divided into 133,000,000 shares of Common
+Stock, par value $0.00001 per share (the “Common Stock’), and 103,408,891 shares of Preferred
+Stock (as defined below), 2,544,750 of which are designated Series A Convertible Preferred
+Stock, par value $0.00001 per share (the “Series A Preferred Stock’), 17,065,217 shares of
+which are designated Series B Convertible Preferred Stock, par valuc $0.00001 per share (the
+“Series B Preferred Stock’), 16,798,924 of which are designated Series C Convertible Preferred
+Stock, par value $0.00001 per share (the “Series C Preferred Stock’), and 67,000,000 of which
+are designated Serics D Convertible Preferred Stock, par value $0.00001 per share (the “Series D
+Preferred Stock’). As used in this ARTICLE FOURTH, the term ‘Preferred Stock” used
+without reference to the Series A Preferred Stock, the Series B Preferred Stock, the Series C
+Preferred Stock or the Series D Preferred Stock means the shares of Preferred Stock, without
+distinction as to series. The issuance price of the Series A Preferred Stock shall be $0.44 per
+share, the issuance price of the Series B Preferred Stock shall be $0.46 per share, the issuance
+price of the Series C Preferred Stock shall be $0.7345 per share and the issuance price of the
+Series D Preferred Stock shall be $0.1198 per share. The Board of Directors of the Corporation
+(the “Board’), except as otherwise provided in this Second Amended and Restated Certificate of
+Incorporation (the “Certificate”), is authorized to decrease the number of shares of any series
+subsequent to the issuance of shares of that series, but not below the number of shares of such
+series outstanding. In case the number of shares of any series shall be so decreased, the shares
+constituting such decrease shall resume the status which they had prior to the adoption of the
+resolution originally fixing the number of shares of such series.”
+
+3. A new Section 6A is added to ARTICLE FOURTH of the Second Amended
+Certificate as follows:
+
+“6A Special Debt Financing Mandatory Conversion.
+
+OB1649511 10.3
+6A.1 Tnggering Event. In the event that at the later of the Close-Out Date (as
+defined below) any holder of Series B Preferred Stock owning greater than five percent (5%) of
+the issued and outstanding Series B Preferred Stock as of the date hereof (such holder, a ‘Series
+B Holder’) or a holder of Series C Preferred Stock owning greater than five percent (5%) of the
+issued and outstanding Series C Preferred Stock as of the date hereof (such holder, a “Series C
+Holder’) does not hold Convertible Promissory Notes (as defined below) in an aggregate
+outstanding principal amount of its Participation Threshold Amount (as such term is defined in
+the Note and Warrant Purchase Agreement (as defined below)), respectively, then, on the Close-
+Out Date, all shares of the Series B Preferred Stock, the Series C Preferred Stock and the Series
+D Preferred Stock held by such Non-Participating Series B or Series C Investor (as such term is
+defined in the Note and Warrant Purchase Agreement) shall automatically, and without further
+action on the part of such holder, be converted into such number of shares of Common Stock as
+shall be equal to the quotient obtained by dividing (A) the aggregate number of issued and
+outstanding shares of each of the Series B Preferred Stock, the Series C Preferred Stock and the
+Series D Preferred Stock held by such Non-Participating Series B or Series C Investor by (B)
+five (5). Such conversion is referred to as a “Special Debt Financing Mandatory Conversion”.
+
+6A.2 Procedural Requirements. Upon a Special Debt Financing Mandatory
+Conversion, each holder of shares of Series B Preferred Stock, Series C Preferred Stock and
+Series D Preferred Stock converted pursuant to Subsection 6A.] shall surrender his, her or its
+certificate or certificates for all such shares (or, if such holder alleges that such certificate has
+been lost, stolen or destroyed, a lost certificate affidavit and agreement reasonably acceptable to
+the Corporation to indemnify the Corporation against any claim that may be made against the
+Corporation on account of the alleged loss, theft or destruction of such certificate) to the
+Corporation at the place designated in such notice, and shall thereafter receive certificates for the
+number of shares of Common Stock to which such holder is entitled pursuant to this Section 6A.
+All nghts with respect to the Series B Preferred Stock, Series C Preferred Stock and Series D
+Preferred Stock converted pursuant to Subsection 6A.1, including the rights, if any, to receive
+notices and vote (other than as a holder of Common Stock), will terminate, except for the rights
+of the holders thereof, upon surrender of their certificate or certificates therefor (or lost
+certificate affidavit and agreement), to receive the items provided for in the last sentence of this
+Subsection 6A.2. If so required by the Corporation, certificates surrendered for conversion shall
+be endorsed or accompanied by written instrument or instruments of transfer, in form satisfactory
+to the Corporation, duly executed by the registered holder or by his, her or its attomey duly
+authorized in writing. As soon as practicable after the Special Debt Financing Mandatory
+Conversion and the surrender of the certificate or certificates (or lost certificate affidavit and
+agreement) for Series B Preferred Stock, Series C Preferred Stock and Series D Preferred Stock
+so converted, the Corporation shall issue and dcliver to such holder, or to his, her or its
+nominees, a certificate or certificates for the number of full shares of Common Stock issuable on
+such conversion in accordance with the provisions hereof, together with cash as provided in
+Subsection 5.2 in lieu of any fraction of a share of Common Stock otherwise issuable upon such
+conversion and the payment of any declared but unpaid dividends (but not any undeclared
+accruing dividends) on the shares of Series B Preferred Stock, Series C Preferred Stock and
+Series D Preferred Stock converted.
+
+6A.3 Effect of Special Debt Financing Mandatory Conversion. All shares of
+Series B Preferred Stock, Series C Preferred Stock and Series D Preferred Stock subject to the
+
+0B 1649511103
+Special Debt Financing Mandatory Conversion shall, from and after the time of the Special Debt
+Financing Mandatory Conversion, no longer be deemed to be outstanding and, notwithstanding
+the failure of the holder or holders thereof to surrender the certificates for such shares on or prior
+to such time, all rights with respect to such shares shall immediately cease and terminate at the
+time of the Special Debt Financing Mandatory Conversion, except for the right of the holders
+thereof to receive shares of Common Stock in exchange therefor and to receive payment of any
+dividends declared but unpaid thereon (but not any undeclared accruing dividends). Such
+converted Series B Preferred Stock, Series C Preferred Stock and Series D Preferred Stock shall
+be retired and cancelled and may not be reissued as shares of such series, and the Corporation
+may thereafter take such appropriate action (without the need for stockholder action) as may be
+necessary to reduce the authorized number of shares of Series B Preferred Stock, Series C
+Preferred Stock and Series D Preferred Stock accordingly.
+
+6A.4_ Definitions.
+
+(a) “Close-Out Date” shall mean the later of the Rights Offcring
+Closing Date and the Second Closing Date.
+
+(b) “Convertible Promissory Notes” shall mean those certain
+convertible promissory notes issued pursuant to the Convertible Promissory Note and Warrant
+Purchase Agreement, dated as June 11, 2010 (collectively, the “Note and Warrant Purchase
+Agreement”), in each case, between the Corporation and certain purchasers party thereto. The
+Secretary of the Corporation will make a copy of the Note and Warrant Purchase Agreement
+available upon the request of a stockholder.
+
+(c) ‘Rights Offering Closing Date” shall mean the closing date of the
+issuance and sale of Convertible Promissory Notes at the Rights Offering Closing (as such term
+is defined in the Note and Warrant Purchase Agreement).
+
+(d) “Second Closing Date” shall mean the closing date of the issuance
+and sale of Convertible Promissory Notes at Second Closing Date (as such term is defined in the
+Note and Warrant Purchase Agreement).””
+
+4, Subsection 7.2.1 of ARTICLE FOURTH is hereby amended and restated in its
+enurety as follows:
+
+7.2.1. Investor Director. The holders of a majority of the outstanding Common Stock
+and Preferred Stock (based upon an assumed conversion of the outstanding Series A Preferred
+Stock, the outstanding Series B Stock, the outstanding Series C Stock, and the outstanding Series
+D Stock into Common Stock), voting together as a single class, shall have the right to elect one
+(1) director to the Board.”
+
+5. Subsection 7.2.2 of ARTICLE FOURTH is hereby amended and restated in its
+entirety as follows:
+
+“7.2.2 Series B, C and D Preferred Stock. The holders of a majority of the Series B, C
+and D Preferred Stock, voting together as a single class, shall have the right to elect two (2)
+directors to the Board (the ‘Series B/C/D Directors’).
+
+DB1s649511 40.3
+6. Subsection 5.4.1(g) of ARTICLE FOURTH is hereby amended and restated in
+its entirety as follows:
+
+“(g) The following issuances of Common Stock or Common Stock Equivalents shall not
+require adjustment of the Conversion Price under this Section 5.4: (1) any dividend or
+distribution on the Series D Preferred Stock, Series C Preferred Stock or Series B Preferred
+Stock; (2) any conversion of shares of Preferred Stock; (3) any stock for which adjustment of the
+Conversion Price is made pursuant to Sections 5.5, 5.6, 5.7 or 5.8 of this ARTICLE FOURTH
+Section (B) below; (4) securities offered by the Corporation to the public in a Qualified Public
+Offering (as defined in Section 6 of this ARTICLE FOURTH Section (B) below); (5) securities
+issued pursuant to an acquisition of another corporation by merger, consolidation, amalgamation,
+exchange of shares, the purchase of assets or otherwise, which has been approved by the Board,
+including the approval of all of the Series B/C/D Directors; (6) any securities issued to or to be
+issued to executive officers, consultants or service providers in lieu of cash compensation, if
+approved in advance by the Board, including the approval of all of the Series B/C/D Directors;
+(7) any securities issued or securities issuable upon the exercise or conversion of such securities
+to employees, consultants, directors of the Company pursuant to stock purchase, stock option
+plans or other agreement approved by the Board prior to the date hereof or approved by holders
+of 60% of the Series B Stock, Series C Stock and Series D Stock, voting together as a single
+class, hereafter in the case of amendments to any such plan or any new plan; (8) securities issued
+or securities issuable upon the exercise or conversion of such securities pursuant to any
+equipment loan or leasing arrangement, real property leasing arrangement or debt financing from
+a bank or similar financial institution approved by the Board, including the approval of all of the
+Senes B/C/D Directors; (9) up to 500,000 shares of Common Stock issued in accordance with
+the terms of that certain Amended and Restated Standard Exclusive License Agreement with the
+University of Florida Research Foundation, Inc., dated February 21, 2006; (10) the Series D
+Stock and Series D Warrants issued pursuant to that certain Series D Convertible Preferred Stock
+and Warrant Purchase Agreement by and among AxoGen and the Series D Investors, dated on or
+about January 7, 2010 (1!) the conversion, exercise or exchange of Common Stock Equivalents
+outstanding on the Filing Date; and (12) shares issued with respect to which the holders of not
+less than sixty percent (60%) of the Scries B Preferred Stock, Series C Preferred Stock and
+Series D Preferred Stock, voting together as a single class, waive their rights pursuant to this
+Section 5 of this ARTICLE FOURTH Section (B); provided, however, that the number of shares
+set forth in subsection (6) or (9) may be increased by the Board, which shall include the approval
+of all of the Series B/C/D Directors.”
+
+7. This Certificate of Amendment to the Second Amended and Restated Certificate
+of Incorporation of the Corporation has been approved in accordance with Sections 141, 228 and
+242 of the General Corporation Law of the State of Delaware.
+
+{REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+DB163951110.3
+
+IN WITNESS WHEREOF, the Corporation has caused this Certificate of Amendment to
+the Second Amended and Restated Certificate of Incorporation to be executed by its duly
+authorized officer as of June |1, 2010.
+
+AXOGEN CORPORATION
+
+By:
+Name:
+Title: Chief
+
+DB 1/64951110.3
+
+ee

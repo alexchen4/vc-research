@@ -1,0 +1,491 @@
+FIRST CERTIFICATE OF AMENDMENT TO THE
+AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+OF AUTOMATTIC INC.
+
+(Pursuant to Section 242 of the General
+Corporation Law of the State of Delaware)
+
+Automattic Inc., a corporation organized and existing under and by virtue of the
+provisions of the General Corporation Law of the State of Delaware (the “General Corporation
+
+DOES HEREBY CERTIFY:
+
+FIRST: That the name of this corporation is Automattic Inc. and that this
+corporation was originally incorporated pursuant to the General Corporation Law on March 28,
+2005 under the name Automattic Inc.
+
+SECOND: That the Board of Directors of the Corporation duly adopted
+resolutions setting forth a proposed amendments to the Amended and Restated Certificate of
+Incorporation of the Corporation (the “Restated Certificate”), declaring said amendments to be
+advisable and in the best interests of the Corporation and its stockholders and authorizing the
+appropriate officers of the Corporation to solicit the consent of the stockholders therefor, which
+resolution setting forth the proposed amendment is substantially as follows:
+
+RESOLVED, that Article IV of the Restated Certificate be deleted and replaced in
+full with the following:
+
+“The total number of shares of stock that the corporation shall have
+authority to issue is 122,077,814 consisting of 94,000,000 shares of Common
+Stock, $0.0001 par value per share (the “Common Stock”), 4,500,000 shares of
+A12 Common Stock, $0.0001 par value per share (the “A12 Stock”), 7,344,463
+shares of Nonvoting Common Stock, $0.0001 par value per share (the “Nonvoting
+Common Stock”) and 16,233,351 shares of Preferred Stock, $0.0001 par value
+per share (the “Preferred Stock”). The first series of A1l2 Stock shall be
+designated as “Series A12-0 Stock” and shall consist of 103,961 shares. The
+second series of Al2 Stock shall be designated as “Series A12-1 Stock” and shall
+consist of 39,553 shares. The third series of Al2 Stock shall be designated as
+“Series A12-2 Stock” and shall consist of 34,477 shares. The fourth series of Al2
+Stock shall be designated as “Series A12-3 Stock” and shall consist of 49,904
+shares. The fifth series of Al2 Stock shall be designated as “Series A12-4 Stock”
+and shall consist of 57,411 shares. The sixth series of Al2 Stock shall be
+designated as “Series A1l2-5 Stock” and shall consist of 67,397 shares. The
+seventh series of Al2 Stock shall be designated as “Series A12-6 Stock” and shall
+consist of 500,000 shares. The eighth series of Al2 Stock shall be designated as
+“Series Al2-7 Stock” and shall consist of 500,000 shares. The ninth series of A12
+Stock shall be designated as “Series A1l2-8 Stock” and shall consist of 500,000
+
+State of Delaware
+Secretary of State
+Division of Corporations
+GDSVF&H\4699066.6 Delivered 06:38 PM 12/10/2019
+
+FILED 06:38 PM 12/10/2019
+SR 20198554993 - FileNumber 3946446
+shares. The tenth series of Al2 Stock shall be designated as “Series A12-9 Stock”
+and shall consist of 500,000 shares. The eleventh series of Al2 Stock shall be
+designated as “Series A12-10 Stock” and shall consist of 500,000 shares. The
+twelfth series of Al2 Stock shall be designated as “Series A12-11 Stock” and
+shall consist of 500,000 shares. The thirteenth series of A12 Stock shall be
+designated as “Series A1l2-12 Stock” and shall consist of 500,000 shares. The
+fourteenth series of Al2 Stock shall be designated as “Series A12-13 Stock” and
+shall consist of 500,000 shares. The fifteenth series of Al2 Stock shall be
+designated as “Series A12-14 Stock” and shall consist of 147,297 shares. The first
+series of Preferred Stock shall be designated as “Series C Preferred Stock” and
+shall consist of 8,888,888 shares, The second series of Preferred Stock shall be
+designated as “Series D Preferred Stock” and shall consist of 7,344,463 shares.”
+
+RESOLVED, that Section 4 of Article V of the Restated Certificate be deleted
+and replaced in full with the following:
+
+“4. Conversion. The holders of the Preferred Stock and Nonvoting Common
+Stock shall have conversion rights as follows:
+
+(a) Right to Convert.
+
+(i) Each share of Preferred Stock shall be convertible, at the option of
+the holder thereof, at any time after the date of issuance of such share at the office of the
+Corporation or any transfer agent for the Preferred Stock, into that number of fully-paid,
+nonassessable shares of Common Stock determined by dividing the Original Issue Price for the
+relevant Series by the Conversion Price for such series. In addition, each share of Series D
+Preferred Stock shall be convertible, at the option of the holder thereof, at any time after the date
+of issuance of such share at the office of the Corporation or any transfer agent for the Series D
+Preferred Stock, into that number of fully-paid, nonassessable shares of Nonvoting Common
+Stock determined by dividing the Original Issue Price by the Conversion Price of the Series D
+Preferred Stock. The number of shares of Common Stock or Nonvoting Common Stock, as
+applicable, into which each share of a Series of Preferred Stock may be converted is hereinafter
+referred to as the “Conversion Rate” for each such Series. Upon any decrease or increase in the
+Conversion Price for any Series of Preferred Stock, as described in this Section 4, the
+Conversion Rate for such Series shall be appropriately increased or decreased.
+
+(ii) Each share of Nonvoting Common Stock shall be convertible, at
+the option of the holder thereof, at any time after the date of issuance of such share at the office
+of the Corporation or any transfer agent for the Nonvoting Common Stock, into one fully-paid,
+nonassessable share of Common Stock.
+
+(b) Automatic Conversion. Each share of Series C Preferred Stock shall
+automatically be converted into fully-paid, non-assessable shares of Common Stock and each
+share of Series D Preferred Stock shall automatically be converted into fully-paid, non-
+assessable shares of Nonvoting Common Stock, in each case at the then effective Conversion
+Rate for such share (i) immediately prior to the closing of a firm commitment underwritten initial
+public offering pursuant to an effective registration statement filed under the Securities Act of
+
+GDS VF&H\4699066,6 2
+1933, as amended (the “Securities Act”), covering the offer and sale of the Common Stock,
+provided that the aggregate gross offering proceeds to the Corporation are not less than
+$300,000,000, or (ii) (A) with respect to the Series C Preferred Stock, upon the receipt by the
+Corporation of a written request for such conversion from the holders of at least fifty-one percent
+(51%) of the Series C Preferred Stock then outstanding (voting as a single class and on an as-
+converted to Common Stock basis), or, if later, the effective date for conversion specified in such
+requests, or (B) with respect to the Series D Preferred Stock, upon the receipt by the Corporation
+of a written request for such conversion from the holders of at least fifty-one percent (51%) of
+the Series D Preferred Stock then outstanding (voting as a single class and on an as-converted to
+Common Stock basis), or, if later, the effective date for conversion specified in such requests
+(each of the events referred to in (i) and (ii) are referred to herein as an “Automatic Conversion
+Event”); provided, however, prior to an Automatic Conversion Event, upon the receipt by the
+Corporation of a written request from a holder of Series D Preferred Stock, all or any portion (as
+specified in such written request) of the then outstanding shares of Series D Preferred Stock held
+by such holder may instead convert into that number of fully-paid, nonassessable shares of
+Common Stock.
+
+(c) Mechanics of Conversion. No fractional shares of Common Stock or
+Nonvoting Common Stock, as applicable, shall be issued upon conversion of Preferred Stock. In
+lieu of any fractional shares to which the holder would otherwise be entitled, the Corporation
+shall pay cash equal to such fraction multiplied by the then fair market value of a share of
+Common Stock or Nonvoting Common Stock, as applicable, as determined by the Board of
+Directors. For such purpose, all shares of Preferred Stock held by each holder of Preferred Stock
+shall be aggregated, and any resulting fractional share of Common Stock and/or Nonvoting
+Common Stock, as applicable, shall be paid in cash. Before any holder of Preferred Stock shall
+be entitled to convert the same into full shares of Common Stock and/or Nonvoting Common
+Stock, as applicable,, and to receive certificates therefor, he shall either (A) surrender the
+certificate or certificates therefor, duly endorsed, at the office of the Corporation or of any
+transfer agent for the Preferred Stock or (B) notify the Corporation or its transfer agent that such
+certificates have been lost, stolen or destroyed and execute an agreement satisfactory to the
+Corporation to indemnify the Corporation from any loss incurred by it in connection with such
+certificates, and shall give written notice to the Corporation at such office that be elects to
+convert the same; provided, however, that on the date of an Automatic Conversion Event, the
+outstanding shares of Preferred Stock shall be converted automatically without any further action
+by the holders of such shares and whether or not the certificates representing such shares are
+surrendered to the Corporation or its transfer agent; provided further, however, that the
+Corporation shall not be obligated to issue certificates evidencing the shares of Common Stock
+or Nonvoting Common Stock, as applicable, issuable upon such Automatic Conversion Event
+unless either the certificates evidencing such shares of Preferred Stock are delivered to the
+Corporation or its transfer agent as provided above, or the holder notifies the Corporation or its
+transfer agent that such certificates have been lost, stolen or destroyed and executes an
+agreement satisfactory to the Corporation to indemnify the Corporation from any loss incurred
+by it in connection with such certificates. On the date of the occurrence of an Automatic
+Conversion Event, each holder of record of shares of Preferred Stock shall be deemed to be the
+holder of record of the Common Stock or Nonvoting Common Stock, as applicable, issuable
+upon such conversion, notwithstanding that the certificates representing such shares of Preferred
+Stock shall not have been surrendered at the office of the Corporation, that notice from the
+
+GDS VF&H\4699066,6 3
+Corporation shall not have been received by any holder of record of shares of Preferred Stock, or
+that the certificates evidencing such shares of Common Stock or Nonvoting Common Stock shall
+not then be actually delivered to such holder.
+
+The Corporation shall, as soon as practicable after such delivery, or after such
+agreement and indemnification, issue and deliver at such office to such holder of Preferred
+Stock, a certificate or certificates for the number of shares of Common Stock and/or Nonvoting
+Common Stock to which such holder shall be entitled as aforesaid and a check payable to such
+holder in the amount of any cash amounts payable as the result of a conversion into fractional
+shares of Common Stock and/or Nonvoting Common Stock, plus any declared and unpaid
+dividends on the converted Preferred Stock. Such conversion shall be deemed to have been
+made immediately prior to the close of business on the date of such surrender of the shares of
+Preferred Stock to be converted, and the person or persons entitled to receive the shares of
+Common Stock and/or Nonvoting Common Stock issuable upon such conversion shall be treated
+for all purposes as the record holder or holders of such shares of Common Stock and/or
+Nonvoting Common Stock, respectively, on such date; provided, however, that if the conversion
+is in connection with an underwritten offer of securities registered pursuant to the Securities Act
+or a merger, sale, financing, or liquidation of the Corporation or ether event, the conversion may,
+at the option of any holder tendering Preferred Stock for conversion, be conditioned upon the
+closing of such transaction or upon the occurrence of such event, in which case the person(s)
+entitled to recetve the Common Stock and/or Nonvoting Common Stock, issuable upon such
+conversion of the Preferred Stock shall not be deemed to have converted such Preferred Stock
+until immediately prior to the closing of such transaction or the occurrence of such event.
+
+(d) Adjustments to Conversion Price for Diluting Issues.
+
+(i) Special Definition. For purposes of this paragraph 4(d),
+“Additional Shares of Common” shall mean all shares of Common Stock issued (or, pursuant to
+paragraph 4(d)(iii), deemed to be issued) by the Corporation after the filing of this Amended and
+Restated Certificate of Incorporation, other than the issuances or deemed issuances (such
+issuances or deemed issuances, “Excluded Securities”) of:
+
+(1) shares of Common Stock and options, warrants or other
+rights to purchase Common Stock issued to employees, officers or directors of, or consultant or
+advisors to the Corporation or any subsidiary pursuant to restricted stock purchase agreements,
+stock option plans or similar arrangements;
+
+(2) shares of Common Stock issued upon the exercise or
+conversion of Options or Convertible Securities outstanding as of the date of the filing of this
+Amended and Restated Certificate of Incorporation or upon the exercise or conversion of
+Options or Convertible Securities counted against the limits set forth in subparagraph 4(d)(i)(1)
+above;
+
+(3) shares of Common Stock issued or issuable as a dividend or
+distribution on Preferred Stock or pursuant to any event for which adjustment is made pursuant
+to paragraph 4(e), 4(f) or 4(g) hereof;
+
+GDS VF&H\4699066,6 4
+(4) shares of Common Stock issued in a registered public
+offering under the Securities Act;
+
+(5) shares of Common Stock issued in connection with a bona
+fide business acquisition by this corporation, whether by merger, consolidation, sale of assets,
+sale or exchange of stock or otherwise, provided, that such issuances are approved by the Board
+of Directors;
+
+(6) shares of Common Stock issued or issuable to banks,
+equipment lessors or other financial institutions pursuant to a debt financing or commercial
+leasing transaction approved by the Board of Directors;
+
+(7) shares of Common Stock issued or issuable in connection
+with sponsored research, collaboration, technology license, development, OEM, marketing or
+other similar agreements or strategic partnerships approved by the Board of Directors;
+
+(8) shares of Common Stock issued or issuable to suppliers or
+third party service providers in connection with the provision of goods or services pursuant to
+transactions approved by the Board of Directors; and
+
+(9) shares of Common Stock issued or issuable in connection
+with a transaction not contemplated by subsections (5) — (8) above, including, without limitation
+in connection with a bona fide financing transaction; provided that the Corporation repurchases
+or cancels an equal or greater number of shares of capital stock of the Corporation (other than
+A12 Stock) and/or options to purchase capital stock of the Corporation within ninety (90) days of
+such issuance of Common Stock in such transaction (all such repurchased capital stock and/or
+cancelled options to purchase capital stock the “Redeemed Shares and Options”); and provided
+further that the gross price per share paid by the Corporation in connection with any such
+Redeemed Shares and Options is equal to or less than the gross price per share received by the
+Corporation in connection with the corresponding financing transaction.
+
+(ii) No Adjustment of Conversion Price; Tolling. No adjustment in the
+Conversion Price of a particular Series of Preferred Stock shall be made in respect of the
+issuance of Additional Shares of Common unless the consideration per share (as determined
+pursuant to paragraph 4(d)(v)) for an Additional Share of Common issued or deemed to be
+issued by the Corporation is less than the Conversion Price in effect on the date of, and
+immediately prior to, such issue, for such Series of Preferred Stock. In addition, notwithstanding
+anything to the contrary set forth herein, in the event of an issuance or deemed issuance of shares
+of Common Stock by the Corporation pursuant to paragraph 4(d)(i)(9), which will be followed
+by a repurchase and/or cancellation of Redeemed Shares and Options, no adjustment in the
+Conversion Price of any series of Preferred Stock shall be made until the ninetieth (90") day
+following such issuance of shares of Common Stock (the “Repurchase Tolling Date”). On the
+Repurchase Tolling Date, the Corporation will determine the number of Redeemed Shares and
+Options that have been repurchased and/or cancelled by the Corporation. If the number of
+Redeemed Shares and Options repurchased and/or cancelled by the Corporation within the ninety
+(90) days following the issuance or deemed issuance of shares of shares of Common Stock by
+the Corporation pursuant to paragraph 4(d)(i)(9) is equal to or greater than the number of shares
+
+GDS VF&H\4699066,6 5
+of shares of Common Stock issued in connection with such transaction, no adjustment shall be
+made to the Conversion Price of any series of Preferred Stock pursuant to this Section 4,
+provided, however, that if the number of Redeemed Shares and Options repurchased and/or
+cancelled by the Corporation within the ninety (90) days following the issuance or deemed
+issuance of shares of Common Stock by the Corporation pursuant to paragraph 4(d)(i)(9) is less
+than the number of shares of Common Stock issued in connection with such transaction, the
+positive difference between (x) the number of shares of Common Stock issued or deemed issued
+pursuant to paragraph 4(d)(i)(9) and (y) the number of Redeemed Shares and Options actually
+repurchased and/or cancelled prior to the Repurchase Tolling Date (the “Repurchase Shortfall
+Shares”) shall be deemed Additional Shares of Common for the purposes of this Section 4 and
+each series of Preferred Stock shall be entitled to any applicable Conversion Price adjustment
+pursuant to Section 4(d)({iv) related to the issuance or deemed issuance of the Repurchase
+Shortfall Shares (unless such adjustment is otherwise waived pursuant to Section 4(i)).
+
+(iii) Deemed Issue of Additional Shares of Common. In the event the
+Corporation at any time or from time to time after the date of the filing of this Amended and
+Restated Certificate of Incorporation shall issue any Options or Convertible Securities or shall
+fix a record date for the determination of holders of any class of securities entitled to receive any
+such Options or Convertible Securities, then the maximum number of shares (as set forth in the
+instrument relating thereto without regard to any provisions contained therein for a subsequent
+adjustment of such number) of Common Stock issuable upon the exercise of such Options or, in
+the case of Convertible Securities, the conversion or exchange of such Convertible Securities or,
+in the case of Options for Convertible Securities, the exercise of such Options and the conversion
+or exchange of the underlying securities, shall be deemed to have been issued as of the time of
+such issue or, in case such a record date shall have been fixed, as of the close of business on such
+record date, provided that in any such case in which shares are deemed to be issued:
+
+(1) no further adjustment in the Conversion Price of any Series
+of Preferred Stock shall be made upon the subsequent issue of Convertible Securities or shares of
+Common Stock in connection with the exercise of such Options or conversion or exchange of
+such Convertible Securities;
+
+(2) if such Options or Convertible Securities by their terms
+provide, with the passage of time or otherwise, for any change in the consideration payable to the
+Corporation or in the number of shares of Common Stock issuable upon the exercise, conversion
+or exchange thereof (other than a change pursuant to the anti-dilution provisions of such Options
+or Convertible Securities such as this Section 4(d) or pursuant to Recapitalization provisions of
+such Options or Convertible Securities such as Sections 4(e), 4(f) and 4(g) hereof), the
+Conversion Price of each Series of Preferred Stock and any subsequent adjustments based
+thereon shall be recomputed to reflect such change as if such change had been in effect as of the
+original issue thereof (or upon the occurrence of the record date with respect thereto);
+
+(3) no readjustment pursuant to clause (2) above shall have the
+effect of increasing the Conversion Price of a Series of Preferred Stock to an amount above the
+Conversion Price that would have resulted from any other issuances of Additional Shares of
+Common and any other adjustments provided for herein between the original adjustment date
+and such readjustment date;
+
+GDS VF&H\4699066,6 6
+(4) upon the expiration of any such Options or any rights of
+conversion or exchange under such Convertible Securities which shall not have been exercised,
+the Conversion Price of each Series of Preferred Stock computed upon the original issue thereof
+(or upon the occurrence of a record date with respect thereto) and any subsequent adjustments
+based thereon shall, upon such expiration, be recomputed as if:
+
+(a) in the case of Convertible Securities or Options for
+Common Stock, the only Additional Shares of Common issued were the shares of Common
+Stock, if any, actually issued upon the exercise of such Options or the conversion or exchange of
+such Convertible Securities and the consideration received therefor was the consideration
+actually received by the Corporation for the issue of such exercised Options plus the
+consideration actually received by the Corporation upon such exercise or for the issue of all such
+Convertible Securities which were actually converted or exchanged, plus the additional
+consideration, if any, actually received by the Corporation upon such conversion or exchange,
+and
+
+(b) in the case of Options for Convertible Securities,
+only the Convertible Securities, if any, actually issued upon the exercise thereof were issued at
+the time of issue of such Options, and the consideration received by the Corporation for the
+Additional Shares of Common deemed to have been then issued was the consideration actually
+received by the Corporation for the issue of such exercised Options, plus the consideration
+deemed to have been received by the Corporation (determined pursuant to Section 4(d)(v)) upon
+the issue of the Convertible Securities with respect to which such Options were actually
+exercised; and
+
+(5) if such record date shall have been fixed and such Options
+or Convertible Securities are not issued on the date fixed therefor, the adjustment previously
+made in the Conversion Price which became effective on such record date shall be canceled as of
+the close of business on such record date, and thereafter the Conversion Price shall be adjusted
+pursuant to this paragraph 4(d)(iii) as of the actual date of their issuance.
+
+(iv) Adjustment_of Conversion Price Upon Issuance of Additional
+Shares of Common, In the event this Corporation shall issue Additional Shares of Common
+
+Stock (including Additional Shares of Common Stock deemed to be issued pursuant to paragraph
+4(d)(ii1)) without consideration or for a price per share less than the applicable Conversion Price
+of a Series of Preferred Stock in effect on the date of and immediately prior to such issue, then,
+the Conversion Price of the affected Series of Preferred Stock shall be reduced, concurrently
+with such issue, to a price (calculated to the nearest cent) determined by multiplying such
+Conversion Price by a fraction, the numerator of which shall be the number of shares of
+Common Stock outstanding immediately prior to such issue plus the number of shares which the
+aggregate consideration received by the Corporation for the total number of Additional Shares of
+Common so issued would purchase at such Conversion Price, and the denominator of which
+shall be the number of shares of Common Stock outstanding immediately prior to such issue plus
+the number of such Additional Shares of Common so issued. Notwithstanding the foregoing, the
+Conversion Price shall not be reduced at such time if the amount of such reduction would be less
+than $0.01, but any such amount shall be carried forward, and a reduction will be made with
+respect to such amount at the time of, and together with, any subsequent reduction which,
+
+GDS VF&H\4699066,6 q
+together with such amount and any other amounts so carried forward, equal $0.01 or more in the
+aggregate. For the purposes of this Subsection 4(d)(iv), all shares of Common Stock issuable
+upon conversion of all outstanding shares of Preferred Stock and the exercise and/or conversion
+of any other outstanding Convertible Securities and all outstanding Options shall be deemed to
+be outstanding.
+
+(v) Determination of Consideration. For purposes of this subsection
+4(d), the consideration received by the Corporation for the issue (or deemed issue) of any
+Additional Shares of Common shall be computed as follows:
+
+(1) Cash and Property. Such consideration shall:
+
+(a) insofar as it consists of cash, be computed at the
+aggregate amount of cash received by the Corporation before deducting any reasonable
+discounts, commissions or other expenses allowed, paid or incurred by the Corporation for any
+underwriting or otherwise in connection with such issuance;
+
+(b) insofar as it consists of property other than cash, be
+computed at the fair market value thereof at the time of such issue, as determined in good faith
+by the Board of Directors; and
+
+(c) in the event Additional Shares of Common are
+issued together with other shares or securities or other assets of the Corporation for consideration
+which covers both, be the proportion of such consideration so received, computed as provided in
+clauses (a) and (b) above, as reasonably determined in good faith by the Board of Directors.
+
+(2) Options and Convertible Securities. The consideration per
+share received by the Corporation for Additional Shares of Common deemed to have been issued
+
+pursuant to paragraph 4(d)(iii) shall be determined by dividing:
+
+(a) the total amount, if any, received or receivable by
+the Corporation as consideration for the issue of such Options or Convertible Securities, plus the
+minimum aggregate amount of additional consideration (as set forth in the instruments relating
+thereto, without regard to any provision contained therein for a subsequent adjustment of such
+consideration) payable to the Corporation upon the exercise of such Options or the conversion or
+exchange of such Convertible Securities, or in the case of Options for Convertible Securities, the
+exercise of such Options for Convertible Securities and the conversion or exchange of such
+Convertible Securities by
+
+(b) the maximum number of shares of Common Stock
+(as set forth in the instruments relating thereto, without regard to any provision contained therein
+for a subsequent adjustment of such number) issuable upon the exercise of such Options or the
+conversion or exchange of such Convertible Securities.
+
+(e) Adjustments for Subdivisions or Combinations of Common Stock. In the
+event the outstanding shares of Common Stock shall be subdivided (by stock split, by payment
+
+of a stock dividend or otherwise occurring after the date of the filing of this Amended and
+Restated Certificate of Incorporation) into a greater number of shares of Common Stock, the
+
+GDS VF&H\4699066,6 8
+Conversion Price of each Series of Preferred Stock in effect immediately prior to such
+subdivision shall, concurrently with the effectiveness of such subdivision, be proportionately
+decreased. In the event the outstanding shares of Common Stock shall be combined (by
+reclassification or otherwise) into a lesser number of shares of Common Stock, the Conversion
+Prices in effect immediately prior to such combination shall, concurrently with the effectiveness
+of such combination, be proportionately increased. In the event the outstanding shares of
+Common Stock shall be subdivided (by stock split, by payment of a stock dividend or otherwise
+occurring after the date of the filing of this Amended and Restated Certificate of Incorporation)
+into a greater number of shares of Common Stock, the shares of Nonvoting Common Stock shall
+be subdivided in the same fashion. In the event the outstanding shares of Common Stock shall
+be combined (by reclassification or otherwise) into a lesser number of shares of Common Stock,
+the shares of Nonvoting Common Stock shall be combined in the same fashion.
+
+(f) Adjustments for Subdivisions or Combinations of Preferred Stock. In the
+event the outstanding shares of Preferred Stock or a Series of Preferred Stock shall be subdivided
+(by stock split, by payment of a stock dividend or otherwise occurring after the date of the filing
+of this Amended and Restated Certificate of Incorporation) into a greater number of shares of
+Preferred Stock, the Dividend Rate, Original Issue Price and Liquidation Preference of the
+affected Series of Preferred Stock in effect immediately prior to such subdivision shall,
+concurrently with the effectiveness of such subdivision, be proportionately decreased. In the
+event the outstanding shares of Preferred Stock or a Series of Preferred Stock shall be combined
+(by reclassification or otherwise) into a lesser number of shares of Preferred Stock, the Dividend
+Rate, Original Issue Price and Liquidation Preference of the affected Series of Preferred Stock in
+effect immediately prior to such combination shall, concurrently with the effectiveness of such
+combination, be proportionately increased.
+
+(g) Adjustments for Reclassification, Exchange and Substitution. Subject to
+Section 3 above (“Liquidation Rights”), if the Common Stock issuable upon conversion of the
+
+Preferred Stock shall be changed into the same or a different number of shares of any other class
+or classes of stock, whether by capital reorganization, reclassification or otherwise (other than a
+subdivision or combination of shares provided for above), then, in any such event, in lieu of the
+number of shares of Common Stock which the holders would otherwise have been entitled to
+receive, each holder of such Preferred Stock shall have the right thereafter to convert such shares
+of Preferred Stock into a number of shares of such other class or classes of stock which a holder
+of the number of shares of Common Stock deliverable upon conversion of such Series of
+Preferred Stock immediately before that change would have been entitled to receive in such
+reorganization or reclassification, all subject to further adjustment as provided herein with
+respect to such other shares.
+
+(h) Certificate as to Adjustments. Upon the occurrence of each adjustment or
+readjustment of the Conversion Price pursuant to this Section 4, the Corporation at its expense
+shall promptly compute such adjustment or readjustment in accordance with the terms hereof and
+furnish to each holder of Preferred Stock a certificate setting forth such adjustment or
+readjustment and showing in detail the facts upon which such adjustment or readjustment is
+based. The Corporation shall, upon the written request at any time of any holder of Preferred
+Stock, furnish or cause to be furnished to such holder a like certificate setting forth (i) such
+adjustments and readjustments, (ii) the Conversion Price at the time in effect and (111) the number
+
+GDS V F&H\4699066,6 9
+of shares of Common Stock and the amount, if any, of other property which at the tithe would be
+received upon the conversion of Preferred Stock.
+
+(i) Waiver of Adjustment of Conversion Price. Notwithstanding anything
+herein to the contrary, any downward adjustment of the Conversion Price of any Series of
+
+Preferred Stock may be waived (i) by the consent or vote of the holders of at least fifty-one
+percent (51%) of the outstanding shares of such Series either before or after the issuance causing
+the adjustment, and (it) solely with respect to Series D Preferred Stock, by the vote or written
+consent of the holders of at least a majority of the then outstanding Series D Preferred Stock.
+
+G) Reservation of Stock Issuable Upon Conversion. The Corporation shall at
+all times reserve and keep available out of its authorized but unissued shares of Common Stock
+
+and Nonvoting Common Stock, solely for the purpose of effecting the conversion of the shares
+of the Preferred Stock, such number of its shares of Common Stock and Nonvoting Common
+Stock as shall from time to time be sufficient to effect the conversion of all then outstanding
+shares of the Preferred Stock; and if at any time the number of authorized but unissued shares of
+Common Stock and Nonvoting Common Stock shall not be sufficient to effect the conversion of
+all then outstanding shares of the Preferred Stock, the Corporation will take such corporate
+action as may, in the opinion of its counsel, be necessary to increase its authorized but unissued
+shares of Common Stock and Nonvoting Common Stock to such number of shares as shall be
+sufficient for such purpose.”
+
+THIRD: That thereafter said amendment was duly adopted in accordance with
+the provisions of Section 242 of the General Corporation Law by written consent of the
+stockholders holding the requisite number of shares required by statute given in accordance with
+and pursuant to Section 228 of the General Corporation Law.
+
+* eK K K &
+
+GDS VF&H\4699066,6 10
+IN WITNESS WHEREOF Automattic Inc., has caused this Certificate of
+Amendment to the Restated Certificate of Incorporation to be signed by its Chief Executive
+Officer this 10" day of December, 2019.
+
+/s/ Matthew Mullenweg
+Matthew Mullenweg
+
+Chief Executive Officer
+
+GDS VF&H\4699066,6

@@ -1,0 +1,72 @@
+State of Delaware
+Secretary of State
+Division of Corporations
+
+CERTIFICATE OF CORRECTION TO THE ey Goats.
+
+FIRST CERTIFICATE OF AMENDMENT SR 20196967013 - FileNumber 3946446
+TO THE
+RESTATED CERTIFICATE OF INCORPORATION
+OF
+AUTOMATTIC INC.
+
+Automattic Inc., a corporation organized and existing under and by virtue of the
+provisions of the General Corporation Law of the State of Delaware (the “General Corporation
+
+DOES HEREBY CERTIFY:
+
+1, That the name of this corporation is Automattic Inc. and that this
+Corporation was originally incorporated pursuant to the General Corporation Law on March 28,
+2005 under the name Automattic Inc.
+
+2. That the First Certificate of Amendment to the Restated Certificate of
+Incorporation of this corporation was filed with the Secretary of State of Delaware on April 6,
+2018 (the “Certificate of Amendment’) and that said Certificate of Incorporation requires
+correction of an error as permitted by Section 103(f) of the General Corporation Law.
+
+3. The inaccuracies to be corrected in said Certificate of Amendment are that
+Article IV of the Certificate of Amendment contains inadvertent typographical errors with
+respect to the total number of Series A12-3 Stock and Series A12-8 Stock that the Corporation is
+authorized to issue.
+
+4. Article IV of the Certificate of Amendment is corrected to read in
+its entirety as follows:
+
+“The total number of shares of stock that the corporation shall have
+authority to issue is 89,667,210 consisting of 69,000,000 shares of Common
+Stock, $0.0001 par value per share (the “Common Stock”), 4,500,000 shares of
+Al2 Common Stock, $0.0001 par value per share (the “A1l2 Stock”), and
+16,167,210 shares of Preferred Stock, $0.0001 par value per share (the “Preferred
+Stock”). The first series of A12 Stock shall be designated as “Series A12-0 Stock”
+and shall consist of 103,961 shares. The second series of Al2 Stock shall be
+designated as “Series A12-1 Stock” and shall consist of 39,553 shares. The third
+series of Al2 Stock shall be designated as “Series A12-2 Stock” and shall consist
+of 34,477 shares. The fourth series of Al2 Stock shall be designated as “Series
+A12-3 Stock” and shall consist of 49,904 shares. The fifth series of Al2 Stock
+shall be designated as “Series A12-4 Stock” and shall consist of 1,000,000 shares.
+The sixth series of Al2 Stock shall be designated as “Series A12-5 Stock” and
+shall consist of 1,000,000 shares. The seventh series of Al2 Stock shall be
+designated as “Series Al2-6 Stock” and shall consist of 1,000,000 shares. The
+eighth series of Al2 Stock shall be designated as “Series Al2-7 Stock” and shall
+consist of 1,000,000 shares. The ninth series of Al2 Stock shall be designated as
+
+GDSVF&H\4530653,2
+“Series Al2-8 Stock” and shall consist of 272,105 shares. The first series of
+Preferred Stock shall be designated as “Series B Preferred Stock” and shall consist
+of 7,278,322 shares. The second series of Preferred Stock shall be designated as
+“Series C Preferred Stock” and shall consist of 8,888,888 shares.”
+
+5. All other provisions of the Certificate of Amendment remain
+unchanged.
+
+[Remainder of Page Intentionally Left Blank]
+
+GDSVF&H\4530653,2
+IN WITNESS WHEREOF, this Certificate of Correction to the First Certificate of
+Amendment to the Restated Certificate of Incorporation has been executed by a duly authorized
+officer of this corporation on this 10" day of September, 2019.
+
+By:/s/ Matthew Mullenweg
+Matthew Mullenweg
+
+Chief Executive Officer

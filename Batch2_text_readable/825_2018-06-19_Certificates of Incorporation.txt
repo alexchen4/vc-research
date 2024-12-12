@@ -1,0 +1,314 @@
+FILED
+Secretary of State
+State of Washington
+Date Filed: 06/19/2018
+Effective Date: 06/19/2018
+| UBI No: 601 973 642
+AMENDED AND RESTATED
+ARTICLES OF INCORPORATION
+
+OF
+AVALARA, INC.
+
+ARTICLE 1. NAME
+The name of this corporation is Avalara, Inc.
+ARTICLE 2. SHARES
+2.1 Authorized Capital Stock
+
+The total number of shares which this corporation is authorized to issue is 620,000,000,
+consisting of two classes of shares of capital stock to be designated, respectively, "Common Stock,"
+and "Preferred Stock." The total number of shares of Common Stock that this corporation shall have
+authority to issue is 600,000,000, each with a par value of $0.0001. The total number of shares of
+Preferred Stock that this corporation shall have authority to issue is 20,000,000 shares, each with a
+par value of $0.0001.
+
+2.2 Preferred Stock
+
+This corporation’s board of directors (the "Board of Directors") shall have the full authority
+permitted by law to divide the authorized and unissued shares of Preferred Stock into series, and to
+provide for the issuance of such shares (in an aggregate amount not exceeding the aggregate number
+of shares of Preferred Stock authorized by this corporation’s articles of incorporation (as amended or
+restated from time to time) (the or these "Articles")), as determined from time to time by the Board of
+Directors and stated, before the issuance of any shares thereof, in the resolution or resolutions
+providing for the issuance thereof. The Board of Directors shall have the authority to fix and
+determine and to amend the number of shares of any series of Preferred Stock that is wholly unissued
+or to be established and to fix and determine and to amend the designation, preferences, voting
+powers and limitations, and the relative, participating, optional or other rights, of any series of shares
+of Preferred Stock that is wholly unissued or to be established, including, without limiting the
+generality of the foregoing, the voting rights relating to shares of such series of Preferred Stock, the
+rate of dividend to which holders of shares of such series of Preferred Stock may be entitled, the
+rights of holders of shares of such series of Preferred Stock in the event of liquidation, dissolution or
+winding up of the affairs of this corporation, the rights of holders of shares of such series of Preferred
+Stock to convert or exchange shares of such series of Preferred Stock for shares of any other capital
+stock or for any other securities, property or assets of this corporation, and whether or not the shares
+of such series of Preferred Stock shall be redeemable and, if so, the term and conditions of such
+redemption.
+
+Before this corporation shall initially issue shares of a series of Preferred Stock created under
+RCW 23B.06.020 (or any successor provision thereto) of the Washington Business Corporation Act,
+articles of amendment setting forth the terms of such series in a form meeting the requirements of
+RCW 23B.06.020 shall be filed with the Secretary of State of the State of Washington in the manner
+prescribed by the Washington Business Corporation Act, and shall be effective without shareholder
+
+132638942.4
+Work Order #: 2018062000285149 - 1
+Received Date: 06/19/2018
+Page: | of 7 Amount Received: $80.00
+approval. Unless otherwise specifically provided in the resolution establishing any series of Preferred
+Stock, the Board of Directors shall further have the authority, after the issuance of shares of a series
+whose number it has designated, to amend the resolution establishing such series to decrease the
+number of shares of that series, but not below the number of shares of such series then outstanding.
+
+2.3 Common Stock
+
+The preferences, limitations, voting powers and relative rights of the Common Stock (subject
+to the preferences and rights of the Preferred Stock as determined by the Board of Directors pursuant
+to Section 2.2 of these Articles) are as follows:
+
+(a) Voting Rights. Except as otherwise expressly provided in these Articles or required
+pursuant to RCW 23B.07.210(2), each holder of Common Stock shall be entitled to one (1) vote for
+each share of Common Stock held as of the applicable record date on any matter that is submitted to a
+vote of the shareholders of this corporation (including, without limitation, any matter voted on at a
+shareholders’ meeting).
+
+(b) Dividends and Distributions. Subject to the preferences applicable to any series of
+Preferred Stock, if any, outstanding at any time, shares of Common Stock shall be entitled to receive
+dividends, if any, as may be declared from time to time by the Board of Directors out of legally
+available funds. Subject to the preferences applicable to any series of Preferred Stock, the shares of
+Common Stock are entitled to the net assets of this corporation upon dissolution in accordance with
+Chapter 23B.14 of the RCW.
+
+ARTICLE 3. PREEMPTIVE RIGHTS
+
+No preemptive rights shall exist with respect to shares of stock or securities convertible into
+shares of stock of this corporation, except to the extent provided by written agreement with this
+corporation.
+
+ARTICLE 4. CUMULATIVE VOTING
+
+The right to cumulate votes in the election of directors shall not exist with respect to shares of
+stock of this corporation.
+
+ARTICLE 5. DIRECTORS
+5,1 Board Size
+
+Except as otherwise provided in these Articles, the total number of authorized directors
+constituting the Board of Directors shall be fixed from time to time solely by the Board of Directors
+pursuant to a resolution adopted by a majority of the Board of Directors.
+
+5.2 Classified Board Structure
+
+From and after the effectiveness of these Amended and Restated Articles of Incorporation
+(the "Effective Time"), the directors, other than any who may be elected by the holders of any series
+of Preferred Stock under specified circumstances, shall be divided into three (3) classes as nearly
+equal in size as is practicable, hereby designated Class I, Class II and Class III. The Board of
+Directors may assign members of the Board of Directors already in office to such classes at the time
+such classification becomes effective. The term of office of the initial Class I directors shall expire at
+
+2.
+132638942.4
+Work Order #: 2018062000285149 - 1
+Received Date: 06/19/2018
+Page: 2 of 7 Amount Received: $80.00
+the first regularly-scheduled annual meeting of the shareholders following the Effective Time, the
+term of office of the initial Class II directors shall expire at the second annual meeting of the
+shareholders following the Effective Time, and the term of office of the initial Class III directors shall
+expire at the third annual meeting of the shareholders following the Effective Time. At each annual
+meeting of shareholders, commencing with the first regularly-scheduled annual meeting of
+shareholders following the Effective Time, each of the persons elected as a director of the Class of
+directors whose term shall have expired at such annual meeting shall be elected to hold office until
+the third annual meeting next succeeding his or her election. Notwithstanding the foregoing
+provisions of this Article 5, despite the expiration of a director's term, a director shall continue to
+serve until his or her successor is duly elected and qualified or until there is a decrease in the size of
+the Board of Directors. If the number of directors is hereafter changed, any newly created
+directorships or decrease in directorships shall be so apportioned among the classes as to make all
+classes as nearly equal in number as is practicable, provided that no decrease in the number of
+directors constituting the Board of Directors shall shorten the term of any incumbent director.
+
+5.3 Removal
+
+At a meeting of shareholders called expressly for that purpose, one or more directors,
+including the entire Board of Directors, may be removed only for cause by the holders of the shares
+entitled to elect the director or directors whose removal is sought if, with respect to a particular
+director, the number of votes cast to remove the director exceeds the number of votes cast to not
+remove the director.
+
+5.4 Vacancies
+
+Any vacancies on the Board of Directors resulting from death, resignation, removal or other
+causes and any newly created directorships resulting from any increase in the number of directors
+may be filled only by the Board of Directors or, if the directors in office constitute less than a
+quorum, by the affirmative vote of a majority of the remaining directors or the sole remaining
+director. The term of a director elected to fill a vacancy expires at the next election of directors by the
+shareholders.
+
+ARTICLE 6. LIMITATION OF DIRECTOR LIABILITY AND INDEMNIFICATION
+
+(a) To the full extent that the Washington Business Corporation Act, as it exists on the
+date hereof or may hereafter be amended, permits the limitation or elimination of the liability of
+directors, a director of this corporation shall not be liable to this corporation or its shareholders for
+monetary damages for conduct as a director.
+
+(b) This corporation shall, to the maximum extent permitted by applicable law, indemnify any
+individual made a party to a proceeding because that individual is or was a director of this corporation and
+shall advance or reimburse the reasonable expenses incurred by such individual in advance of final
+disposition of the proceeding, without regard to the limitations in RCW 23B.08.510 through 23B.08.550 of
+the Washington Business Corporation Act, or any other limitation which may hereafter be enacted to the
+extent such limitation may be disregarded if authorized by these Articles.
+
+(c) Any amendments to or repeal of this Article 6 shall not adversely affect any right or
+protection of a director of this corporation for or with respect to any acts or omissions of such director
+occurring before such amendment or repeal.
+
+-3-
+132638942.4
+Work Order #: 2018062000285149 - 1
+Received Date: 06/19/2018
+Page: 3 of 7 Amount Received: $80.00
+ARTICLE 7, SHAREHOLDER ACTIONS
+
+Any action required or permitted to be taken at a meeting of shareholders may be taken
+without a meeting or a vote if the action is taken by written consent of all shareholders entitled to vote
+on the action.
+
+ARTICLE 8. AUTHORITY TO AMEND ARTICLES OF INCORPORATION
+
+This corporation reserves the right to amend or repeal any of the provisions contained in these
+Articles in any manner now or hereafter permitted by the Washington Business Corporation Act or by
+these Articles and the rights of the shareholders of this corporation are granted subject to this
+reservation.
+
+8.1 Supermajority Voting
+
+Except as provided in Section 8.2, the amendment or repeal of provisions in any of the
+following Articles or sections listed in this Section 8.1 shall require the affirmative vote of the holders
+of not less than two-thirds of all the votes entitled to be cast thereon by the shareholders of this
+corporation, voting together as a single voting group:
+
+e = =6Article 5 ("Directors");
+e Article 6 ("Limitation of Director Liability and Indemnification");
+e Sections 8.1 and 8.2 of Article 8 ("Authority to Amend Articles of Incorporation");
+e Article 11 ("Special Meeting of Shareholders"); and
+e Article 12 ("Bylaws").
+8.2 Majority Voting
+
+Notwithstanding the provisions of Section 8.1, an amendment or repeal of provisions in an
+Article or section identified in Section 8.1 that is approved by a majority of the Continuing Directors
+(as defined below), voting separately and as a subclass of directors, shall require the affirmative vote
+of the holders of not less than a majority of all the votes entitled to be cast thereon by the shareholders
+of this corporation, voting together as a single voting group.
+
+As used in this Article 8, "Continuing Director" means any member of the Board of
+Directors who was a member of the Board of Directors as of the Effective Time or who is elected to ‘
+the Board of Directors after the Effective Time upon the recommendation of a majority of the
+Continuing Directors.
+
+ARTICLE 9. SHAREHOLDER VOTE REQUIRED ON CERTAIN MATTERS
+
+With respect to any proposal or matter presented to shareholders for approval under RCW
+23B.11.030, RCW 23B.12.020 or RCW 23.B.14.020, in accordance with RCW 23B.07.270, this
+corporation's shareholders may approve the proposal or matter by a majority of the voting group
+comprising all the votes entitled to be cast on such proposal or matter. This Article 9 is intended to
+reduce the voting requirements otherwise prescribed by the Washington Business Corporation Act
+with respect to the foregoing matters.
+
+-4-
+132638942.4
+Work Order #: 2018062000285149 - 1
+Received Date: 06/19/2018
+Page: 4 of 7 Amount Received: $80.00
+ARTICLE 10, LIMITATION OF SEPARATE CLASS VOTING TO EXTENT PERMITTED
+BY LAW
+
+Except (a) to the extent otherwise expressly provided in these Articles with respect to voting
+or approval rights of a particular class or series of capital stock, (b) as may be fixed or determined
+with respect to any series of Preferred Stock, or (c) to the extent otherwise provided pursuant to RCW
+23B.10.030(3) or RCW 23.B.11.030(3), the holders of each outstanding class or series of shares of
+this corporation shall not be entitled to vote as a separate voting group (1) on any amendment to these
+Articles with respect to which such class or series would otherwise be entitled under
+RCW 23B.10.040(1)(a), (e), or (f) to vote as a separate voting group, or (2) on any plan of merger or
+share exchange with respect to which such class or series would otherwise be entitled under
+RCW 23B.11.035 to vote as a separate voting group.
+
+ARTICLE 11. SPECIAL MEETING OF SHAREHOLDERS
+
+The Chairperson of the Board of Directors, the Chief Executive Officer of this corporation,
+the President of this corporation or the Board of Directors may call special meetings of the
+shareholders. Special meetings of the shareholders may not be called by the shareholders or any other
+person or persons, other than as set forth in the first sentence of this Article 11.
+
+ARTICLE 12. BYLAWS
+
+The Bylaws of this corporation may be altered, amended or repealed and new Bylaws may be
+adopted by the Board of Directors, except that the Board of Directors may not amend or repeal any Bylaw
+that the shareholders have expressly provided, in amending or repealing the Bylaw, may not be amended or
+repealed by the Board of Directors. The shareholders may also alter, amend and repeal the Bylaws of this
+corporation or adopt new Bylaws; provided, however, that the affirmative vote of the holders of at least
+two-thirds of all the votes entitled to be cast by the shareholders of this corporation generally in the
+election of directors, voting together as a single voting group, shall be required for the shareholders of
+this corporation to alter, amend or repeal any provision of the Bylaws of this corporation or adopt
+new Bylaws.
+
+5-
+132638942.4
+Work Order #: 2018062000285149 - 1
+Received Date: 06/19/2018
+Page: 5 of 7 Amount Received: $80.00
+|
+|
+ARTICLE 13. SAVINGS CLAUSE
+
+If any provision of these Articles is declared by a court of competent jurisdiction to be
+
+invalid, unenforceable or contrary to applicable law, the remainder of these Articles shall be
+enforceable in accordance with its terms.
+
+Dated; June 19, 2018 AVALARA, INC.
+
+Alesia Pinney
+Executive Vice President, General Counsel
+and Secretary
+
+Work Order #: 2018062000285149 } 1
+
+Page: 6 of 7
+
+Received Date: 06/19/2018
+Amount Received: $80.00
+J
+
+4
+1
+
+| CERTIFICATE ACCOMPANYING
+AMENDED AND RESTATED ARTICLES OF INCORPORATION
+| OF
+AVALARA, INC.
+
+_ The Amended and Restated Articles of Incorporation contain amendments to the
+Articles of Incorporation requiring shareholder approval as described below.
+
+l, The name of the corporation is Avalara, Inc. (the “Company”).
+
+2. The Articles of Incorporation of the Company are amended in their entirety to
+read as set forth in the Amended and Restated Articles of Incorporation submitted herewith.
+
+3. The date of the adoption of the amendments by the shareholders of the
+Company is May 1, 2018.
+
+4. The amendments were duly approved by the shareholders of the Company in
+accordance with the provisions of RCW 23B.10.030 and RCW 23B.10.040, such approval
+was obtained by written consent in accordance with RCW 23B.07.040, and notice to any
+nonconsenting shareholders of the Company has been given to the extent required by RCW
+23B.07.040.
+
+DATED: June 19 , 2018
+AVALARA, INC,
+
+Alesia Pinney
+Executive Vice President,
+General Counsel and Secretary
+
+Work Order #: 2018062000285149} 1
+Received Date: 06/19/2018
+Page: 7 of 7 Amount Received: $80.00

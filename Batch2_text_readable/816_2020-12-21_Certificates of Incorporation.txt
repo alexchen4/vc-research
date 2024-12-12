@@ -1,0 +1,251 @@
+CERTIFICATE OF OWNERSHIP AND MERGER
+MERGING
+PROSPRESS INC.
+WITH AND INTO
+AUTOMATTIC INC.
+
+Pursuant to Section 253 of the Delaware General Corporation Law (the “DGCL”), Automattic
+Inc., a Delaware corporation (the “Paren?f’), does hereby certify to the following information relating to
+the merger (the “Merger”) of Prospress Inc., a Delaware corporation (the “Corperation’’) with and into
+the Parent with the Parent remaining as the surviving corporation:
+
+FIRST: The Parent owns all of the outstanding shares of each class of capital stock of
+the Corporation.
+
+SECOND: The Board of Directors of the Parent, by resolutions duly adopted by
+unanimous written consent on December 9, 2020 and attached hereto as Exhibit A,
+determined to merge the Corporation with and into the Parent pursuant to Section 253 of
+the DGCL.
+
+THIRD: The Parent shall be the surviving corporation of the Merger.
+
+FOURTH: The Certificate of Ownership and Merger and the Merger shall become
+effective upon the filing of such Certificate of Ownership and Merger with the Delaware
+Secretary of State.
+
+[Signature Page Follows]
+
+State of Delaware
+Secretary of State
+Division of Corporations
+Delivered 01:11 PM 12/21/2020
+GDS VF&H'5329668.2 FILED 01:11 PM 12/21/2020
+
+SR 20208714740 - FileNumber 3946446
+IN WITNESS WHEREOF, the Corporation has caused this Certificate of Ownership and
+Merger to be signed by an authorized officer, this?!8tday of December, 2020.
+
+AUTOMATTIC INC.
+a Delaware corporation
+
+Paul Stemiuski
+By:
+
+Name: Paul Sieminski
+Title: Authorized Officer
+
+SIGNATURE PAGE TO THE CERTIFICATE OF OWNERSHIP AND MERGER
+Exhibit A
+
+GDS VF&H\5329668,2
+12/14/2020 Automattic Mail - *Action Required* Administrative Approvals
+
+AUTEMATTIC Rebecca Payne <rebecca payne@asc.com>
+
+*Action
+Matt Muflerweg <m@mutienweg.com> Wed, Dec 9, 2020 at 11:39 PM
+
+To Pait Sieminski <pes@automattic.com>, Automattic Board <board@automattic.com>
+Cc: Sadie Ferguson <sadie ferguson@automattic.com=, “Scott C. Dettmer" <sdetimer@gundercom>, Mark Davies <mark davies@automattic.com>, Rebecca Payne <tebecca _payne@automattic.com>
+
+Approved.
+
+On 2020-42-09 12:59 PM. Paul Sieminski wrote:
+i Automattic Directors:
+
+: We have a few administrative items that I'd like to handie by email. before our regularly scheduled Board meeting tomorrow.
+| ifyou are in agreement, please reply to this email with "Approved".
+
+2 Specifically, I'd like to ask for your approval on the following matters:
+
+| “4. Updated 409a Valuation (report attached).*
+| “Type of Stock*
+
+| 9099/22/20 Price
+
+| *1130/20 Price”
+2 Rluated text hiddent
+
+| 1. Mark Davies, $2,656,667 worth of A12-8 stock at the new price of $16.49, or 161,715 shares, fully vested. This is the second of three annual A12 grants for Mark as agreed in his offer letter.
+
+: 2. TautvidasSipavitius, $600,000 worth of A12-8 stock af the new price of $16.49, or 36,385 shares. Tautvidasis the CTO of our recent acquisition, MaiPoet. His equity grant is part of the consideration agreed on in the acquisition.
+- Vesting: Four year schedule, one year cliff. Twenty five percent (25%) of the shares will vest on December 9. 2021. and the remaining seventy five percent (75%) of shares shall vest in equal monthly installments for thirty six (36) months thereafter.
+
+- Acceleration: in the event that Automattic terminates Mr. Sipavitius’s service without cause (as defined in his offer letter}, any remaining unvested shares will continue to vest. In the event that Mr. Sipavicius terminates his service with Automattic. or
+¥ Automattic terminates his service with cause (as defined in his offer letter), Mr. Sipavicius will forfeit any remaining unvested shares.
+
+) &.*Forming Subsidiaries. Eliminating Subsidiaries.*
+
+| 1. Establish a few new corporate subsidiaries to (}) house the Brainstorm Force business we are acquiring out of india, and (i) move cur Woo business into its own structure, like we did with VIP fast year. These are"
+
+i Brainstorm Force entities in the United States, India. and Ireland (needed for fax structuring).
+
+ji. Woo Commerce Inc. (US), Woo Commerce Ireland, Ltd. and Woo Commerce Holdings BV (NL).
+
+| 2. Eliminate subsidiaries that we've added through M&A. Their businesses have now been integrated into Automattic’s existing structure, and the subsidiaries no longer needed. We'll eliminate
+
+: i Prospress inc. (US). Prospress Pty (AUS).
+
+. Zero BS Software, Ltd. (LK).
+
+| 4*Minutes from September meeting (attached).*
+2 Quated text hidden?
+
+Matt Mullenweg
+hitps://ma.tt | hitps:/wordpress.org | Ritps://automatic.com
+
+https://mail .google.com/mail/u/17ik=9b27a2906a&view=pt&search=all&permmsgid=msg-f%3 A 1685676086761961598&simpl=msg-£% 3A 16856760867 61961598 1/1
+12/14/2020 Automattic Mail - *Action Required* Administrative Approvals
+AUTOMATTIC Rebecca Payne <rebecca.payne@a&e.com>
+
+*Action Required* Administrative Approvals
+
+Ann Dunwoody <aedunwoody @gmail.com> Wed. Dec 9. 2020 at 1:14 PM
+Ta Paut Sieminski <pes@automattic.com>
+Cc: Automattic Board <board@automattic.com>. Sadie Ferguson <sadie ferguson@automattic.com>. "Scott C. Dettmer" <SDETTMER@gunder.com>. Mark Davies <mark davies@automattic.com>. Rebecca Payne <rebecca payne@automattic com>
+
+Approved
+Sent from my iPhone
+
+On Dec 9. 2020, at 3:59 PM, Paul Sieminski <pes@automatic.cam> wrote:
+
+Automattic Directors:
+
+We have a few administrative items that I'd like to handle by email, before our regularly scheduled Board meeting tomorrow.
+if you are in agreement, please reply to this email with *Approved*.
+
+Specifically, i'd like to ask for your approval on the following matters:
+
+1. Updated 409a Valuation (report attached).
+
+rice rice
+
+ee
+
+2. A12 tock rants,
+
+1. Mark Davies, $2,666,667 worth of A12-8 stock at the new price of $16.49, or 161,715 shares, fully vested. This is the second of three annual A12 grants for Mark, as
+agreed in his offer letter.
+
+2. Tautvidas Sipavidius, $600,000 worth of A12-8 stock at the new price of $16.49, or 36,385 shares. Tautvidas is the CTO of our recent acquisition, MailPoet. His equity
+grant is part of the consideration agreed on in the acquisition.
+
+- Vesting: Four year schedule, one year cliff. Twenty five percent (25%) of the shares will vest on December 9, 2021, and the remaining seventy five percent (75%) of
+shares shall vest in equal monthly installments for thirty six (36) months thereafter.
+
+- Acceleration: in the event that Automattic terminates Mr. Sipavitius's service without cause (as defined in his offer letter), any remaining unvested shares will continue to
+vest. in the event that Mr. Sipavigius terminates his service with Automattic, or if Automattic terminates his service with cause (as defined in his offer letter), Mr. Sipavigius
+will forfeit any remaining unvested shares.
+
+3, orming ubsidiaries liminating ubsidiaries,
+
+1. Establish a few new corporate subsidiaries to (i) house the Brainstorm Force business we are acquiring out of india, and (ii) move our Woo business into its own
+structure, like we did with VIP last year. These are:
+
+i. Brainstorm Force entities in the United States, india, and ireland (needed for tax structuring).
+
+ii. Woo Commerce inc. (US), Woo Commerce ireland, Ltd., and Woo Commerce Holdings BV (NL).
+
+2. Eliminate subsidiaries that we've added through M&A. Their businesses have now been integrated into Automattic’s existing structure, and the subsidiaries no longer
+needed. We'll eliminate:
+
+i. Prospress inc. (US), Prospress Pty (AUS).
+
+ii. Zero BS Software, Ltd. (UK).
+
+4, Minutes from eptember meeting attached.
+
+if you are in agreement, please reply to this email with “Approved”. As always, please feel free to respond on this thread or to me directly with any questions or requests.
+Thank you!
+
+Paul
+
+<Minutes of Board Meeting - September 24, 2020. pdf>
+<Automattic - December 2020 Valuation - DRAFT pdf>
+
+https://mail.google.com/mail/w/17ik=9b27a2906a&view=pt&search=all& permmsgid=msg-f%3 A 16856367 7673701 1666&dsqt=1 &simpl=msg-f%3A 1685636776737... 1/1
+12/14/2020 Automattic Mail - *Action Required* Administrative Approvals
+
+AUTEMATTIC
+
+“Action Required" Administrative Approvals
+
+Pha lack <phii@frueventures.com> Wed, Bec 9, 2020 at 1:09 PM
+
+Ta Paul Sieminski <pes@aufomattic.com>, Automattic Hoard <board@automattic.com=>
+Cc: Sadie Ferguson <sadie ferguson@automattic.com>, “Scolf C. Dettmer <sdettmer@gundercom>, Mark Davies <mark davies@automattic.cont, Rebecca Payne <tebecca payne@aufomattic.com>
+
+Approved
+
+Phil Black
+418-515-9379
+
+From: Paul Sieminski <pes@automattic.com>
+Sent: Wednesday, December 9, 2020 12:59:23 PM
+
+To: Automattic Board <board@automattic.com>
+
+Ce: Sadie Ferguson <sadie ferguson@automattic.com>; Scott C. Dettmer <sdettmer@gunder.com>; Mark Davies <mark. davies@automattic.com>; Rebecca Payne <rebecca.payne@automattic.com>
+Subject: ‘Action Required” Administrative Approvals
+
+{Quoted text hidden}
+
+https://mail google .com/mail/w/1?7ik=9b27a2906a&view=pt&search=all& permms gid=msg-£%3 A 1685636422722351435&simpl=msg-f%3A 16856364227 22351435 1/1
+12/14/2020 Automattic Mail - *Action Required* Administrative Approvals
+
+AUTEMATTIC Rebecca Payne <rebecca.payne@a&c.com>
+
+“Action Required" Administrative Approvals EO
+
+Toni Schneider <pni@automattic.com> Wed, Dec 9. 2020 af 1:05 PM
+To Paul Sieminski <pes@automattic.com>
+
+Cc: Automattic Hoard <board@automattic.com>, Sadie Ferguson <sadie ferguson@automattic.com=. “Scot C. Dettmer" <sdeffmer@gurder.com>, Mark Davies <mark.davies@automattic com>, Rebecca Payne <rebecca.payne@automattic.com>
+Approved.
+
+Toni
+
+On Dec 9. 2020. at 12:59 PM, Paul Sieminski <pes@automatic.com> wrote:
+
+(Quoted text hiddeni
+<Minutes of Board Meeting - September 24, 2020.pdf>
+<Automattic - December 2020 Vatuation - DRAFT pdf>
+
+https://mail google .com/mail/u/17ik=9b27a2906a& view=pt&search=all& permms gid=msg-f% 3 A168563638 13630131 95 &simpl=msg-f% 3A 168563638 1363013195 1/1
+12/14/2020 Automattic Mail - *Action Required* Administrative Approvals
+
+AUTEMATTIC Rebecca Payne <rebecca payne@asc.com>
+
+*Action Required* Administrative Approvals
+
+Swe Decker <susan decker@Tahoo.com> Wed, Dec $, 2020 af 139 PM
+Ta Paul Sieminski <pes@automattic.com>, Automattic Hoard <board@automattic.com>
+Cc: Sadie Ferguson <sadie.ferguson@automattic.com>, “Scott C. Dettmer <sdettmer@gundercom>, Mark Davies <mark davies@automattic.com=, Rebecca Pathe <tebecca pa he@aufomattic.com>
+
+approved
+
+From: Paul Sieminski <pes@automattic.com>
+Date: Wednesday, December 9, 2020 at 1:59 PM
+
+To: Automattic Board <board@automattic.cam>
+Ge: Sadie Ferguson <sadie.ferguson@automattic.com>, Scott Dettmer <sdetimer@gunder.com>, Mark Davies <mark.davies@automaitic.com>, Rebecca Payne <rebecca. payne@automattic.cam>
+
+Subject: *Action Required" Administrative Approvais
+
+Automattic Directors:
+
+{Quoted text hidden}
+
+htips://mail google .com/mail/u/1?7ik=9b27a2906a&view=pt&search=all& permms gid=msg-£%3 A 16856383 34782057983 &simpl=msg-f%3A 16856383347 82057983
+
+1/l

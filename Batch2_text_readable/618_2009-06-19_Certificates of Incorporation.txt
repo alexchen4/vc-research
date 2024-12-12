@@ -1,0 +1,135 @@
+State of Delaware
+Secretary of State
+Division of Corporations
+Delivered 11:19 AM 06/19/2009
+FILED 11:07 AM 06/19/2009
+SRV 090631612 - 3757053 FILE
+
+CERTIFICATE OF AMENDMENT OF
+RESTATED CERTIFICATE OF INCORPORATION OF
+
+AQUANTIA CORP.
+
+Aquantia Corp., a Delaware corporation (the “Corperation”), does hereby certify that the
+following amendment to the Corporation’s Restated Certificate of Incorporation has been duly
+adopted in accordance with the provisions of Section 242 of the Delaware General Corporation
+Law, with the approval of such amendment by the Corporation’s stockholders having been given
+by written consent without a meeting in accordance with Sections 228 and 242 of the Delaware
+General Corporation Law:
+
+1. Article IV of the Restated Certificate of Incorporation is amended and restated to
+read in its entirety as follows:
+
+“ARTICLE IV
+
+1. Authorization of Shares. This corporation is authorized to issue two (2) classes
+of shares, designated “Common Stock” and “Preferred Stock”. The total number of shares of
+Common Stock authorized to be issued is Sixty Five Million (65,000,000) shares, $0.00001 par
+value per share. The total number of shares of Preferred Stock authorized to be issued is Thirty
+Six Million, Seven Hundred Ninety Nine Thousand, Eight Hundred Eighty Seven (36,799,887)
+shares, $0.00001 par value per share, Eighteen Million, Eight Hundred Ninety Two Thousand,
+Nine Hundred Twenty One (18,892,921) of which are designated as “Series A Preferred Stock,”
+Twelve Million, Two Hundred and Six Thousand, Nine Hundred and Sixty $1x (12,206,966) of
+which are designated as “Series B Preferred Stock,” One Million, Six Hundred Fifty Thousand
+(1,650,000) of which are designated as “Series C Preferred Stock” and Four Million, Fifty
+Thousand (4,050,000) of which are designated as “Series C-1 Preferred Stock.” The number of
+authorized shares of Common Stock may be increased or decreased (but not below the number of
+shares of Common Stock then outstanding or then necessary to allow for conversion of then
+outstanding shares of Preferred Stock into Common Stock) by the affirmative vote of the holders
+of at least a majority of the capital stock of the Corporation (voting together on an as-converted
+basis).”
+
+2. Article V, Section 1.6 of the Restated Certificate of Incorporation is amended and
+restated to read in its entirety as follows:
+
+“1.6 “Original Issue Date” shali mean June 19, 2009.”
+
+3. Article V, Section 6.3 of the Restated Certificate of Incorporation is amended and
+restated to read in its entirety as follows:
+
+“6.3 Conversion Price. Each share of Preferred Stock shall be convertible in
+accordance with Section 6.1 or Section 6.2 above into the number of shares of Common Stock
+which results from dividing the Original Issue Price by the conversion price for such series of
+Preferred Stock that is in effect at the time of conversion (the “Conversion Price”). As of the
+Original Issue Date, (a) the Conversion Price for the Series A Preferred Stock is $0.8209, (b) the
+Conversion Price for the Series B Preferred Stock is $2.1502753, (c) the Conversion Price for the
+Series C Preferred Stock is $1.8464636 and (d) the Conversion Price for the Series C-1 Preferred
+Stock is $1.8464636. The Conversion Price of each such series of Preferred Stock shall be
+subject to adjustment from time to time as provided below. Following each adjustment of the
+Conversion Price, such adjusted Conversion Price shall remain in effect until a further
+adjustment of such Conversion Price hereunder.”
+
+4, Article V, Section 6.8(a) of the Restated Certificate of Incorporation is amended
+and restated to read in its entirety as follows:
+
+“(a) Adjustment_of Series C Preferred Stock Conversion Price Upon Issuance of
+Additional Shares of Common Stock. If at any time or from time to time after the Original Issue
+Date the Corporation issues or sells, or is deemed by the provisions of this subsection 6.8 to have
+issued or sold, Additional Shares of Common Stock (as hereinafter defined), otherwise than in
+connection with a Common Stock Event as provided in subsection 6.4, a dividend or distribution
+as provided in subsection 6.5, a recapitalization, reclassification or other change as provided in
+subsection 6.6, for an Effective Price (as hereinafter defined) that is less than the Conversion
+Price for the Series C Preferred Stock in effect immediately prior to such issue or sale (or
+deemed issue or sale), then, and in each such case, the Conversion Price for the Series C
+Preferred Stock shall be reduced, as of the close of business on the date of such issue or sale, to
+the Effective Price received by the Corporation for such issue or deemed issue of the Additional
+Shares of Common Stock; provided that, notwithstanding the foregoing, any such issuance or
+deemed issuance of Additional Shares of Common Stock at less than the Conversion Price for
+the Series C Preferred Stock in effect immediately prior to such issue or sale (or deemed issue or
+sale) and granted or issued to employees, officers, directors, contractors, consultants or advisers
+to, the Corporation or any Subsidiary pursuant to incentive agreements, stock purchase or stock
+option plans, stock bonuses or awards, warrants, contracts or other arrangements that are
+approved by the Board and that are in excess of the 16,356,050 shares of Common Stock (or
+options, warrants or rights therefore) excluded from the definition of Additional Shares of
+Common Stock as set forth in Section 6.8(c)(i)(B) below (a “Dilutive Service Provider
+Issuance”) shaJl not result in a reduction in the Conversion Price for the Series C Preferred Stock
+in accordance with this Section 6.8(a), but shall rather result in a reduction in the Conversion
+Price for the Series C Preferred Stock in accordance with Section 6.8(b) below; provided further
+that if such issuance or deemed issuance was without consideration, then the “Aggregate
+Consideration Received” by the Corporation for such issuance or deemed issuance shall be
+deemed to be $.001.”
+
+4. The lead-in paragraph of Article V, Section 6.8(b) of the Restated Certificate of
+Incorporation is amended and restated to read in its entirety as follows:
+
+“(b) Adjustment Formula for Series A Preferred Stock, Series B Preferred Stock,
+Series C Preferred Stock and Series C-1 Preferred Stock. If at any time or from time to time after
+the Original Issue Date the Corporation issues or sells, or is deemed by the provisions of this
+subsection 6.8 to have issued or sold, Additional Shares of Common Stock (as hereinafter
+defined), otherwise than in connection with a Common Stock Event as provided in subsection
+6.4, a dividend or distribution as provided in subsection 6.5, a recapitalization, reclassification or
+other change as provided in subsection 6.6, for an Effective Price (as hereinafter defined) that is
+less than the Conversion Price for any series of Preferred Stock (other than the Series C Preferred
+
+$00343205v5 2
+Stock, except that such exclusion shall not apply with respect to a Dilutive Service Provider
+Issuance) in effect immediately prior to such issue or sale (or deemed issue or sale), then, and in
+each such case, the Conversion Price for such series of Preferred Stock (other than the Series C
+Preferred Stock, except that such exclusion shall not apply with respect to a Dilutive Service
+Provider Issuance) shall be reduced, as of the close of business on the date of such issue or sale,
+to the price obtained by multiplying such Conversion Price by a fraction:”
+
+5. Article V, Section 6.8(c)(i)(B) of the Restated Certificate of Incorporation is
+amended and restated to read in its entirety as follows:
+
+“(B) up to 16,356,050 shares of Common Stock (or
+options, warrants or rights therefor) (such number of shares to be calculated net of any
+repurchases of such shares by the Corporation and net of any such unexercised and expired or
+terminated options, warrants or rights and to be adjusted for any stock splits, stock dividends,
+recapitalizations or the like) granted or issued, whether before of after the filing hereof, to
+employees, officers, directors, contractors, consultants or advisers to, the Corporation or any
+Subsidiary pursuant to incentive agreements, stock purchase or stock option plans, stock bonuses
+or awards, warrants, contracts or other arrangements that are approved by the Board;”
+
+IN WITNESS WHEREOF, the Corporation has caused this Certificate of Amendment to
+be signed by its duly authorized officer this June 19, 2009 and the foregoing facts stated herein
+are true and correct.
+
+AQUANTIA CORP.
+/s/ Faraj Aalaei
+By:
+
+Name: Faraj Aalaei
+Title: Chief Executive Officer
+
+500343205v5 3
