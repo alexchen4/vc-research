@@ -1,0 +1,119 @@
+State of Delaware
+Secretary of State
+Division of Corporations
+Delivered 02:25 PM 03/06/2014
+FILED 02:20 PM 03/06/2014
+SRV 140296745 - 5399028 FILE
+
+CERTIFICATE OF AMENDMENT
+OF
+CERTIFICATE OF INCORPORATION
+OF
+Al0 NETWORKS, INC.
+
+A10 Networks, Inc., a corporation organized and existing under the laws of the State of Delaware
+(the “Corporation”), hereby certifies as follows:
+
+l. The name of the Corporation is Al10 Networks, Inc. The Corporation’s original
+Certificate of Incorporation was filed with the Secretary of State of the State of Delaware on
+December 06, 2013.
+
+2. Pursuant to Section 242 of the DGCL, this Certificate of Amendment of Certificate
+further amends the provisions of the Corporation’s Certificate of Incorporation.
+
+3. Pursuant to Section 242 of the DGCL, the Board of Directors of the Corporation duly
+adopted resolutions setting forth the terms and provisions of this Certificate of Amendment of Certificate
+of Incorporation, declaring the terms and provisions of this Certificate of Amendment to be advisable, and
+directing that the terms and provisions of this Certificate of Amendment be submitted to and considered
+by the stockholders of the Corporation for approval,
+
+4. The terms and provisions of this Certificate of Amendment of Certificate of Incorporation
+have been duly adopted and approved by the stockholders of the Corporation, acting in accordance with
+the provisions of Sections 228 and 242 of the Delaware General Corporation Law.
+
+5. Article V, Section A of the Corporation’s Certificate of Incorporation (as amended, the
+“Restated Certificate”) is hereby amended and restated in its entirety as follows:
+
+“The corporation is authorized to issue a total of three hundred sixty million seven hundred forty-
+nine thousand nine hundred seventy-five (360,749,975) shares of stock, divided into two classes of stock
+to be designated, respectively, "Common Stock" and "Preferred Stock". The number of shares of
+Common Stock authorized to be issued is two hundred forty-six million (246,000,000) shares, $0.00001
+par value per share. The number of shares of Preferred Stock authorized to be issued is one hundred
+fourteen million seven hundred forty-nine thousand nine hundred seventy-five (114,749,975) shares,
+$0.00001 par value per share, thirty-three million four hundred twenty-four thousand two hundred two
+(33,424,202) shares of which are designated as Series A Preferred Stock (the "Series A Preferred"),
+twenty-six million three hundred seven thousand six hundred forty-six (26,307,646) shares of which are
+designated as Series B Preferred Stock (the "Series B Preferred"), fifty-four million nine hundred three
+thousand one hundred twenty-seven (54,903,127) shares of which are designated as Series C Preferred
+Stock (the "Series C Preferred") and one hundred fifteen thousand (115,000) shares of which are
+designated as Series D Preferred Stock (the "Series D Preferred"). It is the intention of the corporation
+that each share of Common Stock and Preferred Stock (and the holder thereof) shall receive the benefit of
+the rights, preferences and privileges relating to the Conversion Rights set forth in Section 3 of Article
+III.B. of the Amended and Restated Articles of Incorporation of Al0 Networks, Inc., a California
+corporation and predecessor to the corporation (the "Predecessor") (the "Predecessor Charter"), and
+any adjustment thereto, and the redemption rights set forth in Section 6 of Article III.B. of the Predecessor
+Charter and/or any adjustment or addition of cumulative dividends thereto, which, in each case, shall be
+carried over of a share of stock of the same class of the Predecessor from the applicable date of issuance
+of such share by the Predecessor as if such share of Common Stock or Preferred Stock was issued by the
+corporation (rather than the Predecessor) at such time. As a result, for purposes of Section 3 of Article
+
+A10 Certificate of Amendment to Certificate of Incorporation (reverse split) (PALIB2_6623450_6)
+V.B. and Section 6 of Article V.B. of this Certificate of Incorporation, (i) all references to the corporation
+shall be deemed to include the Predecessor and (ii) each share of stock issued by the corporation in
+connection with the exchange and conversion of the shares of the Predecessor’s capital stock for shares of
+the corporation’s capital stock pursuant to that certain Agreement and Plan of Merger between the
+corporation and the Predecessor, dated on or about the date of the filing of this Certificate of
+Incorporation, shall be deemed to have been issued on the date such share was issued by the Predecessor.
+
+Effective immediately upon the filing of this Certificate of Amendment of Certificate of
+Incorporation with the Secretary of State of the State of Delaware (the “Record Date”), each 3.75
+outstanding shares of Common Stock, each 3.75 outstanding shares of Series A Preferred Stock, each
+3.75 outstanding shares of Series B Preferred Stock, each 3.75 outstanding shares of Series C Preferred
+Stock, will be exchanged and combined, automatically and without further action, into one (1) share of
+Common Stock, one (1) share of Series A Preferred Stock, one (1) share of Series B Preferred Stock, one
+(1) share of Series C Preferred Stock, respectively (the “Reverse Stock Split”). The Reverse Stock Split
+shall also apply to any outstanding securities or rights convertible into, or exchangeable or exercisable
+for, Common Stock or Preferred Stock of the Corporation. The Reverse Stock Split shall be effected on a
+certificate-by-certificate basis and no fractional shares shall be issued upon the exchange and
+combination. For each one (1) share of Common Stock of the Corporation that is issued and outstanding
+on the and each one (1) share of Preferred Stock of the Corporation that is issued and outstanding on the
+Record Date, the par value will remain the same after the Reverse Stock Split at US$0.00001 per share. In
+lieu of any fractional shares to which the holder would otherwise be entitled, the Corporation shall pay an
+amount of cash equal to the product of (i) the fractional share to which the holder would otherwise be
+entitled and (ii) the then fair value of a share as determined in good faith by the Board of Directors.”
+
+6. The second to last sentence of Article V, Section B(3)(a)(i) of the Corporation’s
+Certificate of Incorporation is hereby amended and restated to read as follows:
+
+“The initial Conversion Price for shares of Series D Preferred shall be $8.4855 per share (the
+“Series D Conversion Price”). The initial Series D Conversion Price set forth has been adjusted to
+reflect the Reverse Stock Split and, accordingly, no further adjustment to the Series D Conversion Price
+shall be made as a result of the Reverse Stock Split.”
+
+7. Article V, Section B(3)(a)(ii) of the Corporation’s Certificate of Incorporation is hereby
+amended and restated in its entirety as follows:
+
+“(ii) Each share of Preferred Stock shall automatically be converted into shares of Common
+Stock at the then effective Conversion Price (i) upon the consummation of the corporation's sale of its
+Common Stock in a bona fide, firm commitment underwriting pursuant to a registration statement under
+the Securities Act of 1933, as amended (the "Securities Act"), which results in aggregate gross cash
+proceeds to the corporation in excess of $10,000,000 and the public offering price (before deducting
+commissions, discounts or expenses) of which is not less than $5.00 per share (adjusted to reflect
+subsequent stock dividends, stock splits or recapitalizations, including the Reverse Stock Split for which
+such amount has not been adjusted) ("Qualified Offering") or (ii) upon the receipt by the Corporation of a
+written request for such conversion from (1) the holders of a majority of the Preferred Stock then
+outstanding (voting as a single class and on an as-converted basis) and (2) the holders of a majority of the
+Series D Preferred then outstanding (voting as a separate class). In the event of the automatic conversion
+of the Preferred Stock upon a Qualified Offering as set forth above, the person(s) entitled to receive the
+Common Stock issuable upon such conversion of Preferred Stock shall not be deemed to have converted
+such Preferred Stock until immediately prior to the closing of such sale of securities.”
+8. All other provisions of the Restated Certificate shall remain in full force and effect.
+
+[Remainder of this Page Intentionally Left Blank]
+IN WITNESS WHEREOF, A10 Networks, Inc. has caused this Certificate of Amendment Certificate
+of Incorporation to be signed by Lee Chen, a duly authorized officer of the Corporation, on March 6, 2014.
+
+/s/ Lee Chen
+Lee Chen, President
+
+A10 Certificate of Amendment to Certificate of Incorporation (reverse split)_ (PALIB2_6623450_6)

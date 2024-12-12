@@ -1,0 +1,250 @@
+State of Delaware
+Secretary of State
+Division of Corporations
+Delivered 04:29 PM 03/10/2011
+FILED 04:26 PM 03/10/2011
+SRV 110285547 - 3678208 FILE
+
+CERTIFICATE OF AMENDMENT OF THE
+RESTATED CERTIFICATE OF INCORPORATION OF
+M-FACTOR, INC.
+
+M-Factor, Inc., a corporation organized and existing under and by virtue of the provisions
+of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
+
+DOES HEREBY CERTIFY:
+
+FIRST: That the name of this corporation is M-Factor, Inc. and that this
+corporation was originally incorporated pursuant to the General Corporation Law on July 3, 2003
+under the name 3-D Marketing Technologies, Inc.
+
+SECOND: _ That the Board of Directors of this corporation duly adopted resolutions
+(a) setting forth the proposed amendment to the Restated Certificate of Incorporation of this
+corporation (the “Restated Certificate”), (b) declaring said amendment to be advisable and in the
+best interests of this corporation and its stockholders, (c) declaring that said amendment is not
+prejudicial to the rights of any stockholder, and (d) authorizing the appropriate officers of this
+corporation to solicit the consent of the stockholders therefor, which resolutions setting forth the
+proposed amendment are as follows:
+
+RESOLVED, that Section 2 of Article IV(B) of the Restated Certificate
+be deleted and replaced in its entirety by the following:
+
+“2. Liquidation Preference.
+
+(a) In the event of any Liquidation Event (as defined below), either voluntary
+or involuntary, the holders of Common Stock shall be entitled to receive, prior and in preference
+to any distribution of the proceeds of such Liquidation Event (the “Proceeds”’) to the holders of
+Series D Preferred Stock, Series C Preferred Stock, Series B Preferred Stock and Series A
+Preferred Stock by reason of their ownership thereof, an amount per share equal to $0.01 (as
+adjusted for any stock splits, stock dividends, combinations, subdivisions, recapitalizations or the
+like with respect to such Common Stock) . If, upon the occurrence of such event, the Proceeds
+thus distributed among the holders of the Common Stock shall be insufficient to permit the
+payment to such holders of the full aforesaid preferential amounts, then the entire Proceeds
+legally available for distribution shall be distributed ratably among the holders of the Common
+Stock in proportion to the full preferential amount that each such holder is otherwise entitled to
+receive under this subsection (a).
+
+(b) After payment has been made to the holders of Common Stock of the full
+amounts to which they are entitled pursuant to Section 2(a) above, the holders of Series D
+Preferred Stock shall be entitled to receive, prior and in preference to any distribution of the
+Proceeds to the holders of Series C Preferred Stock, Series B Preferred Stock and Series A
+
+LIBC/4020319.1
+
+veins sos toe , a nos oor ‘ . 4 oon ‘ see
+Preferred Stock by reason of their ownership thereof, an amount per share equal to the sum of the
+applicable Original Issue Price (as defined below) for such Series D Preferred Stock, plus
+declared but unpaid dividends on such share. If, upon the occurrence of such event, the Proceeds
+thus distributed among the holders of the Series D Preferred Stock shall be insufficient to permit
+the payment to such holders of the full aforesaid preferential amounts, then the entire Proceeds
+legally available for distribution shall be distributed ratably among the holders of the Series D
+Preferred Stock in proportion to the full preferential amount that each such holder is otherwise
+entitled to receive under this subsection (b). For purposes of this Restated Certificate of
+Incorporation, “Original Issue Price” shall mean $0.15243 per share for each share of the Series
+D Preferred Stock (as adjusted for any stock splits, stock dividends, combinations, subdivisions,
+recapitalizations or the like with respect to such Preferred Stock).
+
+(c) After payment has been made to the holders of Common Stock and Series
+D Preferred Stock of the full amounts to which they are entitled pursuant to Sections 2(a) and
+2(b) above, the holders of Series B Preferred Stock and Series C Preferred Stock shall be entitled
+to receive, prior and in preference to any distribution of the Proceeds to the holders of Series A
+Preferred Stock by reason of their ownership thereof, an amount per share equal to the sum of the
+applicable Original Issue Price (as defined below) for such Series B Preferred Stock and Series C
+Preferred Stock, plus declared but unpaid dividends on such share, If, upon the occurrence of
+such event, the Proceeds thus distributed among the holders of the Series B Preferred Stock and
+Series C Preferred Stock shall be insufficient to permit the payment to such holders of the full
+aforesaid preferential amounts, then the entire Proceeds legally available for distribution shall be
+distributed ratably among the holders of the Series B Preferred Stock and Series C Preferred
+Stock in proportion to the full preferential amount that each such holder is otherwise entitled to
+receive under this subsection (c). For purposes of this Restated Certificate of Incorporation,
+“Original Issue Price” shall mean $0.624136 per share for each share of the Series B Preferred
+Stock and $0.47455 per share for each share of the Series C Preferred Stock (each as adjusted for
+any stock splits, stock dividends, combinations, subdivisions, recapitalizations or the like with
+respect to such Preferred Stock).
+
+(d) After payment has been made to the holders of Common Stock, Series D
+Preferred Stock, Series B Preferred Stock and Series C Preferred Stock of the full amounts to
+which they are entitled pursuant to Sections 2(a), 2(b) and 2(c) above, the holders of Series A
+Preferred Stock shall be entitled to receive, prior and in preference to any further distribution of
+the Proceeds to the holders of Common Stock, Series D Preferred Stock, Series C Preferred
+Stock and Series B Preferred Stock by reason of their ownership thereof, an amount per share
+equal to the sum of the Original Issue Price (as defined below) for such Series A Preferred Stock,
+plus declared but unpaid dividends on such share. If, upon the occurrence of such event, the
+Proceeds thus distributed among the holders of the Series A Preferred Stock shall be insufficient
+to permit the payment to such holders of the full aforesaid preferential amounts, then the entire
+remaining Proceeds legally available for distribution shall be distributed ratably among the
+holders of the Series A Preferred Stock in proportion to the full preferential amount that each
+such holder is otherwise entitled to receive under this subsection (d). For purposes of this
+Restated Certificate of Incorporation, “Original Issue Price” shall mean $0.431469 per share for
+each share of the Series A Preferred Stock (as adjusted for any stock splits, stock dividends,
+combinations, subdivisions, recapitalizations or the like with respect to such Preferred Stock).
+
+(e) Upon the completion of the distribution required by subsections (a), (b),
+(c) and (d) of this Section 2, the remaining Proceeds available for distribution to stockholders
+
+LIBC/4020319.1
+shall be distributed among the holders of Series D Preferred Stock, Series C Preferred Stock and
+Common Stock pro rata based on the number of shares of Common Stock held by each
+(assuming full conversion of all such Preferred Stock) until such holders shall have received the
+applicable Participation Cap (as defined below); thereafter, if Proceeds remain, the holders of the
+Common Stock of this corporation shall receive all of the remaining Proceeds pro rata based on
+the number of shares of Common Stock held by each. For purposes of this Restated Certificate
+of Incorporation, “Participation Cap” shall mean $1.42365 for the Series C Preferred Stock and
+$0.45729 for the Series D Preferred Stock (each as adjusted for any stock splits, stock dividends,
+combinations, subdivisions, recapitalizations or the like with respect to such Preferred Stock),
+which includes amounts paid pursuant to subsections (b) and (c) of this Section 2.
+
+(i) For purposes of this Section 2, a “Liquidation Event” shall include
+(A) the closing of the sale, transfer or other disposition of all or substantially all of this
+corporation’s assets, (B) the exclusive, irrevocable license by the corporation of all or
+substantially all of the corporation's intellectual property to a third party, (C) the consummation
+of the merger or consolidation of this corporation with or into another entity (except a merger or
+consolidation in which the holders of capital stock of this corporation immediately prior to such
+merger or consolidation continue to hold at least 50% of the voting power of the capital stock of
+this corporation or the surviving or acquiring entity immediately following such merger or
+consolidation), (D) the closing of the transfer (whether by merger, consolidation or otherwise), in
+one transaction or a series of related transactions, to a person or group of affiliated persons (other
+than an underwriter of this corporation’s securities), of this corporation’s securities if, after such
+closing, such person or group of affiliated persons would hold 50% or more of the outstanding
+voting stock of this corporation (or the surviving or acquiring entity) or (E) a liquidation,
+dissolution or winding up of this corporation; provided, however, that a transaction shall not
+constitute a Liquidation Event if its sole purpose is to change the state of this corporation’s
+incorporation or to create a holding company that will be owned in substantially the same
+proportions by the persons who held this corporation’s securities immediately prior to such
+transaction. Notwithstanding the prior sentence, the sale of shares of Series D Preferred Stock in
+a financing transaction shall not be deemed a Liquidation Event. The treatment of any particular
+transaction or series of related transactions as a Liquidation Event may be waived by the vote or
+written consent of the holders of at least two-thirds of the outstanding Preferred Stock (voting
+together as a single class and not as separate series, and on an as-converted basis).
+
+(ii) In any Liquidation Event, if Proceeds received by this corporation
+or its stockholders is other than cash, its value will be deemed its fair market value. Any
+securities shall be valued as follows:
+
+(A) Securities not subject to investment letter or other similar
+restrictions on free marketability covered by (B) below:
+
+(1) If traded on a securities exchange or through the
+Nasdaq Global Market, the value shall be deemed to be the average of the closing prices of the
+securities on such exchange or system over the twenty (20) trading-day period ending three (3)
+trading days prior to the closing of the Liquidation Event;
+
+(2) If actively traded over-the-counter, the value shall
+be deemed to be the average of the closing bid or sale prices (whichever is applicable) over the
+
+LIBC/4020319.1
+twenty (20) trading-day period ending three (3) trading days prior to the closing of the
+Liquidation Event; and
+
+(3) If there is no active public market, the value shall be
+the fair market value thereof, as mutually determined by the board of directors of this corporation
+and the holders of at least two-thirds of the voting power of all then outstanding shares of
+Preferred Stock (voting together as a single class and not as separate series, and on an as-
+converted basis).
+
+(B) The method of valuation of securities subject to investment
+letter or other restrictions on free marketability (other than restrictions arising solely by virtue of
+a stockholder’s status as an affiliate or former affiliate) shall be to make an appropriate discount
+from the market value determined as above in (A) (1), (2) or (3) to reflect the approximate fair
+market value thereof, as mutually determined by this corporation and the holders of at least two-
+thirds of the voting power of all then outstanding shares of such Preferred Stock (voting together
+as a single class and not as separate series, and on an as-converted basis).
+
+(iii) In the event the requirements of this Section 2 are not complied
+with, this corporation shall forthwith either:
+
+(A) cause the closing of such Liquidation Event to be
+postponed until such time as the requirements of this Section 2 have been complied with; or
+
+(B) cancel such transaction, in which event the rights,
+preferences and privileges of the holders of the Preferred Stock shall revert to and be the same as
+such rights, preferences and privileges existing immediately prior to the date of the first notice
+referred to in subsection 2(d)(iv) hereof.
+
+(iv) This corporation shall give each holder of record of Preferred
+Stock written notice of such impending Liquidation Event not later than twenty (20) days prior to
+the stockholders’ meeting called to approve such transaction, or twenty (20) days prior to the
+closing of such transaction, whichever is earlier, and shall also notify such holders in writing of
+the final approval of such transaction. The first of such notices shall describe the material terms
+and conditions of the impending transaction and the provisions of this Section 2, and this
+corporation shall thereafter give such holders prompt notice of any material changes. The
+transaction shall in no event take place sooner than twenty (20) days after this corporation has
+given the first notice provided for herein or sooner than ten (10) days after this corporation has
+given notice of any material changes provided for herein; provided, however, that subject to
+compliance with the General Corporation Law such periods may be shortened or waived upon
+the written consent of the holders of Preferred Stock that represent at least two-thirds of the
+voting power of all then outstanding shares of such Preferred Stock (voting together as a single
+class and not as separate series, and on an as-converted basis).”
+
+RESOLVED, that Section 3(i) of Article IV(B) of the Restated Certificate
+be deleted and replaced in its entirety by the following:
+
+“Gi) Notices of Record Date. Upon (i) any taking by the Company of a
+record of the holders of any class of securities for the purpose of determining the
+holders thereof who are entitled to receive any dividend or other distribution, or
+(ii) any Liquidation Event, the Company shall mail to each holder of Preferred
+
+LIBC/4020319.1
+Stock at least twenty (20) days prior to the record date specified therein a notice
+specifying (A) the date on which any such record is to be taken for the purpose of
+such dividend or distribution and a description of such dividend or distribution,
+(B) the date on which any such Liquidation Event is expected to become
+effective, and (C) the date, if any, that is to be fixed as to when the holders of
+record of Common Stock (or other securities) for securities or other property
+deliverable upon the consummation of such Liquidation Event; provided,
+however, that, upon the written consent of the holders of at least two-thirds of the
+voting power of all then outstanding shares of such Preferred Stock (voting
+together as a single class and not as separate series, and on an as-converted basis)
+in connection with the consummation of an expected Liquidation Event,
+notwithstanding anything herein to the contrary, any rights to notice under this
+Section 3{i) in connection with such expected Liquidation Event may be waived,
+either prospectively or retroactively and either generally or in a particular
+instance, by the consent or vote of the holders of at least two-thirds of the voting
+power of all then outstanding shares of such Preferred Stock (voting together as a
+single class and not as separate series, and on an as-converted basis). Any such
+waiver shall bind all future holders of Preferred Stock.”
+
+THIRD: That thereafter said amendment was duly adopted in accordance with the
+provisions of Section 242 of the General Corporation Law by written consent of the stockholders
+holding the requisite number of shares required by statute given in accordance with and pursuant
+to Section 228 of the General Corporation Law.
+
+ae oK ok OF ok
+
+LIBC/4020319.1
+
+tae , soe r ’ eS me own ‘ ne ry ea or . ce
+IN WITNESS WHEREOF, this Certificate of Amendment of the Amended and
+Restated Certificate of Incorporation has been executed by a duly authorized officer of this
+corporation on this 10th day of March, 2011.
+
+M-Factor, Inc.
+
+By: /s/ Bruce Pagliuca
+Name: Bruce Pagliuca
+
+Title: Chief Executive Officer
+
+LIBC/4020319.1
+
+vem soe oe , Peep 4 oo. oOo . ce er) soe oe . coeurms 8 6

@@ -1,0 +1,1082 @@
+State of Delaware
+Secretary of State
+Division of Corporations
+Delivered 04:22 PM 12/06/2013
+FILED 04:02 PM 12/06/2013
+SRV 131390295 - 5399028 FILE
+
+CERTIFICATE OF INCORPORATION
+OF
+Al0 NETWORKS, INC.
+
+ARTICLE I
+The name of this corporation is Al0 Networks, Inc.
+ARTICLE fl
+
+The address of the corporation's registered office in the State of Delaware is 160 Greentree
+Drive, Suite 101, City of Dover, County of Kent, 19901. The name of the registered agent at such
+address is National Registered Agents, Inc.
+
+ARTICLE Il
+
+The purpose of this corporation is to engage in any lawful act or activity for which a
+corporation may be organized under the Delaware General Corporation Law, as the same exists or
+may hereafter be amended from time to time.
+
+ARTICLE IV
+The name and mailing address of the incorporator are as follows:
+
+Robert D. Cochran
+3 West Plumeria Drive
+San Jose, CA 95134
+
+ARTICLE V
+
+A. Authorized Stock. The corporation is authorized to issue a total of three hundred
+sixty million seven hundred forty-nine thousand nine hundred seventy-five (360,749,975) shares of
+stock, divided into two classes of stock to be designated, respectively, "Common Stock" and
+"Preferred Stock". The number of shares of Common Stock authorized to be issued is two hundred
+forty-six million (246,000,000) shares, $0.00001 par value per share. The number of shares of
+Preferred Stock authorized to be issued is one hundred fourteen million seven hundred forty-nine
+thousand nine hundred seventy-five (114,749,975) shares, $0.00001 par value per share, thirty-three
+million four hundred twenty-four thousand two hundred two (33,424,202) shares of which are
+designated as Series A Preferred Stock (the "Series A Preferred”), twenty-six million three hundred
+seven thousand six hundred forty-six (26,307,646) shares of which are designated as Series B
+Preferred Stock (the "Series B Preferred"), fifty-four million nine hundred three thousand one
+hundred twenty-seven (54,903,127) shares of which are designated as Series C Preferred Stock (the
+"Series C Preferred”) and one hundred fifteen thousand (115,000) shares of which are designated as
+Series D Preferred Stock (the "Series D Preferred"). It is the intention of the corporation that each
+share of Common Stock and Preferred Stock (and the holder thereof) shall receive the benefit of the
+rights, preferences and privileges relating to the Conversion Rights set forth in Section 3 of Article
+111.B. of the Amended and Restated Articles of Incorporation of Al0 Networks, Inc., a California
+corporation and predecessor to the corporation (the "Predecessor") (the "Predecessor Charter"),
+and any adjustment thereto, and the redemption rights set forth in Section 6 of Article III.B. of the
+Predecessor Charter and/or any adjustment or addition of cumulative dividends thereto, which, in
+each case, shall be carried over of a share of stock of the same class of the Predecessor from the
+applicable date of issuance of such share by the Predecessor as if such share of Common Stock or
+Preferred Stock was issued by the corporation (rather than the Predecessor) at such time. As a result,
+for purposes of Section 3 of Article V.B. and Section 6 of Article V.B. of this Certificate of
+Incorporation, (i) all references to the corporation shall be deemed to include the Predecessor and
+(ii) each share of stock issued by the corporation in connection with the exchange and conversion of
+the shares of the Predecessor’s capital stock for shares of the corporation’s capital stock pursuant to
+that certain Agreement and Plan of Merger between the corporation and the Predecessor, dated on or
+about the date of the filing of this Certificate of Incorporation, shall be deemed to have been issued
+on the date such share was issued by the Predecessor.
+
+B. Preferred Stock. The rights, powers, preferences, privileges and restrictions granted
+to and imposed on the Preferred Stock are as follows:
+
+1, Dividend Provisions. The holders of shares of Preferred Stock shall be
+entitled to receive dividends, pari passu to each other, at a rate of $0.012 per share of Series A
+Preferred per annum, $0.0204 per share of Series B Preferred per annum, $0.029784 per share of
+Series C Preferred per annum and $60.00 per share of Series D Preferred per annum (adjusted to
+reflect stock splits, stock dividends and recapitalizations), each payable out of funds legally available
+therefor. Such dividends shall not cumulatively accrue and shall be payable only when, as and if
+declared by the Board of Directors and shall be noncumulative. No dividends (other than those
+payable solely in Common Stock or other securities and rights convertible into or entitling the holder
+thereof to receive, directly or indirectly, additional shares of Common Stock of the corporation) shall
+be payable on any Common Stock of the corporation during any fiscal year of the corporation until
+dividends in the amount specified above per share (adjusted to reflect stock splits, stock dividends
+and recapitalizations) on the Series A Preferred, Series B Preferred, Series C Preferred and Series D
+Preferred shall have been paid or declared and set apart during that fiscal year. No dividend shall be
+paid on or declared and set apart for the shares of any series of Preferred Stock for any dividend
+period unless at the same time a like proportionate dividend for the same dividend period, ratably in
+proportion to the respective annual dividend rates fixed therefor, shall be paid on or declared and set
+apart for the shares of all other such series of Preferred Stock. After the holders of the Preferred
+Stock have received their dividend preference as set forth above, any dividends declared by the
+Board of Directors out of funds legally available therefor shall be shared equally among all
+outstanding shares on an as-converted basis. All references to currency amounts or other
+consideration shall be denominated in United States Dollars.
+
+2. Liquidation Preference.
+(a) Upon any Liquidity Event (as defined below), each holder of Preferred
+Stock shall be entitled to be paid, before any distribution or payment is made upon any holders of
+Common Stock, an amount in cash equal to the greater of:
+
+(i) The sum of
+
+(x) the aggregate Liquidation Preference of all shares of
+Preferred Stock then held by such holder, plus
+
+(y) an amount equal to a ratable portion of any assets and
+funds that remain for distribution in respect of Common Stock (and any Preferred Stock entitled to
+participate as a single class with the holders of Common Stock in such a distribution) after payment
+in full of all other amounts payable to the holders of Preferred Stock under this Article V other than
+on an as-if-converted basis as a single class with the Common Stock, which ratable portion shall be
+determined as if all of such holder's Preferred Stock (and all other shares of Preferred Stock) were
+converted into Common Stock immediately prior to such Liquidity Event;
+
+provided that in no event shall the amount paid pursuant to this clause (i) be greater than $0.50 per
+share of Series A Preferred, $0.85 per share of Series B Preferred, $1.241 per share of Series C
+Preferred, and $2,500.00 per share of the Series D Preferred; and
+
+(ii) The sum of:
+
+(x) all declared but unpaid dividends on each such share of
+Preferred Stock then held by such holder, plus
+
+(y) an amount equal to a ratable portion of any assets and
+funds that remain for distribution in respect of Common Stock (and any Preferred Stock entitled to
+participate as a single class with the holders of Common Stock in such a distribution) after payment
+in full of all other amounts payable to the holders of Preferred Stock under this Article V other than
+on an as-if-converted basis as a single class with the Common Stock, which ratable portion shall be
+determined as if all of such holder's Preferred Stock (and all other shares of Preferred Stock) were
+converted into Common Stock immediately prior to such Liquidity Event, in which event such
+holder of Preferred Stock shall not be entitled to any further payment in respect thereof.
+
+As used herein, "Liquidation Preference” means: (w) $0.20 with respect to each share of Series A
+Preferred, (x) $0.34 with respect to each share of Series B Preferred, (y) $0.4964 with respect to
+each share of Series C Preferred, and (z) $1,000 with respect to each share of Series D Preferred, in
+each case plus all declared but unpaid dividends on each such share of Preferred Stock. If, upon the
+occurrence of such a Liquidity Event, the assets and funds thus distributed among the holders of the
+Preferred Stock shall be insufficient to permit the payment to such holders of the full Liquidation
+Preference, then the entire assets and funds of the corporation legally available for distribution shall
+be distributed ratably among the holders of the Preferred Stock in proportion to the preferential
+amount each such holder is entitled to receive with respect to its Preferred Stock pursuant to this
+Section 2.
+(b) After the distributions described in Section 2(a) above have been paid
+in full, the remaining assets of the corporation available for distribution to stockholders shall be
+distributed among the holders of Common Stock pro rata based on the number of shares of Common
+Stock held by each such holder. For the avoidance of doubt, any holder of Preferred Stock electing
+to convert Preferred Stock into shares of Common Stock prior to the Liquidity Event shall not be
+entitled to the Liquidation Preference or any other amount otherwise payable under Section 2(a) with
+respect to such converted Preferred Stock, but shall have only the full rights under this Section 2(b)
+of a holder of the Common Stock issued upon such conversion.
+
+(c) If a Liquidity Event involves the payment by a successor or purchasing
+entity to the corporation's stockholders of consideration in whole or in part other than cash, then at
+the election of the Series D Majority the amounts payable to the holders of the Series D Preferred
+pursuant to this Section2 shall be paid in the same form of consideration that is paid to the
+corporation's other stockholders, and if any of the corporation's other stockholders are given an
+option as to the form of consideration to be received, then all holders of Series D Preferred shall be
+given the same option (with it being understood that the value of any such non-cash consideration
+shall be determined as provided in Section 2(e) of this Article V or, at the election of the Series D
+Majority, as may be provided in the definitive agreement(s) entered into in connection with any such
+Liquidity Event).
+
+(d) "Liquidity Event" shall mean (i) the acquisition of the corporation by
+another person by means of any transaction or series of related transactions to which the corporation
+is party (including, without limitation, any stock acquisition, reorganization, merger or
+consolidation), other than a transaction or series of related transactions in which the beneficial
+holders of the voting securities of the corporation outstanding immediately prior to such transaction
+or series of related transactions retain, immediately after such transaction or series of related
+transactions, as a result of shares in the corporation held by such holders prior to such transaction or
+series of related transactions, at least a majority of the total voting power represented by the
+outstanding voting securities of the corporation or such other surviving or resulting entity (or if the
+corporation or such other surviving or resulting entity is a wholly-owned subsidiary immediately
+following such acquisition, its parent) following such transaction or series of related transactions, (ii)
+a sale, lease or other disposition of all or substantially all of the assets of the corporation and its
+subsidiaries taken as a whole by means of any transaction or series of related transactions, except
+where such sale, lease or other disposition is to a wholly-owned subsidiary of the corporation or (iii)
+a liquidation, dissolution or winding up of the corporation, whether voluntary or involuntary.
+
+(e) Any securities to be delivered to the holders of the Preferred Stock
+and/or Common Stock pursuant to Section 2(c) above shall be valued as follows:
+
+(i) If traded on a securities exchange or a quotation system, the
+value shall be deemed to be the average of the closing prices of the securities on such exchange or
+quotation system over the 30-day period ending three (3) days prior to the closing of the Liquidity
+Event;
+(ii) If actively traded over-the-counter, the value shall be deemed
+to be the average of the closing bid prices over the 30-day period ending three (3) days prior to the
+closing of the Liquidity Event; and
+
+(iii) If there is no active public market, the value shall be the fair
+market value thereof at the closing of the Liquidity Event, as determined in good faith jointly by the
+Series D Majority and the Board of Directors of the corporation (without applying any marketability,
+minority or other discounts). If such parties are unable to reach agreement within a reasonable period
+of time, the fair value of such consideration shall be determined jointly by the Series D Majority and
+the Board of Directors of the corporation based on a recommendation by an independent appraiser
+(other than one of the "Big Four" accounting firms) experienced in valuing such type of
+consideration jointly selected by the corporation and the Series D Majority. The fees and expenses
+of such appraiser shall be borne by the corporation.
+
+(f) In the event of a Liquidity Event, if any portion of the consideration
+payable to the stockholders of the corporation is placed into escrow and/or is payable to the
+stockholders of the corporation subject to contingencies, then unless the Series D Majority waives
+such treatment, the purchase or merger or other agreement effecting such Liquidity Event shall
+provide that (i) the portion of such consideration that is not placed in escrow and not subject to any
+contingencies (the "Initial Consideration") shall be allocated among the holders of capital stock of
+the corporation as if the Initial Consideration were the only consideration payable in connection with
+such deemed Liquidity Event and (ii) any additional consideration which becomes payable to the
+stockholders of the corporation upon release from escrow or satisfaction of contingencies shall be
+allocated among the holders of capital stock of the corporation in accordance with Section 2 of this
+Article V after taking into account the previous payment of the Initial Consideration as part of the
+same transaction.
+
+3. Conversion. The holders of the Preferred Stock shall have conversion rights
+as follows (the "Conversion Rights"):
+
+(a) Right to Convert.
+
+(i) Each share of Series A Preferred shall be convertible, at the
+option of the holder thereof, at any time after the date of issuance of such share, at the office of the
+corporation or any transfer agent for such Series A Preferred, into such number of fully paid and
+nonassessable shares of Common Stock as is determined by dividing $0.20 for each share of
+Series A Preferred by the Conversion Price at the time in effect for such share (adjusted to reflect
+subsequent stock dividends, stock splits or recapitalizations). The initial Conversion Price for shares
+of Series A Preferred shall be $0.20 per share (the "Series A Conversion Price"). Each share of
+Series B Preferred shall be convertible, at the option of the holder thereof, at any time after the date
+of issuance of such share, at the office of the corporation or any transfer agent for such Series B
+Preferred, into such number of fully paid and nonassessable shares of Common Stock as is
+determined by dividing $0.34 for each share of Series B Preferred by the Conversion Price at the
+time in effect for such share (adjusted to reflect subsequent stock dividends, stock splits or
+recapitalizations). The initial Conversion Price for shares of Series B Preferred shall be $0.34 per
+share (the "Series B Conversion Price"). Each share of Series C Preferred shall be convertible, at
+
+5
+the option of the holder thereof, at any time after the date of issuance of such share, at the office of
+the corporation or any transfer agent for such Series C Preferred, into such number of fully paid and
+nonassessable shares of Common Stock as is determined by dividing $0.4964 for each share of
+Series C Preferred by the Conversion Price at the time in effect for such share (adjusted to reflect
+subsequent stock dividends, stock splits or recapitalizations). The initial Conversion Price for shares
+of Series C Preferred shall be $0.4964 per share (the "Series C Conversion Price"). Each share of
+Series D Preferred shall be convertible, at the option of the holder thereof, at any time after the date
+of issuance of such share, at the office of the corporation or any transfer agent for such Series D
+Preferred, into such number (the "Series D Conversion Ratio") of fully paid and nonassessable
+shares of Common Stock as is determined by dividing $1,000 for each share of Series D Preferred
+(the "Series D Purchase Price") by the Conversion Price at the time in effect for such share
+(adjusted to reflect subsequent stock dividends, stock splits or recapitalizations). The initial
+Conversion Price for shares of Series D Preferred shall be $2.2628 per share (the "Series D
+Conversion Price"). The Series A Conversion Price, Series B Conversion Price, Series C
+Conversion Price and Series D Conversion Price shall be subject to adjustment as set forth in
+subsection 3(c).
+
+(ii) | Each share of Preferred Stock shall automatically be converted
+into shares of Common Stock at the then effective Conversion Price upon the consummation of the
+corporation's sale of its Common Stock in a bona fide, firm commitment underwriting pursuant to a
+registration statement under the Securities Act of 1933, as amended (the "Securities Act"), which
+results in aggregate gross cash proceeds to the corporation in excess of $10,000,000 and the public
+offering price (before deducting commissions, discounts or expenses) of which is not less than $5.00
+per share (adjusted to reflect subsequent stock dividends, stock splits or recapitalizations)
+("Qualified Offering"). In the event of the automatic conversion of the Preferred Stock upon a
+Qualified Offering as set forth above, the person(s) entitled to receive the Common Stock issuable
+upon such conversion of Preferred Stock shall not be deemed to have converted such Preferred Stock
+until immediately prior to the closing of such sale of securities.
+
+(iii) | Notwithstanding anything in this section to the contrary, in the
+event of a Qualified Offering or the corporation's initial sale of its Common Stock in a bona fide,
+firm commitment underwriting pursuant to a registration statement under the Securities Act in which
+all of the Series D Preferred are converted to Common Stock (each an "IPO Preference Triggering
+Offering"), each holder of Series D Preferred shall be entitled to receive for each share of Series D
+Preferred then held by them (in addition to the Common Stock issuable upon the automatic
+conversion of the Series D Preferred pursuant to subsection 3(a)(ii)) an amount per share equal to the
+product obtained by multiplying:
+
+(A) _ the Series D Conversion Ratio by
+
+(B) (x) the product obtained by multiplying the Series D
+Conversion Price (as adjusted for stock splits, stock dividends, reclassifications, combinations,
+reorganizations and the like) by the Series D Multiple (as determined below) minus (y) the IPO Price
+(as defined below), (such payment the "Series D IPO Preference Payment").
+In no event, however, shall the Series D IPO Preference Payment be (i) less than zero (0) or (ii)
+greater than the Series D IPO Preference Maximum Payment (as determined below) per share. The
+Series D IPO Preference Payment shall be payable, at the election of the corporation, in cash, shares
+of Common Stock (which shall be valued at the IPO Price) or a combination of cash and shares of
+Common Stock (which shall be valued at the IPO Price).
+
+(iv) "IPO Price" shall mean the public offering price per share
+(before deducting commissions, discounts or expenses) of the IPO Preference Triggering Offering.
+
+(v) The "Series D Multiple” shall be determined as follows:
+
+(A) in the event that the consummation of an {PO
+Preference Triggering Offering occurs on or prior to June 27, 2014, then the Series D Multiple shall
+be 1.5;
+
+(B) in the event that the consummation of an IPO
+Preference Triggering Offering occurs after June 27, 2014 but on or prior to June 27, 2015, then the
+Series D Multiple shall be equal to 1.5 p/us the product of (x) 0.5 and (y) a fraction, the numerator of
+which is the number of days elapsed between June 27, 2014 and the date of the consummation of the
+IPO Preference Triggering Offering, and the denominator of which is 365; or
+
+(C) in the event that the consummation of an IPO
+Preference Triggering Offering occurs on or after June 27, 2015, then the Series D Multiple shall be
+2.0.
+
+(vi) The "Series D IPO Preference Maximum Payment" shall be
+equal to the product obtained by multiplying:
+
+(A) _ the Series D Conversion Ratio by
+
+(B) (x) the then-current Series D Conversion Price minus
+(y) $1.68394 (adjusted to reflect subsequent stock dividends, stock splits or recapitalizations).
+
+(b) Mechanics of Conversion. Before any holder of Preferred Stock shall
+be entitled to convert the same into shares of Common Stock, he shall surrender the certificate or
+certificates therefor, duly endorsed, at the office of the corporation or of any transfer agent for such
+stock, and shall give written notice by mail, postage prepaid, to the corporation at its principal
+corporate office, of the election to convert the same and shall state therein the name or names in
+which the certificate or certificates for shares of Common Stock are to be issued. The corporation
+shall, as soon as practicable thereafter, (i) issue and deliver at such office to such holder of Preferred
+Stock, or to the nominee or nominees of such holder, a certificate or certificates for the number of
+shares of Common Stock to which such holder shall be entitled as aforesaid, (ii) cash in an amount
+of all declared and unpaid dividends on the shares of Preferred Stock converted and (iii) if
+applicable, cash as required pursuant to the last sentence of Section 3(g)(i). If the corporation is not
+permitted under applicable law to pay any portion of any accrued or declared and unpaid dividends
+on the Preferred Stock being converted, the corporation shall pay such dividends to the converting
+
+7
+holder as soon thereafter as funds of the corporation are legally available for such payment. At the
+request of any such converting holder, the corporation shall provide such holder with written
+evidence of its obligation to pay such dividends to such holder. Such conversion shal} be deemed to
+have been made immediately prior to the close of business on the date of such surrender of the
+shares of Preferred Stock to be converted, and the person or persons entitled to receive the shares of
+Common Stock issuable upon such conversion shall be treated for all purposes as the record holder
+or holders of such shares of Common Stock as of such date. If the conversion is in connection with
+an underwritten offer of securities registered pursuant to the Securities Act, the conversion will be
+conditioned upon the closing with the underwriter of the sale of securities pursuant to such offering,
+unless otherwise designated in writing by the holders of such Preferred Stock, in which event the
+person(s) entitled to receive the Common Stock issuable upon such conversion of the Preferred
+Stock shall not be deemed to have converted such Preferred Stock until immediately prior to the
+closing of such sale of securities.
+
+(c) Conversion Price Adjustments of Preferred Stock. The Conversion
+Price of the Preferred Stock shall be subject to adjustment from time to time as follows:
+
+(i) (A) _ If(1) the Predecessor, at any time or from time to time
+after June 27, 2013 or (2) the corporation, at any time or from time to time after the date of the first
+issuance of shares of Series D Preferred (either such date, as applicable, the "Series D Original
+Issue Date"), shall issue any Additional Stock (as defined below) without consideration or for a
+consideration per share less than the Series A Conversion Price with respect to the Series A
+Preferred, the Series B Conversion Price with respect to the Series B Preferred, the Series C
+Conversion Price with respect to the Series C Preferred or the Series D Conversion Price with
+respect to the Series D Preferred, in effect on the date of and immediately prior to the issuance of
+such Additional Stock, then and in such event, the Series A Conversion Price, the Series B
+Conversion Price, the Series C Conversion Price or the Series D Conversion Price, as applicable,
+shall be reduced concurrently with such issuance, to a price determined by multiplying such
+Conversion Price by a fraction, the numerator of which shall be the number of shares of Common
+Stock outstanding and the number of shares of Common Stock issuable upon the conversion of the
+shares of Preferred Stock outstanding immediately prior to such issuance plus the number of shares
+of Common Stock which the aggregate consideration received by the corporation for the total
+number of shares of Additional Stock so issued would purchase at such Conversion Price, and the
+denominator of which shall be the number of shares of Common Stock outstanding and the number
+of shares of Common Stock issuable upon the conversion of the shares of Preferred Stock
+outstanding immediately prior to such issuance plus the number of such shares of Additional Stock
+so issued. The "Effective Price" of Additional Stock shall mean the quotient determined by
+dividing the total number of Additional Stock issued or sold, or under subsection 3(c)(i)(E) deemed
+to have been issued or sold, into the aggregate consideration received or under subsection 3(c)(i)(C)
+or 3(c)(i)(D) deemed to have been received by the corporation for such Additional Stock. For the
+purposes of this subsection and subsections (v) and (vi) below, the number of shares of Common
+Stock outstanding immediately prior to such issue shall be calculated on a fully diluted basis, as if all
+shares of Preferred Stock and all convertible securities had been fully converted into shares of
+Common Stock immediately prior to such issuance and any outstanding warrants, options or other
+rights for the purchase of shares of stock or convertible securities had been fully exercised
+immediately prior to such issuance (and the resulting securities fully converted into shares of
+
+8
+Common Stock, if so convertible) as of such date, but not including in such calculation any
+additional shares of Common Stock issuable with respect to shares of Preferred Stock, convertible
+securities, or outstanding options, warrants or other rights for the purchase of shares of stock or
+convertible securities, solely as a result of the adjustment of the Series A Conversion Price, Series B
+Conversion Price, Series C Conversion Price or Series D Conversion Price, as the case may be, (or
+other conversion ratios) resulting from the issuance of the Additional Stock causing the adjustment
+in question. Immediately after any Additional Stock is deemed issued, such Additional Stock shall
+be deemed to be outstanding.
+
+(B) No adjustment of the Conversion Price for the Preferred
+Stock shall be made in an amount less than one cent per share, provided that any adjustments which
+are not required to be made by reason of this sentence shall be carried forward and shall be either
+taken into account in any subsequent adjustment made prior to 3 years from the date of the event
+giving rise to the adjustment being carried forward, or shall be made at the end of 3 years from the
+date of the event giving rise to the adjustment being carried forward. Except to the limited extent
+provided for in subsections (E)(3) and (E)(4), no adjustment of the Conversion Price pursuant to this
+subsection 3(c)(i) shall have the effect of increasing the Conversion Price above the Conversion
+Price in effect immediately prior to such adjustment.
+
+(C) In the case of the issuance of Common Stock for cash,
+the consideration shall be deemed to be the amount of cash paid therefor before deducting any
+reasonable discounts, commissions or other expenses allowed, paid or incurred by the corporation
+for any underwriting or otherwise in connection with the issuance and sale thereof.
+
+(D) In the case of the issuance of the Common Stock for a
+consideration in whole or in part other than cash, the consideration other than cash shall be deemed
+to be the fair value thereof as determined by the Board of Directors irrespective of any accounting
+treatment.
+
+(E) In the case of the issuance, whether before, on or after
+the Series D Original Issue Date, of options to purchase or rights to subscribe for Common Stock,
+securities by their terms convertible into or exchangeable for Common Stock or options to purchase
+or rights to subscribe for such convertible or exchangeable securities (which are not excluded from
+the definition of Additional Stock), the following provisions shall apply:
+
+1, The aggregate maximum number of shares of
+Common Stock deliverable upon exercise of such options to purchase or rights to subscribe for
+Common Stock shall be deemed to have been issued at the time such options or rights were issued
+and for a consideration equal to the consideration (determined in the manner provided in subsections
+3(c)(i)(C) and 3(c)(i)(D)), if any, received by the corporation upon the issuance of such options or
+rights plus the minimum purchase price provided in such options or rights for the Common Stock
+covered thereby.
+
+2. The aggregate maximum number of shares of
+Common Stock deliverable upon conversion of or in exchange for any such convertible or
+exchangeable securities or upon the exercise of options to purchase or rights to subscribe for such
+
+9
+convertible or exchangeable securities and subsequent conversion or exchange thereof shall be
+deemed to have been issued at the time such securities were issued or such options or rights were
+issued and for a consideration equal to the consideration, if any, received by the corporation for any
+such securities and related options or rights (excluding any cash received on account of accrued
+interest or accrued dividends), plus the additional consideration, if any, to be received by the
+corporation upon the conversion or exchange of such securities or the exercise of any related options
+or rights (the consideration in each case to be determined in the manner provided in subsections
+
+3(c)(i(C) and 3(c)(i)(D)).
+
+3. In the event of any change in the number of
+shares of Common Stock deliverable or any increase in the consideration payable to the corporation
+upon exercise of such options or rights or upon conversion of or in exchange for such convertible or
+exchangeable securities, including, but not limited to, a change resulting from the antidilution
+provisions thereof, the Conversion Price of the Preferred Stock obtained with respect to the
+adjustment which was made upon the issuance of such options, rights or securities, and any
+subsequent adjustments based thereon, shall be recomputed to reflect such change, but no further
+adjustment shall be made for the actual issuance of Common Stock or any payment of such
+consideration upon the exercise of any such options or rights or the conversion or exchange of such
+securities.
+
+4, Other than issuances made pursuant to Section
+3(c)(ii)(B) (for which no adjustment shall be made under this Section 3(c)(1)(E)(4)), upon the
+expiration of any such options or rights, the termination of any such rights to convert or exchange or
+the expiration of any options or rights related to such convertible or exchangeable securities, the
+Conversion Price of the Preferred Stock obtained with respect to the adjustment which was made
+upon the issuance of such options, rights or securities or options or rights related to such securities,
+and any subsequent adjustments based thereon, shall be recomputed to reflect the issuance of only
+the number of shares of Common Stock actually issued upon the exercise of such options or rights,
+upon the conversion or exchange of such securities or upon the exercise of the options or rights
+related to such securities. Other than issuances made pursuant to Section 3(c)(ii)(B) (for which no
+adjustment shall be made under this Section 3(c)(i)(E)(4)), upon the expiration of any such options
+or rights, the termination of any such rights to convert or exchange or the expiration of any options
+or rights related to such convertible or exchangeable securities, only the number of shares of
+Common Stock actually tssued upon the exercise of such options or rights, upon the conversion or
+exchange of such securities or upon the exercise of the options or rights related to such securities
+shall continue to be deemed to be issued.
+
+5. All Common Stock deemed issued pursuant to
+this subsection 3(c)(i)(E) shall be considered issued only at the time of its deemed issuance and any
+actual issuance of such stock shall not be an actual issuance or a deemed issuance of the
+corporation's Common Stock under the provisions of this Section 3; provided however, that in the
+case of any options to purchase or rights to subscribe for Common Stock which expire by their terms
+not more than 30 days after the date of issue thereof (other than issuances made pursuant to Section
+3(c)(ii)(B) (for which no adjustment shall be made under Section 3(c)(i)(E)(4))), no adjustment of
+the Conversion Price shall be made until the expiration or exercise of all such options or rights,
+whereupon such adjustment shall be made in the same manner provided in subsection (E)(4) above.
+
+10
+(ii) "Additional Stock" shall mean any shares of Common Stock
+issued (or deemed to have been issued pursuant to subsection 3(c){i)(E)) by the corporation after the
+Series D Original Issue Date (which, for the avoidance of doubt, as used in this Certificate of
+Incorporation shall include any shares of common stock issued by the Predecessor after June 27,
+2013), other than shares of Common Stock issued or issuable:
+
+(A) pursuant to a transaction described in subsection
+3(c)(iit) hereof,
+
+(B) as incentive compensation to employees, consultants or
+directors of this corporation pursuant to a stock option plan or restricted stock plan approved by the
+Board of Directors of this corporation, subject to a maximum of 10,557,051 additional shares of
+Common Stock issued or issuable (determined on a net basis taking into account shares, options or
+other convertible securities that are forfeited for no consideration or repurchased at the original cost
+thereof),
+
+(C) to banks, equipment lessors or landlords, provided such
+issuances are for other than equity financing purposes,
+
+(D) — for which adjustment of the Conversion Price is made
+pursuant to this Section 3,
+
+(E) —_ upon conversion of the Preferred Stock,
+
+(F) pursuant to the payment of the Series D IPO Preference
+Payment,
+
+(G) pursuant to the acquisition of another entity by the
+corporation by merger, purchase of substantially all of the assets or other reorganization or to a joint
+venture agreement, provided, that such issuances are approved by the Series D Majority,
+
+(H) in connection with any settlement of any action, suit,
+proceeding or litigation approved by the Series D Majority,
+
+(1) in connection with sponsored research, collaboration,
+technology license, development, OEM, marketing or other similar agreements or strategic
+partnerships approved by the Series D Majority,
+
+(J) to suppliers or third party service providers in
+connection with the provision of goods or services pursuant to transactions approved by the Series D
+Majority,
+
+(K) in connection with the issuance of the Additional
+Brocade Stock (as defined below), the Brocade Warrant or the first security convertible into
+Additional Brocade Stock (other than the Brocade Warrant) or
+(L) (i) in a bona fide, firmly underwritten public offering of
+shares of Common Stock before or in connection with which al! outstanding shares of Preferred
+Stock are converted to Common Stock, or (ii) upon exercise of warrants or rights granted to
+underwriters in connection with such a public offering, which warrants or rights are unanimously
+approved by the Board of Directors.
+
+(iii) In the event the corporation should at any time or from time to
+time after the Series D Original Issue Date fix a record date for the effectuation of a split or
+subdivision of the outstanding shares of Common Stock or the determination of holders of Common
+Stock entitled to receive a dividend or other distribution payable in additional shares of Common
+Stock or other securities or rights convertible into, or entitling the holder thereof to receive directly
+or indirectly, additional shares of Common Stock (hereinafter referred to as "Common Stock
+Equivalents") without payment of any consideration by such holder for the additional shares of
+Common Stock or the Common Stock Equivalents (including the additional shares of Common
+Stock issuable upon conversion or exercise thereof), then, as of such record date (or the date of such
+dividend distribution, split or subdivision if no record date is fixed), the Conversion Price of the
+Preferred Stock shall be appropriately decreased so that the number of shares of Common Stock
+issuable on conversion of each share of such series shall be increased in proportion to such increase
+of the aggregate shares of Common Stock outstanding and those issuable with respect to such
+Common Stock Equivalents.
+
+(iv) If the number of shares of Common Stock outstanding at any
+time after the Series D Original Issue Date is decreased by a combination of the outstanding shares
+of Common Stock, then, following the record date of such combination, the Conversion Price for the
+Preferred Stock shall be appropriately increased so that the number of shares of Common Stock
+issuable on conversion of each share of such series shall be decreased in proportion to such decrease
+in outstanding shares.
+
+(v) If the corporation, at any time or from time to time after the
+Series D Original Issue Date, shall issue additional shares of Series D Preferred at the same price
+that Series D Preferred was issued to the initial holder of the first share of Series D Preferred issued
+(the "Additional Brocade Stock") to Brocade Communications Systems, Inc. or its affiliates (or
+their designees) (collectively "Brocade"), the Series D Conversion Price shall be reduced
+concurrently with such issuance, to a price equal to the difference of:
+
+(A) The Series D Conversion Price immediately prior to
+such event, minus
+
+(B) The quotient of (x) the aggregate consideration received
+by the corporation (which consideration may include, without limitation, cancellation of
+indebtedness pursuant to the terms of any settlement agreement with Brocade) for the total number
+of shares of Additional Brocade Stock so issued taking into account the adjustment to the Series D
+Conversion Price pursuant to this Section 3(c)(v) (the "Brocade Investment Amount"), divided by
+(y) 190,029,098.
+It is the intention of the corporation and the holders of the Series D Preferred that the aggregate
+percentage ownership represented by the Series D Preferred as of each of (i) the Series D Original
+Issue Date and (ii) September 30, 2013 (the "Second Series D Issue Date"), should (all else equal
+(i.e., assuming no other issuances or repurchases of capital stock of the corporation)) be no less
+because of the issuance of the Additional Brocade Stock. If, other than the issuance of Additional
+Brocade Stock in accordance with the terms herein, the corporation issues any other capital stock to
+Brocade, whether pursuant to (1) issuance of Common Stock or another series of preferred stock of
+the corporation or (2) warrants or options to acquire capital stock of the corporation, the Series D
+Conversion Price shall be appropriately reduced to an amount which reflects an underlying common
+percentage ownership assuming that no such issuances occurred; provided, that, with respect to the
+first warrant issued to Brocade (the "Brocade Warrant"), the capital stock issuable pursuant to the
+Brocade Warrant shall not be deemed to be issued until such time as the Brocade Warrant becomes
+exercisable pursuant to its terms. If the corporation issues any other capital stock in an amount up to
+$15,000,000 in order to avoid a default under the corporation's credit facilities, whether issued to
+existing holders of Series D Preferred or not or whether pursuant to (1) issuance of Common Stock
+or another series of preferred stock of the corporation or (2) warrants or options to acquire capital
+stock of the corporation, the Series D Conversion Price shall be appropriately reduced to an amount
+which reflects an underlying common percentage ownership assuming that no such issuances
+occurred (and other appropriate adjustments to this Certificate of Incorporation shall be made
+consistent with such adjustment). No adjustment of the Series D Conversion Price for the Series D
+Preferred Stock shall be made in an amount less than one cent per share, provided that any
+adjustments which are not required to be made by reason of this sentence shall be carried forward
+and shall be either taken into account in any subsequent adjustment made prior to 3 years from the
+date of the event giving rise to the adjustment being carried forward, or shall be made at the end of 3
+years from the date of the event giving rise to the adjustment being carried forward.
+
+(vi) If the corporation, (a) at any time after the issuance of
+Additional Brocade Stock, if any is issued, or (b) at any time after the date that is 30 days following
+June 27, 2013, but in each case on or prior to September 30, 2013, shall repurchase up to an
+aggregate of $40,000,000 of shares of Series A Preferred, Series B Preferred or Series C Preferred at
+a purchase price per share not to exceed the then-current Series D Conversion Price from holders
+thereof but only in a transaction in which, and only to the extent that, the 2013 Repurchase Shares
+(as defined below) are repurchased with proceeds from the issuance of additional Series D Preferred
+after June 27, 2013 (other than the Additional Brocade Stock, if any) in connection with such
+repurchase (and which Series D Preferred shall be issued prior to the 2013 Repurchase) (the "2013
+Repurchase"), the Series D Conversion Price shall be increased, concurrently with such repurchase,
+to a price equal to the quotient of (assuming no other issuances of capital stock since the Second
+Series D Issue Date other than the Additional Brocade Stock, if any):
+
+(A) — The difference of:
+
+(x) the Series D Conversion Price in effect
+immediately prior to such repurchase multiplied by 190,029,098, minus
+
+(y) the aggregate dollar amount paid to repurchase
+shares of Preferred Stock in the 2013 Repurchase (the "2013 Repurchase Dollars"), divided by
+
+13
+(B) ‘The difference of:
+(x) 190,029,098, minus
+
+{y) the aggregate number of shares of Common Stock issuable upon conversion of the
+shares of Preferred Stock repurchased pursuant to the 2013 Repurchase (the "2013 Repurchase
+Shares"),
+
+It is the intention of the corporation and the holders of Series D Preferred that the aggregate
+percentage ownership represented by the Series D Preferred immediately following the 2013
+Repurchase shall not be greater than such aggregate percentage ownership immediately prior to the
+2013 Repurchase (all else equal including without taking into account any additional Series D
+Preferred purchased or otherwise acquired simultaneously with the 2013 Repurchase). No
+adjustment of the Series D Conversion Price for the Series D Preferred shall be made in an amount
+less than one cent per share, provided that any adjustments which are not required to be made by
+reason of this sentence shall be carried forward and shall be either taken into account in any
+subsequent adjustment made prior to 3 years from the date of the event giving rise to the adjustment
+being carried forward, or shall be made at the end of 3 years from the date of the event giving rise to
+the adjustment being carried forward.
+
+(vii) The Series D Conversion Price shall be subject to further
+adjustment but only prior to an IPO if the corporation recognizes revenue (as determined in
+accordance with generally accepted accounting principles in the United States in effect as of
+December 31, 2013) of at least $160,000,000 for its fiscal year ending December 31, 2013, as
+indicated in its audited financial statements for such fiscal year (such event, the "Performance
+Target Achievement”).
+
+Upon the occurrence of the Performance Target Achievement (which event shall not be deemed to
+occur, if at all, until the issuance by the corporation's independent registered public accounting firm
+of its report on the corporation's audited financial statements for the fiscal year ending December 31,
+2013 consistent with past practice), the Series D Conversion Price shall be increased to a price equal
+to the quotient of {assuming no other issuances or repurchases of capital stock since the Second
+Series D Issue Date other than the Additional Brocade Stock and the 2013 Repurchase Shares, if
+any):
+
+(x) 460,000,000 (x) minus the Brocade Investment Amount
+(y) minus the 2013 Repurchase Dollars, divided by
+
+(y) 190,029,098 minus the 2013 Repurchase Shares.
+
+No adjustment of the Series D Conversion Price for the Series D Preferred shall be made in
+an amount less than one cent per share, provided that any adjustments which are not required to be
+made by reason of this sentence shall be carried forward and shall be either taken into account in any
+subsequent adjustment made prior to 3 years from the date of the event giving rise to the adjustment
+being carried forward, or shall be made at the end of 3 years from the date of the event giving rise to
+the adjustment being carried forward.
+
+14
+(d) Other Distributions. In the event the corporation shall declare a
+distribution payable in securities of other persons, evidences of indebtedness issued by the
+corporation or other persons, assets (excluding cash dividends) or options or rights not referred to in
+subsection 3(c)(iit), then, in each such case for the purpose of this subsection 3(d), the holders of the
+Preferred Stock shall be entitled to a proportionate share of any such distribution as though they
+were the holders of the number of shares of Common Stock of the corporation into which their
+shares of Preferred Stock are convertible as of the record date fixed for the determination of the
+holders of Common Stock of the corporation entitled to receive such distribution.
+
+(e) Recapitalizations. If at any time or from time to time there shall be a
+recapitalization of the Common Stock (other than a subdivision, combination or merger or sale of
+assets transaction provided for elsewhere in Sections 2 or 3) provision shall be made so that the
+holders of the Preferred Stock shall thereafter be entitled to receive upon conversion of the Preferred
+Stock the number of shares of stock or other securities or property of the corporation or otherwise, to
+which a holder of Common Stock deliverable upon conversion would have been entitled on such
+recapitalization. In any such case, appropriate adjustment shall be made in the application of the
+provisions of this Section 3 with respect to the rights of the holders of the Preferred Stock after the
+recapitalization to the end that the provisions of this Section 3 (including adjustment of the
+Conversion Price then in effect and the number of shares purchasable upon conversion of the
+Preferred Stock) shall be applicable after that event as nearly equivalent as may be practicable.
+
+(f) No Impairment; Governmental Filings. The corporation will not, by
+
+amendment of its Certificate of Incorporation or through any reorganization, recapitalization,
+transfer of assets, consolidation, merger, dissolution, issue or sale of securities or any other voluntary
+action, avoid or seek to avoid the observance or performance of any of the terms to be observed or
+performed under this Certificate of Incorporation by the corporation, but will at all times in good
+faith assist in the carrying out of all the provisions of this Section 3 and in the taking of all such
+action as may be necessary or appropriate in order to protect the Conversion Rights of the holders of
+the Preferred Stock against impairment. For the avoidance of doubt, the foregoing shall not restrict
+or limit the corporation from amending this Certificate of Incorporation in accordance with the
+Delaware General Corporation Law. The corporation shall assist and cooperate with any holder of
+Preferred Stock required to make any governmental filings or obtain any governmental approval
+prior to or in connection with any conversion of shares of Preferred Stock hereunder (including,
+without limitation, making any filings required to be made by the corporation).
+
+(g) No Fractional Shares and Certificate as to Adjustments.
+
+(i) No fractional shares shall be issued upon conversion of the
+Preferred Stock. Whether or not fractional shares are issuable upon such conversion shall be
+determined on the basis of the total number of shares of Preferred Stock the holder is at the time
+converting into Common Stock and the number of shares of Common Stock issuable upon such
+aggregate conversion. In lieu of any fractional share to which any holder would otherwise be
+entitled upon conversion of some or all of the Preferred Stock owned by such holder, the corporation
+shall pay cash equal to such fraction multiplied by the fair value thereof as determined in good faith
+by the Board of Directors.
+(ii) | Upon the occurrence of each adjustment or readjustment of any
+Conversion Price of Preferred Stock pursuant to this Section 3, the corporation, at its expense, shall
+promptly compute such adjustment or readjustment in accordance with the terms hereof and prepare
+and furnish to each holder of Preferred Stock a certificate setting forth such adjustment or
+readjustment and showing in detail the facts upon which such adjustment or readjustment is based.
+The corporation shall, upon the written request at any time of any holder of Preferred Stock, furnish
+or cause to be furnished to such holder a like certificate setting forth (A) such adjustment and
+readjustment, (B) the Conversion Price at the time in effect, and (C) the number of shares of
+Common Stock and the amount, if any, of other property which at the time would be received upon
+the conversion of a share of Preferred Stock.
+
+(h) Notices of Record Date. In the event of any taking by the corporation
+of a record of the holders of any class of securities for the purpose of determining the holders thereof
+who are entitled to receive any dividend (other than a cash dividend) or other distribution, any right
+to subscribe for, purchase or otherwise acquire any shares of stock of any class or any other
+securities or property, or to receive any other right, the corporation shall mail to each holder of
+Preferred Stock, at least 20 days prior to the date specified therein, a notice specifying the date on
+which any such record is to be taken for the purpose of such dividend, distribution or right, and the
+amount and character of such dividend, distribution or right.
+
+(i) Reservation of Stock Issuable Upon Conversion. The corporation
+
+shall at all times reserve and keep available out of its authorized but unissued shares of Common
+Stock solely for the purpose of effecting the conversion of the shares of the Preferred Stock such
+number of its shares of Common Stock as shall from time to time be sufficient to effect the
+conversion of all outstanding shares of the Preferred Stock; and if at any time the number of
+authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion of
+all then outstanding shares of the Preferred Stock, in addition to such other remedies as shall be
+available to the holder of such Preferred Stock, the corporation will take such corporate action as
+may, in the opinion of its counsel, be necessary to increase its authorized but unissued shares of
+Common Stock to such number of shares as shall be sufficient for such purposes. All shares of
+Common Stock which are so issuable shall, when issued, be duly and validly issued, fully paid and
+nonassessable and free from all taxes, liens, charges and encumbrances.
+
+(j) Notices. Any notice required by the provisions of this Section 3 to be
+given to the holders of shares of Preferred Stock shall be sent by airmail, postage prepaid, and
+addressed to each holder of record at his address appearing on the books of the corporation, and shall
+be deemed given ten (10) days after deposit.
+
+4. Voting Rights.
+
+(a) Each holder of shares of Preferred Stock shall be entitled to the
+number of votes equal to the number of shares of Common Stock into which such Preferred Stock
+could then be converted (with any fractional share determined on an aggregate conversion basis
+being rounded to the nearest whole share), and with respect to such vote, such holder shall have full
+voting rights and powers equal to the voting rights and powers of the holders of Common Stock
+(except as otherwise expressly provided herein or as required by law, voting together with holders of
+
+16
+Common Stock, with respect to any question upon which holders of Common Stock have the right to
+vote), and shall be entitled, notwithstanding any provision hereof, to notice of any stockholders’
+meeting in accordance with the by-laws of the corporation.
+
+(b) The Board of Directors shall consist of six (6) directors. The holders
+of Series A Preferred, Series B Preferred and Series C Preferred, voting together as a single class on
+an as-if-converted basis, shall be entitled to elect two (2) directors. The holders of Series D
+Preferred, voting together as a single class on an as-if-converted basis, shall be entitled to elect one
+(1) director. The holders of the Common Stock, voting together as a single class, shall be entitled to
+elect two (2) directors. The holders of Common Stock and Preferred Stock, voting together on an
+as-if-converted basis, shall be entitled to elect the remaining director.
+
+(c) Vacancies and newly created directorships resulting from any increase
+in the authorized number of directors elected by all of the stockholders having the right to vote as a
+single class may be filled by a majority of the directors then in office, although less than a quorum,
+or by a sole remaining director. Whenever the holders of any class or classes of stock or series
+thereof are entitled to elect one or more directors by the provisions of the certificate of incorporation,
+vacancies and newly created directorships of such class or classes or series may be filled by a
+majority of the directors elected by such class or classes or series thereof then in office, or by a sole
+remaining director so elected.
+
+5, Protective Provisions.
+
+(a) So long as shares of Preferred Stock are outstanding, the corporation
+shall not without first obtaining the approval (by vote or written consent, as provided by law) of the
+holders of at least a majority of the then outstanding shares of Preferred Stock, voting together as a
+separate class on an as-if-converted basis:
+
+(i) | amend or repeal any provision of, or add any provision to, the
+corporation's Certificate of Incorporation if such action would materially and adversely alter or
+change the rights, preferences or privileges or powers of, or the restrictions provided for the benefit
+of the Preferred Stock;
+
+(ii) authorize or issue any new class or series of stock having any
+preference or priority as to dividends or assets superior to or on a parity with any such preference or
+priority of the Preferred Stock; or
+
+(iii) consummate a Liquidity Event.
+
+(b) So long as shares of Series D Preferred are outstanding, the
+corporation shall not without first obtaining the approval (by vote or written consent, as provided by
+law) of the holders of at least a majority of the then outstanding shares of Series D Preferred (the
+"Series D Majority"), voting as a separate class:
+
+(i) amend or repeal any provision of, or add any provision to, the
+corporation's Certificate of Incorporation if such action would adversely alter or change the rights,
+
+17
+preferences or privileges or powers of, or the restrictions provided for the benefit of the Series D
+Preferred in a manner that affects the Series D Preferred differently from any of the other series of
+Preferred Stock;
+
+(ii) consummate a Liquidity Event, other than (A) a bona fide,
+firmly underwritten public offering of shares of Common Stock or (B) a Liquidity Event in which
+the consideration to be received by the holders of Series D Preferred will (1) be of the same form (or
+option as to form) of consideration to be received as the holders of Series A Preferred, Series B
+Preferred and Series C Preferred and (2) include cash and/or freely and immediately tradable
+securities of a publicly-traded issuer valued at least $2,000 per share (as adjusted to reflect
+subsequent stock dividends, stock splits or recapitalizations) (without taking into account the effects
+of any escrow or hold-back provisions for breaches of representations, warranties, covenants and the
+like) (any such transaction, a "Qualifying Sale");
+
+(iii) enter into, amend, modify or supplement, or waive any
+provisions of, or permit any of its subsidiaries to enter into, amend, modify or supplement, or waive
+any provisions of, any agreement, transaction, commitment or arrangement with any officer, director
+or any holder of five percent (5%) or more of the corporation's outstanding capital stock (or any
+member of such person's immediate family), unless such transaction is a compensatory arrangement
+entered into in the ordinary course of business and consistent with past practice;
+
+(iv) authorize or issue any shares of capital stock (including any
+new class or series of stock) having any preference or priority as to dividends or assets superior to or
+on a parity with any such preference or priority of the Series A Preferred, Series B Preferred, Series
+C Preferred or Series D Preferred, including the issuance of any Series D Preferred; provided,
+however, that the restrictions in this Section 5(b){iv) shall not apply to the issuance of the Additional
+Brocade Stock (i) on terms no more favorable than the terms provided to the initial holder of the first
+share of Series D Preferred issued or (ii) pursuant to the Brocade Warrant, in each case so long as the
+applicable adjustment to the Series D Conversion Price is made pursuant to Section 3(c)(v);
+
+(v) borrow or incur indebtedness for borrowed money (including
+by assumption or guaranty of indebtedness of any other person) other than pursuant to any definitive
+written agreement or debt facility in effect on or prior to June 27, 2013 (not taking into account
+amendments thereto); for the avoidance of any doubt, trade debt, credit card debt, capital leases and
+other similar debt incurred in the ordinary course of business and consistent with past practice shall
+not be deemed to be borrowed money for the purposes of this subsection;
+
+(vi) enter into, or permit any of its subsidiaries to enter into, any
+settlement or similar agreement involving payment by the corporation or its subsidiaries in excess of
+$2,000,000 or involving payment by the corporation or its subsidiaries of non-cash consideration;
+
+(vii) | acquire, or permit any of its subsidiaries to acquire, any interest
+in any company or business (whether by a purchase of assets, purchase of stock or other equity
+interests, merger or otherwise), except any such acquisition where (together with any related
+acquisitions) the aggregate consideration payable by the corporation and its subsidiaries (including
+
+18
+the assumption of liabilities, whether direct or indirect) does not exceed $50,000,000, or enter into,
+or permit any of its subsidiaries to enter into, any joint venture; or
+
+(vili) directly or indirectly:
+
+(A) redeem, repurchase or otherwise reacquire, or permit
+any of its subsidiaries to redeem, purchase or otherwise reacquire, any of the corporation's or any
+subsidiary's capital or membership or profits or other ownership interests or other equity securities
+(including warrants, options and other rights to acquire such capital or membership or profits or
+other ownership interests or other equity securities), or assign or transfer any rights or options to
+make any such redemption, repurchase or other reacquisition, or
+
+(B) — redeem, repurchase or make any payments with respect
+to any stock or unit appreciation rights, phantom stock or unit plans or similar rights or plans, or
+permit any of its subsidiaries to so redeem, repurchase or make such payments, or assign or transfer
+any rights or options to make such redemption, repurchase or payments,
+
+in each case other than:
+
+(1) repurchases or redemptions of the Series D Preferred in
+accordance with the terms of Section 6; and
+
+(2) repurchases of capital or membership on profits or other
+ownership interests from former employees of (or independent contractors to) the corporation or any
+of its subsidiaries upon termination of employment or other service at a price no greater than the
+then-current fair market value of such capital, membership on profits or other ownership interests for
+an aggregate purchase price of no more than $1,000,000 in any twelve-month period pursuant to
+(and to the extent permitted by) the provisions of any agreement in effect as of June 27, 2013 or
+approved after June 27, 2013 by the Board of Directors and, to the extent required otherwise
+pursuant to this Section 5(b), by the Series D Majority so long as no event of noncompliance or
+default under any material agreement to which the corporation or any of its subsidiaries is a party or
+by which it is bound (including this Certificate of Incorporation) is in existence immediately prior to
+or is otherwise caused by any such repurchase and so long as such right or option to repurchase is
+not assigned or transferred to any other person,
+
+6. Redemption.
+
+(a) At any time, and from time to time, after June 27, 2019, and at the
+election of the Series D Majority by written notice to the corporation, the corporation shall redeem,
+out of funds legally available therefor, subject to the provisions contained herein, all or any portion
+of the outstanding shares of Series D Preferred (such shares to be redeemed, the "Redemption
+Shares"), on a Redemption Date that shall not be more than thirty (30) days following the receipt of
+such written notice. The corporation shall redeem the Redemption Shares by paying in cash the
+aggregate Redemption Price. "Redemption Price” shall mean an amount per share equal to the
+Series D Purchase Price (as adjusted to reflect subsequent stock dividends, stock splits or
+
+19
+recapitalizations), plus a cumulative dividend of six percent (6%) of the Series D Purchase Price,
+compounded annually.
+
+(b) If the funds of the corporation legally available for redemption of
+Redemption Shares are insufficient to redeem all Redemption Shares, then (without limiting the
+corporation's obligation hereunder or curing any failure not to redeem all of the Redemption Shares)
+those funds that are legally available will be used to redeem the maximum possible number of
+Redemption Shares ratably among the holders thereof in proportion to the aggregate Redemption
+Price that each such holder would be entitled to receive pursuant to this Section 6. Each Redemption
+Share not redeemed as and when required hereunder for any reason shall remain outstanding, be
+entitled to all the rights and preferences provided herein and, upon redemption, shall entitle the
+holder of such Redemption Share to an additional payment (the "Redemption Delay Payment")
+equal to the interest that would have accrued on the Redemption Price, since the Redemption Date,
+at an annual interest rate equal to (x) the "prime rate" on the first business day following the
+Redemption Date, as published in the money rates section of The Wall Street Journal or any
+successor publication thereto, plus (y) six percent (6%), provided, that such rate shall not exceed
+fourteen percent (14%), compounded quarterly on the last day of each calendar quarter. Thereafter,
+until such time as such Redemption Share is redeemed in accordance with this Section 6, such
+interest rate shall increase automatically at the end of each succeeding 90 day period by an additional
+increment of two (2) percentage points (but in no event shall such interest rate exceed fourteen
+percent (14%). The Redemption Delay Payment shall be fully paid with funds irrevocably set apart
+for payment thereof in all cases before any dividends may be declared or paid with respect to any
+shares that are not Redemption Shares. At any time thereafter when additional funds of the
+corporation are legally available for the redemption of Redemption Shares, such funds will
+immediately be used to redeem the balance of the Redemption Shares (including the payment of the
+Redemption Delay Payment on such Redemption Shares) that the corporation has become obliged to
+redeem on any proposed Redemption Date but that it has not redeemed, ratably among the holders
+thereof in proportion to the remaining aggregate Redemption Price (Redemption Delay Payments)
+that each such holder remains entitled to receive. Notwithstanding anything to the contrary contained
+herein, without the prior written consent of the Series D Majority, the corporation shall not declare
+or pay any dividends or redeem, repurchase or otherwise acquire (or pay into or set aside for a
+sinking fund for such purpose) any shares that are not Redemption Shares after the receipt of notice
+of redemption under this Section 6, or at any other time when the corporation is obligated to make
+redemption payments under this Section 6, unless and until all amounts required to be paid to the
+holders of Redemption Shares shall have been paid in full.
+
+{c) Any redemption effected pursuant to Section 6(a) shall be made on a
+pro rata basis among the holders of the Redemption Shares in proportion to the Redemption Shares
+then held by them.
+
+(d) The "Redemption Date" shall mean a date not more than thirty (30)
+days following receipt of notice from the Series D Majority of their election to redeem the
+Redemption Shares, Within fifteen (15) days after receipt of a redemption request from the Series D
+Majority pursuant to Section 6(a) or Section 6(b), written notice shall be mailed, first class postage
+prepaid, to each holder of record (at the close of business on the business day next preceding the day
+on which notice is given) of the Redemption Shares to be redeemed, at the address last shown on the
+
+20
+records of the corporation for such holder, notifying such holder of the redemption to be effected,
+specifying the number and type of shares to be redeemed from such holder, the Redemption Date,
+the Redemption Price, the piace at which payment may be obtained and calling upon such holder to
+surrender to the corporation, in the manner and at the place designated, the holder's certificate or
+certificates representing the shares to be redeemed (the "Redemption Notice"). Except as provided
+herein, on or after the Redemption Date, each holder of Redemption Shares to be redeemed shall
+surrender to this corporation the certificate or certificates representing such shares, in the manner
+and at the place designated in the Redemption Notice, and thereupon the Redemption Price of such
+shares shall be payable to the order of the person whose name appears on such certificate or
+certificates as the owner thereof and each surrendered certificate shall be cancelled. In the event less
+than all the shares represented by any such certificate are redeemed, a new certificate shall be issued
+representing the unredeemed shares.
+
+(e) From and after the Redemption Date, unless there shall have been a
+default in payment of the Redemption Price, all rights of the holders of shares of Series D Preferred
+designated for redemption in the Redemption Notice as holders of Series D Preferred (except the
+right to receive the Redemption Price without interest upon surrender of their certificate or
+certificates) shall cease with respect to the shares designated for redemption on such date, and such
+shares shall not thereafter be transferred on the books of the corporation or be deemed to be
+outstanding for any purpose whatsoever,
+
+(f) On or prior to the Redemption Date, the corporation may deposit the
+Redemption Price of all Redemption Shares in the Redemption Notice and not yet redeemed with a
+bank or trust corporation having aggregate capital and surplus in excess of $100,000,000, as a trust
+fund for the benefit of the respective holders of the Redemption Shares and not yet redeemed, with
+irrevocable instructions and authority to the bank or trust corporation to pay the Redemption Price
+for such shares to their respective holders on or after the Redemption Date upon receipt of
+notification from the corporation that such holder has surrendered a share certificate to the
+corporation pursuant to Section 6(d). As of the Redemption Date, the deposit of the aggregate
+Redemption Price shall constitute full payment of the Redemption Shares in the Redemption Notice
+to their holders, and from and after the Redemption Date the Redemption Shares so called for in the
+Redemption Notice shall be redeemed and shall be deemed to be no longer outstanding, and the
+holders thereof shall cease to be stockholders with respect to such shares and shall have no rights
+with respect thereto except the right to receive from the bank or trust corporation payment of the
+Redemption Price of the Redemption Shares, without interest, upon surrender of their certificates
+therefor. Such instructions shall also provide that any monies deposited by the corporation pursuant
+to this Section 6(f) for the Redemption Shares in the Redemption Notice thereafter converted into
+shares of the corporation's Common Stock pursuant to Section 3 prior to the Redemption Date shall
+be returned to the corporation forthwith upon such conversion.
+
+(g) The Redemption Shares shall not be redeemable or otherwise
+repurchasable by the corporation or any of its subsidiaries, except as set forth in this Section 6 or as
+otherwise agreed to by the Series D Majority.
+
+7. Status of Converted Stock. In the event any shares of Preferred Stock shall be
+converted pursuant to Section 3 hereof, the shares so converted shall be retired and canceled and
+
+21
+shall not be reissued by the corporation, and the appropriate filings under Section 243 of the
+Delaware General Corporation Law shall be made to reduce accordingly the number of shares of
+Preferred Stock that the corporation is authorized to issue.
+
+8. Consent to Certain Distributions. To the fullest extent permitted by law, in
+accordance with Section 500 of the California Corporations Code, a distribution can be made
+without regard to any preferential dividends arrears amount (as defined in Section 500 of the
+California Corporations Code) or any preferential rights amount (as defined in Section $00 of the
+California Corporations Code) in connection with (i) repurchases of Common Stock issued to or held
+by employees, officers, directors or consultants of the corporation or its subsidiaries upon
+termination of their employment or services pursuant to agreements providing for the right of said
+repurchase, (ii) repurchases of Common Stock issued to or held by employees, officers, directors or
+consultants of the corporation or its subsidiaries pursuant to rights of first refusal contained in
+agreements providing for such right, (iii) repurchases of Common Stock or Preferred Stock in
+connection with the settlement of disputes with any stockholder, or (iv) any other repurchase or
+redemption of Common Stock or Preferred Stock approved by the holders of Preferred Stock of the
+corporation.
+
+C. Common Stock,
+
+1. Dividend Rights. Subject to the prior rights of holders of all classes of stock
+at the time outstanding having prior rights as to dividends, the holders of the Common Stock shall be
+entitled to receive, when and as declared by the Board of Directors, out of any assets of the
+corporation legally available therefor, such dividends as may be declared from time to time by the
+Board of Directors.
+
+2. Liquidation Rights. Upon a Liquidity Event, the assets of the corporation
+shall be distributed as provided in Section B.2. of this Article V.
+
+3. Redemption. The Common Stock is not redeemable.
+
+4, Voting Rights. The holder of each share of Common Stock shall have the
+right to one vote, and shall be entitled to notice of any stockholders meeting in accordance with the
+bylaws of the corporation, and shall be entitled to vote upon such matters and in such manner as may
+be provided by law.
+
+ARTICLE VI
+The corporation is to have perpetual existence.
+
+ARTICLE VII
+
+Elections of directors need not be by written ballot unless the bylaws of the corporation shall
+so provide.
+
+ARTICLE VIII
+
+22
+Unless otherwise set forth herein, the number of directors that constitute the Board of
+Directors of the corporation shall be fixed by, or in the manner provided in, the bylaws of the
+corporation.
+
+ARTICLE IX
+
+In furtherance and not in limitation of the powers conferred by statute, the Board of Directors
+of the corporation is expressly authorized to adopt, amend or repeal the bylaws of the corporation.
+
+ARTICLE X
+
+A. To the fullest extent permitted by the Delaware General Corporation Law as the same
+exists or as may hereafter be amended, a director of the corporation shall not be personally liable to
+the corporation or its stockholders for monetary damages for a breach of fiduciary duty as a director.
+If the Delaware General Corporation Law is amended to authorize corporate action further
+eliminating or limiting the personal liability of directors, then the liability of a director of the
+corporation shall be eliminated or limited to the fullest extent permitted by the Delaware General
+Corporation Law, as so amended. Neither any amendment nor repeal of this Section A, nor the
+adoption of any provision of this corporation's Certificate of Incorporation inconsistent with this
+Section A, shall eliminate or reduce the effect of this Section A, in respect of any matter occurring,
+or any action or proceeding accruing or arising or that, but for this Section A, would accrue or arise,
+prior to such amendment, repeal or adoption of an inconsistent provision.
+
+B. The corporation shall have the power to indemnify, to the extent permitted by the
+Delaware General Corporation Law, as it presently exists or may hereafter be amended from time to
+time, any person who was or is a party or is threatened to be made a party to any threatened, pending
+or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (a
+"Proceeding") by reason of the fact that he or she is or was a director, officer, employee or agent of
+the corporation or is or was serving at the request of the corporation as a director, officer, employee
+or agent of another corporation, partnership, joint venture, trust or other enterprise, including service
+with respect to employee benefit plans, against expenses (including attorneys’ fees), judgments, fines
+and amounts paid in settlement actually and reasonably incurred by such person in connection with
+any such Proceeding. A right to indemnification or to advancement of expenses arising under a
+provision of this Certificate of Incorporation or a bylaw of the corporation shall not be eliminated or
+impaired by an amendment to this Certificate of Incorporation or the bylaws of the corporation after
+the occurrence of the act or omission that is the subject of the civil, criminal, administrative or
+investigative action, suit or proceeding for which indemnification or advancement of expenses is
+sought, unless the provision in effect at the time of such act or omission explicitly authorizes such
+elimination or impairment after such action or omission has occurred.
+
+ARTICLE XI
+
+Meetings of stockholders may be held within or without the State of Delaware, as the bylaws
+may provide. The books of the corporation may be kept (subject to any provision contained in the
+statutes) outside of the State of Delaware at such place or places as may be designated from time to
+time by the Board of Directors or in the bylaws of the corporation.
+
+23
+* * *
+
+1, the undersigned, as the sole incorporator of the corporation, have signed this Certificate
+of Incorporation on December &. 2013.
+
+24
