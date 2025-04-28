@@ -23,22 +23,27 @@ The **VC-Research** project automates text extraction and quality assessment for
 | Parallel Processing       | `concurrent.futures`   | Accelerates large-batch OCR processing                                 |
 
 ## Directory Structure
-├── liquidation.ipynb                        # Main ML notebook for sentence classification and property extraction
-├── pdf_convert.ipynb                        # Converts raw PDFs into readable/unreadable .txt files via OCR
-├── Extracted Sentences - Batch 1.csv        # Annotated sentence-property training set
-├── requirements.txt                         # Environment dependencies
+```
+├── liquidation.ipynb                  # Main notebook for information extraction using ML
+├── pdf_convert.ipynb                  # Notebook for OCR conversion of PDFs to .txt
+├── Extracted Sentences - Batch 1.csv  # Labeled dataset of sentences tagged with property types
+├── requirements.txt                   # Python dependencies for the project
+├── README.md                          # Project documentation
+
 ├── data/
-│   ├── Batch1/                              # Raw venture capital-related PDFs
-│   ├── Batch1_text_readable/                # Text files extracted from machine-readable or high-quality OCR
-│   ├── Batch1_text_unreadable/              # Low-confidence or failed OCR outputs
-│   ├── Batch2/                              # New batch of raw PDF files for processing
-│   ├── Batch2_text_readable/                # Readable text outputs from Batch 2
-│   ├── Batch2_text_unreadable/              # Unreadable or noisy outputs from Batch 2
-│   └── outputs/                             # Intermediate CSVs, final structured outputs, model embeddings, etc.
+│   ├── Batch1/                        # Raw PDF files (Batch 1)
+│   ├── Batch1_text_readable/         # Text files from readable PDFs (Batch 1)
+│   ├── Batch1_text_unreadable/       # Text files from unreadable PDFs (Batch 1)
+│   ├── Batch2/                        # Raw PDF files (Batch 2)
+│   ├── Batch2_text_readable/         # Text files from readable PDFs (Batch 2)
+│   ├── Batch2_text_unreadable/       # Text files from unreadable PDFs (Batch 2)
+│   └── outputs/                      # Folder for intermediate files and final extracted data
+
 ├── models/
-│   └── fine_tuned_bert/                     # Optional: Folder for saving fine-tuned model checkpoints
-├── utils/
-│   ├── extraction.py                        # Rule-based and semantic extraction functions
-│   ├── labeling.py                          # Utilities to annotate or identify relevant sentences
-│   └── training.py                          # BERT model training pipeline
-└── README.md                                # You're here!
+│   └── fine_tuned_bert/              # Checkpoints for fine-tuned BERT model (if used)
+
+└── utils/
+    ├── extraction.py                 # Functions for extracting key fields from text
+    ├── labeling.py                   # Sentence labeling tools for creating training data
+    └── training.py                   # Fine-tuning pipeline for BERT sentence transformer
+```
