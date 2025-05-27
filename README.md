@@ -1,49 +1,79 @@
 # VC-Research
 
-## Overview
-The **VC-Research** project automates text extraction and quality assessment for PDF files containing venture capital-related data. Utilizing Optical Character Recognition (OCR) with Tesseract and various data processing techniques, this project categorizes files based on readability to streamline data analysis workflows.
+## Overview  
+**VC-Research** is an end-to-end pipeline for converting PDF certificates and related venture-capital documents into structured data. It combines:
 
-## ⚙️ Environment Setup
+- **OCR & Readability Classification**: Converts scanned PDFs to text and labels pages as “readable” or “unreadable” using Tesseract, pytesseract, and a composite confidence/readability score   
+- **Basic Field Extraction**: Pulls out high-level metadata (Company Name, Date, Document Type, Preferred Stocks, Priority Order, Liquidation Value) from plain-text files via regex and SpaCy NER   
+- **Document-Level Classification**: Trains a RandomForest classifier (TF-IDF + BERT embeddings) to detect which documents mention liquidation preferences   
+- **Sentence-Level Tagging**: Fine-tunes a Sentence-Transformer and SciBERT model to tag and extract the exact sentences containing each key property   
 
-### Python Version
+---
 
-- **Python 3.12.7**
+## 🚀 Quickstart
 
-### Key Libraries
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/alexchen4/vc-research.git
+   cd vc-research
+2. **Create & activate a Python 3.12.7 virtual environment**
+    ```bash
+    python3.12 -m venv venv
+    source venv/bin/activate
+3. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+4. **Launch notebooks in this order:**
+    ```bash
+    pdf_convert.ipynb
+    time_series.ipynb
+    liquidation.ipynb
+    certificate_extraction.ipynb
 
-| Category                  | Library                | Purpose                                                                 |
-|---------------------------|------------------------|-------------------------------------------------------------------------|
-| OCR Engine                | `Tesseract`            | Recognizes text from scanned PDF images                                |
-| PDF to Image Conversion   | `pdf2image`            | Converts PDF pages to images                                           |
-| OCR Wrapper               | `pytesseract`          | Python wrapper for Tesseract                                           |
-| Data Processing           | `pandas`, `numpy`      | Stores, analyzes, and filters extracted text                           |
-| NLP & Tokenization        | `nltk`, `re`           | Tokenizes sentences and extracts key phrases                           |
-| Sentence Embedding        | `sentence-transformers`| Embeds and ranks sentence similarity                                   |
-| Model Training            | `torch`, `scikit-learn`| Fine-tuning sentence transformers and evaluating results               |
-| Parallel Processing       | `concurrent.futures`   | Accelerates large-batch OCR processing                                 |
-
-## Directory Structure
+## 📂 Repository Structure
 ```
-├── liquidation.ipynb                  # Main notebook for information extraction using ML
-├── pdf_convert.ipynb                  # Notebook for OCR conversion of PDFs to .txt
-├── Extracted Sentences - Batch 1.csv  # Labeled dataset of sentences tagged with property types
-├── requirements.txt                   # Python dependencies for the project
-├── README.md                          # Project documentation
+vc-research/
+├── pdf_convert.ipynb                  # OCR → text conversion + readability classification
+├── time_series.ipynb                  # Basic metadata extraction pipeline
+├── liquidation.ipynb                  # Doc-level classification & sentence tagging
+├── certificate_extraction.ipynb       # Token-classification for exact field spans
+├── Extracted Sentences - Batch 1.csv  # Heuristically labeled sentences (Batch 1)
+├── Extracted_Information.csv          # Initial ML-extracted info summary
+├── requirements.txt                   # Pinned Python dependencies
+└── README.md                          # This file
 
-├── data/
-│   ├── Batch1/                        # Raw PDF files (Batch 1)
-│   ├── Batch1_text_readable/         # Text files from readable PDFs (Batch 1)
-│   ├── Batch1_text_unreadable/       # Text files from unreadable PDFs (Batch 1)
-│   ├── Batch2/                        # Raw PDF files (Batch 2)
-│   ├── Batch2_text_readable/         # Text files from readable PDFs (Batch 2)
-│   ├── Batch2_text_unreadable/       # Text files from unreadable PDFs (Batch 2)
-│   └── outputs/                      # Folder for intermediate files and final extracted data
+data/
+├── Batch1/                            # Raw PDF files (Batch 1)
+├── Batch1_text_readable/              # OCR-readable `.txt` (Batch 1)
+├── Batch1_text_unreadable/            # OCR-unreadable `.txt` (Batch 1)
+├── Batch2/                            # Raw PDF files (Batch 2)
+├── Batch2_text_readable/              # OCR-readable `.txt` (Batch 2)
+├── Batch2_text_unreadable/            # OCR-unreadable `.txt` (Batch 2)
+└── outputs/                           # Excel/CSV summaries & intermediates
 
-├── models/
-│   └── fine_tuned_bert/              # Checkpoints for fine-tuned BERT model (if used)
+models/
+└── fine_tuned_bert/                   # Checkpoints & artifacts for BERT models
 
-└── utils/
-    ├── extraction.py                 # Functions for extracting key fields from text
-    ├── labeling.py                   # Sentence labeling tools for creating training data
-    └── training.py                   # Fine-tuning pipeline for BERT sentence transformer
+utils/
+├── extraction.py                      # Regex & SpaCy NER extractors
+├── labeling.py                        # Heuristic sentence-labeling tools
+└── training.py                        # Fine-tuning scripts for transformers
 ```
+
+## 🛠️ Environment & Dependencies
+- Python: 3.12.7
+- Key Libraries:
+    - OCR & Imaging: pdf2image, pytesseract
+    - NLP & Tokenization: nltk, spacy, sentence-transformers
+    - ML & Deep Learning: scikit-learn, torch, transformers
+    - Data Handling: pandas, numpy
+    - Parallelism: concurrent.futures
+See requirements.txt for full version details.
+
+## 📝 Notebooks & Workflows
+| Notebook                          | Description                                                                                            |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **pdf\_convert.ipynb**            | Converts PDFs → images → text; computes OCR confidence & word coverage; sorts into readable/unreadable |
+| **time\_series.ipynb**            | Reads plain-text files and extracts core fields into a master DataFrame                                |
+| **liquidation.ipynb**             | Builds TF-IDF + BERT features; trains & evaluates a RandomForest to flag liquidation-preference docs   |
+| **certificate\_extraction.ipynb** | Fine-tunes SciBERT for BIO token-classification to pinpoint exact character spans for each field       |
