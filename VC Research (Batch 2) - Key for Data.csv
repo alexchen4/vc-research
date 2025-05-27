@@ -1,0 +1,38 @@
+Main,,,,Details,,,
+Variable,Data Type,Explanation,,Variable,Data Type,Explanation,
+File Name,String,"The unique identifier or name of the document, typically including details such as 
+the date and the document type. It serves as a key to identify the source of data.",,File Name,String,"The unique identifier or name of the document, typically including details such as 
+the date and the document type. It serves as a key to identify the source of data.",
+Company Name,String,"The name of the company associated with the document, 
+used to identify the organization referenced in the file",,Company Name,String,"The name of the company associated with the document, 
+used to identify the organization referenced in the file",
+Document Type,String,"The category or classification of the document, 
+describing its purpose or legal nature (e.g., Certificates of Incorporation)",,Document Type,String,"The category or classification of the document, 
+describing its purpose or legal nature (e.g., Certificates of Incorporation)",
+Date,datetime,"The date associated with the document, typically
+indicating when it was created, filed, or finalized",,Date,datetime,"The date associated with the document, typically
+indicating when it was created, filed, or finalized",
+Contains Liquidity Preference,Boolean,"Indicates whether the document includes liquidity preference information. 
+It is a boolean value: True for ""yes"" and False for ""no.""",,Preferred Stock Type,String,The name of the specific preferred stock.,
+Priority Order,String,"Represents the ranking or priority of the liquidity preference payout (e.g., ""A,"" ""A=B""). 
+""N/A"" indicates no priority order specified.",,Order of Priority,Integer,"The ranking or order in which the liquidity preference is paid 
+out (e.g., 1, 2, 3, 4, etc meaning paid 1st, 2nd, 3rd, 4th, etc.). ",
+Number of Common Stocks Issued,Integer,"The number of common stock shares issued by the company. 
+""N/A"" is used if this information is unavailable.",,Liquidation Preference,String,"Specifies the details of the liquidity preference, often describing the payout 
+per share for specific stock classes. ""N/A"" indicates no preference is defined.",
+Number of Preferred Stock Issued,Integer,"The number of preferred stock shares issued by the company. 
+""N/A"" is used if this information is unavailable.",,Liquidation Multiple,Float or String,"The multiplier applied to the original investment during a liquidation 
+event (e.g., 1, 2x). ""N/A"" indicates this information is not provided.",
+Total Number of Stocks Issued,Integer,"The total number of shares issued by the company, 
+calculated as the sum of common and preferred stocks issued.",,Number of Preferred Stock Issued,Integer,"The number of preferred stock shares issued by the company. 
+""N/A"" is used if this information is unavailable.",
+,,,,Original Issue Price,Float,"The initial price at which shares (common or preferred) are sold during issuance. 
+Often specified separately for different stock classes. ""N/A"" indicates no value.",
+,,,,Conversion Price,Float,"$ amount; O = original issue price, number if diff","if conversion price is equal to original issue price, recognize it"
+,,,,Conversion Ratio,Float,X multiplier (1:2 ratio same as 2x),
+,,,,Conversion Trigger,String,,
+,,,,Antidilution Protection (Type),String,"N = No, R = Rachet, W = Weighted Average, O = Other",
+,,,,Dividends ($),Float,$ amount per annum,
+,,,,Dividends (Type) ,String,"C = Cumulative, N = Non-Cumulative",
+,,,,Participation Rights,Type,"P = Participation, C = Capped, N = No",
+,,,,Redemption Rights,,"R = Right to Redemption, N = No",
