@@ -51,6 +51,7 @@ shal] be Preferred Stock.
 Common Stock may be increased or decreased (but not below the number of shares of Common
 
 10821438_3.DOC
+
 Stock then outstanding) by the affirmative vote of the holders of a majority of the shares of stock
 of the Corporation (voting together on an as-if-converted basis).
 
@@ -95,6 +96,7 @@ Common Stock pro rata based on the number of shares of Common Stock then held by
 holder (assuming conversion of all such Series Preferred into Common Stock).
 
 10821438_3.DO0C 2
+
 2. Liquidation.
 
 (a) Preference. In the event of any liquidation, dissolution or winding
@@ -142,6 +144,7 @@ Common Stock immediately prior to such liquidation, dissolution or winding up of
 Corporation;
 
 10821438_3.D0C
+
 (B) with respect to the holders of the Series B Preferred
 Stock, such holders shal] have received the greater of (x) an aggregate of $4.6175 per share (as
 adjusted for stock splits, stock dividends, reclassification and the like) of Series B Preferred
@@ -190,6 +193,7 @@ Corporation shall sell, convey, or otherwise dispose of all or substantially all
 business or merge with or into or consolidate with any other corporation, limited liability
 
 10821438_3.DO0C
+
 company or other entity (other than a wholly-owned subsidiary of the Corporation) or effect any
 other transaction or series of related transactions in which the stockholders of the Corporation
 immediately prior to such transactions(s) own less than fifty percent (50%) of the voting power
@@ -239,6 +243,7 @@ Corporation has given the first notice provided for herein or sooner than ten (1
 Corporation has given notice of any material changes provided for herein; provided, however,
 
 10821438_3.D0C
+
 that such periods may be shortened upon the written consent of the holders of Series Preferred
 that are entitled to such notice nights or similar notice rights and that represent at least a majority
 of the voting power of all then outstanding shares of such Series Preferred.
@@ -288,6 +293,7 @@ single class.
 shall be entitled to convert such Series Preferred into shares of Common Stock, the holder shall
 
 10821438_3.D0C 6
+
 surrender the certificate or certificates therefor, duly endorsed, at the office of the Corporation or
 of any transfer agent for such series of Series Preferred or the holder shall notify the Corporation
 or its transfer agent that such certificate(s) have been lost, stolen or destroyed and execute an
@@ -336,6 +342,7 @@ shall be subject to adjustment from time to time as follows:
 the Corporation should issue, at any time after the date upon which any shares of Series E
 
 10821438_3.D0C
+
 Preferred Stock were just issued (the "Purchase Date"), any Additional Stock (as defined below)
 without consideration or for a consideration per share less than the Conversion Price for such
 series in effect immediately prior to the issuance of such Additional Stock, the Conversion Price
@@ -383,6 +390,7 @@ transactions, the terms of which are approved by the Board of Directors, includi
 the Preferred Directors;
 
 10821438_3.DOC 8
+
 (6) Shares of Common Stock issued or issuable
 upon conversion of the Series Preferred;
 
@@ -431,6 +439,7 @@ of any conditions to convertibility, exchangeability or exercisability, includin
 limitation, the passage of time, but without taking into account potential antidilution
 
 10821438_3.DOC 9
+
 adjustments) of any Common Stock Equivalents and subsequent conversion, exchange or
 exercise thereof shall be deemed to have been issued at the time such securities were issued or
 such Common Stock Equivalents were issued and for a consideration equal to the consideration,
@@ -479,6 +488,7 @@ the additional shares of Common Stock issuable upon conversion or exercise there
 such record date (or the date of such dividend distribution, split or subdivision if no record date
 
 10821438_3.D0C 10
+
 is fixed), the Conversion Price of each of the Series A, Series B, Series C, Series D and Series E
 Preferred Stock shall be appropriately decreased so that the number of shares of Common Stock
 issuable on conversion of each share of such series shall be increased in proportion to such
@@ -527,6 +537,7 @@ or seek to avoid the observance or performance of any of the terms to be observe
 hereunder by the Corporation, but will at all times in good faith assist in the carrying out of all
 
 10821438 _3.DOC 11
+
 the provisions of this Section 4 and in the taking of all such action as may be necessary or
 appropriate in order to protect the Conversion Rights of the holders of Series Preferred against
 impairment.
@@ -576,6 +587,7 @@ Corporation will take such corporate action as may, in the opinion of its counse
 increase its authorized but unissued shares of Common Stock to such number of shares as shall
 
 10821438_3.D0C 12
+
 be sufficient for such purposes, including, without limitation, engaging in best efforts to obtain
 the requisite stockholder approval of any necessary amendment to this Restated Certificate.
 
@@ -626,6 +638,7 @@ of Common Stock or Preferred Stock;
 funds aside for a sinking fund for such purpose) any share or shares of Common Stock; provided,
 
 10821438 _3.D0C 13
+
 however, that this restriction shall not apply to the repurchase of shares of Common Stock from
 employees, officers, directors, consultants or other persons performing services for the
 Corporation or any subsidiary pursuant to agreements under which the Corporation has the
@@ -677,6 +690,7 @@ shares of Series C Preferred Stock so as to adversely affect the shares of such 
 differently than other series of Preferred Stock; or
 
 10821438_3.DOC 14
+
 (ii) increase or decrease (other than by conversion) the total
 number of authorized shares of Series C Preferred Stock.
 
@@ -726,6 +740,7 @@ remain outstanding (subject to adjustment for any stock split, reverse stock spl
 affecting the Series Preferred after the filing date hereof), the holders of a majority of the
 
 10821438_3.00C 15
+
 outstanding shares of Series B Preferred Stock (voting as a separate series) shall be entitled to
 elect one (1) member of the Board of Directors at each meeting or pursuant to each consent of the
 Corporation’s stockholders for the election of directors, and to remove from office such directors
@@ -771,6 +786,7 @@ accordance with the Bylaws of the Corporation, and shall be entitled to vote upo
 and in such manner as may be provided by law.
 
 10821438_3.DOC 16
+
 ARTICLE V
 
 The Board of Directors is expressly authorized to make, alter or repeal the Bylaws of the
@@ -804,6 +820,7 @@ prior to such amendment, repeal or adoption of an inconsistent provision.”
 * * *
 
 10821438_3.DOC 17
+
 The foregoing Amended and Restated Certificate of Incorporation has been duly adopted
 by this corporation’s Board of Directors and stockholders in accordance with the applicable
 provisions of Sections 228, 242 and 245 of the Delaware General Corporation Law.

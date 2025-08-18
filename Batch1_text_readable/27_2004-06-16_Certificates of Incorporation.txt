@@ -43,6 +43,7 @@ Secretary
 278636?7_S.DOC
 
 FI
+
 AMENDED AND RESTATED
 ARTICLES OF INCORPORATION OF
 EDISON CARTER CORPORATION, INC,
@@ -80,6 +81,7 @@ Timothy D. Ross
 Sceretury
 
 2786367_5.D0C
+
 
 EXHIBIT A
 
@@ -124,6 +126,7 @@ shall not adjust as a result of the Stock Split, but rather, the amounts stated 
 Restated Articles of Incorporation shall be deemed to already incorporate the effects of the Stock Split.
 
 2786367_$.DOC -2-
+
 
 ARTICLE V
 
@@ -176,6 +179,7 @@ to the holders of shares of Common Stock in any fiscal year unless and until div
 subsection (a) above shall have been paid upon all shares of Series A Preferred Stock,
 
 2786367_$.DOC -3-
+
 
 (©) Consent_to Certain Distributions. As authorized by Section 402.5(c) of the
 California Corporations Code, if Section 502 or Section 503 of the California Corporations Code is
@@ -230,6 +234,7 @@ except that unless otherwise valued in a merger or acquisition agreement approve
 
 2786367_5.DOC . -4-
 
+
 shareholders, any publicly-traded securities to be distributed to shareholders in a liquidation, dissolution, or
 winding up of the Company shal] be valued as follows:
 
@@ -282,6 +287,7 @@ outstanding, or, if later, the effective date for conversion specified in such r
 single class, .
 
 2786367_$.DOC “5.
+
 
 (c) Mechanics of Conversion. No fractional shares of Common Stock shall be issued
 upon conversion of Series A Preferred Stock. In lieu of any fractional shares to which the holder would
@@ -336,6 +342,7 @@ consideration received by the Company for such issuance would purchase at such C
 (y) the denominator of which shall be the number of shares of Outstanding Common plus the number of
 
 2786367_5.D0C -6-
+
 shares of such Additional Stock. For purposes of the foregoing calculation, the term “Outstanding
 Common” shall include all shares of Common Stock issuable upon conversion of all outstanding shares of
 Preferred Stock.
@@ -387,6 +394,7 @@ or the exercise of any related options or rights (the consideration in each case
 manner provided in Sections 4(d)(iX(C) and 4(d\{i)(D)).
 
 2786367_5.DOC -7-
+
 (3) In the event of any change in the number of shares of
 Common Stock deliverable or in the consideration payable to the Company upon exercise of such options or
 rights or upon conversion of or in exchange for such convertible or exchangeable securities (excluding a
@@ -441,6 +449,7 @@ Rec cations and s. The Conversion Price shal] be subject to adjustment from time
 time as follows:
 
 2786367_$.DOC -8-
+
 (i) Adjustments for Subdivisions, Combinations or Consolidations of Common
 Stock. In the event the outstanding shares of Common Stock shali be subdivided (by stock split, stock
 dividend, or otherwise) into a greater number of shares of Common Stock, the Conversion Price in effect
@@ -496,6 +505,7 @@ holder of Series A Preferred Stock, furnish or cause to be furnished to such hol
 
 2786367_$.DOC -9-
 
+
 forth (i) such adjustments and readjustments, (ii) the Conversion Prices at the time in effect, and (iii) the
 number of shares of Common Stock and the amount, if any, of other property which at the time would be
 received upon the conversion of Series A Preferred Stock.
@@ -549,6 +559,7 @@ shareholder approval for any necessary amendment to this Second Amended and Rest
 Incorporation.
 
 2786367_5.DOC -10-
+
 5. Voting. The holders of Series A Preferred Stock and the holders of Common Stock shall
 vote as a single class except as otherwise required by law or provided herein.
 
@@ -587,7 +598,7 @@ voting together as a single class on an as-converted to Common Stock basis.
 (a) No Series Voting. Other than as provided herein or by law, there shall be no voting
 by Series A Preferred Stock as a separate class.
 
-(b) Approval by Class. For so long as at least 2,000,000 shares of Series A Preferred
+(b) Approval _by Class. For so long as at least 2,000,000 shares of Series A Preferred
 Stock remain outstanding (as adjusted for Recapitalizations), the Company shall not, without first obtaining
 the approval (by vote or written consent as provided by law) of the holders of at least a majority of the total
 number of shares of the Series A Preferred Stock then outstanding: ° : ,
@@ -602,6 +613,7 @@ passu with or senior to the Series A Preferred Stock, including, but not limited
 liquidation preference, voting or dividends;
 
 2786367_5.DOC -lI-
+
 
 (iii) increase the number of shares authorized for issuance under any existing
 stock or option plan or create any new stock or option plan;
@@ -653,6 +665,7 @@ to the applicable limits set forth in Section 204 of the California Corporations
 for breach of duty to this Company and its shareholders.
 
 2786367_5.DO0C -12-
+
 3° Repeal or Modification. Any repeal cr modification of the foregoing provisions of this
 Article X shall not adversely affect any right or protection of an agent of this Company relating to acts or
 omissions occurring prior to such repeal or modification.

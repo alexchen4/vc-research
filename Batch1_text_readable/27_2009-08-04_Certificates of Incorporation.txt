@@ -48,6 +48,7 @@ ered
 
 Russell Keefe
 Chief Financial Officer
+
 FOURTH AMENDED AND RESTATED
 ARTICLES OF INCORPORATION OF
 3VR SECURITY, INC.
@@ -88,6 +89,7 @@ ete oe en tA Aa CR
 Robert Allen Shipp
 Chief Executive Officer
 wa
+
 
 EXHIBIT A
 
@@ -136,6 +138,7 @@ respect to a Liquidation Event (as defined in Section 3), the closing date of su
 Stock, $1.0900 per share for the Series B Preferred Stock, $2.1500 per share for the Series C Preferred Stock
 
 4762562_8 , -2-
+
 and $0.6304 per share for the Series D Preferred Stock (each subject to adjustment from time to time for any
 Recapitalization and as otherwise set forth elsewhere herein).
 
@@ -188,6 +191,7 @@ filed under the Securities Act of 1933, as amended (the “Securities Act”), o
 Liquidation Event (as defined below in Section 3) in which the holders of the Company’s capital stock
 
 4762562_8 -3-
+
 receive in consideration therefor cash or securities of a publicly traded entity. In the case of an IPO, such
 dividends shall be paid in cash, and, in the case of a Liquidation Event, such dividends shall be paid
 exclusively in the form of consideration payable in respect of the Series D Preferred Stock (and, in the event
@@ -244,6 +248,7 @@ California Corporations Code, if Section 502 or Section 503 of the California Co
 applicable to a payment made by the Company then such applicable section or sections shall not apply if
 
 4162562_8 4.
+
 such payinent is a payment made by the Company in connection with (i) repurchases of Common Stock
 issued to or held by employees, officers, directors or consultants of the Company or its subsidiaries upon
 termination of their employment or services pursuant to agreements providing for the right of said
@@ -296,6 +301,7 @@ Company legally available for distribution by the Company shall be distributed r
 Series D Preferred Stock and Common Stock in proportion to the number of shares of Common Stock held
 
 4762562_8 ; -5-
+
 by them, with the shares of Series D Preferred Stock being treated for this purpose as if they had been
 converted to shares of Common Stock at the then applicable Series D Conversion Rate (as defined below).
 
@@ -350,6 +356,7 @@ converted or whether there are sufficient shares of authorized Common Stock to p
 all shares of Preferred Stock into Common Stock) such holder’s shares of Series A Preferred Stock, Series B
 
 4762562_8 -6-
+
 Preferred Stock or Series C Preferred Stock into Common Stock immediately prior to a distribution pursuant
 to this Section 3 if, as a result of an actual conversion, such holder would receive, in the aggregate, an
 amount greater than the amount that would be distributed to such holder if such holder did not convert such
@@ -402,6 +409,7 @@ shares of Common Stock into which each share of Series C Preferred Stock may be 
 referred to as the “Series C Conversion Rate.” Upon any decrease or increase in the Series C Conversion
 
 4762562_8 -7-
+
 Price for a share of Series C Preferred Stock, as described in this Section 4, the corresponding Series C
 Conversion Rate for such share of Series C Preferred Stock shall be appropriately increased or decreased.
 
@@ -455,6 +463,7 @@ Company shall pay cash equal to such fraction multiplied by the then fair market
 shares as determined by the Board of Directors. Before any holder of the Preferred Stock shall be entitled to
 
 4762562_8 -8-
+
 convert the same into full shares of Common Stock, and to receive certificates therefor, they shall either
 (i) surrender the certificate or certificates therefor, duly endorsed, at the office of the Company or of any
 transfer agent for the Preferred Stock or (ii) notify the Company or its transfer agent that such certificates
@@ -508,6 +517,7 @@ Date, any Additional Stock (as defined below) without consideration or for a con
 than the Series D Conversion Price in effect immediately prior to the issuance of such Additional Stock, the
 
 4762562_8 -9-
+
 Series B Conversion Price in effect immediately prior to each such issuance shall automatically (except as
 otherwise provided ih this Section 4(d)(i)) be adjusted to a price determined by multiplying the Series B
 Conversion Price by a fraction, (x) the numerator of which shall be the Outstanding Common plus the
@@ -561,6 +571,7 @@ Q) The aggregate maximum number of shares of Common
 Stock deliverable upon exercise (assuming the satisfaction of any conditions to exercisability, including
 
 47625628 -10--
+
 without limitation, the passage of time, but without taking into account potential antidilution adjustments
 affecting such stock) of such securities, options to purchase, or rights to subscribe for Common Stock shall
 be deemed to have been issued at the time such securities, options or rights were issued and for a
@@ -617,6 +628,7 @@ Issue Date, other than:
 or directors of, or consultants or advisors to, the Company or any subsidiary pursuant to stock purchase or
 
 4762562_8 -ll-
+
 stock option plans or other arrangements approved by the Board of Directors (including the approval of at
 least seventy-five percent (75%) of the members of the Board of Directors) not to exceed 11,392,025 shares
 of Common Stock (as adjusted for any Recapitalizations);
@@ -671,6 +683,7 @@ Common Stock on the date of such event and had they thereafter, during the perio
 event to and including the date of conversion, retained such securities receivable by them as aforesaid during
 
 4762562_8 , -12-
+
 such period, subject to all other adjustments called for during such period under this Section 4 with respect
 to the rights of the holders of the Preferred Stock.
 
@@ -722,6 +735,7 @@ cash, property, stock or other securities, whether or not a regular cash dividen
 earnings or earned surplus;
 
 4762562_8 -13-
+
 (ii) to offer for subscription pro rata to the holders of any class or series of its
 stock (other than pursuant to contractual agreements entered into with each such holder) any additional
 shares of stock of any class or series or any other securities or property, or to receive any other rights; .
@@ -774,6 +788,7 @@ the Preferred Stock held by each holder could be converted), shall be rounded to
 Common Stock shall be entitled to one vote for each share thereof held.
 
 4762562.8 -14-
+
 (c) Cumulative Voting. The holders of Common Stock and the holders of Preferred
 Stock shall be entitled to cumulative voting rights as to the directors to be elected by each class or the
 combined classes, in accordance with the provisions of Section 708 of the California Corporations Code.
@@ -828,6 +843,7 @@ new stock or option plan;
 (v) effect a recapitalization or reorganization of the Company;
 
 4762562_8 -15-
+
 (vi) effect any Acquisition or Asset Transfer;
 (vii) increase or decrease the size of the Company’s Board of Directors;
 
@@ -880,6 +896,7 @@ monetary damages shall be eliminated to the fullest extent permissible under Cal
 indemnification of agents (as defined in Section 317 of the California Corporations Code) through bylaw
 
 4762562_8 -16-
+
 provisions, agreements with agents, votes of shareholders or disinterested directors or otherwise, in excess
 of the indemnification otherwise permitted by Section 317 of the California Corporations Code, subject only
 to the applicable limits set forth in Section 204 of the California Corporations Code with respect to actions

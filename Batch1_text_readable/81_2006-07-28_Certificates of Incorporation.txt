@@ -50,6 +50,7 @@ SRV 060712933 - 3670071 FILE
 
 10091405_8
 
+
 The powers, preferences and rights, and the qualifications, limitations or restrictions
 thereof, in respect of each class or series of stock of the Corporation shall be as follows:
 
@@ -99,6 +100,7 @@ holders of the Series A Preferred Stock of all amounts so distributable to them,
 
 10091405_8 2
 
+
 assets of the Corporation available for such distribution shall be distributed ratably among the
 holders of the Series A Preferred Stock in proportion to the full preferential amount each such
 holder is otherwise entitled to receive under this Subsection 1 (a)(ii).
@@ -146,6 +148,7 @@ thereof to the Corporation at least three days before the effective date of such
 notice is given with respect to the Series B Preferred Stock or Series A Preferred Stock, the
 
 10091405_8 3
+
 
 provisions of Subsection 2(h) shall apply to the applicable series of Preferred Stock. Unless such
 election is made with respect to the Series B Preferred Stock or Series A Preferred Stock, any
@@ -195,6 +198,7 @@ shares of Common Stock shall be deliverable upon conversion of Series B Preferre
 Series A Preferred Stock, respectively, without the payment of any additional consideration by
 
 10091405 8 A
+
 
 the holder thereof (respectively, the “Series B Conversion Price” and "Series A Conversion
 Price”) shall initially be $1.85 per share of Common Stock for the Series B Preferred Stock and
@@ -246,6 +250,7 @@ being converted are either delivered to the Corporation or its transfer agent, o
 
 100914058 5
 
+
 the Corporation or any transfer agent that such certificates have been lost, stolen, or destroyed
 and executes an agreement satisfactory to the Corporation to indemnify the Corporation from
 any loss incurred by it in connection therewith. On the Mandatory Conversion Date, all rights
@@ -294,6 +299,7 @@ any holder thereof shall be aggregated for the purpose of determining the number
 Common Stock to which such holder shall be entitled, and no fractional share of Common Stock
 
 10091405. 8 6
+
 
 shall be issued. In lieu of any fractional share to which the holder would otherwise be entitled,
 the Corporation shall pay cash equal to such fraction multiplied by the fair market value of the
@@ -344,6 +350,7 @@ Directors (as hereinafter defined); and provided that such number may be adjuste
 
 10091405. 8 7
 
+
 the approval of the holders of at least two-thirds of the Preferred Stock then outstanding as
 provided in Section 3(a);
 
@@ -393,6 +400,7 @@ Convertible Securities;
 
 10091405_8 8
 
+
 (B) if such Options or Convertible Securities by their terrns
 provide, with the passage of time or otherwise, for any increase in the consideration payable to
 the Corporation, or decrease in the number of shares of Common Stock issuable, upon the
@@ -441,6 +449,7 @@ effective on such record date shall be canceled as of the close of business on s
 
 10091405 8 9
 
+
 and thereafter the Series B Conversion Price or Series A Conversion Price shall be adjusted
 pursuant to this Subsection 2(e)(i11) as of the actual date of their issuance.
 
@@ -472,7 +481,7 @@ of Common Stock. In the event that at any time or from time to time after the ne
 
 Date the Corporation shall issue Additional Shares of Common Stock (including without
 hmitation, Additional Shares of Common Stock deemed to be issued pursuant tSubsection
-2(e)(1ii)(1) but excluding Additional Shares of Common Stock deemed to be issued pursuant to
+2(e)(iti)(1) but excluding Additional Shares of Common Stock deemed to be isgued pursuant to
 Subsection 2(e)(iii)(2), which event is dealt with in Subsection 2(e)(vi)(1)), ot
 consideration or for a consideration per share es rh Series B Conversion Prite or Series A
 Conversion Price in effect on the date of and immediately prior to such issue, then and in such
@@ -488,6 +497,7 @@ NCP = New Series B Conversion Price or new Series A Conversion Price,
 as applicable;
 
 10091405_8 10
+
 
 P, = Series B Conversion Price or Series A Conversion Price, as
 
@@ -541,6 +551,7 @@ without regard to any provision contained therein for a subsequent adjustment of
 
 10091405_8 1}
 
+
 consideration) payable to the Corporation upon the exercise of such Options or the conversion or
 exchange of such Convertible Securities, or in the case of Options for Convertible Securities, the
 exercise of such Options for Convertible Securities and the conversion or exchange of such
@@ -592,6 +603,7 @@ consolidation, or sale of assets provided for below), then and in each such even
 any shares of the applicable Preferred Stock shall have the right thereafter to convert such shares
 
 10091405 8 12
+
 into the kind and amount of shares of stock and other securities and property receivable upon
 such reorganization, reclassification, recapitalization or other change by the holder of a number
 of shares of Common Stock equal to the number of shares of Common Stock into which such
@@ -623,7 +635,7 @@ Corporation has given such holder at least ten (10) days written notice of the Q
 Financing), such holder’s Pro Rata Amount (as defined below), then the Applicable Portion of
 the shares of Preferred Stock held by such holder shal-auton a ncaltyand without any further
 action on the part of such holder, be converted ito shares of Common Stk at the applicable
-Conversion Price in effect immediately prior to th®tvensump lation of suchAQualified Financing,
+Conversion Price in effect immediately prior to th®tensumn lation of suchAQualified Financing,
 effective upon, subject to, and concurrently with, the consummation of the Qualified Financing.
 For purposes of determining the number of shares of Preferred Stock owned by a holder, and for
 determining the number of Offered Securities a holder of Preferred Stock has purchased ina
@@ -639,6 +651,7 @@ Preferred Stock converted pursuant to Section 2(i)(i) shall surrender his, her o
 certificates for all such shares to the Corporation at the place designated in such notice, and shall
 
 10091405_8 13
+
 
 thereafter receive certificates for the number of shares of Common Stock to which such holder is
 entitled pursuant to this Section 2(i) and a new certificate for the number of shares, if any, of
@@ -689,6 +702,7 @@ of shares of Preferred Stock, a number of shares of Preferred Stock calculated b
 
 10091405 8 14
 
+
 aggregate number of shares of Preferred Stock held by such holder immediately prior to a
 Qualified Financing by a fraction, the numerator of which is equal to the amount, if positive, by
 which such holder’s Pro Rata Amount exceeds the number of Offered Securities actually
@@ -738,6 +752,7 @@ number of shares of Common Stock and the amount, if any, of other property which
 
 10091405_8 tS
 
+
 would be received upon the conversion of each share of Series B Preferred Stock or Series A
 Preferred Stock, as applicable.
 
@@ -784,6 +799,7 @@ consolidation or otherwise, amend the preferences, rights or privileges of the S
 Stock or Series A Preferred Stock, respectively.
 
 10091405. 8 16
+
 
 (b) In addition to any other vote required by law or this Certificate of
 Incorporation, without first obtaming the affirmative vote or written consent of the holders of at
@@ -832,6 +848,7 @@ agreements in effect on the date hereof or written agreements approved by the Co
 Board of Directors or a committee thereof).
 
 10091405 8 17
+
 
 (c) Notwithstanding any other provision of this Certificate of Incorporation or the
 Corporation's By-Laws to the contrary, written notice of any action specifted in Subsection 3(a)
@@ -882,6 +899,7 @@ affirmative vote at a meeting duly called for the purpose, or by written consent
 
 10091405_8 18
 
+
 a majority of the outstanding Series A Preferred Stock. At all times during which shares of
 Serics B Preferred Stock remain. outstanding, the holders of the outstanding shares of Series B
 Preferred Stock shall have the exclusive right, separately from the Common Stock, to elect one
@@ -918,6 +936,7 @@ represented by all outstanding shares of stock of the Corporation entitled to vo
 the provisions of Section 242(b)(2) of the General Corporation Law.
 
 10091405 8 19
+
 
 Section 5. Dividends.
 
@@ -967,6 +986,7 @@ Series B Preferred Stock or Series A Preferred Stock made at any time on or afte
 all, of the outstanding shares of Series B Preferred Stock or Series A Preferred Stock, as
 
 10091405_8 20
+
 
 applicable, in three equal annual installments, upon the terms set forth in this Section 6. The first
 installment of such redemption shall occur on a date (the “First Redemption Date’’) specified in
@@ -1018,6 +1038,7 @@ the number of shares of Preferred Stock required to be redeemed from such holder
 
 10091405 8 21
 
+
 redéem, the number of shares of Preferred Stock which shail have been converted by such holder
 on or before such date and which shall not previously have been credited against any redemption.
 
@@ -1065,6 +1086,7 @@ and all such shares shall be canceled, retired and eliminated from the shares wh
 Corporation shall be authorized to issue.
 
 10091405_8 22
+
 
 Section 8. Residual Rights. All rights accruing to the outstanding shares of the
 Corporation not expressly provided for to the contrary herein shall be vested in the Common
@@ -1115,6 +1137,7 @@ an undertaking by or on behalf of such director or officer to repay such advance
 
 10091405 8 23
 
+
 ultimately determined that he is not entitled to be indemnified by the Corporation. The foregoing
 right of indemnification shall in no way be exclusive of any other rights of indemnification to
 which any such director or officer may be entitled, under any By-Law, agreement, vote of
@@ -1139,6 +1162,7 @@ are granted subject to this reservation.”
 REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
 
 -,10091405_8 24
+
 
 IN WITNESS WHEREOEF, the Corporation has caused this Amended and Restated
 Certificate of Incorporation to be signed by Glenn Batchelder, its Chief Executive Officer, this

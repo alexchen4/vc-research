@@ -31,6 +31,7 @@ Certificate of Incorporation to be signed by Keegan Harper, a duly authorized of
 Corporation, on May 24 2007.
 
 3814343 3.D0C
+
 EXHIBIT A
 ARTICLE I
 
@@ -76,6 +77,7 @@ property other than: (i) repurchases of Common Stock issued to or held by employ
 directors or consultants of the Corporation or its subsidiaries upon termination of their employment
 
 3814363_4.DOC -2-
+
 or services pursuant to agreements providing for the right of said repurchase, (il) repurchases of
 Common Stock issued to or held by employees, officers, directors or consultants of the Corporation
 or its subsidiaries pursuant to rights of first refusal contained in agreements providing for such right,
@@ -124,6 +126,7 @@ Stock have been paid or set aside for payment to the holders of Series A Preferr
 Preferred Stock and Series C Preferred Stock. The right to receive dividends on shares of Preferred
 
 3814343_4.D0C -3-
+
 Stock shall not be cumulative, and no right to such dividends shall accrue to holders of Preferred
 Stock by reason of the fact that dividends on said shares are not declared or paid in any calendar
 year.
@@ -172,6 +175,7 @@ preference to any Distribution of any of the assets of the Corporation to the ho
 Stock by reason of their ownership of such stock, an amount per share equal to the sum of (i) the
 
 3814343_4 DOC -4.
+
 Liquidation Preference specified for such share of Preferred Stock and (ii) all declared but unpaid
 dividends (if any) on such share of Preferred Stock. If upon the liquidation, dissolution or winding
 up of the Corporation, after the payment to the holders of Series C Preferred Stock of the full
@@ -220,6 +224,7 @@ shall be deemed to be the average of the closing prices of the securities on suc
 over the ten (10) trading day period ending three (3) trading days prior to the Distribution; or
 
 3814343_4.D0C -5-
+
 (ii) if the securities are actively traded over-the-counter, then the value of
 the securities shall be deemed to be the average of the closing bid prices of the securities over the ten
 (10) trading day period ending three (3) trading days prior to the Distribution.
@@ -268,6 +273,7 @@ than $6.00 per share, as adjusted for Recapitalizations, or (ii) upon the receip
 a written request for such conversion from the holders of at least sixty percent (60%) of the Preferred
 
 3814343_4.D0C -6-
+
 Stock then outstanding, or, if later, the effective date for conversion specified in such requests (each
 of the events referred to in (i) and (ii) are referred to herein as an “Automatic Conversion Event’).
 
@@ -316,6 +322,7 @@ or liquidation of the Corporation or other event, the conversion may, at the opt
 tendering Preferred Stock for conversion, be conditioned upon the closing of such transaction or
 
 3814343_4.DOC -7-
+
 upon the occurrence of such event, in which case the person(s) entitled to receive the Common Stock
 issuable upon such conversion of the Preferred Stock shall not be deemed to have converted such
 Preferred Stock until immediately prior to the closing of such transaction or the occurrence of such
@@ -365,6 +372,7 @@ party service providers in connection with the provision of goods or services pu
 approved in good faith by the Board of Directors; and
 
 3814343_4.D0C -8-
+
 (9) shares of Common Stock which are excluded from the definition of
 Additional Shares of Common by the affirmative unanimous vote of the Board of Directors.
 
@@ -415,6 +423,7 @@ date;
 conversion or exchange under such Convertible Securities which shall not have been exercised, the
 
 3814343_4.D0C -9-
+
 Conversion Price of the Preferred Stock computed upon the original issue thereof (or upon the
 occurrence of a record date with respect thereto) and any subsequent adjustments based thereon
 shall, upon such expiration, be recomputed as if:
@@ -462,6 +471,7 @@ amounts so carried forward, equal $0.01 or more in the aggregate. For the purpos
 Subsection 4(d)(6). all shares of Common Stock issuable upon conversion of all outstanding shares
 
 3814343_4.D0C -10-
+
 of Preferred Stock and the exercise and/or conversion of any other outstanding Convertible
 Securities and all outstanding Options shall be deemed to be outstanding.
 
@@ -511,6 +521,7 @@ Conversion Price shall be adjusted to $0.01.
 the outstanding shares of Common Stock shall be subdivided (by stock split, by payment of a stock
 
 3814343_4.D0C -ll-
+
 dividend or otherwise), into a greater number of shares of Common Stock, the Conversion Price of
 the Preferred Stock in effect immediately prior to such subdivision shall, concurrently with the
 effectiveness of such subdivision, be proportionately decreased. In the event the outstanding shares
@@ -559,6 +570,7 @@ furnished to such holder a like certificate setting forth (i) such adjustments a
 Conversion Price at the time in effect and (iii) the number of shares of Common Stock and the
 
 3814343_4.D0C -12-
+
 amount, if any, of other property which at the time would be received upon the conversion of
 Preferred Stock.
 
@@ -607,6 +619,7 @@ Preferred Stock held by each holder could be converted), shall be disregarded.
 Series A Preferred Stock remain outstanding, the holders of Series A Preferred Stock, voting as a
 
 3814343_4.DOC -13-
+
 separate class, shall be entitled to elect two (2) members of the Corporation’s Board of Directors at
 cach meeting or pursuant to each consent of the Corporation’s stockholders for the election of
 directors. So long as at least 500,000 shares (as adjusted for Recapitalizations) of Series B Preferred
@@ -654,6 +667,7 @@ manner that does not so affect the entire class of Preferred Stock.
 adjusted for Recapitalizations) of Series B Preferred Stock shal] be issued and outstanding, the
 
 3814343_4.DOC -]4-
+
 Corporation shall not, directly or indirectly, by merger or otherwise, without first obtaining the
 approval (by vote or written consent as provided by law) of the holders of at least a majority of the
 outstanding shares of Series B Preferred Stock, amend, alter or repeal any provision of the
@@ -700,6 +714,7 @@ officers, directors, employees, or consultants of the Corporation as a result of
 person’s service relationship with the Corporation as approved by the Board of Directors; or
 
 3814343_4.D0C -15-
+
 (vii) declare or pay any Distribution with respect to the Preferred Stock
 (other than as set forth in Section 3 hereof) or Common Stock of the Corporation; or
 
@@ -745,6 +760,7 @@ served at any other enterprise as a director, officer or employee at the request
 any predecessor to the Corporation.
 
 3814343_4.D0C -16-
+
 3. Neither any amendment nor repeal of this ARTICLE X, nor the adoption of any
 provision of this Corporation’s Certificate of Incorporation inconsistent with this ARTICLE X, shall
 eliminate or reduce the effect of this ARTICLE X, in respect of any matter occurring, or any action

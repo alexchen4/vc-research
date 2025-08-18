@@ -51,6 +51,7 @@ corporations may be organized under the General Corporation Law of the State of 
 “General Corporation Law”).
 
 GDS VF&M\824755.7
+
 ARTICLE IV
 
 A. Classes of Stock. The total number of shares of all classes of capital stock that
@@ -100,6 +101,7 @@ vote or written consent of the holders of a majority of the Series E Preferred S
 outstanding.
 
 GDS VF&H\W824755.7 2
+
 (b) Subject to the rights of the holders of shares of Series E Preferred
 Stock as provided in subsection 1(a), the holders of shares of Series D Preferred Stock shall be
 entitled to receive dividends, out of any assets legally available therefor, prior and in preference
@@ -149,6 +151,7 @@ shall be entitled to receive dividends, out of any assets legally available ther
 preference to any declaration or payment of any dividend (payable other than in Common Stock
 
 GDS VF&H\824755.7 3
+
 or other securities and rights convertible into or entitling the holder thereof to receive, directly or
 indirectly, shares of Common Stock of the Company) on the Common Stock or any other junior
 equity security of the Company, at the rate of $0.0205 and $0.14, respectively, per share per
@@ -198,6 +201,7 @@ permit the payment to such holders of the full aforesaid preferential amounts, t
 assets and funds of the Company legally available for distribution shall be distributed ratably
 
 GDSVF&H\824755.7 4
+
 among the holders of the Series E Preferred Stock, Series D Preferred Stock, Series C Preferred
 Stock and Series B Preferred Stock in proportion to the full preferential amount of Series E
 Preferred Stock, Series D Preferred Stock, Series C Preferred Stock and Series B Preferred Stock
@@ -247,6 +251,7 @@ holder shall be deemed to have converted shares of Preferred Stock into Common S
 to this paragraph, then such holder shall not be entitled to receive any distribution that would
 
 GDSVF&H\824755.7 5
+
 otherwise be made to holders of Preferred Stock that have not converted (or have not been
 deemed to have converted) into shares of Common Stock.
 
@@ -297,6 +302,7 @@ of such transaction, whichever is earlier, and shall also notify such holders in
 approval of such transaction. The first of such notices shall describe the material terms and
 
 GDS VF&H\824755.7 6
+
 conditions of the impending transaction and the provisions of this Section 2, and the Company
 shall thereafter give such holders prompt notice of any material changes. The transaction shall in
 no event take place sooner than fifteen (15) days after the Company has given the first notice
@@ -346,6 +352,7 @@ Notice;
 (ii) | the Redemption Date and the Redemption Price; and
 
 GDSVF&HN\3824755.7 7
+
 (iii) that the holder is to surrender to the Company, in the
 manner and at the place designated, his, her or its certificate or certificates representing the
 shares of Series E Preferred Stock to be redeemed.
@@ -395,6 +402,7 @@ C Issue Price, the initial “Conversion Price” per share for shares of Series
 shall be the Original Series D Issue Price and the initial “Conversion Price” per share for shares
 
 GDS VF&H\824755.7 8
+
 of Series E Preferred Stock shall be the Original Series E Issue Price; provided, however, that the
 Conversion Prices for the Series A Preferred Stock, Series B Preferred Stock, Series C Preferred
 Stock, the Series D Preferred Stock and the Series E Preferred Stock shall be subject to
@@ -444,6 +452,7 @@ agent for such series of Preferred Stock, and shall give written notice to the C
 principal corporate office, of the election to convert the same and shall state therein the name or
 
 GDSVF&EN824755,7 9
+
 names in which the certificate or certificates for shares of Common Stock are to be issued;
 provided, however, that in the event of an automatic conversion pursuant to subsection 4(b), the
 outstanding shares of such series of Preferred Stock shall be converted automatically without any
@@ -490,6 +499,7 @@ converted,
 Dilutive Issuances, Splits and Combinations, The Conversion Price of the Series A Preferred
 
 GDSVE&H\824755.7 10
+
 Stock, the Series B Preferred Stock, the Series C Preferred Stock, the Series D Preferred Stock
 and the Series E Preferred Stock shall be subject to adjustment from time to time as follows:
 
@@ -539,6 +549,7 @@ any reasonable discounts, commissions or other expenses allowed, paid or incurre
 Company for any underwriting or otherwise in connection with the issuance and sale thereof.
 
 GDS VF&H\824755.7 11
+
 (D) In the case of the issuance of the Common Stock for
 a consideration in whole or in part other than cash, the consideration other than cash shall be
 deemed to be the fair value thereof as determined by the Board: of Directors irrespective of any
@@ -589,6 +600,7 @@ on any conversion of such series of Preferred Stock that occurred prior to such 
 increase.
 
 GDS VF&H\824755.7 12
+
 (4) | Upon the expiration of any such options or
 rights, the termination of any such rights to convert or exchange or the expiration of any options
 or rights related to such Convertible Securities, the Conversion Price of such series of Preferred
@@ -640,6 +652,7 @@ banks, equipment Jessors and other financial institutions or landlords in connec
 extension of credit to the Company (including loans, lines of credit, guarantees or other financing
 
 GDSVF&H\824755.7 13
+
 arrangements) or in connection with the lease of equipment, personal property or real property,
 provided such issuances are for other than primarily equity financing purposes and are approved
 by the Board of Directors of the Company;
@@ -690,6 +703,7 @@ for deemed issuance, in subsection 4(d)(i)(E).
 any time after the Purchase Date is decreased by a combination of the outstanding shares of
 
 GDSVF&MN824755.7 14
+
 Common Stock and without a corresponding combination of the outstanding shares of Preferred
 Stock, then, following the record date of such combination, the Conversion Price for each series
 of Preferred Stock shall be appropriately increased so that the number of shares of Common
@@ -739,6 +753,7 @@ lawful and adequate provision shall be made whereby the holders of the Preferred
 thereafter have the right to receive, upon the basis and upon the terms and conditions specified
 
 GDSVF&M\824755.7 15
+
 herein, and in lieu of the shares of Common Stock immediately theretofore receivable upon the
 conversion of the Preferred Stock, such shares of stock, securities or assets as may be issued or
 payable in connection with such consolidation or merger with respect to or in exchange for a
@@ -787,6 +802,7 @@ number of shares of Common Stock and the amount, if any, of other property which
 would be received upon the conversion of a share of Preferred Stock.
 
 GDSVF&H\824755.7 16
+
 (i) Notices of Record Date. In the event of any taking by the
 Company of a record of the holders of any class of securities for the purpose of determining the
 holders thereof who are entitled to receive any dividend (other than a cash dividend) or other
@@ -836,6 +852,7 @@ matters required by law or this certificate of incorporation to be submitted to 
 Fractional votes shall not, however, be permitted and any fractional voting rights available on an
 
 GDS VF&H\824755.7 : 17
+
 as-converted basis (after aggregating all shares into which shares of Preferred Stock held by each
 holder could be converted) shall be rounded down to the nearest whole number.
 
@@ -886,6 +903,7 @@ to fill such vacancy.
 Preferred Stock (subject to adjustment for any stock split, reverse stock split or other similar
 
 GDSVF&H\824755.7 18
+
 event affecting the Preferred Stock after the filing date hereof) remain outstanding, in addition to
 any other vote or consent required herein or by law, the Company shall not without first
 obtaining the approval (by vote or written consent, as provided by law) of the holders of
@@ -937,6 +955,7 @@ Series B Preferred Stock (subject to adjustment for any stock split, reverse sto
 similar event affecting the Preferred Stock after the filing date hereof) remain outstanding, in
 
 GDSVF&H\824755,7 19
+
 addition to any other vote or consent required herein or by law, the Company shall not without
 first obtaining the approval (by vote or written consent, as provided by law) of the holders of a
 majority of the then outstanding shares of Series B Preferred Stock, voting together as a single
@@ -984,6 +1003,7 @@ Stock, without designation as to series until such shares are once more designat
 particular series by the Board of Directors.
 
 GDSVF&H\824755.7 20
+
 Cc. Common Stock.
 
 1. Relative Rights of Preferred Stock and Common Stock. All preferences,
@@ -1034,6 +1054,7 @@ Law; or (4) for any transaction from which the director derived an improper pers
 the General Corporation Law hereafter is amended to further eliminate or limit the liability of
 
 GDS VF&H\824755.7 21
+
 directors, then the liability of a director of the Company, in addition to the limitation on personal
 liability provided herein, shall be limited to the fullest extent permitted by the amended General
 Corporation Law. Any repeal or modification of the foregoing provisions of this Article VI, or
@@ -1053,6 +1074,7 @@ manner now or hereafter prescribed by statute, and all rights conferred upon a s
 are granted subject to this reservation.
 
 GDSVFP&H\824755.7 22
+
 * * ¥*
 
 FIFTH: This Amended and Restated Certificate of Incorporation was duly adopted
@@ -1067,6 +1089,7 @@ General Corporation Law, and written notice has been given as provided in Sectio
 [Remainder of this page intentionally left blank]
 
 GDS VF&H\824755.7 23
+
 IN WITNESS WHEREOF, 4INFO, INC. has caused this certificate to be signed by its
 President and Secretary this 29" day of October, 2007.
 

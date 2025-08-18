@@ -51,6 +51,7 @@ Corporation shall have authority to issue is 54,011,021 shares, consisting of:
 (“Common Stock”) and
 
 6994223 2
+
 (ii) 20,011,021 shares of Preferred Stock, $0.001 par value per share
 (“Preferred Stock”), of which 2,562,500 shares shall be designated Series A Convertible
 Preferred Stock (the “Series A Preferred Stock”), 6,827,776 shares shall be designated
@@ -69,7 +70,7 @@ I. General. The voting, dividend and liquidation rights of the holders of the
 Common Stock are subject to and qualified by the rights, powers and preferences of the holders
 of the Preferred Stock set forth herein.
 
-a Voting, Except as otherwise provided in this Amended and Restated Certificate
+5 Voting, Except as otherwise provided in this Amended and Restated Certificate
 of Incorporation, the holders of the Common Stock are entitled to one vote for each share of
 Common Stock held at all meetings of stockholders (and written actions in lieu of meetings).
 There shall be no cumulative voting. The number of authorized shares of Common Stock may
@@ -100,6 +101,7 @@ whether or not there are earnings or profits, surplus or other funds or assets o
 legally available for the payment of dividends.
 
 6994223 2 2
+
 (b) No dividend shall be declared or paid on shares of Series C Preferred
 Stock unless the provisions of subsection 1(a) are satisfied. From and after the date of issuance
 of any shares of Series C Preferred Stock, the holders of record of shares of Series C Preferred
@@ -149,6 +151,7 @@ receive such dividend.
 determination of holders of shares of Common Stock or Preferred Stock entitled to receive
 
 6994223 2 3
+
 payment of a dividend declared thereon, which record date shall be no more than 60 days and no
 less than 10 days prior to the date fixed for the payment thereof.
 
@@ -198,6 +201,7 @@ parity with the Series C Preferred Stock shall share ratably in any distribution
 assets and funds of the Corporation in proportion to the respective amounts which would
 
 6994223 2 4
+
 otherwise be payable in respect of the shares held by them upon such distribution if all amounts
 payable on or with respect to such shares were paid in full.
 
@@ -248,6 +252,7 @@ shall be referred to as the “Series D Liquidation Preference.” The amount in
 the holders of Series C Preferred Stock are entitled to receive pursuant to this Section 2 for each
 
 6994223 2 5
+
 share of Series C Preferred Stock shall be referred to as the “Series C Liquidation Preference.”
 The amount in the aggregate that the holders of Series B Preferred Stock are entitled to receive
 pursuant to this Section 2 for each share of Series B Preferred Stock shall be referred to as the
@@ -297,6 +302,7 @@ to secure such right) pursuant to the terms of the following clause (B) to requi
 of such shares of Preferred Stock, and (B) unless the holders of a majority of the Series D
 
 6994223 2 6
+
 Preferred Stock, voting separately as a single class, and the holders of a majority of the Series C
 Preferred Stock, voting separately as a single class, otherwise agree in a written instrument
 delivered to the Corporation not later than 10 days after such Deemed Liquidation Event, the
@@ -346,6 +352,7 @@ distributed to the holders of Preferred Stock upon any liquidation, dissolution,
 or securities paid or distributed to such holders by the Corporation or the acquiring person, firm
 
 6994223 2 7
+
 or other entity. If the amount distributed to the holders of Preferred Stock upon any liquidation,
 dissolution, or winding-up (including any Deemed Liquidation Event) is made in property other
 than cash, the fair market value of such property, rights, or securities distributed to such holders
@@ -393,6 +400,7 @@ below), to elect two (2) individuals (the “Series C Directors”) to serve on 
 of the Corporation.
 
 6994223 2 8
+
 (ii) for so long as the holders of record of the shares of Series C
 Preferred Stock own at least ten percent (10%) but less than twenty percent (20%) of the Fully
 Diluted Equity, to elect one (1) Series C Director to serve on the Board of Directors of the
@@ -441,6 +449,7 @@ determined in accordance with subsection 3(a).
 as follows (the “Conversion Rights”):
 
 6994223 2 9
+
 (a) Right to Convert. Each share of Preferred Stock shall be convertible, at
 the option of the holder thereof, at any time and from time to time, and without the payment of
 additional consideration by the holder thereof, into such number of fully paid and nonassessable
@@ -490,6 +499,7 @@ the number of shares of Common Stock to which such holder shall be entitled, tog
 in lieu of any fraction of a share. On the Conversion Date, each holder of record of shares of
 
 6994223 2 10
+
 Preferred Stock surrendered for conversion shall be deemed to be the holder of record of the
 Common Stock issuable upon conversion of such Preferred Stock, notwithstanding that the
 certificates evidencing such shares of Common Stock shall not then be actually delivered to such
@@ -539,6 +549,7 @@ subsection 4(d)(iii) in the Conversion Price of the Preferred Stock shall be mad
 consideration per share (determined pursuant to subsection 4(d)(iv) below) for Additional Shares
 
 6994223 2 1]
+
 of Common Stock (as defined below) issued or deemed to be issued by the Corporation is less
 than the applicable Conversion Price in effect on the date of, and immediately prior to, the issue
 of such Additional Shares, for such series of Preferred Stock or (b) if prior to or within sixty (60)
@@ -588,6 +599,7 @@ Common Stock, the only Additional Shares of Common Stock issued were the
 shares of Common Stock, if any, actually issued upon the exercise of such
 
 69942232 12
+
 Options or the conversion or exchange of such Convertible Securities and the
 consideration received therefor was the consideration actually received by the
 Corporation for the issue of all such Options, whether or not exercised, plus the
@@ -636,6 +648,7 @@ readjusted to such Conversion Price as would have obtained had such Option or Co
 Security (or portion thereof) never been issued.
 
 6994223 2 13
+
 (iii) | Adjustment of Conversion Price Upon Issuance of Additional
 Shares of Common Stock. In the event the Corporation shall at any time after the Original Issue
 
@@ -686,6 +699,7 @@ consideration so received, computed as provided in clauses (1) and (2) above, as
 determined in good faith by the Board of Directors.
 
 6994223 2 14
+
 (B) Options and Convertible Securities. The consideration per
 share received by the Corporation for Additional Shares of Common Stock deemed to have been
 
@@ -736,6 +750,7 @@ record date, by multiplying the Conversion Price for each series of Preferred St
 by a fraction:
 
 6994223 2 15
+
 (i) the numerator of which shall be the total number of shares of
 Common Stock issued and outstanding immediately prior to the time of such issuance or the
 close of business on such record date, and
@@ -787,6 +802,7 @@ provided for by such provisions (including, without limitation, the granting of 
 rights, phantom stock rights or other rights with equity features), then the Board of Directors of
 
 6994223 2 16
+
 the Corporation shall make an appropriate reduction in the Conversion Price so as to protect the
 rights of the holders of the Preferred Stock.
 
@@ -836,6 +852,7 @@ or winding up is expected to become effective, and the date as of which it is ex
 holders of Common Stock of record shal! be entitled to exchange their shares of Common Stock
 
 6994223 2 17
+
 for securities or other property deliverable upon such reclassification, consolidation, merger,
 sale, dissolution or winding up.
 
@@ -884,6 +901,7 @@ certificates evidencing such shares of Common Stock shall not then be actually d
 holder.
 
 6994223 2 18
+
 (c) All certificates evidencing shares of Preferred Stock which are required to
 be surrendered for conversion in accordance with the provisions hereof shall, from and after the
 Mandatory Conversion Date, be deemed to have been retired and cancelled and the shares of
@@ -933,6 +951,7 @@ Common Stock of the Corporation from former employees or service providers in co
 with the cessation of their employment or services, at the lower of fair market value or cost or
 
 6994223 2 19
+
 other than as approved by the Board of Directors of the Corporation, including at least one of the
 Series C Directors and the Series D Director;
 
@@ -982,6 +1001,7 @@ agreements;
 Management of the Corporation;
 
 6994223 2 20
+
 (xix) create any Subsidiaries other than a Subsidiary in which the
 Corporation or a Subsidiary of the Corporation is the sole record and beneficial holder of all the
 equity interests;
@@ -1031,6 +1051,7 @@ delivery of such Series D Redemption Request (the date designated in the Series 
 Request and each anniversary thereof, a “Series D Mandatory Redemption Date”). Each holder
 
 6994223 2 2]
+
 of Series D Preferred Stock may elect to withdraw a Series D Redemption Request with respect
 to all or a portion of such holder’s shares of Series D Preferred Stock to be redeemed on a Series
 D Mandatory Redemption Date by giving the Corporation written notice of such holder’s
@@ -1080,6 +1101,7 @@ Preferred Stock and redeems pursuant to Section 8(a), the then-outstanding share
 D Preferred Stock; provided, however, that this restriction may be waived by the holders of not
 
 6994223 2 22
+
 less than a majority of the then-outstanding Series D Preferred Stock, voting separately as a
 single class, with respect to the Series D Preferred Stock, and the holders of not less than a
 majority of the then-outstanding Series C Preferred Stock, voting separately as a single class,
@@ -1129,6 +1151,7 @@ of Preferred Stock which are not redeemed as a result of the circumstances descr
 subsection 8(f) shall remain outstanding and entitled to all rights and preferences provided herein
 
 6994223 2 23
+
 until such shares shall have been redeemed and the Mandatory Redemption Price therefor, as
 applicable, shall have been paid or set aside for payment in full. In the event that less than all of
 the shares of Preferred Stock represented by a certificate are redeemed, a new certificate
@@ -1178,6 +1201,7 @@ Stock accordingly.
 Original Issue Date, other than:
 
 6994223 2 24
+
 (a) shares of Common Stock issued or issuable by reason of a dividend or
 other distribution on shares of Common Stock that is covered by subsection 4(e) or 4(f) above;
 
@@ -1227,6 +1251,7 @@ directly or indirectly, of the power to direct the management and policies of a 
 through the ownership of voting securities, by contract or otherwise. With respect to Bain
 
 6994223 2 25
+
 Capital, the term Affiliate shall be deemed to also include any Person under common
 management with Bain Capital.
 
@@ -1276,6 +1301,7 @@ amount is for Common Stock of the Corporation, the valuation amount shall not in
 discount for minority ownership or illiquidity or a contro! premium,
 
 6994223 2 2%
+
 “As-Converted Basis” shall mean, for the purpose of determining the number of shares of
 Common Stock outstanding, a basis of calculation which takes into account (a) the number of
 shares of Common Stock actually issued and outstanding at the time of such determination, and
@@ -1326,6 +1352,7 @@ amended, resulting in at least Fifty Million Dollars ($50,000,000) of proceeds t
 (net of the underwriting discounts or commissions and offering expenses) and after which the
 
 6994223 2 44
+
 Common Stock is listed on the New York Stock Exchange, the NASDAQ Global Market, the
 NASDAQ Global Select Market or an equivalent global market.
 
@@ -1375,6 +1402,7 @@ C.. Meetings of the stockholders may be held within or without the State of
 Delaware, as the Bylaws of the Corporation may provide. The books of the Corporation may be
 
 6994223 2 28
+
 kept at such place within or without the State of Delaware as the Bylaws of the Corporation may
 provide or as may be designated from time to time by the Board of Directors of the Corporation.
 
@@ -1424,6 +1452,7 @@ benefit plans, against expenses (including attorney’s fees and expenses), judg
 penalties and amounts paid in settlement incurred in connection with the investigation,
 
 6994223 2 29
+
 preparation to defend or defense of such action, suit, proceeding or claim; provided, however,
 that the foregoing shall not require the Corporation to indemnify or advance expenses to any
 person in connection with any action, suit, proceeding or claim initiated by or on behalf of such
@@ -1463,6 +1492,7 @@ are granted subject to this reservation.
 [Remainder of page intentionally left blank.}
 
 6994223 2 30
+
 IN WITNESS WIHEREOF, the Corporation has caused this Amended and Restated Certificate of
 Incorporation to be signed by a duly authorized officer of the Corporation this 27 day of
 August | 2014.

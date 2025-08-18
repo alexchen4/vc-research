@@ -49,6 +49,7 @@ and the qualifications, limitations or restrictions thereof in respect of each c
 of the Corporation.
 
 S721. 1477313 vh
+
 A. COMMON STOCK.
 
 1. General. The voting, dividend and liquidation rights of the holders of the
@@ -97,6 +98,7 @@ Three Million Five Hundred Thousand (3,500,000) of the authorized shares of Pref
 Stock are hereby designated “Series 1 Preferred Stock”, $0.0001 par value per share (the “Series
 
 17201 19677353 vi 2
+
 I Preferred”), and Seven Million Five Hundred Thousand (7,500,000) of the authorized shares
 of Preferred Stock are hereby designated “Series A Preferred Stock”, $0.0001 par value per share
 (the “Series A Preferred’).
@@ -144,6 +146,7 @@ twelve percent (12%) of the Series 1 Original Price per share per annum, but onl
 period of such default. The Series 1 Cumulative Dividends will be prior and in preference to any
 
 ETZEL N9AT73ES vi 3
+
 declaration or payment of any dividend (payable other than in Common Stock or other securities
 and rights convertible into or entitling the holder thereof to receive, directly or indirectly,
 additional shares of Common Stock), distribution or payment of any kind on the Common Stock
@@ -191,6 +194,7 @@ assets of the Corporation available for distribution to its stockholders, before
 made in respect of the Common Stock or any other equity securities of the Corporation, an
 
 1720 1.19-$77313 vt 4
+
 amount equal to the Series 1 Original Price per share of Series 1 Preferred, plus accrued
 dividends that are then unpaid for each share of Series 1! Preferred then held by it (the “Series I
 Preference Amount’, and together with the Series A Preference Amount, the “Preference
@@ -237,6 +241,7 @@ Series 1 Preferred had been converted voluntarily into Common Stock at the then 
 conversion rate immediately prior to such Liquidating Event.
 
 $721 1.99-4793)3 v3
+
 (c)  Liquidating Event. A “Liguidating Event’ will mean (i) any
 liquidation, dissolution or winding up of the Corporation, either voluntary or involuntary, (ii) a
 sale, transfer or other disposition of all or substantially all the assets of the Corporation to an
@@ -284,6 +289,7 @@ among the directors elected by the holders of a group described above, the remai
 elected by the holders of a majority in interest of such group may, or if there is no such director
 
 37234,19-477313 vi 6
+
 
 remaining, the holders of such group, voting as a group, will be entitled to appoint a successor or
 successors to hold the office for the unexpired term of the director or directors whose place or
@@ -334,6 +340,7 @@ prices for such shares;
 securities other than a Qualified Initial Public Offering (hereafter defined).
 
 17240,19-477313 v1 vi
+
 4. Conyersion Rights
 
 (a) Each share of Preferred Stock will be convertible at the option of
@@ -381,6 +388,7 @@ Corporation will pay a cash adjustment in respect of such fractional interest eq
 market value of such fractional interest as determined in good faith by the Board. The
 
 3721 1.19-477313 v) 8
+
 Corporation will pay any and all issue and other taxes that may be payable in respect of any issue
 or delivery of shares of Common Stock on conversion of Preferred Stock pursuant hereto. The
 Corporation will not, however, be required to pay any tax that may be payable in respect of any
@@ -429,6 +437,7 @@ conversion of shares of Preferred Stock require registration or listing with, or
 governmental authority, stock exchange or other regulatory body under any federal or state law or
 
 V2), 19-4773 13 vd 9
+
 regulation or otherwise, before such shares may be validly issued or delivered upon conversion,
 
 the Corporation will in good faith and as expeditiously as possible endeavor to secure such
@@ -477,6 +486,7 @@ of Common Stock issuable in payment of such dividend or
 distribution;
 
 U7INA 9-477 vt 10
+
 provided, however, if such record date shall have been fixed and such dividend is not fully paid
 or if such distribution is not fully made on the date fixed therefor, the applicable Conversion
 Price for the Preferred Stock shall be recomputed accordingly as of the close of business on such
@@ -525,6 +535,7 @@ Preferred Stock would have been entitled on such capital reorganization or Sale 
 any such case, appropriate adjustment shall be made in the application of the provisions of this
 
 17218.19-477313 vd ] }
+
 Section 5 with respect to the rights of the holders of the Preferred Stock after the reorganization
 or Sale Transaction to the end that the provisions of this Section 5 (including adjustment of the
 applicable Conversion Price then in effect and the number of shares purchasable upon conversion
@@ -573,6 +584,7 @@ performed under this Section 5 or Section 7 by the Corporation, but will at all 
 assist in carrying out all such action as may be reasonably necessary or appropriate in order to
 
 §7231,29-877313 v1 12
+
 protect the conversion rights of the holders of the Preferred Stock against dilution or other
 impairment.
 
@@ -619,6 +631,7 @@ shares of Common Stock issuable upon conversion of all outstanding Convertible S
 (hereafter defined) or Stock Purchase Rights, hereafter defined (the shares reflected in (A) and
 
 17211.19-477313 v3 13
+
 (B), collectively, “Outstanding Shares”), plus (C) the total number of shares of Common Stock
 that the aggregate consideration received by the Corporation for the total number of Additional
 Shares of Common Stock so issued would purchase at the Conversion Price applicable to such
@@ -667,6 +680,7 @@ transactions occurring within a sixty (60) day period more than one type of
 Convertible Securities and/or Stock Purchase Rights or both Convertible
 
 UT219.19-477313 vd 14
+
 Securities and Stock Purchase Rights are issued, the determination as to
 whether an issuance of securities pursuant to Section 7(a) has occurred
 will be made on an aggregate basis, taking into account all Convertible
@@ -714,6 +728,7 @@ Effective Price (hereafter defined) thereof is less than the current applicable 
 a series of Preferred Stock, the Corporation shall be deemed to have issued at the time of the
 
 V7ZU0.19-477313 v1 15
+
 issuance of such rights or options the maximum number of Additional Shares of Common Stock
 issuable upon conversion of the total amount of Convertible Securities covered by such rights or
 options and to have received as consideration for the issuance of such Additional Shares of
@@ -761,6 +776,7 @@ any Convertible Securities.
 deemed outstanding and issued or sold at the time of such issue or sale.
 
 17215.19-477313 vl 16
+
 (f) Exclusions. Anything herein to the contrary notwithstanding, the
 Corporation will not be required to make any adjustment of the Conversion Price in the case of
 (i) the issuance or sale of Common Stock or of options (or restricted stock awards), or the shares
@@ -808,6 +824,7 @@ Section 8, including, but not limited to, subsection (d) below, the Corporation 
 receiving at any time on or after the fifth (sy anniversary of the date of the first sale of Series A
 
 97211, 19-477313 vi 17
+
 Preferred Stock, a written request (a “Redemption Notice”) for the redemption of the outstanding
 shares of a series of Preferred Stock under this Section 8 signed by the holders of at least 66.67%
 of then outstanding shares of such series, redeem any such outstanding shares of such series (the
@@ -854,6 +871,7 @@ aggregate number of all shares of Series A Preferred held by all Redeeming Holde
 shares of Series A Preferred have been redeemed by the Corporation, the holders of the then
 
 V72V1.19-477333 vi 18
+
 outstanding shares of Series 1 Preferred shal} be entitled to have their shares of Series 1 Preferred
 redeemed, out of any funds and assets of the Corporation legally available therefor. If funds of
 the Corporation legally available therefor shall be insufficient to redeem all of the shares of
@@ -901,6 +919,7 @@ any other rights and remedies under applicable law, in equity, or provided for i
 by any agreements between the Corporation and any holders of Series A Preferred and will be
 
 1725112477313 vi 19
+
 cumulative and non-exclusive with any such other rights and remedies and in the event of any
 actual conflict or inconsistency herewith and therewith, the terms set forth above shall control,
 unless otherwise agreed to by the holders of at least two-thirds (66-2/3%) in interest of the then
@@ -948,6 +967,7 @@ provided, however, that, in addition to any vote of the holders of any class or 
 the Corporation required by law or by this Certificate, the affirmative vote of the holders of at
 
 17211, $9-477313 vit 20
+
 least a majority of the voting power of all of the then-outstanding shares of the capital stock of
 the Corporation entitled to vote generally in the election of directors, voting together as a single
 class on an as-converted to Common Stock basis, shall be required for any provision of the
@@ -995,6 +1015,7 @@ The Corporation reserves the right to amend, alter, change or repeal any provisi
 contained in this Certificate in the manner now or hereafter prescribed by law, and all rights and
 
 17211.19-477313 vt 21
+
 powers conferred herein on stockholders, directors and officers are subject to this reserved
 power.
 

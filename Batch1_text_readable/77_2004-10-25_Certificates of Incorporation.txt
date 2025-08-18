@@ -33,6 +33,7 @@ FILED 01:58 PM 10/25/2004
 SRV 040767731 - 3261449 FILE
 " 23807/000 10/DOCS/1468224.4
 
+
 Exhibit “A”
 1.
 
@@ -83,6 +84,7 @@ Incorporation. Effective upon the filing of this Restated Certificate of Incorpo
 
 23807/000 10/DOC S/1468224.4
 
+
 5
 
 (10) outstanding shares of Series A Preferred will he combined into and automatically become
@@ -132,6 +134,7 @@ Original Issue Price” shall be ten dollars ($10.00) per share, As Adjusted. Su
 be payable only when, as and if declared by the Board of Directors.
 
 2 23807/000 10/DOCS/1468224.4
+
 d. So long as any shares of Preferred Stock shal] be outstanding, no
 dividend, whether in cash or property, shall be paid or declared, nor shall any other distribution
 be made, on any Common Stock, nor shall any shares of any Common Stock of the Corporation
@@ -179,6 +182,7 @@ series of Preferred Stock in right of redemption, liquidation preference or divi
 increase in the authorized or designated number of any such new class or series;
 
 3 23807/000 10/DOCS/1468224.4
+
 
 (4) Any redemption, repurchase, payment of dividends or other
 distributions, or declaration of such dividend or distribution, with respect to Common Stock or
@@ -231,6 +235,7 @@ proportion to the full amounts to which they would otherwise be entitled.
 
 4 2380 7/000 10/DOCS/1468224.4
 
+
 c. After the payment in full of the Series C Fixed Preference and the
 Series B Fixed Preference as set forth in Section 3(a) and Section 3(b) above, the holders of
 Series A Preferred shall be entitled to be paid out of the assets of the Corporation an amount per
@@ -281,6 +286,7 @@ a limited liability company, a trust, an unincorporated organization or governme
 or an agency or political subdivision thereof.
 
 5 23807/00010/DOCS/1468224.4
+
 
 f. In any Acquisition or Asset Transfer, if the consideration to be
 received is securities of a corporation or other property other than cash, its value will be deemed
@@ -333,6 +339,7 @@ may elect to pay in cash (at the Common Stock’s fair market value determined b
 
 6 2380700010/DOCS/1468224.4
 
+
 Directors as of the date of conversion) the value of any fractional share of Common Stock
 otherwise issuable to any holder of Preferred Stock as a rcsult of such conversion. Such
 conversion shall he deemed to have been made at the close of business on the date of such
@@ -382,6 +389,7 @@ change, all subject to further adjustment as provided herein or with respect to 
 securities or property by the terms thereof.
 
 7 23807/000 10/DOCS/1468224.4
+
 
 h. Reorganizations, Mergers or Consolidations. If at any time or
 from time to time after the date of filing of this Restated Certificate of Incorporation, there is a
@@ -433,6 +441,7 @@ number of shares of Common Stock outstanding and (B) the number of shares of Com
 
 8 23807/00010/DOCS/1468224.4
 
+
 into which the then outstanding shares of Preferred Stock could be converted if fully converted
 on the day immediately preceding the given date.
 
@@ -477,11 +486,12 @@ non-occurrence of specified events other than by reason of antidilution adjustme
 Price shal! be recalculated using the figure to which such minimum amount of consideration is
 reduced or the number of Additional Shares of Common Stock to be issued shall be recalculated
 using the figure to which the number of such shares is increased; provided further, that if the
-minimum amount of consideration payable to the Corporation upon the excrcise or conversion of
+minimum amount of consideration payable to the Corporation upon the excreise or conversion of
 such rights, options or Convertible Securities is subsequently increased, or the number of
 Additional Shares of Common Stock issued upon such exercise or conversion is subsequently
 
 9 23807/00010/DOCS/1468224.4
+
 decreased, over time or on the occurrence or non-occurrence of specified events other than by
 reason of antidilution adjustments, the Effective Price shall be again recalculated using the
 increased minimum amount of consideration payable to the Corporation upon the exercise or
@@ -532,6 +542,7 @@ readjustment of an applicable Series Preferred Conversion Price for the number o
 Common Stock or other securities issuable upon conversion of such series of Preferred Stock, if
 
 10 23807/00010/DOCS/1468224.4
+
 such series of Preferred Stock is then convertible pursuant to this Section 4, the Corporation, at
 its expense, shall compute such adjustment or readjustment in accordance with the provisions
 hereof and prepare a certificate showing such adjustment or readjustment, and shall mail such
@@ -582,6 +593,7 @@ Section 4(1) above, the outstanding shares of Preferred Stock shall be converted
 without any further action by the holders of such shares and whether or not the certificates
 
 11 23807/000 10/DOCS/1468224.4
+
 representing such shares arc surrendered to the Corporation or its transfer agent, provided,
 however, that the Corporation shall not be obligated to issue certificatcs cvidencing the shares of
 Common Stock issuable upon such conversion unless the certificates evidencing such shares of
@@ -632,6 +644,7 @@ together as a single class on an “as-if-converted” basis) as required under 
 Corporation shall not amend its Certificate of Incorporation or participate in any reorganization,
 
 12 23807/00010/DOCS/1468224.4
+
 Asset Transfer, consolidation, merger, dissolution, issue or sale of securities or take any other
 voluntary action, for the purpose of avoiding or seeking to avoid the observance or performance
 of any of the terms to be observed or performed hereunder by the Corporation, but shall at all
@@ -680,6 +693,7 @@ outstanding immediately prior to the Series C Redemption Date by (B) the number 
 Series C Redemption Dates {including the Series C Redemption Date to which such calculation
 
 13 ; 23807/000 10/DOCS/1468224.4
+
 applies). Shares subjcct to redemption pursuant to this Section 6(a) shall be redeemed from each
 holder of Series C Preferred on a pro rata basis, based on the number of shares then held.
 
@@ -729,6 +743,7 @@ portion of the Series B Redemption Price payable for the shares to be redeemed a
 at which such holders may obtain payment of the applicable portion of the Series B Redemption
 
 14 23807/000 10/DOCS/1468224.4
+
 Ul
 
 Price upon surrender of their share ccrtificates. If the Corporation does not have sufficient funds
@@ -778,6 +793,7 @@ close of business on the fifth (Sth) day preceding the applicable Redemption Dat
 is made in payment of the Redemption Price.
 
 15 23807/0001 0/DOCS/1468224.4
+
 V.
 
 Elections of directors need not be by written ballot, unless otherwise provided in the
@@ -823,6 +839,7 @@ creditors or class of creditors, and/or on all the stockholders or class of stoc
 Corporation, as the case may be, and also on this Corporation.
 
 16 23807/000 10/DOCS/1468224.4
+
 IX.
 The Corporation reserves the right to amend, alter, change or repeal any provision
 

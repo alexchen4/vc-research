@@ -49,6 +49,7 @@ Corporation shall have authority to issue is 42,723,656 shares, consisting of:
 (“Common Stock”) and
 
 DMWEST #8191526 v7
+
 (ii) 15,123,656 shares of Preferred Stock, $0.001 par value per share
 (“Preferred Stock”), of which 2,562,500 shares shall be designated Series A Convertible
 Preferred Stock (the “Series A Preferred Stock”), 6,827,776 shares shall be designated
@@ -97,6 +98,7 @@ profits, surplus or other funds or assets of the Corporation legally available f
 dividends.
 
 DMWEST #8191526 v7 y)
+
 (b) No dividend shal! be declared or paid on shares of Series B Preferred
 Stock or Series A Preferred Stock unless the provisions of subsection 1(a) are satisfied. From
 and after the date of issuance of any shares of Series B Preferred Stock or Series A Preferred
@@ -147,6 +149,7 @@ Preferred Stock held by such holder equal to the Series C Original! Purchase Pri
 shall be subject to equitable adjustment whenever there shall occur a stock dividend, stock split,
 
 DMWEST #8191526 v7 3
+
 combination of shares, reclassification or other similar event with respect to the Series C
 Preferred Stock) plus an amount equal to all accrued and/or declared and unpaid dividends on the
 Series C Preferred Stock. If upon any such liquidation, dissolution or winding up of the
@@ -196,6 +199,7 @@ previous subsections 2(a) and 2(b), if the amount a holder of Preferred Stock wo
 respect to such shares would be greater if such shares were converted to Common Stock
 
 DMWEST #8191526 v7 4
+
 immediately prior to such liquidation, dissolution, winding up or Deemed Liquidation Event, the
 holder of such shares will be paid that higher amount in lieu of payments called for by
 subsections 2(a), 2(b) and 2(c).
@@ -245,6 +249,7 @@ stock of the Corporation in accordance with subsections 2(a), 2(b) and 2(c).
 subsection 2(d)(1i) or 2(d){iii), if the Corporation does not effect a dissolution of the Corporation
 
 DMWEST #8191526 v7 5
+
 under the DGCL within 5 days after such Deemed Liquidation Event, then (A) the Corporation
 shall send a written notice to each holder of Preferred Stock no later than the 5” day after the
 Deemed Liquidation Event advising such holders of their right (and the requirements to be met
@@ -293,6 +298,7 @@ shall be mutually agreed by the Board of Directors of the Corporation and holder
 of the Series C Preferred Stock; provided, however, that if such mutual agreement cannot be
 
 DMWEST #8191526 v7 6
+
 reached, such fair market value shall be determined by following the procedures set forth in the
 definition of Appraisal Procedure.
 
@@ -344,6 +350,7 @@ class, at a meeting of stockholders called for the purpose or by written consent
 the Common Stock and all other series of Preferred Stock, to elect two (2) individuals (the
 
 DMWEST 48191526 v7 7
+
 “Series A/B Directors”) to serve on the Board of Directors of the Corporation. So long as the
 holders of record of the shares of Series A Preferred Stock and Series B Preferred Stock shall
 have the right to elect a director pursuant to this subsection 3(c), any member of the Board of
@@ -392,6 +399,7 @@ be determined by following the procedures set forth in the definition of Apprais
 The determination of fractional shares shall be based on the aggregate number of shares of
 
 DMWEST #8191526 v7 8
+
 Preferred Stock surrendered for conversion by any holder of Preferred Stock and not on the
 individual shares of Preferred Stock held by such holder.
 
@@ -441,6 +449,7 @@ have been surrendered for conversion as herein provided shall no longer be deeme
 outstanding and all rights with respect to such shares, including the rights, if any, to receive
 
 DMWEST #8191526 v7 9
+
 notices and to vote, shall immediately cease and terminate on the Conversion Date, except only
 the right of the holders thereof to receive shares of Common Stock in exchange therefor and
 payment of any dividends declared but unpaid thereon. Any shares of Preferred Stock so
@@ -491,6 +500,7 @@ record date, as the case may be, and provided further that in any such case in w
 Shares of Common Stock are deemed to be issued:
 
 DMWEST #8191526 v7 10
+
 (A) No further adjustment in the Conversion Price shall be
 made upon the subsequent issue of Convertible Securities or shares of Common Stock upon the
 exercise of such Options or conversion or exchange of such Convertible Securities;
@@ -540,6 +550,7 @@ such Option or Convertible Security not exercised or converted prior to such cha
 upon the basis of such change; and
 
 DMWEST #8191526 v7 . 11
+
 (E) No readjustment pursuant to clause (B), (C) or (D) above
 shall have the effect of increasing the Conversion Price to an amount which exceeds the lower of
 (i) the Conversion Price on the original adjustment date, or (11) the Conversion Price that would
@@ -588,6 +599,7 @@ Subsection 4(d), the consideration received by the Corporation for the issue of 
 Shares of Common Stock shall be computed as follows:
 
 DMWEST #8191526 v7 12
+
 (A) | Cash and Property: Such consideration shall:
 
 (1) insofar as it consists of cash, be computed at the
@@ -638,6 +650,7 @@ any time or from time to time after the Original Issue Date effect a subdivision
 Common Stock, the applicable Conversion Price then in effect immediately before that
 
 DMWEST #8191526 v7 13
+
 subdivision shall be proportionately decreased so that the number of shares of Common Stock
 issuable on conversion of each share of such series shall be increased in proportion to such
 increase in the aggregate number of shares of Common Stock outstanding. If the Corporation
@@ -689,6 +702,7 @@ provided for below), then and in each such event the holder of each such share o
 shall have the right thereafter to convert such share into the kind and amount of shares of stock
 
 DMWEST #8191526 v7 14
+
 and other securities and property receivable, upon such reorganization, reclassification, or other
 change, by holders of the number of shares of Common Stock into which such shares of
 Preferred Stock might have been converted immediately prior to such reorganization,
@@ -737,6 +751,7 @@ on its Common Stock payable in Common Stock or other securities of the Corporati
 of Common Stock;
 
 DMWEST #8191526 v7 15
+
 (iii) of any reclassification of the Common Stock of the Corporation
 (other than a subdivision or combination of its outstanding shares of Common Stock or a stock
 dividend or stock distribution thereon), or of any consolidation or merger of the Corporation into
@@ -787,6 +802,7 @@ including the rights, if any, to receive notices and vote (other than as a holde
 will terminate, except only the rights of the holders thereof, upon surrender of their certificate or
 
 DMWEST #8191526 v7 16
+
 certificates therefor, to receive certificates for the number of shares of Common Stock into which
 such Preferred Stock has been converted, and payment of any accrued and/or declared but unpaid
 dividends thereon. If so required by the Corporation, certificates surrendered for conversion
@@ -835,6 +851,7 @@ Incorporation or Bylaws of the Corporation in any manner that adversely affects 
 Preferred Stock;
 
 DMWEST #8191526 v7 17
+
 (ii) increase or decrease the number of authorized shares of Series C
 Preferred Stock;
 
@@ -882,6 +899,7 @@ Corporation or a Subsidiary of the Corporation is the sole record and beneficial
 equity interests;
 
 DMWEST #8191526 v7 18
+
 (xii) enter into or incur any debt or lease obligation (other than working
 capital loans, equipment lease obligations and other similar obligations in the ordinary course of
 business);
@@ -928,6 +946,7 @@ rights, preferences or privileges relating to the Series B Preferred Stock and S
 Stock hereunder, either prospectively or retrospectively.
 
 DMWEST #8191526 v7 19
+
 8. Redemption.
 
 (a) The Corporation will, subject to the conditions set forth below, at any time
@@ -977,6 +996,7 @@ among the holders of the Preferred Stock in accordance with the number of shares
 Stock held by such holders. At any time thereafter when additional funds of the Corporation
 
 DMWEST #8191526 v7 30
+
 become legally available for the redemption of the Preferred Stock, such funds will be used to
 redeem the balance of the shares of Preferred Stock which the Corporation was theretofore
 obligated to redeem as provided in the immediately preceding sentence. Any shares of Preferred
@@ -1024,6 +1044,7 @@ from time to time shall take such action as may be necessary to reduce the autho
 Stock accordingly. :
 
 DMWEST #8191526 v7 21
+
 oS. Definitions. The following terms shall have the following respective meanings:
 
 “Additional Shares of Common Stock” shall mean all shares of Common Stock issued
@@ -1073,6 +1094,7 @@ court of competent jurisdiction). The arbitrator shall select the investment ban
 ten (10) days of his appointment) from a list, jointly prepared by the holders of a majority of the
 
 DMWEST #8191526 v7 22
+
 outstanding Series C Preferred Stock and the Board of Directors, of not more than six investment
 banking firms of national standing in the United States, of which no more than three may be
 named by the Board of Directors and no more than three may be named by the holders of a
@@ -1123,6 +1145,7 @@ ia
 ‘Mandatory Redemption Price” has the meaning set forth in Section 8 above.
 
 DMWEST #8191526 v7 33
+
 “Option” shall mean rights, options or warrants to subscribe for, purchase or otherwise
 acquire Common Stock or Convertible Securities.
 
@@ -1171,6 +1194,7 @@ combination or other similar recapitalization with respect to the Series C Prefe
 from time to time.
 
 DMWEST #8191526 v7 24
+
 “Subsidiary” shall mean any corporation or trust of which the Corporation directly or
 indirectly owns at the time 50% or more of the outstanding shares that represent either 50% or
 more of the voting power, 50% or more of the economic power, or control of the board of
@@ -1220,6 +1244,7 @@ stockholders who are employees of the Corporation. No amendment or repeal of thi
 EIGHTH shall apply to or have any effect on the liability or alleged liability of any officer,
 
 DMWEST #8191526 v7 25
+
 director or stockholder of the Corporation for or with respect to any opportunities of which such
 officer, director, or stockholder becomes aware prior to such amendment or repeal.
 
@@ -1269,6 +1294,7 @@ THIRTEENTH. Notwithstanding any provision of law, the Corporation may, by
 contract, grant to some or all of the security holders of the Corporation preemptive rights to
 
 DMWEST #8191526 v7 26
+
 acquire stock of the Corporation, but no stockholders shall have any preemptive rights except as
 specifically granted. “
 
@@ -1280,6 +1306,7 @@ are granted subject to this reservation.
 [Remainder of page intentionally left blank.]
 
 DMWEST 48191526 v7 27
+
 IN WITNESS WHEREOF, the Corporation has caused this Amended and Restated
 Certificate of Incorporation to be signed by a duly authorized officer of the Corporation this
 day of May, 2011.

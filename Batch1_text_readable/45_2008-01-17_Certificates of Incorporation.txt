@@ -50,6 +50,7 @@ decreased (but not below the number of shares of Common Stock then outstanding) 
 
 623421 v1 O/HN l.
 
+
 affirmative vote of the holders of a majority of the stock of the Company entitled to vote (voting
 together as a single class on an as-if-converted basis).
 
@@ -98,6 +99,7 @@ with Sections 3 and 4.
 Company shall pay an additional dividend on all outstanding shares of Series Preferred in a per
 
 623421 vIO/HN 2.
+
 share amount equal (on an as-if-converted to Common Stock basis) to the amount paid or set
 aside for each share of Common Stock.
 
@@ -147,6 +149,7 @@ in the authorized or designated number of any such new class or series;
 
 623421 vIO/HN 3.
 
+
 (iv) Any agreement by the Company or its stockholders
 regarding an Asset Transfer or Acquisition (each as defined in Section 4 hereof); or
 
@@ -194,6 +197,7 @@ preferences, privileges or restrictions of the Series B Preferred Stock in a man
 the other classes of Preferred Stock; or
 
 62342) vIQ/HN 4.
+
 (vii) Any amendment, alteration, or repeal of any provision of
 the Certificate of Incorporation of the Company (including any filing of a Certificate of
 Designation), that alters or changes the voting or other powers, preferences, or other special
@@ -242,6 +246,7 @@ and unpaid dividends on the Series B Preferred Stock. If, upon any such Liquidat
 assets of the Company shall be insufficient to make payment in full to all holders of Series B
 
 623421 vIO/HN 5.
+
 Preferred Stock of the liquidation preference set forth in this Section 3(a), then such assets (or
 consideration) shall be distributed among the holders of Series B Preferred Stock at the time
 outstanding, ratably in proportion to the full amounts to which they would otherwise be
@@ -290,6 +295,7 @@ Acquisition shall not include any transaction or series of transactions principa
 equity financing purposes in which cash is received by the Company or any successor or
 
 623421 vIO/HN 6.
+
 indebtedness of the Company is cancelled or converted or a combination thereof; and (ii) “Asset
 Transfer” shall mean a sale, lease, exclusive license or other disposition of all or substantially all
 of the assets of the Company.
@@ -338,6 +344,7 @@ market value determined by the Board as of the date of such conversion), any dec
 unpaid dividends on the shares of Series Preferred being converted and (ii) in cash (at the
 
 623421 vIQ/HN 7.
+
 Common Stock’s fair market value determined by the Board as of the date of conversion) the
 value of any fractional share of Common Stock otherwise issuable to any holder of Series
 Preferred. Such conversion shall be deemed to have been made at the close of business on the
@@ -386,6 +393,7 @@ business on such record date; and
 paid or if such distribution is not fully made on the date fixed therefor, the Series Preferred
 
 623421 vIO/HN 8.
+
 Conversion Price shal] be recomputed accordingly as of the close of business on such record date
 and thereafter the Series Preferred Conversion Price shall be adjusted pursuant to this Section
 5(f} to reflect the actual payment of such dividend or distribution.
@@ -434,6 +442,7 @@ shares of Common Stock deemed outstanding (as determined below) immediately prio
 issue or sale plus the total number of Additional Shares of Common Stock so issued.
 
 623421 viO/HN 9.
+
 For the purposes of the preceding sentence, the number of shares of Common Stock
 deemed to be outstanding as of a given date shall be the sum of (A) the number of shares of
 Common Stock outstanding, (B) the number of shares of Common Stock into which the then
@@ -483,6 +492,7 @@ options; and
 
 623421 vIO/HN 10.
 
+
 (B) in the case of Convertible Securities, the minimum
 amounts of consideration, if any, payable to the Company upon the conversion thereof (other
 than by cancellation of liabilities or obligations evidenced by such Convertible Securities):
@@ -530,6 +540,7 @@ reacquired or retired by the Company), other than:
 the Series Preferred;
 
 623421 vIO/HN Hl.
+
 (B) — shares of Common Stock or Convertible Securities
 issued after the Original Issue Date to employees, officers or directors of, or consultants or
 advisors to the Company or any subsidiary pursuant to stock purchase or stock option plans or
@@ -578,6 +589,7 @@ upon a Subsequent Dilutive Issuance the Series Preferred Conversion Price shall 
 the Series Preferred Conversion Price that would have been in effect had the First Dilutive
 
 623421 viQ/HN
+
 Issuance and each Subsequent Dilutive Issuance all occurred on the closing date of the First
 Dilutive Issuance.
 
@@ -626,6 +638,7 @@ outstanding shares of the Series Preferred, or (B) immediately upon the closing 
 underwritten public offering pursuant to an effective registration statement under the Securities
 
 623421 vIO/HN 13.
+
 Act of 1933, as amended, covering the offer and sale of Common Stock for the account of the
 Company in which (i) the per share price is at least four dollars fifty-six cents ($4.56) (as
 adjusted for stock splits, dividends, recapitalizations and the like after the filing date hereof), and
@@ -674,6 +687,7 @@ such number of shares as shall be sufficient for such purpose.
 shall be in writing and shall be deemed effectively given: (i) upon personal delivery to the party
 
 623421 vIO/HN 14,
+
 to be notified, (i) when sent by confirmed electronic mail or facsimile if sent during normal
 business hours of the recipient; if not, then on the next business day, (iii) five (5) days after
 having been sent by registered or certified mail, return receipt requested, postage prepaid, or (iv)
@@ -723,6 +737,7 @@ such opportunity constituted a Corporate Opportunity that should have been prese
 
 623421 vIO/HN 1S.
 
+
 director or Fund to the Company or any of its affiliates; provided, however, that such director
 acts in good faith.
 
@@ -749,7 +764,7 @@ provision of the Bylaws of the Company.
 C. The directors of the Company need not be elected by written ballot unless the
 Bylaws so provide.
 
-* eK
+x ek *
 
 FOUR: This Amended and Restated Certificate of Incorporation has been duly
 approved by the Board of Directors of the Company.
@@ -761,6 +776,7 @@ accordance with the provisions of Sections 242 and 245 of the DGCL by the stockh
 Company.
 
 623421 viO/HN 16.
+
 
 In WITNESS WHEREOF, A la Mobile, Inc. has caused this Amended and Restated
 Certificate of Incorporation to be signed by its President this 17" day of January, 2008.

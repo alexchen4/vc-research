@@ -51,6 +51,7 @@ Series B Convertible Preferred Stock, par value $.001] per share (the “Series 
 C Stock”), 2,014,652 shares of Series C-1 Convertible Preferred Stock, par value $.001 per share
 
 28664817_9
+
 (the “Series C-} Stock” and, together with the Series C Stock, the “Series C Preferred Stock”),
 955,414 shares of Series D Convertible Preferred Stock, par value $.001 per share (the “Series D
 Stock”), 2,802,548 shares of Series D-1 Convertible Preferred Stock, par value $.001 per share
@@ -99,6 +100,7 @@ the Corporation in trust for the account of holders of Series F Preferred Stock 
 available for such payments, the holders of shares of the Series E Preferred Stock shall then be
 
 28664817_9
+
 entitled to be paid, on a pari passu basis, out of the assets of the Corporation available for
 distribution to holders of the Corporation’s capital stock of all classes the greater of (A) the
 Special Series E Liquidation Payment plus all dividends accrued or declared thereon but unpaid,
@@ -146,6 +148,7 @@ into Common Stock pursuant to the provisions of Section 2 immediately prior to s
 liquidation, dissolution or winding up.
 
 28664817_9
+
 If the assets of the Corporation shall be insufficient to permit the payment in full to the
 holders of the Series D Preferred Stock of all amounts so distributable to them, then the entire
 assets of the Corporation available for such distribution after payment has been made in full
@@ -194,6 +197,7 @@ Corporation in trust for the account of holders of the Series F Preferred Stock,
 Preferred Stock, the Series D Preferred Stock and the Series C Preferred Stock so as to be
 
 28664817_9
+
 available for such payments, the holders of shares of the Series B Preferred Stock shall then be
 entitled to be paid, on a pari passu basis, out of the remaining assets of the Corporation available
 for distribution to holders of the Corporation’s capital stock of all classes the greater of (A) $1.85
@@ -242,6 +246,7 @@ among the holders of the Series A Preferred Stock in proportion to the full pref
 each such holder is otherwise entitled to receive under this Subsection 1(a)(vi).
 
 28664817_9
+
 No payment shall be made with respect to the Common Stock unless and until full
 payment has been made to the holders of the Series A Preferred Stock of the amounts they are
 entitled to receive under this Subsection 1 (a)(vi).
@@ -289,6 +294,7 @@ Stock, Series E Preferred Stock, Series D Stock and Series C Preferred Stock, vo
 a single class, elect to the contrary by written notice thereof to the Corporation at least three days
 
 28664817_9
+
 before the effective date of such event, in which case such event shall not be a Deemed
 Liquidation Event: (i) the merger or consolidation of the Corporation into or with another
 corporation (except one in which the holders of capital stock of the Corporation immediately
@@ -337,6 +343,7 @@ Stock, Series D Preferred Stock, Series C Preferred Stock, Series B Preferred St
 Preferred Stock shall have conversion rights as follows (the “Conversion Rights”):
 
 28664817_9
+
 (a) Right to Convert; Conversion Price. Each share of Series F Preferred Stock,
 Series E Preferred Stock, Series D Preferred Stock, Series C Preferred Stock, Series B Preferred
 Stock and Series A Preferred Stock shali be convertible, without the payment of any additional
@@ -384,6 +391,7 @@ until such redemption price is paid in full,
 (b) Automatic Conversion.
 
 28664817_9
+
 (i) Each share of Preferred Stock shall automatically be converted into
 shares of Common Stock at the Series A Conversion Price, Series B Conversion Price, Series C-
 1 Conversion Price, Series C Conversion Price, Series D Conversion Price, Series E Conversion
@@ -432,6 +440,7 @@ require such mandatory conversion.
 any conversion of the Series E Preferred pursuant to Section 2(b)(i) or 2(b)(ii) effective upon and
 
 28664817_9
+
 subject to the closing of a firm commitment underwritten public offering in which the offering
 price per share at which shares of Common Stock are sold in the offering (the “Public Offering
 Price Per Share”) is less than $9.42 (as adjusted to reflect stock splits, stock dividends, stock
@@ -482,6 +491,7 @@ into which the shares of Preferred Stock surrendered were convertible on the dat
 10
 
 28664817_9
+
 automatic conversion occurred, together with cash in an amount equal to all dividends declared
 but unpaid on, and any and all other amounts owing with respect to, the shares of Preferred Stock
 converted to and including the time of conversion. Upon the automatic conversion of the
@@ -529,6 +539,7 @@ shares of Common Stock on such date.
 
 1]
 28664817_9
+
 (i) Special Definitions. For purposes of this Subsection 2(e), the
 following definitions shall apply:
 
@@ -577,6 +588,7 @@ or other debt financing transactions, if approved by the Board of Directors, inc
 of the Preferred Stock Directors;
 
 28664817 _9
+
 (E) shares of Common Stock, Options or Convertible
 Securities issued as a dividend or distribution on the Preferred Stock;
 
@@ -625,6 +637,7 @@ Corporation at any time or from time to time after the applicable Original Issue
 
 13
 28664817_9
+
 any Options (excluding for all purposes of this Subsection 2(e)(iii)(1) Options excluded from the
 definition of Additional Shares of Common Stock in Subsection 2(e)(i)(4)(B)) or Convertible
 Securities or shall fix a record date for the determination of holders of any class of securities
@@ -674,6 +687,7 @@ not exercised, plus the consideration actually received by the Corporation upon 
 
 14
 28664817_9
+
 for the issue of all such Convertible Securities which were actually converted or exchanged, plus
 the additional consideration, if any, actually received by the Corporation upon such conversion
 or exchange; and
@@ -720,6 +734,7 @@ Series C-1 Stock, Series B Preferred Stock and Series A Preferred Stock:
 
 15
 286648179
+
 (A) in the case of any such dividend or distribution,
 immediately after the close of business on the record date for the determination of holders of any
 class of securities entitled to receive such dividend or distribution, or
@@ -770,6 +785,7 @@ or new Series A Conversion Price, as applicable;
 
 16
 28664817_9
+
 P, = Series F Conversion Price, Series E Conversion Price, Series D
 
 Conversion Price, Series C Conversion Price, Series C-1
@@ -817,6 +833,7 @@ forth in Subsection 2(e)(iv)(1) shall apply.
 
 17
 28664817_9
+
 (3) “Bona Fide Financing” shall mean the first sale and
 issuance by the Corporation after the date of the last issuance of the Series E Preferred Stock, of
 shares of its capital stock, or of instruments or securities convertible into or exercisable or
@@ -865,6 +882,7 @@ conversion or exchange of such Convertible Securities.
 
 18
 28664817_9
+
 (vi) Adjustment for Dividends, Distributions, Subdivisions, Combinations
 or Consolidations of Common Stock.
 
@@ -916,6 +934,7 @@ provided herein.
 
 19
 28664817_9
+
 (h) Adjustment for Merger, Consolidation or Sale of Assets, Subject to the
 provisions of Subsection 1(c), in the event that, at any time or from time to time after the
 
@@ -965,6 +984,7 @@ entitled pursuant to this Section 2(i) and a new certificate for the number of s
 
 20
 28664817_9
+
 Preferred Stock represented by such surrendered certificate and not converted pursuant to
 Section 2(i)(i). If so required by the Corporation, certificates surrendered for conversion shall be
 endorsed or accompanied by written instrument or instruments of transfer, in form satisfactory to
@@ -1014,6 +1034,7 @@ Qualified Financing by a fraction, the numerator of which is equal to the amount
 
 21
 28664817_9
+
 which such holder’s Pro Rata Amount exceeds the number of Offered Securities actually
 purchased by such holder in such Qualified Financing, and the denominator of which is equal to
 such holder’s Pro Rata Amount.
@@ -1063,6 +1084,7 @@ written request at any time of any holder of Series F Preferred Stock, Series E 
 
 22
 28664817_9
+
 Series D Preferred Stock, Series C Stock, Series C-1 Stock, Series B Preferred Stock or Series A
 Preferred Stock, furnish or cause to be furnished to such holder a like certificate setting forth (i)
 such adjustments and readjustments, (ii) the Series F Conversion Price, Series E Conversion
@@ -1110,6 +1132,7 @@ Section 3. Restrictions.
 
 23
 28664817_9
+
 (a) In addition to any other vote required by law or this Certificate of
 Incorporation, without first obtaining the affirmative vote or written consent of the holders of at
 least seventy-five percent (75%) of the then outstanding shares of Series F Preferred Stock,
@@ -1158,6 +1181,7 @@ shares or other rights available under any existing plan or arrangement;
 
 24
 28664817_9
+
 (ix) any provision of the By-Laws of the Corporation to the contrary
 notwithstanding, increase the number of directors constituting the entire Board of Directors; or
 
@@ -1203,6 +1227,7 @@ to the following number of votes on any matter as to which they are entitled to 
 
 25
 28664817_9
+
 (ii) Holders of Preferred Stock shall have that number of votes per share
 as is equal to the number of shares of Common Stock (including fractions of a share) into which
 each such share of Preferred Stock held by such holder could be converted on the date for
@@ -1253,6 +1278,7 @@ another director designated by the Celgene Holders shall replace such director. 
 26
 
 28664817_9
+
 Director may be removed, with or without cause, and a replacement Celgene Director may be
 elected in his stead in accordance with the provisions of this Section, at any time by the
 affirmative vote at a meeting duly called for the purpose, or by written consent, of the Celgene
@@ -1283,6 +1309,7 @@ of Section 242(b)(2) of the General Corporation Law.
 27
 
 28664817_9
+
 Section 5. Dividends.
 
 (a) Dividends may be declared and paid on Common Stock from funds lawfully
@@ -1332,6 +1359,7 @@ Stock, Series B Preferred Stock and Series A Preferred Stock, as applicable, whe
 
 28
 28664817_9
+
 eared or declared and whether or not in any fiscal year there shall be net profits or surplus
 available for the payment of dividends in such fiscal year, so that if in any fiscal year or years,
 such dividends are not paid in whole or in part upon the Preferred Stock, the portion of such
@@ -1381,6 +1409,7 @@ surrendered certificate or certificates to the record holder of such Series F Pr
 
 29
 28664817_9
+
 any time thereafter when additional funds of the Corporation become legally available for the
 redemption of Series F Preferred Stock, such funds will be used to redeem the maximum number
 of additional shares of Series F Preferred Stock which the Corporation was theretofore obligated
@@ -1431,6 +1460,7 @@ shares of Series F Preferred Stock and Series E Preferred Stock subject to a red
 
 30
 28664817_9
+
 the Corporation receives written election of holders of at least eighty-five percent (85%) of the
 outstanding shares of Series D Preferred Stock made at any time on or after the date that is 90
 days before the fifth anniversary of the Original Issue Date of the Series F Preferred Stock, the
@@ -1480,6 +1510,7 @@ this Section 6 (the date of each installment being referred to as a “Series C 
 
 31
 28664817_9
+
 On each Series C Redemption Date, the Corporation shall redeem, on a pro rata basis in
 accordance with the number of shares of Series C Preferred Stock owned by each holder, that
 number of outstanding shares of Series C Preferred Stock determined by dividing (i) the total
@@ -1529,6 +1560,7 @@ Series B Redemption Date by (ii) the number of remaining Series B Redemption Dat
 
 32
 28664817_9
+
 (including the Series B Redemption Date to which such calculation applies). On each such Series
 B Redemption Date, the holders of Series B Preferred Stock shall surrender the certificate or
 certificates for the shares to be redeemed duly endorsed for transfer or with duly executed stock
@@ -1578,6 +1610,7 @@ Corporation shal]], as soon as practicable thereafter, issue and deliver to each
 
 33
 28664817_9
+
 or certificates for the balance of the shares not being redeemed. The redemption price per share
 of Series A Preferred Stock, shall be equa! to (i) $1.00 for the Series A Preferred Stock (as
 adjusted for any stock dividend, stock split, combination of shares, reclassification or other
@@ -1625,6 +1658,7 @@ have been credited against any redemption.
 
 34
 28664817_9
+
 (h) If, on or before a redemption date, the funds necessary for such redemption
 shall have been set aside by the Corporation and deposited with a bank or trust company, in trust
 for the pro rata benefit of the holders of the Preferred Stock that has been called for redemption,
@@ -1675,6 +1709,7 @@ further provided that:
 
 35
 28664817_9
+
 (a) Subject to the limitations and exceptions, if any, contained in the By-Laws of
 the Corporation and the requirements of Article FOURTH, Section 3(b) hereof, the By-Laws
 may be adopted, amended or repealed by the Board of Directors of the Corporation with, and
@@ -1723,6 +1758,7 @@ provisions of this Article SEVENTH shall deprive any director of the Corporation
 
 36
 28664817 9
+
 hereof with respect to any act or failure to act of such director occurring prior to such
 amendment or repeal.
 
@@ -1735,6 +1771,7 @@ REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
 
 37
 28664817_9
+
 IN WITNESS WHEREOF, the Corporation has caused this Amended and Restated
 Certificate of Incorporation to be signed by John Knopf, its Chief Executive Officer, this 22nd
 day of December, 2011.

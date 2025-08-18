@@ -49,6 +49,7 @@ designated, respectively, ‘Common Stock” and “Preferred Stock.” The tota
 stock which this corporation has authority to issue is Thirteen Million (13,000,000) shares. Seven Million
 
 DOCS0OC/1236977v2/0102 18-0005
+
 Eight Hundred Twelve Thousand Five Hundred (7,812,500) shares shall be designated Common Stock,
 $0.0001 par value per share and Five Million One Hundred Eighty Seven Thousand Five Hundred
 (5,187,500) shares shall be designated Preferred Stock, $0.0001 par value per share.
@@ -102,6 +103,7 @@ converted basis for the Preferred Stock), payable quarterly when, as and if decl
 Directors. Such dividends shall not be cumulative.
 
 DOCSOC/1 236977v2/010218-0005
+
 Section 3. Liquidation Preference.
 
 (a) In the event of any liquidation, dissolution or winding up of this corporation,
@@ -154,6 +156,7 @@ the corporation is other than cash, its value wil] be deemed its fair market val
 valued as follows:
 
 DOCSOC/1236977v2/0102 18-0005
+
 (A) Securities not subject to investment letter or other similar
 restrictions on free marketability:
 
@@ -204,6 +207,7 @@ and that represent at least a majority of the voting power of all then outstandi
 Preferred Stock and Series S Preferred Stock, respectively.
 
 DOCSOC/1236977v2/01 0218-0005
+
 Section 4. Redemption.
 
 (a) No Redemption of Series S Preferred Stock. The shares of Series S Preferred
@@ -257,6 +261,7 @@ for such shares shall be payable to the order of the person whose name appears o
 certificates as the owner thereof. In the event less than all of the shares of Series A Preferred Stock
 
 DOCSOC/1236977¥2/01 02 18-0005
+
 represented by a certificate are redeemed, a new certificate representing the unredeemed shares of Series
 A Preferred Stock shall promptly be issued to such holder.
 
@@ -311,6 +316,7 @@ Preferred Stock to be converted, and the person or persons entitled to receive t
 
 6
 DOCSOC/1236977v2/01 02 18-0005
+
 Stock issuable upon such conversion shall be treated for all purposes as the record holder or holders of
 such shares of Common Stock as of such date. If the conversion is in connection with an underwritten
 offering of securities registered pursuant to the Securities Act of 1933, the conversion may, at the option
@@ -364,6 +370,7 @@ any adjustments which are not required to be made by reason of this sentence sha
 shall be either taken into account in any subsequent adjustment made prior to 3 years from the date of the
 
 DOCSOC/1236977v2/010218-0005
+
 event giving rise to the adjustment being carried forward. or shall be made at the end of 3 years from the
 date of the event giving rise to the adjustment being carried forward. Except to the limited extent
 provided for in subsections (E)(3) and (E)(4), no adjustment of such Conversion Price pursuant to this
@@ -417,6 +424,7 @@ of this Section 5 to the Conversion Price of the Series A Preferred Stock or Ser
 Preferred Stock, as applicable), the Conversion Price of the Series A Preferred Stock and
 
 DOCSOC/1 236977¥2/010218-0005
+
 the Series S Preferred Stock, as applicable, to the extent in any way affected by or
 computed using such options, rights or securities, shall be recomputed to reflect such
 change, but no further adjustment shall be made for the actual issuance of Common Stock
@@ -471,6 +479,7 @@ Equivalents determined from time to time in the manner provided for deemed issua
 5(d)(i)(E).
 
 DOCSOC/1236977¥2/0102 18-0005
+
 (iv) If the number of shares of Common Stock outstanding at any time after
 the Purchase Date is decreased by a combination of the outstanding shares of Common Stock, then,
 following the record date of such combination, the Conversion Price for the Series A Preferred Stock and
@@ -525,6 +534,7 @@ corporation, at its expense, shall promptly compute such adjustment or readjustm
 
 10
 DOCSOC/1236977v2/01 0218-0005
+
 the terms hereof and prepare and furnish to each holder of Series A Preferred Stock or Series S Preferred
 Stock, as applicable, a certificate setting forth such adjustment or readjustment and showing in detail the
 facts upon which such adjustment or readjustment is based. This corporation shall, upon the written
@@ -565,6 +575,7 @@ holder of record at his address appearing on the books of this corporation.
 
 il
 DOCSOC’1236977v2/01 0218-0005
+
 Section 6. Voting Rights.
 
 (a) Subject to Section 6(b), the holder of each share of Series A Preferred Stock and
@@ -619,6 +630,7 @@ approval (by vote or written consent, as provided by law) of the holders of at l
 
 12
 DOCSOC/1 236977¥2/0102 18-0005
+
 of the then-outstanding shares of Series A Preferred Stock and Series S Preferred Stock (voting together
 as a single class on an as-converted basis):
 
@@ -672,6 +684,7 @@ corporation shall not without first obtaining the approval (by vote or written c
 of the holders of at least a majority of the then-outstanding shares of Series A Preferred Stock:
 
 DOCSOC/1236977v2/01 0218-0005
+
 (i) assume any debt in excess of $250,000; or
 (ii) guarantee any debt or other obligations of any other entity.
 
@@ -717,6 +730,7 @@ affect any limitation on the personal liability of a director of the corporation
 repeal or modification.
 
 DOCSOC/1236977v2/01 0218-0005
+
 ARTICLE 7
 
 The Board of Directors of the corporation shall have the power to make, alter, amend, change,
@@ -742,6 +756,7 @@ and written notice was given by the corporation in accordance with said Section 
 [Remainder of this Page Intentionally Left Blank]
 
 DOCSOC/1236977v2/01 0218-0005
+
 IN WITNESS WHEREOF, RESHAPE MEDICAL, INC. , has caused this Third Amended and
 Restated Certificate of Incorporation to be signed by the President in Newport Beach, California, this 14th
 day of August, 2007.

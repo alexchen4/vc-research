@@ -48,6 +48,7 @@ A, Authorization of Stock. This corporation is authorized to issue two classes
 of stock to be designated, respectively, common stock and preferred stock. The total number of
 
 GDSVF&H\668819.2
+
 shares that this corporation is authorized to issue is 39,270,662. The total number of shares of
 common stock authorized to be issued is 25,000,000, par value $0.0001 per share (the “Common
 Stock”). The total number of shares of preferred stock authorized to be issued is 14,270,662, par
@@ -97,6 +98,7 @@ Issue Price” shall mean $0.431469 per share for each share of the Series A Pre
 $0.624136 per share for each share of the Series B Preferred Stock (each as adjusted for any
 
 GDS VF&H\668819.2 2
+
 stock splits, stock dividends, combinations, subdivisions, recapitalizations or the like with
 respect to such Preferred Stock).
 
@@ -146,6 +148,7 @@ twenty (20) trading-day period ending three (3) trading days prior to the closin
 Liquidation Event; and
 
 GDSVF&H\668819.2 3
+
 (3) If there is no active public market, the value shall be
 the fair market value thereof, as mutually determined by the board of directors of this corporation
 and the holders of at least two-thirds of the voting power of all then outstanding shares of
@@ -195,6 +198,7 @@ for a series of Preferred Stock into Common Stock is referred to herein as the �
 for such series), determined as hereafter provided, in effect on the date the certificate is
 
 GDS VF&H\668819.2 4
+
 surrendered for conversion. The initial Conversion Price per share for each series of Preferred
 Stock shall be the Original Issue Price applicable to such series; provided, however, that the
 Conversion Price for the Preferred Stock shall be subject to adjustment as set forth in
@@ -245,6 +249,7 @@ which this Restated Certificate of Incorporation is accepted for filing by the S
 the State of Delaware (the “Filing Date”), any Additional Stock (as defined below) without
 
 GDS VF&H\668819.2 5
+
 consideration or for a consideration per share less than the Conversion Price applicable to a
 series of Preferred Stock in effect immediately prior to the issuance of such Additional Stock, the
 Conversion Price for such series in effect immediately prior to each such issuance shall forthwith
@@ -294,6 +299,7 @@ potential antidilution adjustments) of such options to purchase or rights to sub
 Stock shall be deemed to have been issued at the time such options or rights were issued and for
 
 GDS VF&H\668819.2 6
+
 a consideration equal to the consideration (determined in the manner provided in subsections
 3(d)(i)(C) and (d)(i)(D)), if any, received by this corporation upon the issuance of such options
 or rights plus the minimum exercise price provided in such options or rights (without taking into
@@ -344,6 +350,7 @@ issued (or deemed to have been issued pursuant to subsection 3(d)(i)(D)) by this
 or after the Filing Date other than:
 
 GDS VF&H\6688 19.2 7
+
 (A) Common Stock issued pursuant to a transaction described
 in subsection 3(d)(iii) hereof;
 
@@ -394,6 +401,7 @@ such dividend distribution, split or subdivision if no record date is fixed), th
 the Preferred Stock shall be appropriately decreased so that the number of shares of Common
 
 GDS VF&H\668819.2 8
+
 Stock issuable on conversion of each share of such series shall be increased in proportion to such
 increase of the aggregate of shares of Common Stock outstanding and those issuable with respect
 to such Common Stock Equivalents.
@@ -439,6 +447,7 @@ be necessary or appropriate in order to protect the Conversion Rights of the hol
 Preferred Stock against impairment.
 
 GDS VF&H\6688 19.2 9
+
 (h) No Fractional Shares and Certificate as to Adjustments.
 
 (i) No fractional shares shall be issued upon the conversion of any
@@ -488,6 +497,7 @@ of any necessary amendment to this Restated Certificate of Incorporation.
 given to the holders of shares of Preferred Stock shall be deemed given if deposited in the United
 
 GDS VF&H\6688 19.2 10
+
 States mail, by certified or registered mail, postage prepaid, return receipt requested, and
 addressed to each holder of record at his address appearing on the books of this corporation.
 
@@ -538,6 +548,7 @@ shares to elect their designee at a meeting of the stockholders. Any director ma
 during his or her term of office, either with or without cause, by, and only by, the affirmative
 
 GDSVF&H\6688 19.2 1]
+
 vote of the holders of the shares of the class or series of stock entitled to elect such director or
 directors, given either at a special meeting of such stockholders duly called for that purpose or
 pursuant to a written consent of stockholders, and any vacancy thereby created may be filled by
@@ -585,6 +596,7 @@ C.. Common Stock. The rights, preferences, privileges and restrictions
 granted to and imposed on the Common Stock are as set forth below in this Article IV(C).
 
 GDS VF&H\668819.2 12
+
 1. Dividend Rights. Subject to the prior rights of holders of all classes of
 stock at the time outstanding having prior rights as to dividends, the holders of the Common
 Stock shall be entitled to receive, when, as and if declared by the Board of Directors, out of any
@@ -633,6 +645,7 @@ as may be designated from time to time by the Board of Directors or in the Bylaw
 corporation.
 
 GDSVF&H\6688 19.2 13
+
 ARTICLE IX
 
 A director of this corporation shall not be personally liable to this corporation or
@@ -683,6 +696,7 @@ employees, officers, directors, advisors, consultants or other persons performin
 corporation or any subsidiary pursuant to agreements under which the corporation has the option
 
 GDSVF&H\668819.2 : 14
+
 to repurchase such shares at cost upon the occurrence of certain events, such as the termination
 of employment, Sections 502 and 503 of the California Corporations Code shall not apply in all
 or in part with respect to such repurchases.
@@ -697,6 +711,7 @@ Incorporation, has been duly adopted in accordance with Sections 242 and 245 of 
 Corporation Law.
 
 GDS VF&H\668819.2 15
+
 IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been
 executed by a duly authorized officer of this corporation on this 9th day of March, 2006.
 

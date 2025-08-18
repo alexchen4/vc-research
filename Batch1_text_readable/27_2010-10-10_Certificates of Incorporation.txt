@@ -46,6 +46,7 @@ San Francisco, Califomia
 
 Robert Allen Shipp
 Chief Executive Officer
+
 EXHIBIT A
 
 ARTICLE I
@@ -95,6 +96,7 @@ Stock, $1.0900 per share for the Series B Preferred Stock, $2.1500 per share for
 Stock, $0.6304 per share for the Series D Preferred Stock and $1.3158 per share for the Series E Preferred
 
 $231319_6.DOC 2+
+
 Stock (each subject to adjustment from time to time for any applicable Recapitalization and as otherwise set
 forth elsewhere herein).
 
@@ -147,6 +149,7 @@ commitment underwritten initial public offering (an “JPOQ”) of the Company�
 an effective registration statement filed under the Securities Act of 1933, as amended (the “Securities Act”),
 
 $231319_6.D0C -3-
+
 or upon the occurrence of a Liquidation Event (as defined below in Section 3) in which the holders of the
 Company’s capital stock receive in consideration therefor cash or securities of a publicly traded entity. In
 the case of an IPO, such dividends shall be paid in cash, and, in the case of a Liquidation Event, such
@@ -198,6 +201,7 @@ in subsections (a) and (b) above shall have been paid upon all shares of Series 
 Preferred Stock, Series C Preferred Stock, Series B Preferred Stock and Series A Preferred Stock.
 
 5231319_6.D0C -4-
+
 
 (e) Consent to Certain Distributions. As authorized by Section 402.5(c) of the
 California Corporations Code, if Section 502 or Section 503 of the California Corporations Code is
@@ -252,6 +256,7 @@ funds of the Company legally available for distribution shall be distributed rat
 Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock in proportion to the
 
 $231319_6.DOC . -5-
+
 aggregate Liquidation Preference, plus alt declared and unpaid dividends on the Series A Preferred Stock,
 Series B Preferred Stock and Series C Preferred Stock, for the shares of such Series A Preferred Stock,
 Series B Preferred Stock and Series C Preferred Stock owned by each such holder.
@@ -304,6 +309,7 @@ for such exchange, market or system. If, after the date hereof, the benchmark ti
 the securities industry for determining the market price of a stock as of a given trading day shall change
 
 ' §$231319_6.DOC -6-
+
 
 from those set forth above, the fair market value shall be determined as of such other generally accepted
 benchmark times. ,
@@ -358,6 +364,7 @@ Stock (the “Series B Conversion Price”) shall be $0.8902 and shall be subjec
 herein. The number of shares of Common Stock into which each share of Series B Preferred Stock may be
 
 5231319_6.DOC i
+
 converted is hereinafter referred to as the “Series B Conversion Rate.” Upon any decrease or increase in the
 Series B Conversion Price for a share of Series B Preferred Stock, as described in this Section 4, the
 corresponding Series B Conversion Rate for such share of Series B Preferred Stock shall be appropriately
@@ -411,6 +418,7 @@ hereinafter at times together referred to as the “Conversion Price.” The “
 automatically be converted into fully paid, non-assessable shares of Common Stock at the then effective
 
 $231339_6,D0C -8-
+
 Conversion Rate for such share immediately upon the consummation of an underwritten public offering of
 Common Stock registered under the Securities Act at a price per share (prior to underwriting commissions
 and offering expenses) which reflects a valuation of the Company (before receipt of any proceeds from the
@@ -464,6 +472,7 @@ conversion into fractional shares of Common Stock, plus any declared and unpaid 
 converted Preferred Stock. Such conversion shall be deemed to have been made immediately prior to the
 
 $231319_6.00C -9-
+
 close of business on the date of such surrender of the shares of the Preferred Stock to be converted, and the
 person or persons entitled to receive the shares of Common Stock issuable upon such conversion shall be
 treated for all purposes as the record holder or holders of such shares of Common Stock on such date;
@@ -517,6 +526,7 @@ Series D Conversion Price in effect immediately prior to each such issuance shal
 otherwise provided in this Section 4(d){i)) be adjusted to a price determined by multiplying the Series D
 
 $231319_6.DOC -10-
+
 
 Conversion Price by a fraction, (x) the numerator of which shall be the Outstanding Common plus the
 number of shares of Common Stock that the aggregate consideration received by the Company for such
@@ -572,6 +582,7 @@ account potential antidilution adjustments affecting such stock) for any such co
 
 $231319_6.DOC -ll-
 
+
 securities or upon the exercise of options to purchase or rights to subscribe for such convertible or
 exchangeable securities and subsequent conversion or exchange thereof shall be deemed to have been issued
 at the time such securities were issued or such options or rights were issued and for a consideration equal to
@@ -624,6 +635,7 @@ Common Stock purchase rights.
 
 $231319_6.D0C , -12-
 
+
 (B) shares of Common Stock issued pursuant to the exercise or
 conversion of any rights, agreements, options or warrants outstanding or issued as of the date of the filing of
 this Fifth Amended and Restated Articles of Incorporation;
@@ -675,6 +687,7 @@ such period, subject to all other adjustments called for during such period unde
 to the rights of the holders of the Preferred Stock.
 
 $231319_6.D0C -13-
+
 (iii) Adjustments for Reclassification, Exchange and Substitution. If the
 Common Stock issuable upon conversion of the Preferred Stock shall be changed into the same or a
 different number of shares of any other class or classes of stock, whether by capital reorganization,
@@ -732,6 +745,7 @@ shares of stock of any class or series or any other securities or property, or t
 
 5231319_6.D0C -14-
 
+
 (iii) to effect any Reclassification or other recapitalization of its Common Stock
 outstanding involving a change in the Common Stock; or
 
@@ -785,6 +799,7 @@ Stock shall be entitled to cumulative voting rights as to the directors to be el
 combined classes, in accordance with the provisions of Section 708 of the Califommia Corporations Code.
 
 $231319_6.DOC -15-
+
 (d) _—_ Election of Directors. So long as at feast 5,000,000 shares (as adjusted for
 Recapitalizations) of the Preferred Stock remain outstanding, the holders of the Series A Preferred Stock,
 Series B Preferred Stock and Series D Preferred Stock, respectively, each voting as a separate class, shal] be
@@ -836,6 +851,7 @@ new stock or option plan;
 (vii) increase or decrease the size of the Company’s Board of Directors;
 
 $2313t9_6.DOC -16-
+
 (viii) materially change the Company’s business as it is carried out, and as it is
 contemplated to be carried out, on the Original [ssue Date;
 
@@ -890,6 +906,7 @@ distribution of assets upon a Liquidation Event, if such reclassification, alter
 render (A) Series A Preferred Stock, Series B Preferred Stock and/or Series C Preferred Stock senior to or
 
 $231319_6,.D0C -17-
+
 pari passu with the Series E Preferred Stock in respect of any such preference or (B) Series D Preferred
 Stock senior to the Series E Preferred Stock in respect of any such preference.
 

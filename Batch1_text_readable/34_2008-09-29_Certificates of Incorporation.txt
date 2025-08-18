@@ -53,6 +53,7 @@ shares that this corporation is authorized to issue is twenty million three hund
 
 MMB: 10283-005:941370.2
 
+
 thousand four hundred forty-nine (20,324,449). The total number of shares of common stock
 authorized to be issued is thirteen million (13,000,000), par value $0.001 per share (the
 “Common Stock”). The total number of shares of preferred stock authorized to be issued is
@@ -103,6 +104,7 @@ all declared but unpaid dividends on such share. If, upon the occurrence of such
 
 MMB:10283-005:941370.2 2
 
+
 Proceeds thus distributed among the holders of the Preferred Stock shall be insufficient to permit
 the payment to such holders of the full aforesaid preferential amount, then the entire Proceeds
 legally available for distribution shall be distributed ratably among the holders of the Preferred
@@ -152,6 +154,7 @@ restrictions on free marketability covered by (B) below:
 below), the value shall be deemed to be the average of the closing prices of the securities on such
 
 MMB: 10283-005:94 1370.2 3
+
 exchange or system over the twenty (20) trading day period ending three (3) trading days prior to
 the closing of the Liquidation Event;
 
@@ -202,6 +205,7 @@ then outstanding (voting together as a single class and not as separate series, 
 converted basis).
 
 MMB: 10283-005:94 1370.2 4
+
 3. Redemption. The Preferred Stock is not redeemable at the option of the
 holder.
 
@@ -251,6 +255,7 @@ If the conversion is in connection with an underwritten offering of securities r
 to the Securities Act of 1933, as amended, the conversion may, at the option of any holder
 
 MMB: 10283-005:941370.2 5
+
 tendering Preferred Stock for conversion, be conditioned upon the closing with the underwriters
 of the sale of securities pursuant to such offering, in which event the persons entitled to receive
 the Common Stock upon conversion of the Preferred Stock shall not be deemed to have
@@ -299,6 +304,7 @@ of increasing the Conversion Price above the Conversion Price in effect immediat
 such adjustment.
 
 MMB:10283-005:941370.2 . 6
+
 
 (C) In the case of the issuance of Additional
 Stock for cash, the consideration shall be deemed to be the amount of cash paid therefor before
@@ -349,6 +355,7 @@ corporation upon exercise of such options, warrants or rights or upon conversion
 exchange for such convertible or exchangeable securities, the Conversion Price of the Preferred
 
 MMB: 10283-005:941370,2 7
+
 Stock, to the extent in any way affected by or computed using such options, warrants, rights or
 securities, shall be recomputed to reflect such change, but no further adjustment shall be made
 for the actual issuance of Common Stock or any payment of such consideration upon the
@@ -399,6 +406,7 @@ with which this corporation has business relationships, provided such issuances 
 primarily equity financing purposes and provided that such issuances are approved by the Board.
 
 MMB: 10283-005:94 370.2 8
+
 (iii) ‘If this corporation shall, on or after the Filing Date fix a record
 date for the effectuation of a split or subdivision of the outstanding shares of Common Stock or
 the determination of holders of Common Stock entitled to receive a dividend or other distribution
@@ -448,6 +456,7 @@ nearly equivalent a manner as may be practicable.
 any, of the stockholders under the General Corporation Law or Section 6 of this Article I'V(B),
 
 MMB: 10283-005:94 1370.2 9
+
 by amendment of its Certificate of Incorporation or through any reorganization, recapitalization,
 transfer of assets, consolidation, merger, dissolution, issue or sale of securities or any other
 voluntary action, avoid or seek to avoid the observance or performance of any of the terms to be
@@ -498,6 +507,7 @@ shares of Common Stock to such number of shares as shall be sufficient for such 
 
 MMB: 10283-005:941370.2 10
 
+
 including, without limitation, engaging in best efforts to obtain the requisite stockholder approval
 of any necessary amendment to this Restated Certificate of Incorporation.
 
@@ -547,6 +557,7 @@ directors of this corporation at any election of directors. The holders of Prefe
 Common Stock (voting together as a single class and not as separate classes, and on an as-
 
 MMB: 10283-005:941370.2 11
+
 converted to Common Stock basis) shall be entitled to elect any remaining directors of this
 corporation.
 
@@ -596,6 +607,7 @@ having a preference over, or being on a parity with any series of Preferred Stoc
 dividends, liquidation, voting or redemption, other than the issuance of any authorized but
 
 MMB:10283-005:94 1370.2 12
+
 unissued shares of any series of Preferred Stock designated in this Restated Certificate of
 Incorporation (including any security convertible into or exercisable for such shares of Preferred
 Stock);
@@ -646,6 +658,7 @@ Section 5(b) of Article IV(B) hereof. Subject to Section 6 of Article IV(B) here
 authorized shares of Common Stock may be increased or decreased (but not below the number of
 
 MMB:10283-005:941370.2 13
+
 shares thereof then outstanding) by the affirmative vote of the holders of a majority of the stock
 of this corporation entitled to vote, irrespective of the provisions of Section 242(b)(2) of the
 General Corporation Law.
@@ -696,6 +709,7 @@ then the liability of a director of this corporation shall be eliminated or limi
 extent permitted by the General Corporation Law as so amended.
 
 MMB: 10283-005:9413 70,2 14
+
 Any repeal or modification of the foregoing provisions of this Article X by the
 stockholders of this corporation shall not adversely affect any right or protection of a director of
 this corporation existing at the time of, or increase the liability of any director of this corporation
@@ -739,6 +753,7 @@ integrates and further amends the provisions of this corporation’s Certificate
 has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law.
 
 MMB:10283-005:941370.2 15
+
 IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been
 executed by a duly authorized officer of this corporation on thiss¥f 859 of September, 2008.
 

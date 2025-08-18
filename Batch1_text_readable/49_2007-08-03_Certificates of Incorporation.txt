@@ -52,6 +52,7 @@ Preferred Stock, $.001 par value per share, of which (A) 8,322,500 shares shall 
 shall be designated “Series A-1 Convertible Preferred Stock” (the “Series A-1 Preferred Stock”),
 
 USI DOCS 629425753
+
 (C) 9.691,116 shares shall be designated “Series B Convertible Preferred Stock” (the ‘Series B
 Preferred Stock”), (D) 1,499,992 shares shall be designated “Series B-1 Convertible Preferred
 Stock” (the “Series B-] Preferred Stock”), (E) 9,047,719 shares shall be designated “Series C
@@ -103,6 +104,7 @@ sometimes referred to together herein as the “Senior Preferred Stock”. The P
 
 -2-
 USIDOCS 6294257¥3
+
 have the following rights, preferences, powers, privileges and restrictions, qualifications and
 limitations.
 
@@ -153,6 +155,7 @@ the case of the Series C Preferred Stock and $6.56063 per share in the case of t
 
 -3-
 US1DOCS 6294257v3
+
 Preferred Stock (subject in each case to appropriate adjustment in the event of any stock
 dividend, stock split, combination or other similar recapitalization affecting such shares), plus
 any dividends declared but unpaid thereon (the amounts payable to holders of Series A Preferred
@@ -203,6 +206,7 @@ assets and funds remain available for distribution by the Corporation, the holde
 
 -4-
 USIDOCS 6294257¥3
+
 Preferred Stock then outstanding shall be entitled to be paid out of the assets of the Corporation
 available for distribution to its stockholders before any payment shall be made to the holders of
 Common Stock or any other class or series of stock ranking on liquidation junior to the Senes
@@ -255,6 +259,7 @@ concerning the terms of such merger, consolidation or asset sale and the value o
 -5-
 
 US1DOCS 6294257v3
+
 Corporation as may reasonably be requested by the holders of Preferred Stock in order to assist
 them in determining whether to make such an election. If the holders of the Preferred Stock
 make such an election, the Corporation shall use its best efforts to amend the agreement or plan
@@ -306,6 +311,7 @@ amend, alter or repeal, by merger or otherwise, the preferences, special rights 
 -6-
 
 USIDOCS 62942573
+
 the Series C Preferred Stock in a manner adverse to holders of the Series C Preferred Stock and
 not similarly adverse to other classes or series of Preferred Stock or increase the authorized
 number of shares of Series C Preferred Stock, without the written consent or affirmative vote of
@@ -357,6 +363,7 @@ assignment, transfer or other conveyance of all or substantially all of the asse
 
 -7-
 USIDOCS 6294257v3
+
 Corporation or any subsidiary thereof, or any consolidation or merger involving the Corporation
 or any subsidiary thereof, or any Liquidation Event;
 
@@ -409,6 +416,7 @@ remaining director or directors elected by the holders of Series A-1 Preferred S
 -8-
 
 USIDOCS 6294257v3
+
 this Subsection 3(d). The rights of the holders of the Series A-1 Preferred Stock under this
 Subsection 3(d) shall terminate on the first date on which there are issued and outstanding less
 than 500,000 shares of Series A-1 Preferred Stock (subject to appropriate adjustment in the event
@@ -459,6 +467,7 @@ Preferred Stock into shares of Common Stock, such holder shall surrender the cer
 
 -9-
 USIDOCS 6294257¥3
+
 certificates for such shares of Preferred Stock, at the office of the transfer agent for the Preferred
 Stock (or at the principal office of the Corporation if the Corporation serves as its own transfer
 agent), together with written notice that such holder elects to convert all or any number of the
@@ -509,6 +518,7 @@ converted shall be retired and cancelled and shall not be reissued, and the Corp
 -10-
 
 USIDOCS 6294257v3
+
 the need for stockholder action) may from time to time take such appropriate action as may be
 necessary to reduce the authorized number of shares of Preferred Stock accordingly.
 
@@ -559,6 +569,7 @@ covered by Subsection 4(e) or 4(f) below:
 -}]-
 
 USIDOCS 629425743
+
 USIDOCS 6294257¥3
 
 (IV)
@@ -622,6 +633,7 @@ shares of Series C Preferred Stock issued or issuable
 to Silicon Valley Bank or Gold Hill Ventures upon
 
 -12-
+
 exercise of certain warrants issued by the
 Corporation to such entities.
 
@@ -672,6 +684,7 @@ Conversion Price in effect on the date of and immediately prior to such issue, o
 -13-
 
 USIDOCS 6294257¥3
+
 date, as the case may be, and provided further that in any such case in which Additional Shares
 of Common Stock are deemed to be issued:
 
@@ -722,6 +735,7 @@ Conversion Price, Series B Conversion Price, Series C Conversion Price or Series
 
 -14-
 USIDOCS 6294257v3
+
 Price, as applicable, that would have resulted from any issuances of Additional Shares of
 Common Stock between the original adjustment date and such readjustment date.
 
@@ -772,6 +786,7 @@ Shares of Common Stock shall be computed as follows:
 -15-
 
 US1IDOCS 6294257¥3
+
 (1)
 
 (II)
@@ -832,6 +847,7 @@ exercise of such Options or the conversion or
 exchange of such Convertible Securities,
 
 -16-
+
 (vi) Multiple Closing Dates. In the event the Corporation shall issue on
 more than one date Additional Shares of Common Stock which are comprised of shares of the
 
@@ -884,6 +900,7 @@ therefor, the Conversion Price shall be recomputed accordingly as of the close o
 -17-
 
 USIDOCS 6294257v3
+
 such record date and thereafter the Conversion Price shall be adjusted pursuant to this paragraph
 as of the time of actual payment of such dividends or distributions; and provided further,
 however, that no such adjustment shall be made if the holders of Preferred Stock simultaneously
@@ -935,6 +952,7 @@ reorganization, recapitalization, reclassification, consolidation or merger, eac
 -18-
 
 US1DOCS 6294257v3
+
 Stock shall be convertible into the kind and amount of securities, cash or other property which a
 holder of the number of shares of Common Stock of the Corporation issuable upon conversion of
 one share of Preferred Stock immediately prior to such reorganization, recapitalization,
@@ -987,6 +1005,7 @@ addresses as shown on the records of the Corporation or such transfer agent, at 
 -19-
 
 US1DOCS 629425743
+
 prior to the date specified in (A) below or twenty days before the date specified in (B) below, a
 notice stating
 
@@ -1037,6 +1056,7 @@ Preferred Stock.
 -20 -
 
 USIDOCS 6294257¥3
+
 (b) All holders of record of shares of Preferred Stock shall be given written
 notice of the Mandatory Conversion Date and the place designated for mandatory conversion of
 all such shares of Preferred Stock pursuant to this Section 5. Such notice need not be given in
@@ -1090,6 +1110,7 @@ Stock plus all declared but unpaid dividends thereon (subject to appropriate adj
 +
 
 USIDOCS 6294257v3
+
 event of any stock dividend, stock split, combination or other recapitalization affecting such
 Series B Preferred Stock) (the “Senes B Redemption Price”), (iv) $3.371016 per share with
 respect to the Series C Preferred Stock plus all declared but unpaid dividends thereon (subject to
@@ -1139,6 +1160,7 @@ Price, Series A-1 Redemption Price, Series B
 
 -22-
 USIDOCS 6294257v3
+
 Redemption Price, Series C Redemption Price or
 Series D Redemption Price, as the case may be;
 
@@ -1190,6 +1212,7 @@ affirmative consent of the holders of at least 66 2/3 % of the shares of Series 
 -23-
 
 UStDOCS 62942573
+
 then outstanding. Any of the nghts of the holders of Series B-1 Preferred Stock set forth herein
 may be waived by the affirmative consent of the holders of at least a majority of the shares of
 Series B-1 Preferred Stock then outstanding. Any of the rights of the holders of Series C
@@ -1241,6 +1264,7 @@ such persons being referred to hereafter as an “Indemnitee”), or by reason o
 - 24 -
 
 USI DOCS 6294257v3
+
 to have been taken or omitted in such capacity, against all expenses (including attorneys’ fees),
 judgments, fines and amounts paid in settlement actually and reasonably incurred by him or on
 his behalf in connection with such action, suit or proceeding and any appeal therefrom, if he
@@ -1292,6 +1316,7 @@ actually and reasonably incurred by him or on his behalf in connection therewith
 -25-
 
 USIDOCS 6294257v3
+
 limiting the foregoing, if any action, suit or proceeding is disposed of, on the merits or otherwise
 (including a disposition without prejudice), without (i) the disposition being adverse to the
 Indemnitee, (ii) an adjudication that the Indemnitee was liable to the Corporation, (iii) a plea of
@@ -1338,6 +1363,7 @@ Such undertaking shall be accepted without reference to the financial ability of
 make such repayment.
 
 USIDOCS 6294257v3
+
 6. Procedure for Indemnification. In order to obtain indemnification or
 advancement of expenses pursuant to Section 1, 2, 3 or 5 of this Article, the Indemnitee shall
 submit to the Corporation a written request, including in such request such documentation and
@@ -1387,6 +1413,7 @@ Corporation, and shall continue as to an Indemnitee who has ceased to be a direc
 
 -27-
 US1DOCS 6294257v3
+
 and shall inure to the benefit of the estate, heirs, executors and administrators of the Indemnitee.
 Nothing contained in this Article shall be deemed to prohibit, and the Corporation is specifically
 authorized to enter into, agreements with officers and directors providing indemnification rights
@@ -1437,6 +1464,7 @@ the General Corporation Law of the State of Delaware, as so amended.
 - 28 -
 
 US1DOCS 6294257v3
+
 EIGHTH. The Corporation reserves the right to amend, alter, change or repeal any
 provision contained in this Seventh Amended and Restated Certificate of Incorporation, in the
 manner now or hereafter prescribed by statute and pursuant to this Seventh Amended and
@@ -1448,6 +1476,7 @@ granted subject to this reservation.
 
 29.
 USIDOCS 6294257v3
+
 IN WITNESS WHEREOF, the Corporation has caused this Seventh Amended and
 Restated Certificate of Incorporation to be signed by its President this an day of August, 2007.
 

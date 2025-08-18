@@ -41,6 +41,7 @@ having no par value, 33,424,202 shares of which are designated as Series A Prefe
 B. Preferred Stock. The rights, preferences, privileges and restrictions granted to and
 imposed on the Preferred Stock are as follows:
 
+
 1. Dividend Provisions. The holders of shares of Preferred Stock shall be
 entitled to receive dividends, pari passu to each other, at a rate of $0.012 per share of Series A
 Preferred per annum, $0.0204 per share of Series B Preferred per annum anc $0.029784 per share of
@@ -88,6 +89,7 @@ to the limitation that any holder of Preferred Stock shall be entitled to partic
 described in this Section 2(b) only until such time as the aggregate proceeds received by such holder
 
 2
+
 (including amounts received pursuant to Section 2(a) above) equals fifty cents ($0.50) per share of
 Series A Preferred, eighty-five cents ($0.85) per share of Series B Preferred or one dollar twenty-four
 and 1/10 cents ($1.241) per share of Series C Preferred. Any holder of Preferred Stock electing to
@@ -131,6 +133,7 @@ thereof, as determined in good faith by the Board of Directors of the corporatio
 as follows (the "Conversion Rights"):
 
 (a) Right to Convert.
+
 (i) Each share of Series A Preferred shall be convertible, at the
 option of the holder thereof, at any time after the date of issuance of such share, at the office of the
 corporation or any transfer agent for such Series A Preferred, into such number of fully paid and
@@ -178,6 +181,7 @@ as the record holder or holders of such shares of Common Stock as of such date. 
 in connection with an underwritten offer of securities registered pursuant to the Securities Act, the
 
 4
+
 conversion will be conditioned upon the closing with the underwriter of the sale of securities
 pursuant to such offering, unless otherwise designated in writing by the holders of such Preferred
 Stock. in which event the person(s) entitled to receive the Common Stock issuable upon such
@@ -227,6 +231,7 @@ additional shares of Common Stock issuable with respect to shares of Preferred S
 5
 
 ee
+
 securities, or outstanding options. warrants or other rights for the purchase of shares of stock or
 convertible securities, solely as a result of the adjustment of the Series A, Series B or Series C
 Conversion Price. as the case may be, (or other conversion ratios) resulting from the issuance of the
@@ -274,6 +279,7 @@ convertible or exchangeable securities and subsequent conversion or exchange the
 deemed to have becn issued at the time such securities were issued or such options or rights were
 
 6
+
 issued and for a consideration equal to the consideration, if any, received by the corporation for any
 such securities and related options or rights (excluding any cash received on account of accrued
 interest or accrued dividends), plus the additional consideration, if any, to be received by the
@@ -318,6 +324,7 @@ be made in the same manner provided in subsection (E)(4) above.
 (ii) | “Additional Stock” shall mean any shares of Common Stock
 issued (or deemed to have been issued pursuant to subsection 3(c)(i)(E)) by the corporation on or
 after the Purchase Date other than shares of Common Stock issued or issuable:
+
 (A) pursuant to a transaction described in subsection
 3(c)(ii1) hereof,
 
@@ -361,6 +368,7 @@ Stock shall be appropriately decreased so that the number of shares of Common St
 conversion of each share of such series shal] be increased in proportion to such increase of the
 aggregate shares of Common Stock outstanding and those issuable with respect to such Common
 Stock Equivalents.
+
 (iv) Ifthe number of shares of Common Stock outstanding at any
 time after the Purchase Date is decreased by a combination of the outstanding shares of Common
 Stock. then. following the record date of such combination, the Conversion Price for the Preferred
@@ -408,6 +416,7 @@ issuable upon such aggregate conversion. In lieu of any fractional share to whic
 otherwise be entitled upon conversion of some or all of the Preferred Stock owned by such holder,
 
 9
+
 the corporation shall pay cash equal to such fraction multiplied by the fair value thereof as
 determined in good faith by the Board of Directors.
 
@@ -456,6 +465,7 @@ could then be converted (with any fractional share determined on an aggregate co
 being rounded to the nearest whole share), and with respect to such vote, such holder shall have full
 
 10
+
 voting rights and powers equal to the voting rights and powers of the holders of Common Stock
 (except as otherwise expressly provided herein or as required by law, voting together with holders of
 Common Stock, with respect to any question upon which holders of Common Stock have the right to
@@ -504,6 +514,7 @@ the voting power of the corporation is disposed of, provided that this Section 5
 to a merger effected exclusively for the purpose of changing the domicile of the corporation; or
 
 11
+
 (iv) liquidate or dissolve the corporation.
 
 6. Status of Converted Stock. In the event any shares of Preferred Stock shall be
@@ -549,6 +560,7 @@ indemnification of agents (as defined in Section 317 of the California Corporati
 fullest extent permissible under California law.
 
 12
+
 (C) Repeal or Modification. Any amendment, repeal or modification of any provision of
 this Article IV shall not adversely affect any right or protection of an agent of this corporation
 existing at the time of such amendment, repeal or modification. ."
@@ -569,6 +581,7 @@ and a majority of the outstanding shares of Preferred Stock, cach voting as a se
 majority of the outstanding shares of Series C Preferred, voting as a separate class.
 
 13
+
 The undersigned declare under penalty of perjury under the laws of the State of California
 that they have read the foregoing Certificate and that the matters set forth in the foregoing Certificate
 

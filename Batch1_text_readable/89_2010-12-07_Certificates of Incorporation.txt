@@ -49,6 +49,7 @@ FILED 01:32 PM 12/07/2010
 SRV 101156901 - 3538777 FILE
 
 899133 v4/HN
+
 number of shares that the Corporation is authorized to issue is one hundred thirty-two million,
 forty thousand, seven hundred sixty-nine (132,040,769). The total number of shares of common
 stock authorized to be issued is seventy-five million (75,000,000), par value $0.001 per share
@@ -97,6 +98,7 @@ like), payable when, as, and if declared by the Board.
 Section 1, the holders of shares of Series A3 Preferred Stock shall be entitled to receive
 
 899133 v4/HN
+
 dividends, out of any assets legally available therefor, prior and in preference to any declaration
 or payment of any dividend (payable other than in Common Stock or other securities or rights
 convertible into or entitling the holder thereof to receive, directly or indirectly, additional shares
@@ -144,6 +146,7 @@ shall be entitled to receive, prior and in preference to any distribution of the
 holders of the Series A2 or Series Al Preferred Stock or Common Stock, by reason of their
 
 899133 v4/HN
+
 ownership thereof, an amount per share equal to the sum of two times the applicable Original
 Issue Price for the Series A3 Preferred Stock, plus declared but unpaid dividends on such shares.
 Following payment of this amount to the holders of Series A3 Preferred Stock, the holders of the
@@ -191,6 +194,7 @@ stock of the Corporation (or the surviving or acquiring entity), (D) the grant o
 irrevocable license of all or substantially all of the Corporation’s intellectual property to a third
 
 899133 va/HN
+
 party or (E) a liquidation, dissolution or winding up of the Corporation; provided, however, that
 a transaction shall not constitute a Liquidation Event if its sole purpose is to change the state of
 the Corporation’s incorporation, to consolidate with a wholly-owned subsidiary, or to create a
@@ -240,6 +244,7 @@ to be distributed in connection with a Liquidation Event may be superseded by an
 of such value set forth in the definitive agreements governing such Liquidation Event.
 
 899133 v4/HN
+
 (ii) In the event the requirements of this Section 2 are not complied
 with, the Corporation shall forthwith either:
 
@@ -288,6 +293,7 @@ forth in Section 4(d).
 be converted into shares of Common Stock at the Conversion Rate at the time in effect for such
 
 899133 v4/HN
+
 series of Preferred Stock immediately upon the earlier of (i) the Corporation’s sale of its
 Common Stock in a firm commitment underwritten public offering, pursuant to a registration
 statement under the Securities Act of 1933, as amended (the “Securities Act”), where the public
@@ -332,6 +338,7 @@ Common Stock issuable upon such conversion shall be treated for all purposes as 
 holders of such shares of Common Stock as of such date.
 
 899133 v4/HN
+
 (d) Conversion Price Adjustments of Preferred Stock for Certain Dilutive
 Issuances, Splits and Combinations. The Conversion Price of the Preferred Stock shall be
 
@@ -378,6 +385,7 @@ reasonable discounts, commissions or other expenses allowed, paid or incurred by
 Corporation for any underwriting or otherwise in connection with the issuance and sale thereof.
 
 899133 v4/HN
+
 (C) In the case of the issuance of the Additional Stock for a
 consideration in whole or in part other than cash, the consideration other than cash shall be
 deemed to be the fair market value thereof as determined by the Board irrespective of any
@@ -426,6 +434,7 @@ appropriately adjusted to reflect any change, termination or expiration of the t
 either Section 4(d)(i)(D)(2) or (3).
 
 899133 v4/HN
+
 (ii) For purposes of Section 4(d)(i), “Additional Stock” shall mean any
 shares of Common Stock issued (or deemed to have been issued pursuant to Section 4(d){i)(D))
 by the Corporation after an applicable Purchase Date other than:
@@ -476,6 +485,7 @@ entered into for primarily non-equity financing purposes approved by the Board; 
 10
 
 899133 v4/HN
+
 (L) Capital stock issued or issuable to persons or entities with
 which the Corporation has business relationships, the terms of which issuances to such entity are
 approved by the Corporation’s Board of Directors, including the Senior Preferred Director, and
@@ -525,6 +535,7 @@ holders of the Preferred Stock after the recapitalization to the end that the pr
 11
 
 899133 v4/HN
+
 Section 4 (including adjustment of the Conversion Price then in effect and the number of shares
 purchasable upon conversion of the Preferred Stock) shall be applicable after that event in as
 nearly equivalent a manner as may be practicable.
@@ -575,6 +586,7 @@ of any necessary amendment to this Restated Certificate.
 12
 
 899133 v4/HN
+
 Qj) Notices. Any notice required by the provisions of this Section 4 to be
 given to the holders of shares of Preferred Stock (i) shall be deemed given if delivered
 personally, sent via internationally recognized overnight courier service, via facsimile or
@@ -625,6 +637,7 @@ and the Common Director. Upon the approval by a majority of the then existing di
 13
 
 899133 v4/HN
+
 number of authorized directors of the Corporation may be increased by not more than two (2), at
 which point such additional director(s) shall be elected in the manner set forth in the preceding
 sentence. The Chairman shall be selected by the Board.
@@ -675,6 +688,7 @@ any right of first refusal;
 14
 
 899133 v4sHN
+
 (D) authorize or issue, any other equity security, including any
 security (other than Series C Preferred Stock) convertible into or exercisable for any equity
 security, having a preference over, or being on a parity with, the Series C Preferred Stock with
@@ -723,6 +737,7 @@ number of authorized shares of Series Al, Series A2, or Series A3 Preferred Stoc
 15
 
 899133 v4/HN
+
 Gii) So long as at least 500,000 shares of Series B Preferred Stock are
 outstanding (as adjusted for stock splits, stock dividends, reclassification and the like), the
 Corporation shall not (by amendment, merger, consolidation or otherwise) without first obtaining
@@ -771,7 +786,8 @@ distributed as provided in Section 2 of Article IV(B) hereof.
 16
 
 899133 v4/HN
-3, Redemption. The Common Stock is not redeemable at the option of the
+
+3. Redemption. The Common Stock is not redeemable at the option of the
 holder.
 
 4, Voting Rights. The holder of each share of Common Stock shall have the
@@ -821,6 +837,7 @@ to authorize corporate action further eliminating or limiting the personal liabi
 17
 
 899133 v4/HN
+
 then the liability of a director of the Corporation shall be eliminated or limited to the fullest
 extent permitted by the General Corporation Law as so amended.
 
@@ -868,6 +885,7 @@ has been duly adopted in accordance with Sections 242 and 245 of the General Cor
 18
 
 899133 v4/HN
+
 IN WITNESS WHEREOF, this Amended and Restated Certificate of
 Incorporation has been executed by a duly authorized officer of the Corporation on this 7" day of
 December, 2010.

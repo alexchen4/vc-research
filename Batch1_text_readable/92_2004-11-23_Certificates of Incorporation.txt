@@ -54,6 +54,7 @@ Common Stock may be increased or decreased (but not below the number of shares o
 
 DOCSSV1:235619.8
 13173-3 TRC
+
 Stock then outstanding) by the affirmative vote of the holders of a majority of the shares of stock
 of the Corporation (voting together on an as-if-converted basis).
 
@@ -105,6 +106,7 @@ closing of such transaction, plus declared but unpaid dividends payable to Serie
 
 DOCSSV1:235619.8 2
 13173-3 TBC :
+
 Stock, and (iii) $2.38 per share (as adjusted for stock splits, stock dividends, reclassification and
 the like) for each share of Series C Preferred Stock held by them at the closing of such
 transaction, plus declared but unpaid dividends payable to Series C Preferred Stock. If, upon the
@@ -152,6 +154,7 @@ Preference” shall mean:
 
 DOCSSV 1:235619.8 3
 13173-3 TBC
+
 (A) _ if the liquidation, dissolution or winding up of the
 Corporation occurs on or prior to the first anniversary of the date upon which any shares of
 Series C Preferred Stock were first issued (such date of issuance referred to as the “Purchase
@@ -200,6 +203,7 @@ as follows:
 
 DOCSSV1:235619.8 4
 (3173-3 TBC
+
 (A) Securities not subject to investment letter or other
 similar restrictions on free marketability:
 
@@ -248,6 +252,7 @@ first notice referred to in Section 2(c)(iii) hereof.
 
 DOCSSV1:235619.8 5
 13173-3 TBC
+
 4, Conversion. The holders of Series Preferred shall have conversion rights
 
 as follows (the “Conversion Rights”):
@@ -298,6 +303,7 @@ the closing of such salc of securities.
 
 DOCSSV1:235619.8 6
 13173-3 TBC
+
 (d) Conversion Price Adjustments of Series Preferred for Certain
 Dilutive Issuances, Splits and Combinations. The Conversion Price of the Series Preferred
 shall be subject to adjustment from time to time as follows:
@@ -346,6 +352,7 @@ the date of this Restated Certificate;
 
 DOCSSV1:235619.8 7
 13173-3 TBC ‘
+
 (5) Capital stock, or warrants or options to
 purchase capital stock, issued in connection with bona fide acquisitions, mergers or similar
 transactions, the terms of which are approved by the Board of Directors;
@@ -393,6 +400,7 @@ all purposes of this Section 4(d)(i):
 
 DOCSSV1:235619.8 g&
 13173-3 TEC
+
 (1) The aggregate maximum number of shares
 of Common Stock deliverable upon conversion, exchange or exercise (assuming the satisfaction
 of any conditions to convertibility, exchangeability or exercisability, including, without
@@ -442,6 +450,7 @@ Common Stock entitled to receive a dividend or other distribution payable in add
 
 DOCSSV1:235619.8 9
 13173-3 TBC
+
 Common Stock or Common Stock Equivalents without payment of any consideration by such
 holder for the additional shares of Common Stock or the Common Stock Equivalents (including
 the additional shares of Common Stock issuable upon conversion or exercise thereof), then, as of
@@ -492,6 +501,7 @@ holders of a majority of shares of Series Preferred, the Corporation will not, b
 
 DOCSSV1:235619.8 10
 13173-3 TBC
+
 Certificate of Incorporation or through any reorganization, recapitalization, transfer of assets,
 consolidation, merger, dissolution, issue or sale of securities or any other voluntary action, avoid
 or seek to avoid the observance or performance of any of the terms to be observed or performed
@@ -542,6 +552,7 @@ effect the conversion of all then outstanding shares of such series of Series Pr
 
 DOCSSV1:235619.8 tl
 13173-3 TBC
+
 to such other remedies as shall be available to the holder of such Series Preferred, the
 Corporation will take such corporate action as may, in the opinion of its counsel, be necessary to
 increase its authorized but unissued shares of Common Stock to such number of shares as shall
@@ -591,6 +602,7 @@ of Common Stock or Preferred Stock;
 
 DOCSSV 1:235619.8 12
 13173-3 TBC
+
 
 (iii) | redeem, purchase or otherwise acquire (or pay into or set
 funds aside for a sinking fund for such purpose) any share or shares of Common Stock; provided,
@@ -642,6 +654,7 @@ Preferred Stock, voting together as a class:
 
 DOCSSV 1:235619.8 13
 13173-3 TBC
+
 (i) alter or change the rights, preferences or privileges of the
 shares of Series C Preferred Stock so as to adversely affect the shares of such series in a manner
 differently than other series of Preferred Stock; or
@@ -692,6 +705,7 @@ shall be distributed as provided in Section 2 of Article IV(C).
 
 DOCSSV1:235619.8 14
 13173-3 TBC
+
 4. Voting Rights. Each holder of Common Stock shall have the right to one
 vote per share of Common Stock, and shall be entitled to notice of any stockholders’ meeting in
 accordance with the Bylaws of the Corporation, and shall be entitled to vote upon such matiers
@@ -731,6 +745,7 @@ prior to such amendment, repeal or adoption of an inconsistent provision.”
 
 DOCSSV1:235619.8 15
 13173-3 TBC
+
 The foregoing Amended and Restated Certificate of Incorporation has been duly adopted
 by this corporation’s Board of Directors and stockholders in accordance with the applicable
 provisions of Sections 228, 242 and 245 of the Delaware General Corporation Law.

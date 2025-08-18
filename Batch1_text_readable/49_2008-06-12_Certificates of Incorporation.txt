@@ -47,6 +47,7 @@ Convertible Preferred Stock" (the "Series D Preferred Stock") and (G) 6,152,554 
 
 The following is a statement of the designations and the powers, preferences and rights, and the qualifications,
 limitations or restrictions thereof in respect of each class of capital stock of the Corporation.
+
 A. COMMON STOCK.
 
 1. General. The voting, dividend and liquidation rights of the holders of the Common Stock are subject to
@@ -103,6 +104,7 @@ the record date for determination of holders entitled to receive such dividend o
 dividend on any class or series that is not convertible into Common Stock, at a rate per share of Preferred
 
 2
+
 Stock determined by dividing the amount of the dividend payable on each share of such class or series of
 capital stock by the original issuance price of such class or series of capital stock and multiplying such
 fraction by $1.00 per share in the case of the Series A Preferred Stock, $1.50 per share in the case of the
@@ -159,6 +161,7 @@ Amount, the Series B Liquidation Amount, the Series C Liquidation Amount or the 
 Amount, as applicable. If upon any such Liquidation Event pursuant to this Section 2(b), the assets of the
 Corporation available for distribution to its stockholders (following the payment in full to holders of
 Series D Preferred Stock) shall be insufficient to pay the holders of shares of Series A Preferred Stock,
+
 Series A-1 Preferred Stock, Series B Preferred Stock, Series C Preferred Stock and the Series E Preferred
 Stock the full amount to which they shall be entitled pursuant to this Section 2(b), such assets shall be
 distributed ratably to holders of Series A Preferred Stock, Series A-1 Preferred Stock, Series B Preferred
@@ -214,6 +217,7 @@ consolidation or asset sale and the value of the assets of the Corporation as ma
 the holders of Preferred Stock in order to assist them in determining whether to make such an election. If
 the holders of the Preferred Stock make such an election, the Corporation shall use its best efforts to amend
 the agreement or plan of merger or consolidation to adjust the rate at which the shares of capital stock of
+
 the Corporation are converted into or exchanged for cash, new securities or other property to give effect to
 such election.
 
@@ -269,6 +273,7 @@ and not similarly adverse to other classes or series of Preferred Stock, without
 affirmative vote of the holders of at least 68% of the then outstanding shares of Series E Preferred Stock,
 given in writing or by vote at a meeting, consenting or voting (as the case may be) separately as a class. For
 purposes of the foregoing sentence, the issuance of shares of a new series of preferred stock that is senior to
+
 the Series E Preferred Stock with respect to the distribution of assets on a Liquidation Event but that is
 junior to the Series D Preferred Stock with respect to the distribution of assets on a Liquidation Event shall
 be deemed to be an amendment, alteration or repeal, by merger or otherwise, of the preferences, special
@@ -285,7 +290,7 @@ voting (as the case may be) separately as a class.
 (d) The Corporation shall not (i) amend, alter or repeal the liquidation preference of the Series E
 Preferred Stock, (11) amend, alter or repeal this Section 3(d), Section 4(d)(a), the last sentence of
 Section 4(d)(ii) below, Section 4(d)(iv)(B) below or the second or the last sentence of Section 5(a) below or
-(ii) increase the authorized number of shares of Series E Preferred Stock, without the written consent or
+(iil) increase the authorized number of shares of Series E Preferred Stock, without the written consent or
 affirmative vote of the holders of at least 68% of the then outstanding shares of Series E Preferred Stock,
 given in writing or by vote at a meeting, consenting or voting (as the case may be) separately as a class.
 
@@ -322,6 +327,7 @@ effect or obligate itself to effect, any merger, sale, pledge, lease, assignment
 
 of all or substantially all of the assets of the Corporation or any subsidiary thereof, or any consolidation or
 merger involving the Corporation or any subsidiary thereof, or any Liquidation Event;
+
 (v)
 
 acquire all or substantially all of the properties, assets or stock of any other corporation or entity without
@@ -373,6 +379,7 @@ Preferred Stock shall be filled only by vote or written consent in lieu of a mee
 Series A-1 Preferred Stock or by any remaining director or directors elected by the holders of Series A-1
 
 7
+
 Preferred Stock pursuant to this Subsection 3(f). The rights of the holders of the Series A-1 Preferred Stock
 under this Subsection 3(f) shall terminate on the first date on which there are issued and outstanding less
 than 500,000 shares of Series A-1 Preferred Stock (subject to appropriate adjustment in the event of any
@@ -430,6 +437,7 @@ endorsed or accompanied by a written instrument or instruments of transfer, in f
 the Corporation, duly executed by the registered holder or his or its attorney duly authorized in
 
 8
+
 writing. The date of receipt of such certificates and notice by the transfer agent (or by the
 Corporation if the Corporation serves as its own transfer agent) shall be the conversion date
 ("Conversion Date"). The Corporation shall, as soon as practicable after the Conversion Date,
@@ -486,6 +494,7 @@ Issues:
 
 (i) Special Definitions. For purposes of this Subsection 4(d), the following definitions
 shall apply:
+
 (A) "Option" shall mean rights, options or warrants to subscribe for, purchase or
 otherwise acquire Common Stock or Convertible Securities.
 
@@ -539,6 +548,7 @@ of the anti-dilution provisions of the Exclusive License Agreement between M.I.T
 dated December 4, 2001 (the "M.I.T. Shares");
 
 10
+
 (VII)
 
 shares of Series A Preferred Stock issued or issuable to Comerica Bank upon exercise of that certain
@@ -595,6 +605,7 @@ Shares of Common Stock that otherwise would adjust the Series E Conversion Price
 agreeing that no such adjustment shall be made as the result of such issuance or deemed issuance
 
 11
+
 of Additional Shares of Common Stock. In addition, no adjustment in the Series A Conversion
 Price, Series A-1 Conversion Price, Series B Conversion Price, Series C Conversion Price or
 Series D Conversion Price shall be made pursuant to this Subsection 4(d) as a result of any
@@ -651,6 +662,7 @@ Price, Series B Conversion Price, Series C Conversion Price, Series D Conversion
 or Series E Conversion Price;
 
 12
+
 (D) In the event of any change in the number of shares of Common Stock issuable
 upon the exercise, conversion or exchange of any such Option or Convertible Security,
 including, but not limited to, a change resulting from the anti-dilution provisions thereof,
@@ -708,6 +720,7 @@ purchase at such then existing Series A Conversion Price, Series A-1 Conversion 
 Series B Conversion Price, Series C Conversion Price or Series D Conversion Price, as
 
 13
+
 the case may be; and (II) the denominator of which shall be the number of shares of
 Common Stock outstanding immediately prior to such issue (calculated assuming
 conversion of all issued and outstanding shares of Preferred Stock and the exercise,
@@ -765,6 +778,7 @@ appropriate adjustment for stock splits, stock dividends, combinations, recapita
 and other similar events affecting such shares), such Series E Conversion Price shall be
 
 14
+
 reduced, concurrently with such issue, to the consideration per share received by the
 Corporation for such issue or deemed issue of the Additional Shares of Common Stock.
 
@@ -822,6 +836,7 @@ upon the final such issuance, the Series A Conversion Price, Series A-1 Conversi
 Series B Conversion Price, Series C Conversion Price, Series D Conversion Price or Series E
 
 15
+
 Conversion Price, as the case may be, shall be readjusted to give effect to all such issuances as if
 they occurred on the date of the final such issuance (and without giving effect to any adjustments
 as a result of such prior issuances within such period).
@@ -879,6 +894,7 @@ additional shares of Common Stock being issued with respect to each share of Com
 Stock in such dividend or distribution.
 
 16
+
 (g) Adjustments for Other Dividends and Distributions. In the event the Corporation at any
 time or from time to time after the Original Issue Date shall make or issue, or fix a record date for
 the determination of holders of Common Stock entitled to receive, a dividend or other distribution
@@ -936,6 +952,7 @@ such adjustment or readjustment in accordance with the terms hereof and furnish 
 Series A Preferred Stock, Series A-1 Preferred Stock, Series B Preferred Stock, Series B-1
 
 17
+
 Preferred Stock, Series C Preferred Stock, Series D Preferred Stock or Series E Preferred Stock, as
 the case may be, a certificate setting forth such adjustment or readjustment and showing in detail
 the facts upon which such adjustment or readjustment is based. The Corporation shall, upon the
@@ -990,6 +1007,7 @@ reasonable efforts shall not be deemed a default, breach or violation of this Se
 Mandatory Conversion.
 
 18
+
 (a) Upon (1) the closing of the sale of shares of Common Stock, at a price to the public of at least
 $8.00 per share (subject to appropriate adjustment for stock splits, stock dividends, combinations,
 recapitalizations and other similar events affecting such shares), in a firm commitment underwritten public
@@ -1047,6 +1065,7 @@ terminate, except only the rights of the holders thereof, upon surrender of thei
 therefor, to receive certificates for the number of shares of Common Stock into which such Preferred Stock
 
 19
+
 has been converted, and payment of any declared but unpaid dividends thereon. If so required by the
 Corporation, certificates surrendered for conversion shall be endorsed or accompanied by written
 instrument or instruments of transfer, in form satisfactory to the Corporation, duly executed by the
@@ -1104,6 +1123,7 @@ Corporation does not have sufficient funds legally available to redeem all of th
 Stock required to be redeemed on any Redemption Date, the Corporation shall redeem a pro rata portion of
 
 20
+
 each holder's shares of Senior Preferred Stock out of funds legally available therefor, and holders of Senior
 Preferred Stock shall share ratably in such redemption, in each case, in proportion to the respective
 amounts which would otherwise be payable in respect of shares to be redeemed from such holders; the
@@ -1159,6 +1179,7 @@ forthwith after the Redemption Date terminate, except only the right of the hold
 Redemption Price without interest upon surrender of their certificate or certificates therefor.
 
 21
+
 (e) Any shares of Senior Preferred Stock redeemed pursuant to this Section 6 will be cancelled and
 will not under any circumstances be reissued, sold or transferred and the Corporation may from time to
 time take such appropriate action as may be necessary to reduce the authorized Preferred Stock
@@ -1214,6 +1235,7 @@ as a director, officer or trustee of, or in a similar capacity with, another cor
 or other enterprise (including any employee benefit plan) (all such persons being referred to hereafter as an
 
 22
+
 "Indemnitee"), or by reason of any action alleged to have been taken or omitted in such capacity, against all
 expenses (including attorneys' fees), judgments, fines and amounts paid in settlement actually and reasonably
 incurred by him or on his behalf in connection with such action, suit or proceeding and any appeal therefrom, if he
@@ -1271,6 +1293,7 @@ defense, the Corporation shall not be liable to the Indemnitee for any legal or 
 by the Indemnitee in connection with such claim, other than as provided below in this Section 4. The Indemnitee
 
 23
+
 shall have the right to employ his own counsel in connection with such claim, but the fees and expenses of such
 counsel incurred after notice from the Corporation of its assumption of the defense thereof shall be at the expense of
 the Indemnitee unless (i) the employment of counsel by the Indemnitee has been authorized by the Corporation,
@@ -1328,6 +1351,7 @@ action, suit, proceeding or investigation arising out of or relating to any acti
 to the final adoption of such amendment, termination or repeal.
 
 24
+
 9. Other Rights. The indemnification and advancement of expenses provided by this Article shall not be
 deemed exclusive of any other rights to which an Indemnitee seeking indemnification or advancement of expenses
 may be entitled under any law (common or statutory), agreement or vote of stockholders or disinterested directors or
@@ -1383,6 +1407,7 @@ stockholders herein are granted subject to this reservation.
 [Remainder of Page Intentionally Left Blank]
 
 25
+
 IN WITNESS WHEREOF, the Corporation has caused this Ninth Amended and Restated Certificate of
 Incorporation to be signed by its President this 12th day of June, 2008.
 

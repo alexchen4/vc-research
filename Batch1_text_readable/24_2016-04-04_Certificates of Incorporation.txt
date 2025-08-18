@@ -52,6 +52,7 @@ Corporation shall have authority to issue is 59,625,708 shares, consisting of:
 Preferred Stock (the “Series A Preferred Stock’), 6,827,776 shares shall be designated
 
 7980393_4.doc
+
 Series B Convertible Preferred Stock (the “Series B Preferred Stock”), 5,733,380 shares
 shall be designated Series C Convertible Preferred Stock (the “Series C Preferred Stock’),
 4,887,365 shares shall be designated Series D Convertible Preferred Stock (the “Series D
@@ -101,6 +102,7 @@ be cumulative, non-compounding and accrue daily from and after the date of the o
 issuance of each share of Series D Preferred Stock or Series D-1 Preferred Stock, as applicable,
 
 7980393 _4.doc
+
 to which the dividend relates, whether or not earned or declared, and whether or not there are
 earnings or profits, surplus or other funds or assets of the Corporation legally available for the
 payment of dividends.
@@ -150,6 +152,7 @@ payable on the number of whole shares of the Common Stock into which each share 
 Preferred Stock held by each holder could be converted pursuant to the provisions of Section 5
 
 7980393_4.doc
+
 below, such number to be determined as of the record date for the determination of holders of
 Common Stock entitled to recetve such dividend.
 
@@ -199,6 +202,7 @@ combination of shares, reclassification or other similar event with respect to t
 Preferred Stock) plus an amount equal to all accrued and/or declared and unpaid dividends on the
 
 7980393_4.doc
+
 Series C Preferred Stock. If upon any such liquidation, dissolution or winding up of the
 Corporation, whether voluntary or involuntary, or such Deemed Liquidation Event, the remaining
 assets of the Corporation available for distribution to its stockholders shall be insufficient to pay
@@ -249,6 +253,7 @@ with respect to such shares would be greater if such shares were converted to Co
 immediately prior to such liquidation, dissolution, winding up or Deemed Liquidation Event, the
 
 7980393 4,doc
+
 holder of such shares will be paid that higher amount in lieu of payments called for by
 subsections 2(a), 2(b) and 2(c).
 
@@ -298,6 +303,7 @@ Liquidation Event referred to in subsection 2(e)(i) unless the agreement or plan
 consolidation for such transaction (the “Merger Agreement’) provides that the consideration
 
 7980393 _4.doc
+
 payable to the stockholders of the Corporation shall be allocated among the holders of capital
 stock of the Corporation in accordance with subsections 2(a), 2(b) and 2(c).
 
@@ -347,6 +353,7 @@ to the fullest extent of such Available Proceeds, based on the respective amount
 otherwise be payable in respect of the shares to be redeemed if the Available Proceeds were
 
 7980393 _4.doc
+
 sufficient to redeem all such shares, and shall redeem the remaining shares to have been
 redeemed as soon as practicable after the Corporation has funds legally availabletherefor. The
 provisions of Section 8 shall apply, with such necessary changes in the details thereof as are
@@ -395,6 +402,7 @@ a majority of the Series D Preferred Stock, or another individual elected pursua
 subsection 3(b).
 
 7980393. 4.doc
+
 {c) Series C Preferred Stock Directors. The holders of record of the shares of
 Series C Preferred Stock shall have the right, voting at a meeting of stockholders called for the
 purpose or by written consent, separately from the Common Stock and all other series of
@@ -445,6 +453,7 @@ by written consent, separately from the Preferred Stock, to elect one (1) indivi
 Board of Directors of the Corporation.
 
 7980393 _4.doc
+
 (f) Remaining Directors. All other directors of the Corporation shall be
 elected by the holders of the Common Stock and Preferred Stock voting together as a single class
 on an as-converted basis, with the holders of Preferred Stock to have that number of votes as is
@@ -496,6 +505,7 @@ the certificate or certificates for shares of Common Stock to be issued. If requ
 7980393 4.doc
 
 10
+
 Corporation, certificates surrendered for conversion shall be endorsed oraccompanied by a
 written instrument or instruments of transfer, in form satisfactory to the Corporation, duly
 executed by the registered holder or his or its attorney duly authorized in writing. The date of
@@ -547,6 +557,7 @@ delivery shall be made unless and until the person or entity requesting such iss
 7980393_4.doc
 
 11
+
 the Corporation the amount of any such tax or has established, to the satisfaction of the
 Corporation, that such tax has been paid.
 
@@ -600,6 +611,7 @@ conversion or exchange under such Convertible Securities which shall not have be
 7980393_4.doc
 
 12
+
 the Conversion Price computed upon the original issue thereof (or upon the occurrence of a
 record date with respect thereto), and any subsequent adjustments based thereon, shall, upon such
 expiration, be recomputed as if:
@@ -653,6 +665,7 @@ Option or unconverted or unexchanged Convertible Security (or portion thereof) w
 7980393_4.doc
 
 13
+
 (either upon its original issuance or upon a revision of its terms) in an adjustment to the
 Conversion Price pursuant to the terms of subsection 4(d)(iii), the Conversion Price shail be
 readjusted to such Conversion Price as would have obtained had such Option or Convertible
@@ -705,6 +718,7 @@ definition of Appraisal Procedure; and
 7980393. 4.doc
 
 14
+
 (3) in the event Additional Shares of Common Stock
 are issued together with other shares or securities or other assets of the
 Corporation for consideration which covers both, be the proportion of such
@@ -759,6 +773,7 @@ then and in each such event the Conversion Price for each series of Preferred St
 7980393 4,doc
 
 15
+
 immediately before such event shall be decreased as of the time of such issuance or, in the event
 such a record date shall have been fixed, as of the close of business on such record date, by
 multiplying the Conversion Price for each series of Preferred Stock then in effect by a fraction:
@@ -812,6 +827,7 @@ changes in and other adjustments of the Conversion Price) shall thereafter be ap
 7980393. 4.dec
 
 16
+
 nearly equivalent a manner as may be practicable as before the consolidation or merger. If any
 event occurs of the type contemplated by the provisions of this Section 4 but not expressly
 provided for by such provisions (including, without limitation, the granting of stock appreciation
@@ -865,6 +881,7 @@ entitled to such dividend, distribution, subdivision or combination are to be de
 7980393. 4,doc
 
 17
+
 winding up is expected to become effective, and the date as of which it is expected that holders of
 Common Stock of record shall be entitled to exchange their shares of Common Stock for
 securities or other property deliverable upon such reclassification, consolidation, merger, sale,
@@ -916,6 +933,7 @@ have been received by any holder of record of shares of such Preferred Stock, or
 7980393_4.doc
 
 18
+
 certificates evidencing such shares of Common Stock shall not then be actually delivered to such
 holder.
 
@@ -968,6 +986,7 @@ shares of the capital stock of the Corporation or any Subsidiary, except for rep
 7980393 4.doc
 
 19
+
 Common Stock of the Corporation from former employees or service providers in connection
 with the cessation of their employment or services, at the lower of fair market value or cost or
 other than as approved by the Board of Directors of the Corporation, including at least one of the
@@ -1021,6 +1040,7 @@ Management of the Corporation;
 7980393 4,doc
 
 20
+
 (xix) create any Subsidiaries other than a Subsidiary in which the
 Corporation or a Subsidiary of the Corporation is the sole record and beneficial holder of all the
 equity interests;
@@ -1072,6 +1092,7 @@ and Series A Preferred Stock hereunder, either prospectively or retrospectively.
 7980393_4.doc
 
 21
+
 (a) At any time on or after August 1, 2019, the holders of a majority of the
 outstanding shares of the Series D Preferred Stock and Series D-1 Preferred Stock, voting
 together as a single class, may require the Corporation, to the extent it may lawfully do so, to
@@ -1123,6 +1144,7 @@ Redemption Date, and each of them separately, a “Mandatory Redemption Date”)
 7980393 _4.doc
 
 Zo
+
 of Series A Preferred Stock or Series B Preferred Stock may elect to withdraw a Series A/B
 Redemption Request with respect to all or a portion of such holder’s shares of Series A Preferred
 Stock or Series B Preferred Stock to be redeemed on a Series A/B Mandatory Redemption Date
@@ -1174,6 +1196,7 @@ payable in respect of the shares held by them upon such redemption if all amount
 7980393_4.dec
 
 23
+
 with respect to such shares were paid in full), then to redeem the maximum number of shares of
 the Series C Preferred Stock being redeemed to the extent possible (pro rata among the holders of
 the Series C Preferred Stock in accordance with the number of shares of Series C Preferred Stock
@@ -1226,6 +1249,7 @@ a majority of the Series D Preferred Stock and Series D-1 Preferred Stock, votin
 7980393, 4.doc
 
 24
+
 single class, and the holders of a majority of the Series C Preferred Stock, voting separately as a
 single class).
 
@@ -1276,6 +1300,7 @@ recapitalization by the Corporation; or
 7980393_4.doc
 
 25
+
 (h) shares of Common Stock issued or issuable to banks or equipment lessors
 pursuant to a debt financing, equipment leasing or real property leasing transaction that are
 approved by the Board of Directors, including at least one Preferred Director;
@@ -1327,6 +1352,7 @@ period allotted, arguments from the parties regarding which investment banking f
 7980393_4.doc
 
 26
+
 but the selection by the arbitrator shall be made in its sole discretion from the list of six. The
 Board of Directors and the holders of a majority of the outstanding shares of Series C Preferred
 Stock voting separately as a single class and the holders of a majority of the Series D Preferred
@@ -1378,6 +1404,7 @@ outstanding shares of Preferred Stock.
 7980393_4.doc
 
 27
+
 oe
 
 Merger Agreement” shall mean that certain Agreement and Plan of Reorganization
@@ -1432,6 +1459,7 @@ from time to time.
 7980393_4.doc
 
 28
+
 “Subsidiary” shall mean any corporation or trust of which the Corporation directly or
 indirectly owns at the time 50% or more of the outstanding shares that represent either 50% or
 more of the voting power, 50% or more of the economic power, or control of the board of
@@ -1484,6 +1512,7 @@ officer, director, or stockholder becomes aware prior to such amendment or repea
 7980393_4,doc
 
 29
+
 NINTH. A director of the Corporation shall not be liable to the Corporation or its
 stockholders for monetary damages for breach of fiduciary duty as a director, except to the extent
 that exculpation from liability is not permitted under the DGCL as in effect at the time such
@@ -1534,6 +1563,7 @@ specifically granted.
 7980393 _4.doc
 
 30
+
 FOURTEENTH. The Corporation reserves the right to amend, alter, change or repeal
 any provision contained in this Amended and Restated Certificate of Incorporation, in the manner
 now or hereafter prescribed by statute, and all rights conferred upon stockholders herein are
@@ -1544,6 +1574,7 @@ granted subject to this reservation.
 7980393 4.doc
 
 31
+
 IN WITNESS WHEREOEF, the Corporation has caused this Amended and Restated
 Certificate of Incorporation to be signed by a duly authorized officer of the Corporation this
 4th day of April, 2016.

@@ -52,6 +52,7 @@ designated “Series A-1 Convertible Preferred Stock” (the “Series A-1 Prefe
 9,691,116 shares shall be designated “Series B Convertible Preferred Stock” (the “Series B
 
 US!DOCS 5447177v3
+
 Preferred Stock’’), (D) 1,499,992 shares shall be designated “Series R-! Convertible Preferred
 Stock” (the “Series B-] Preferred Stock”) and (E) 8,899,395 shares shall be designated “Series C
 Convertible Preferred Stock” (the “Series C Convertible Preferred Stock”).
@@ -102,6 +103,7 @@ Preferred Stock”). The Preferred Stock shall have the following rights, prefer
 privileges and restrictions, qualifications and limitations.
 
 USIDOCS 544717703
+
 1. Dividends.
 
 (a) The Corporation shall not declare, pay or set aside any dividends (other
@@ -153,6 +155,7 @@ Preferred Stock were issued on the date that the first share of such series was 
 -3-
 
 USIDOCS 54471773
+
 into Common Stock pursuant to Section 4 immediately prior to such Liquidation Event (the
 amounts payable pursuant to this sentence are hereinafer referred to as the “Series A Liquidation
 Amount,” the “Series A-! Liquidation Amount,” the “Series B Liquidation Amount” and the
@@ -206,6 +209,7 @@ such merger or consolidation, the parent corporation of such resulting or surviv
 -4-
 
 USIDOCS 5447177v3
+
 or the sale, exclusive license, conveyance or mortgage of all or substantially all of the assets of
 the Corporation shall be deemed to be a Liquidation Event for purposes of this Section 2 unless
 the holders of at least 66 2/3% of the then outstanding shares of Senior Preferred Stock, voting
@@ -255,6 +259,7 @@ or increase the authorized number of shares of Series A-1 Preferred Stock, witho
 consent or affirmative vote of the holders of not less than a majority of the then outstanding
 
 US1IDOCS 5447177v3
+
 shares of Series A-1 Preferred Stock, given in writing or by vote at 4 meeting, consenting or
 voting (as the case may be) separately as a class. The Corporation shall nut amend, alter or
 repeal, by merger or otherwise, the preferences. special rights or other powers of the Series B
@@ -303,6 +308,7 @@ Corporation elected by the holders of Series A Preferred Stock and Series A-] Pr
 pursuant to Subsection 3(d) (the “Preferred Designees”);
 
 USIDOCS $44717723
+
 (ii) make (or permit any subsidiary to make) any loan or advance to
 any person, including. without limitation, any employee or director of the Corporation or any
 subsidiary, except advances and similar expenditures in the ordinary course of business or under
@@ -355,6 +361,7 @@ pursuant to each consent of the Corporation’s stockholders for the clection of
 -7-
 
 USIDOCS 544717713
+
 vacancy in any directorship filled by the holders of Series A Preferred Stock shall be filled only
 by vote or written consent in lieu of a meeting of the holders of the Series A Preferred Stock or
 by any remaining director or directors elected by the holders of Series A Preterred Stock
@@ -405,6 +412,7 @@ the payment of any amounts distributable on liquidation to the holders of Prefer
 -8-
 
 USIDOCS $4471 7703
+
 (b) Fractional Shares. No fractional shares of Common Stock shall be issued
 upon conversion of the Preferred Stock. In lieu of any fractional shares to which the holder
 would otherwise be entitled, the Corporation shall pay cash equal to such fraction multiplied by
@@ -453,6 +461,7 @@ Conversion Price or Series C Conversion Price shall be made for any declared but
 dividends on the Series A Preferred Stock, Series A-] Preferred Stock. Series B Preferred Stock,
 
 USIDOCS 548717743
+
 Series B-1 Preferred Stock or Series C Preferred Stock surrendered for conversion or on the
 Common Stock delivered upon conversion.
 
@@ -504,6 +513,7 @@ the Original Issue Date:
 -10-
 
 USIDOCS 54475 77N3
+
 USIDOCS 344717783
 
 (I)
@@ -568,6 +578,7 @@ certain warrant issued by the Corporation on July
 19, 2002; or
 
 -ll-
+
 (VIL) shares of Series B Preferred Stock issued or ssuable
 to Heller Financial Leasing, Inc. upon exercise of a
 warrant issued by the Corporation to Heller
@@ -621,6 +632,7 @@ issued:
 -12-
 
 USIDOCS $447177v3
+
 (A) No further adjustment in the Series A Conversion Price,
 Series A-1 Conversion Price, Series B Conversion Price or Series C Conversion Price shall be
 made upon the subsequent issue of Convertible Securities or shares of Common Stock upon the
@@ -672,6 +684,7 @@ outstanding on the Original Issue Date or were issued after the Original Issue D
 -13-
 
 USIDOCS 5447177v3
+
 Options or Convertible Securities, as so amended, shall be deemed to have been issued after the
 Original issue Date and the provisions of this Subsection 4(d)(iii) shall apply.
 
@@ -722,6 +735,7 @@ computed at the fair markel value thereof at the
 -14-
 
 USIDOCS $447177v3
+
 time of such issue, as determined in good faith by
 the Board of Directors; and
 
@@ -773,6 +787,7 @@ within such period).
 -15-
 
 USIDOCS $447157¥3
+
 (e) Adjustment for Stock Splits and Combinations. If the Corporation shall at
 any time or from time to time after the Original Issue Date effect a subdivision of the outstanding
 
@@ -825,6 +840,7 @@ such event, into such number of shares of Common Stock as is equal to the number
 -16-
 
 USIDOCS $447) 7703
+
 shares of Common Stock being issued with respect to each share of Common Stock in such
 dividend or distribution.
 
@@ -878,6 +894,7 @@ to the end that the provisions set forth in this Section 4 (including provisions
 -17-
 
 USIDOCS 544737703
+
 changes in and other adjustments of the Series A Conversion Price, Series A-1 Conversion Price,
 Series B Conversion Price, Series B-1 Conversion Price and Series C Conversion Price) shall
 thereafter be applicable, as nearly equivalent as reasonably may be determined, in relation to any
@@ -929,6 +946,7 @@ Preferred Stock, and shall cause to be mailed to the holders of the Preferred St
 -18-
 
 USIDOCS 5447177v3
+
 addresses 2s shown on the records of the Corporation or such transfer agent, at least ten days
 prior to the date specified in (A) below or twenty days before the date specified in (B) below, a
 
@@ -981,6 +999,7 @@ to this Section 5. On the Mandatory Conversion Date. all rights with respect to 
 -19-
 
 USIDOCS 54471773
+
 Stock so converted. including the rights, if any. to receive notices and vote (other than as a
 holder of Common Stock) will terminate, except only the rights of the holders thereof, upon
 surrender of their certificate or certificates therefor, to receive certificates for the number of
@@ -1032,6 +1051,7 @@ ofeach redeeming holder’s shares of Series A Preferred Stock, one-third of eac
 -20-
 
 USIDOCS 34571 77¥3
+
 holder’s shares of Series A-1 Preferred Stock, one-third of each redeeming holder’s shares of
 Series B Preferred Stock and one-third of each redeeming holder’s shares of Series C Preferred
 Stock on the first Redemption Date, 50% of each redeerning holder’s shares of Series A
@@ -1083,6 +1103,7 @@ Corporation, in the manner and at the place designated in the Redemption Notice,
 -21 -
 
 USIDOCS $43717763
+
 the Series A Redemption Price, Series A-! Redemption Price, Series B Redemption Price or
 Series C Redemption Price, as the case may be, for such shares shall be payable to the order of
 the person whose name appears on such certificate or certificates as the owner thereof, and each
@@ -1133,6 +1154,7 @@ as a director of the Corporation.
 -22-
 
 USIDOCS 34371773
+
 FIFTH. In furtherance of and not in limitation of powers conferred by statute. it is
 further provided:
 
@@ -1184,6 +1206,7 @@ extent of such insurance reimbursement.
 -23-
 
 USIDOCS 5447177¥3
+
 2, Actions or Suits by or in the Right of the Corporation The Corporation shall
 indemnify any Indemnitee who was or is a party or is threatened to be made a party to any
 threatened, pending or completed action or suit by or in the right of the Corporation to procure a
@@ -1234,6 +1257,7 @@ in connection with such claim, but the fees and expenses of such counsel incurre
 -24-
 
 USINOCS $427177v3
+
 from the Corporation of its assumption of the defense thereof shall be at the expense of the
 Indemnitee unless (i) the employment ol counse! by the Indemnitee has been authorized by the
 Corporation, (ii) counsel to the Indemnitee shal] have reasonably concluded that there may be a
@@ -1284,6 +1308,7 @@ denies such request, in whole or in part, or if no disposition thereof is made w
 -25-
 
 USIDOCS 544717773
+
 period referred to above in Section 6. Unless otherwise required by law, the burden of proving
 that the Indemnitee is not entitled to indemnification or advancement of expenses under this
 Article shall be on the Corporation. Neither the failure of the Corporation to have made a
@@ -1333,6 +1358,7 @@ his status as such, whether or not the Corporation would have the power to indem
 
 -26-
 USIDOCS 54471 77¥3
+
 person against such expense, liability or loss under the General Corporation Law of the State of
 Delaware.
 
@@ -1368,12 +1394,13 @@ to this reservation.
 {Remainder of Page Intentionally Left Blank]
 
 USI DOCS 5447157v3
+
 IN WITNESS WHEREOF, the Corporation has caused this Fifth Amended and Restated
 Certificate of Incorporation to be signed by its President this 27" day of January, 2006.
 
 A123 SYSTEMS, INC.
 
-By:_/s/ David Vieau
+By:__/s/ David Vieau
 David Vicau
 President and Chief Executive Officer
 

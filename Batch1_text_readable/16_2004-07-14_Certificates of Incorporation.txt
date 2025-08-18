@@ -45,6 +45,7 @@ A. Authorization of Stock. This corporation is authorized to issue two classes
 of stock to be designated, respectively, common stock and preferred stock. The total number of
 
 GDSVF&H\567653.3
+
 shares that this corporation is authorized to issue is 30,000,000. The total number of shares of
 common stock authorized to be issued is 20,500,000, par value $0.0001 per share (the “Common
 Stock”). The total number of shares of preferred stock authorized to be issued is 9,500,000, par
@@ -96,6 +97,7 @@ with respect to such Preferred Stock).
 
 GDSVF&H\567653.3 2
 
+
 (b) Upon completion of the distribution required by subsection (a) of this
 Section 2, all of the remaining Proceeds available for distribution to stockholders shall be
 distributed among the holders of Common Stock pro rata based on the number of shares of
@@ -146,6 +148,7 @@ the fair market value thereof, as mutually determined by the board of directors 
 
 GDSVF&H\567653.3 3
 
+
 and the holders of at least two-thirds of the voting power of all then outstanding shares of
 Preferred Stock.
 
@@ -195,6 +198,7 @@ surrendered for conversion. The initial Conversion Price per share for each seri
 Stock shall be the Original Issue Price applicable to such series; provided, however, that the
 
 GDSVF&H\567653.3 4
+
 Conversion Price for the Preferred Stock shal! be subject to adjustment as set forth in
 subsection 3(d).
 
@@ -245,6 +249,7 @@ series of Preferred Stock in effect immediately prior to the issuance of such Ad
 
 GDSVF&H\567653.3 5
 
+
 Conversion Price for such series in effect immediately prior to each such issuance shall forthwith
 (except as otherwise provided in this clause (i)) be adjusted to a price determined by multiplying
 such Conversion Price by a fraction, the numerator of which shall be the number of shares of
@@ -294,6 +299,7 @@ a consideration equal to the consideration (determined in the manner provided in
 3(d)(i)(C) and (d)(i)(D)), if any, received by this corporation upon the issuance of such options
 
 GDSVF &H\567653.3 6
+
 or rights plus the minimum exercise price provided in such options or rights (without taking into
 account potential antidilution adjustments) for the Common Stock covered thereby.
 
@@ -342,6 +348,7 @@ issued (or deemed to have been issued pursuant to subsection 3(d)(i)(D)) by this
 or after the Filing Date other than:
 
 GDSVF&H\567653.3 7
+
 
 (A) Common Stock issued pursuant to a transaction described
 in subsection 3(d)(iii) hereof;
@@ -393,6 +400,7 @@ such dividend distribution, split or subdivision if no record date is fixed), th
 the Preferred Stock shall be appropriately decreased so that the number of shares of Common
 
 GDSVF&H\567653.3 8
+
 Stock issuable on conversion of each share of such series shall be increased in proportion to such
 increase of the aggregate of shares of Common Stock outstanding and those issuable with respect
 to such Common Stock Equivalents.
@@ -428,6 +436,7 @@ purchasable upon conversion of the Preferred Stock) shall be applicable after th
 equivalently as may be practicable.
 
 GDSVF&H\567653.3 9
+
 
 (g) | No Impairment. This corporation will not, without the appropriate vote of
 the stockholders under the General Corporation Law and Section 5 of this Article IV(B), by
@@ -478,6 +487,7 @@ conversion of all outstanding shares of the Preferred Stock; and if at any time 
 authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion
 
 GDSVF&H\567653.3 10
+
 of all then outstanding shares of the Preferred Stock, in addition to such other remedies as shall
 be available to the holder of such Preferred Stock, this corporation will take such corporate
 action as may, in the opinion of its counsel, be necessary to increase its authorized but unissued
@@ -527,6 +537,7 @@ increase in the authorized number of directors or amendment of this Restated Cer
 Incorporation, and vacancies created by removal or resignation of a director, may be filled by a
 
 GDSVF&H\567653.3 t1
+
 majority of the directors then in office, though less than a quorum, or by a sole remaining
 director, and the directors so chosen shall hold office until the next annual election and until their
 successors are duly elected and shall qualify, unless sooner displaced; provided, however, that
@@ -574,6 +585,7 @@ employment or service, or pursuant to a right of first refusal;
 securities of this corporation.
 
 GDSVF&H\5S67653.3 12
+
 6. Status of Converted Stock. In the event any shares of Preferred Stock
 shall be converted pursuant to Section 3 hereof, the shares so converted shall be cancelled and
 shall not be issuable by this corporation. The Restated Certificate of Incorporation of this
@@ -623,6 +635,7 @@ Elections of directors need not be by written ballot unless the Bylaws of this
 corporation shall so provide.
 
 GDSVF&H\567653.3 13
+
 ARTICLE VIII
 
 Meetings of stockholders may be held within or without the State of Delaware, as
@@ -674,6 +687,7 @@ Article XI shall not adversely affect any right or protection of a director, off
 person existing at the time of, or increase the liability of any director of this corporation with
 
 GDSVF&H\567653.3 14
+
 respect to any acts or omissions of such director, officer or agent occurring prior to, such
 amendment, repeal or modification.
 
@@ -696,6 +710,7 @@ Incorporation, has been duly adopted in accordance with Sections 242 and 245 of 
 Corporation Law.
 
 GDSVF&H\567653.3 15
+
 
 IN WITNESS WHEREOPF, this Restated Certificate of Incorporation has been
 executed by a duly authorized officer of this corporation on this 14" day of July, 2004.

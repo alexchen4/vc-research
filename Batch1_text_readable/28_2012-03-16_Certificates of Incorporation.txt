@@ -39,6 +39,7 @@ March 16, 2012.
 /s/ Alan Naymann
 Alan Naumann,
 President and Chief Executive Officer
+
 EXHIBIT A
 
 ARTICLE |
@@ -83,6 +84,7 @@ Recapitalizations and as otherwise set forth elsewhere herein).
 securities convertible into or exchangeable for Common Stock.
 
 (c) “Corporation” shall mean The 41" Parameter, Inc.
+
 (d) “Distribution” shall mean the transfer of cash or other property without consideration
 whether by way of dividend or otherwise, other than dividends on Common Stock payable in Common Stock,
 or the purchase or redemption of shares of the Corporation for cash or property other than: (i) repurchases of
@@ -135,6 +137,7 @@ Stock in an amount per share equal to (on an as-converted-to-common stock basis)
 aside for each share of Common Stock.
 
 -3-
+
 (b) Common Stock. Dividends may be paid on the Common Stock when, as and if declared
 by the Board of Directors, subject to the prior dividend rights of the Preferred Stock pursuant to ARTICLE V,
 Section 2(a) above.
@@ -188,6 +191,7 @@ Control each holder of Preferred Stock shall be entitled to receive, for each sh
 out of the proceeds of such Change of Control, the greater of the amount of cash, securities or other property
 
 -4.
+
 which such holder would be entitled to receive either (i) pursuant to Section 3(a) above, or (ii) if such holder
 had converted such shares of Preferred Stock into shares of Common Stock immediately prior to the closing
 of such Change of Control.
@@ -241,6 +245,7 @@ shares of Preferred Stock are delivered to the Corporation or its transfer agent
 
 -5-
 
+
 holder notifies the Corporation or its transfer agent that such certificates have been lost, stolen or destroyed
 and executes an agreement satisfactory to the Corporation to indemnify the Corporation from any loss
 incurred by it in connection with such certificates. On the date of the occurrence of an Automatic Conversion
@@ -291,6 +296,7 @@ Preferred Stock;
 Options or Convertible Securities outstanding as of the Filing Date;
 
 -6-
+
 
 (4) shares of Common Stock issued or issuable as a dividend or distribution
 on Preferred Stock or pursuant to any event for which adjustment is made pursuant to paragraph 4(e), 4(f) or
@@ -345,6 +351,7 @@ Convertible Securities, the exercise of such Options and the conversion or excha
 
 -7-
 
+
 securities, shall be deemed to have been issued as of the time of such issue or, in case such a record date shall
 have been fixed, as of the close of business on such record date, provided that in any such case in which
 shares are deemed to be issued:
@@ -394,6 +401,7 @@ Securities are not issued on the date fixed therefor, the adjustment previously 
 which became effective on such record date shall be canceled as of the close of business on such record date,
 and thereafter the Conversion Price shall be adjusted pursuant to this paragraph 4(d)(ii) as of the actual date of
 their issuance.
+
 (iii) | Adjustment of Conversion Price Upon Issuance of Additional Shares of
 Common. In the event this Corporation shall issue Additional Shares of Common (including Additional
 
@@ -448,6 +456,7 @@ or exchange of such Convertible Securities by
 
 -9-
 
+
 (y) the maximum number of shares of Common Stock (as set forth in the
 instruments relating thereto, without regard to any provision contained therein for a subsequent adjustment of
 such number) issuable upon the exercise of such Options or the conversion or exchange of such Convertible
@@ -501,6 +510,7 @@ conversion of Preferred Stock.
 contrary, any downward adjustment of the Conversion Price of any series of Preferred Stock may be waived
 
 -10-
+
 by the consent or vote of the holders of at least sixty percent (60%) of the outstanding shares of such series
 either before or after the issuance causing the adjustment.
 
@@ -520,6 +530,8 @@ Stock; and if at any time the number of authorized but unissued shares of Common
 sufficient to effect the conversion of all then outstanding shares of the Preferred Stock, the Corporation will
 take such corporate action as may, in the opinion of its counsel, be necessary to increase its authorized but
 unissued shares of Common Stock to such number of shares as shall be sufficient for such purpose.
+
+5. Voting.
 
 (a) Restricted Class Voting. Except as otherwise expressly provided herein or as required by
 law, the holders of Preferred Stock and the holders of Common Stock shall vote together and not as separate
@@ -551,6 +563,7 @@ the then outstanding Preferred Stock, each voting as a separate class and, with 
 Preferred Stock, together as a single class and on an as-converted to Common Stock basis (each a “Mutual
 
 -11]-
+
 Director”). If a vacancy on the Board of Directors is to be filled by the Board of Directors, only directors
 elected by the same class or classes of stockholders as those who would be entitled to vote to fill such
 vacancy shall vote to fill such vacancy.
@@ -605,6 +618,7 @@ of the Preferred Stock) of Series D Preferred Stock shall be issued and outstand
 
 -12-
 
+
 consent as provided by law) of the holders of at least a majority-in-interest of the outstanding shares of the
 Series D Preferred Stock (voting as a separate class and on an as-converted basis):
 
@@ -655,6 +669,7 @@ To the fullest extent permitted by applicable law, the Corporation is authorized
 indemnification of (and advancement of expenses to) directors, officers, employees, and other agents of the
 
 -13-
+
 
 Corporation (and any other persons to which DGCL permits the Corporation to provide indemnification),
 through Bylaw provisions, agreements with any such director, officer, employee or other agent or other

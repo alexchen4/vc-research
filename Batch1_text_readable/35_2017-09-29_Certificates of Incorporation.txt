@@ -12,7 +12,7 @@ OF
 4INFO, INC., a corporation organized and existing under the laws of the State of
 Delaware, hereby certifies as follows:
 
-FIRST: The name of the corporation is 4INFO, Inc.
+FIRST; The name of the corporation is 4INFO, Inc.
 
 SECOND: The original Certificate of Incorporation of the corporation was filed with the
 Secretary of State of Delaware on August 25, 2004 under the name SMSLocate, Inc.
@@ -51,6 +51,7 @@ The Preferred Stock shall be divided into three series. The first series shall b
 designated “Series A-2 Preferred Stock” and shall consist of 9,312,318 shares. The third series
 
 ACTIVE/92701222,2 1
+
 shall be designated “Series B-1 Preferred Stock” and shall consist of 16,602,981 shares. The
 fourth series shall be designated “Series B-2 Preferred Stock” and shall consist of 17,257,233
 shares.
@@ -100,6 +101,7 @@ below), plus ail declared but unpaid dividends on such share. If upon the occurr
 event, the assets and funds thus distributed among the holders of the Series B-2 Preferred Stock
 
 ACTIVE/92701222,2 2
+
 shall be insufficient to permit the payment to such holders of the full aforesaid preferential
 amount, then the entire assets and funds of the Company legally available for distribution shall
 be distributed ratably among the holders of the Series B-2 Preferred Stock in proportion to the
@@ -149,6 +151,7 @@ holders of the Common Stock or other junior equity security of the Company by re
 ownership thereof, an amount per share equal to $1.3068 for each outstanding share of Series A-
 
 ACTIVE/92701222,2 3
+
 2 Preferred Stock (the “Original Series A-2 Issue Price”), plus all declared but unpaid dividends
 on such share. If upon the occurrence of such event, the assets and funds thus distributed among
 the holders of the Series A-2 Preferred Stock shall be insufficient to permit the payment to such
@@ -195,6 +198,7 @@ over the 20-day period ending two (2) days prior to the closing of such liquidat
 winding up of the Company;
 
 ACTIVE/92701222,2 4
+
 (2) If actively traded over-the-counter, the value
 shall be deemed to be the average of the closing bid prices over the 20-day period ending two
 days prior to the closing of such liquidation, dissolution or winding up of the Company; and
@@ -242,6 +246,7 @@ the holders of Preferred Stock to convert if, for any reason, the Acquisition pr
 notice to the holders of Preferred Stock is not consummated.
 
 ACTIVE/92701222,2 5
+
 (v) Shares of Preferred Stock shall not be entitled to be
 converted into shares of Common Stock in order to participate in any distribution, or series of
 distributions, as shares of Common Stock, without first foregoing participation in the
@@ -291,6 +296,7 @@ the Original Series B-1 Issue Price, the initial Conversion Price per share for 
 Preferred Stock shall be the Original Series A-1 Issue Price, and the initial Conversion Price per
 
 ACTIVE/92701222,2 6
+
 share for shares of Series A-2 Preferred Stock shall be the Original Series A-2 Issue Price;
 provided, however, that these Conversion Prices shall be subject to adjustment as set forth in
 subsection 4(d).
@@ -339,6 +345,7 @@ upon such conversion shall be treated for all purposes as the record holder or h
 shares of Common Stock as of such date.
 
 ACTIVE/92701222,2 7
+
 (ii) If the conversion is in connection with an underwritten
 offering of securities registered pursuant to the Securities Act, the conversion may, at the option
 of any holder tendering shares of such series of Preferred Stock for conversion, be conditioned
@@ -388,6 +395,7 @@ had been fully converted into shares of Common Stock immediately prior to such
 issuance and any currently exercisable warrants, options or other rights for the purchase
 
 ACTIVE/92701222,2 8
+
 of shares of stock or convertible securities had been fully exercised immediately prior to
 such issuance (and the resulting securities fully converted into shares of Common Stock,
 if so convertible), but not including in such calculation any additional shares of Common
@@ -437,6 +445,7 @@ exercisability, including without limitation, the passage of time, but without t
 potential antidilution adjustments) of such options to purchase or rights to subscribe for Common
 
 ACTIVE/92701222,2 9
+
 Stock shall be deemed to have been issued at the time such options or rights were issued and for
 a consideration equal to the consideration (determined in the manner provided in subsections
 4(d)G)(C) and 4(d)(i)(D)), if any, received by the Company upon the issuance of such options or
@@ -485,6 +494,7 @@ occurred prior to such change or increase.
 deemed issued and the consideration deemed paid therefor pursuant to subsections 4(d)(i)(E)()
 
 ACTIVE/92701222,2 10
+
 and 4(d)(i)(E)(2) shall be appropriately adjusted to reflect any change, termination or expiration
 of the type described in either subsection 4(d)(i)(E)(3) or 4(d)()(E)(4).
 
@@ -535,6 +545,7 @@ class and not as a separate series on an as-converted basis); and
 public offering before or in connection with which all outstanding shares of Preferred
 
 ACTIVE/92701222,2 11
+
 Stock will be converted to Common Stock or (2) upon exercise of warrants or rights
 granted to underwriters in connection with such a public offering.
 
@@ -584,6 +595,7 @@ Price under this subsection 4(d)(v) results in different Conversion Prices for s
 Preferred Stock, the Secretary of this company shall maintain a written ledger identifying the
 
 ACTIVE/92701222,2 12
+
 Conversion Price for each share of such series of Preferred Stock. Such information shall be
 made available to any person upon request.
 
@@ -632,6 +644,7 @@ restrict the Company from entering into a consolidation or merger.
 (g) [Reserved]
 
 ACTIVE/92701222,2 13
+
 (h) No Fractional Shares and Certificate as to Adjustments.
 
 (i) No fractional shares shall be issued upon the conversion of
@@ -682,6 +695,7 @@ without limitation, engaging in best efforts to obtain the requisite stockholder
 necessary amendment to this certificate of incorporation.
 
 ACTIVE/92701222,2 14
+
 (k) Notices. Any notice required by the provisions of this subsection 4
 to be given to the holders of shares of Preferred Stock shall be deemed given if deposited in the
 United States mail, three (3) days after having been sent by registered or certified mail, return
@@ -732,6 +746,7 @@ have been lost, stolen or destroyed and executes an agreement satisfactory to th
 indemnify the Company from any loss incurred by it in connection with such certificates. If so
 
 ACTIVE/92701222,2 15
+
 required by the Company, any certificates surrendered for conversion shall be endorsed or
 accompanied by written instrument or instruments of transfer, in form satisfactory to the
 Company, duly executed by the registered holder or by his, her or its attorney duly authorized in
@@ -781,6 +796,7 @@ Preferred Stock by a fraction, the numerator of which is equal to the number of 
 Series A-1 Preferred Stock, Series A-2 Preferred Stock and Series B-1 Preferred Stock
 
 ACTIVE/92701222,2 16
+
 owned by such holder, and the denominator of which is equal to the aggregate number of
 outstanding shares of Series A-1 Preferred Stock, Series A-2 Preferred Stock and Series
 B-1 Preferred Stock.
@@ -831,6 +847,7 @@ resulting from any increase in the authorized number of directors or amendment o
 Certificate of Incorporation, and vacancies created by removal or resignation of a director, may
 
 ACTIVE/92701222,2 17
+
 be filled by a majority of the directors then in office, though less than a quorum, or by a sole
 remaining director, and the directors so chosen shall hold office until the next annual election
 and until their successors are duly elected and shall qualify, unless sooner displaced; provided,
@@ -879,6 +896,7 @@ shares pursuant to the exercise by the Company of contractual rights of first re
 to such shares;
 
 ACTIVE/92701222,2 18
+
 (v) declare or pay any dividend on or make any other
 distribution, directly or indirectly, on account of any shares of Preferred Stock or Common Stock
 except for such dividends and distributions as may be approved by the Board of Directors,
@@ -932,6 +950,7 @@ liquidation or winding up of the affairs of the Company, after distribution in f
 preferential amounts, if any, to be distributed to the holders of shares of the Preferred Stock,
 
 ACTIVE/92701222,2 19
+
 holders of Common Stock shall be entitled to participate in any distribution of the assets of the
 Company in accordance with Section B.2 of this Article IV.
 
@@ -982,6 +1001,7 @@ the following policy: a corporate opportunity offered to any person who is a dir
 Company, and who is also a partner or employee of a Fund shall belong to such Fund, unless
 
 ACTIVE/92701222,2 20
+
 such opportunity was expressly offered to such person solely in his or her capacity as a director
 of the Company.
 
@@ -1017,6 +1037,7 @@ General Corporation Law, and written notice has been given as provided in Sectio
 [Remainder of this page intentionally left blank.]
 
 ACTIVE/92701222,2 91
+
 IN WITNESS WHEREOF, 4INFO, INC. has caused this certificate to be signed by its
 President on September 29, 2017.
 

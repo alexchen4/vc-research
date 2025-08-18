@@ -52,6 +52,7 @@ $0.000] par value per share, of which 10,000,000 shares wil] be Common Stock and
 
 1T2E1 719088 v5
 
+
 The following is a statement of the designations and the powers, privileges and rights,
 and the qualifications, limitations or restrictions thercof in respect of cach class of capital slock
 of the Corporation.
@@ -103,6 +104,7 @@ permitted by law.
 17211 7-419N88 v5
 
 No
+
 The Preferred Stock of the Corporation shall consist of 3,060,000 shares of Serics
 Preferred Stock, $0.00Q01 par value per share (the “Scries | Preferred Stock”), the powers,
 preferences. rights, privileges avd restrictions, qualifications and limitations of which are set
@@ -150,6 +152,7 @@ Junior Security entitled to such dividends or others distributions arc to be det
 STIVL 7-419083 v5
 
 Ls)
+
 2. Liquidation
 
 (a) Preference on Liquidation. Upon the occurrence of any Liquiduting Event, each
@@ -198,9 +201,10 @@ voluntarily into Common Stock at the then applicable conversion rate immediately
 Liquidating Event.
 
 17211 7-91908% 635
+
 (c) Liquidating Event. A “Liquidating Event” will mean (i) any liquidation,
 dissolution or winding up of the Corporation, either voluntary or involuntary, (ji) a sale, transfer
-or other disposition of all or substantially all the assets of the Corporation to an entity that is not
+or other disposition of all or substantially all the asscts of the Corporation to an entity that is not
 controlled, directly or indirectly, by the stockholders of the Corporation; for purposes of this
 definition, “control” will mean ownership of more than fifty percent (50%) of the voting power
 of an entity or (iii) any transaction resulting in a change of control; for purposcs of this definition.
@@ -246,6 +250,7 @@ to hold the office for the unexpired term of the director or directors whose pla
 vacant. Any director who will have been elected by the holders of a group described above may
 
 VIQET F-ATORK VS
+
 be removed during his or her term of office, whether with or without causc, only by the
 affirmative vote of the holders of a majority of shares of such group.
 
@@ -277,11 +282,11 @@ dividends, liquidation, redemption, conversion, voting or assets.
 Corporation's Certificate of Incorporation or Bylaws, in a manner that adversely alters the rights,
 preferences and privileges of the Series | Preferred Stuck;
 
-(v!) pay or declare any dividend or distribution (other than a dividend or
+(vt) pay or declare any dividend or distribution (other than a dividend or
 distribution payable solely in the Corporation's capital stock) on any shares of its capital stock
-(other than the Series | Preferred Stock). or apply any of its assets to the redemption, retirement,
+(other than the Series | Preferred Stock), or apply any of its assets to the redemption, retirement,
 purchase or acquisition, directly or indirectly, through subsidiaries or otherwise, of any shares of
-its capital stock, except for repurchases of sheres from former employees, directors or consultants
+its capital stock, except for repurchases of shares from former employees, directors or consultants
 pursuant to the terms of such former employees’, directors’ or consultants’ stock purchase or
 restricted stock agreements providing for such repurchascs at the original issuance prices for such
 shares:
@@ -293,6 +298,7 @@ or substantially all of the Corporation’s assets:
 above in Article V(B)(3));
 
 L720 7-A190RR v§
+
 (ix) enter into any merger into, consolidation with or share exchange with any
 other entity;
 
@@ -341,6 +347,7 @@ conversion at any one time by the same holder, the number of full shares of Comm
 issuable upon conversion thcreof will be computed on the basis of the aggregate number of
 
 17211. 7-4 9GR3 v5 =
+
 shares of Preferred Stock so surrendered. Instead of any fractional shares of Common Stock that
 would otherwise be issuable upon conversion of any sharcs of Preferred Stock, the Corporation
 will pay a cash adjustment in respect of such fractional interest equal to the fair market value of
@@ -388,6 +395,7 @@ applicable, as nearly as reasonably may be, in relation to any shares of stock o
 thereafter deliverable upon the conversion of Preferred Stock.
 
 17201. 7-419D88 v5
+
 (z) If any shares of Common Stock to be reserved for the purpose of conversion of
 shares of Preferred Stock require registration or listing with, or approval of, any governmental
 authority, stock exchange or other regulatory body under any federal or state law or regulation or
@@ -439,6 +447,7 @@ prior to the date hereinafter spccificd, a notice stating the date on which (i) 
 for the purpose of such dividend, distribution or rights or (ii) such reclassification,
 
 17211 7-419088 v5
+
 reorganization, consolidation, merger, conveyance, dissolution, liquidation or winding up is to
 take place and the date, if any is to be fixed, as of which holders of Common Stock of record will
 be entitled to exchange their sharcs of Common Stock for securities or other property deliverable
@@ -487,6 +496,7 @@ Conversion Price in effect immediately prior to the time of such issue or sale; 
 V7211 PAIK 5
 
 1g
+
 (ii) any Stock Purchase Rights where the consideration per share for which
 shares of Common Stock may at any time thereafter be issuable upon exercise thereof (or, in the
 case of Stock Purchase Rights exercisable for the purchase of Convertible Securities, upon the
@@ -532,6 +542,7 @@ that, together with such amount and any other amount or amounts so carried forwa
 aggregate $0.00! or more.
 
 PT21L FALVOSS VS
+
 (b) For purposes of this Scction 7, the following provisions will be applicable:
 
 (i) “Convertible Securities” will mean evidences of indebtedness, shares of
@@ -580,6 +591,7 @@ Dilutive Issuance has occurred will be made on an aggreyate basis, taking into
 account all Convertible Securities and all Stock Purchase Rights whose
 
 T2211 7419088 v5
+
 conversion or exercise are conditioned on the conversion or exercise of the other
 Convertible Securities and Stock Purchase Rights.
 
@@ -628,6 +640,7 @@ exercise of Stock Purchase Rights or Convertible Securities, the issuance of whi
 the provisions of Section B.7(a) or was excluded therefrom pursuant to this Section B.7(d);
 
 $7211 2-4)90H8 vS
+
 provided, however, that the holders of a majority of the shares of Series 1 Preferred Stock may
 waive on behalf of all holders of Series | Preferred Stock any adjustments otherwise applicable
 pursuant to this Scction 7. The issuances or sales described in the preceding clauses (i), (ii) (11),
@@ -676,6 +689,7 @@ together with a copy of this Section 8.
 (b) At least fifteen (15) but no more than thirty (30) days prior to each Redemption
 
 17211. 7-419985 v5
+
 Dale, written notice will be delivered, by U.S. mail, lirst class postage prepaid, or by nationally
 recognized overnight courier, to cach holder of record (at the close of business on the business
 day next preceding the day on which notice is given) of the Series | Preferred Stock to be
@@ -721,6 +735,7 @@ Corporation to the fullest extent permitted by the General Corporation Law of th
 Delaware as in effect from me to time or any successor statute.
 
 V72U1. 7419088 v5 15
+
 ARTICLE VII
 The Corporation is to have perpetual existence.
 ARTICLE VIII
@@ -770,6 +785,7 @@ this reserved power.
 V72V1_ 7-35 8088 v5
 
 16
+
 ARTICLE X]
 
 All provisions relating to any exchange, reclassification or cancellation of issued shares
@@ -795,6 +811,7 @@ October 31, 2005.
 ‘litle: Presitent
 
 VF209. 7-41 ODRR vs
+
 State of Delaware
 Secretary of State
 Division of Corporations
@@ -829,13 +846,14 @@ accordance with Section 228 of the General Corporation Law of the State of Delaw
 5. The Corporation's Amended and Restated Certificate of Incorporation is hereby
 amended by amending and restating Article I thereof to read as follows:
 
-“The name of the corporation is 6th Sense Analytics, Inc. (the “Corporation’’).”
+“The name of the corporation is 6th Sense Analytics, Inc. (the “Corporation’).”
 
 6. This Certificate of Amendment will be effective upon filing.
 
 [remainder of this page intentionally left blank}
 
 1720).1-423154 vi
+
 IN WITNESS WHEREOF, 6th Sense Software, Inc. has used this Certificate of
 Amendinent to be signed by its Chief Exccutive Officer this Ay. day of November 2005.
 

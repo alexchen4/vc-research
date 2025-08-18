@@ -47,6 +47,7 @@ Division of Corporations
 Delivered 02:20 PM 04/21/2006
 FILED 02:25 PM 04/21/2006
 SRV 060372461 - 4136248 FILE
+
 ARTICLE IV
 A. Classes of Stock
 
@@ -93,6 +94,7 @@ of record of shares of Preferred Stock as they appear on the stock register on t
 (which will be 15 calendar days before the anticipated payment date) and all such dividend
 payments will be applied in the order in which such accumulated and unpaid dividends were
 Originally due.
+
 2. Liquidation Preference
 
 (a) In the event of any liquidation, dissolution or winding up of this
@@ -143,6 +145,7 @@ a “Corporate Transaction.”
 Gi) ‘If the consideration received by this Corporation in any Corporate
 Transaction is other than cash, its value will be deemed to be its fair market value as determined
 below:
+
 : (A) — Securities not subject to investment letter or other similar
 restrictions on free marketability (other than restrictions arising solely by virtue of a
 stockholder s status as an affiliate or former affiliate):
@@ -191,6 +194,7 @@ Section IV(B)(2)(c)(iv) hereof.
 
 (iv) | This Corporation shall give each holder of record of Series A
 Preferred Stock, written notice of such impending transaction not later than thirty (30) days prior
+
 to the stockholders meeting called to approve such transaction, or thirty (30) days prior to the
 closing of such transaction, whichever is earlier, and shall also notify such holders in writing of
 the final approval of such transaction. The first of such notices shall describe the material terms
@@ -240,6 +244,7 @@ aggregate (other than a registration statement relating either to the sale of se
 of this Corporation pursuant to its stock option, stock purchase or similar plan or a transaction
 pursuant to Rule 145 under the Act), which results in the Common Stock being listed for trading
 
+
 on a national securities exchange or the Nasdaq National Market (a Qualifying IPO ) or (ii) the
 date specified by written consent or agreement of the holders of at least at least sixty percent
 (60%) of the then outstanding shares of Series A Preferred Stock.
@@ -287,6 +292,7 @@ Corporation for such issuance would purchase at such Serics A Conversion Price; 
 denominator of which shal] be the numbcr of shares of Common Stock outstanding plus the
 number of shares of Common Stock deemed issued pursuant to Section IV(B)(4)(d)(i)(B)
 immediately prior to such issuance plus the number of shares of such Additional Stock.
+
 (A) [Intentionally omitted.]
 
 {(B) No adjustment of the Conversion Price for any series of
@@ -334,6 +340,7 @@ conditions to convertibility or exchangeability including, without limitation, t
 but without taking into account potential antidilution adjustments) for any such convertible or
 exchangeable securities or upon the exercise of options to purchase or rights to subscribe for
 such convertible or exchangeable securities and subsequent conversion or exchange thereof will
+
 be deemed to have been issued at the time such securities were issued or such options or rights
 were issued and for a consideration equal to the consideration, if any, received by this
 Corporation for any such securities and related options or rights (excluding any cash received on
@@ -380,6 +387,7 @@ to employees, consultants, directors or vendors (provided such issuances arc for
 primarily equity financing purposes and have been approved by the Board of Directors of this
 Corporation) of this Corporation directly or pursuant to a stock option plan or restricted stock
 plan approved by the stockholders and Board of Directors of this Corporation;
+
 (C) shares of Common Stock issued or issuable to persons or
 entities with which the Corporation has strategic or commercial lending business relationships,
 provided such issuances are for other than primarily equity financing purposes and have been
@@ -426,6 +434,7 @@ Stock, then, following the record date of such combination, the Conversion Price
 of Convertible Preferred Stock will be appropriately increased so that the number of shares of
 Common Stock issuable upon conversion of each share of such series will be decreased in
 proportion to such decrease in outstanding shares.
+
 (e) Other Distributions. In the event this Corporation declares a distribution
 payable in securities of other persons, evidences of indebtedness issued by this Corporation or
 other persons, assets (excluding cash dividends) or options or rights not referred to in
@@ -473,6 +482,7 @@ Convertible Preferred Stock the holder is at the time converting into Common Sto
 number of shares of Common Stock issuable upon such aggregate conversion.
 
 10
+
 Gi) Upon the occurrence of each adjustment or readjustment of the
 Conversion Price of any series of Convertible Preferred Stock pursuant to this Section IV(B)(4),
 this Corporation, at its expense, will promptly compute such adjustment or readjustment in
@@ -521,6 +531,7 @@ specifying next day delivery, with written verification of receipt. All notices 
 to each holder of record at his address appearing on the books of this Corporation.
 
 11
+
 (I) Waiver of Adjustment to Conversion Price. Notwithstanding anything
 herein to the contrary, any downward adjustment of the Conversion Price of any series of
 Preferred Stock may be waived, either prospectively or retroactively and either generally or in a
@@ -570,6 +581,7 @@ where such vacancy occurs among the directors elected by the holders of a class 
 stack, the holders of shares of such class or series may override the Board s action to fill such
 
 12
+
 vacancy by (i) voting for their own designee to fill such vacancy at a meeting of this’
 Corporation s stockholders or (ii) written consent, if the consenting stockholders hold a sufficient
 number of shares to elect their designee at a meeting of the stockholders. Any director may be
@@ -622,6 +634,7 @@ stock (other than repurchases of unvested stock at cost or exercises of the Corp
 first refusal);
 
 13
+
 (ix) amend this Corporation s Certificate of Incorporation or Bylaws;
 
 (x) incur indebtedness, in a single transaction or scries of related transactions,
@@ -674,6 +687,7 @@ Corporation, and is entitled to vote upon such matters and in such manner as may
 law.
 
 14
+
 5. Changes to Authorized Common Stock.
 
 ‘The number of authorized shares of Common Stock may be increased or decreased (but
@@ -721,6 +735,7 @@ Article VH, shall not adversely affect any right or protection of a director of 
 existing at the time of such amendment, repeal, modification or adoption.
 
 15
+
 ARTICLE VIII
 
 To the fullest extent permitted by the General Corporation Law, this Corporation may
@@ -761,6 +776,7 @@ ARTICLE X
 This Corporation will have perpetual existence.
 
 16
+
 IN WITNESS WHEREOF, this Corporation has caused this Amended and Restated
 Certificate of Incorporation to be executed on its behalf by a duly authorized officer, this
 21st day of April, 2006.

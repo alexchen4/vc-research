@@ -48,6 +48,7 @@ imposed on the Preferred Stock are as follows:
 entitled to receive dividends at a rate of $0.012 per share per annum (adjusted to reflect stock splits,
 stock dividends and recapitalizations), payable out of funds legally available therefor. Such
 dividends shal] be payable only when, as and if declared by the Board of Directors and shall be
+
 noncumulative. No dividends (other than those payable solely in Cammon Stock or other senrities
 and rights convertible into or entitling the holder thereof to receive, directly or indirectly, additional
 shares of Common Stock of the corporation) shall be payable on any Common Stock of the
@@ -95,6 +96,7 @@ acquiring corporation or its subsidiary (other than a reincorporation transactio
 substantially all of the assets of the corporation shall be treated as a liquidation, disgolution or
 
 2
+
 winding up of the corporation and shall entitle the holders of Preferred Stock and Common Stock to
 receive at the closing in cash, securities or other property amounts as specified in Sections 2(a) and
 2(b) above.
@@ -142,6 +144,7 @@ underwriting pursuant to a registration statement under the Securities Act of 19
 of $10,000,000 and the public offering price of which Is not less than $5.00 per share (adjusted to
 
 3
+
 reflect subsequent stock dividends, stock splits or recapitalizations). In the event of the antomatic
 conversion of the Preferred Stock upon a public offering as set forth above, the person(s) entitled
 to receive the Common Stock issuable upon such conversion of Preferred Stock shall not be
@@ -189,6 +192,7 @@ nunober of shares of Common Stock outstanding immediately prior to such issue sh
 ona fully dilulcd basis, as iall shares of Preferred Stock and all convertible sccuritics had becn fully
 
 4
+
 convested into shares af Common Stock immediately prior to such issuance and any outstanding
 watrants, options or other rights for the purchase of shares of stock or convertible securities had been
 fully exercised immediately prior to such issuance (and the resulting securities fully converted into
@@ -233,6 +237,7 @@ and for a consideration equal to the consideration (determined in the manner pro
 3(¢)(i)(C) and 3(c)(i)(D)), if any, received by the corporation upon the issuance of such options or
 rights plus the minimum purchasc price provided in such options or rights for the Common Stock
 covered thereby.
+
 
 2. The aggregate maximum number of shares of
 Common Stock deliverable upon conversion of or in exchange for any such convertible or
@@ -282,6 +287,7 @@ made until the expiration or exercisc of all such options or rights, whereupon s
 be made in the sarac manner provided in subsection (E)(4) above.
 
 6
+
 (ii) "Additional Stock" shall mean any shares of Common Stock
 issued (or deemed to have been issucd pursuant to subsection 3(c)(i)(E)) by the corporation on or
 after the Purchase Date other than shares of Common Stock issued or issuable:
@@ -325,6 +331,7 @@ Stock shall be appropriately decreased so that the number of sbares of Common St
 conversion of each share of such series shall be increased in proportion to such increase of the
 apgregate shares Of Common Stock outstanding and those issuable with respect to such Common
 Stock Equivalents.
+
 
 (iv) If the numher of shares of Common Stock outstanding at any
 time after the Purchase Date is decreased by a combination of the outstanding shares of Common
@@ -373,6 +380,7 @@ issuable upon such aggregate conversion. In lieu of any fractional share to whic
 otherwise bc entitled upon conversion of some or all of the Preferred Stock owned by such holder,
 
 8
+
 the corporation shall pay cash equal to such fraction raultiplied by the fuir value thereof as
 determined in good faith by the Board of Directors.
 
@@ -421,6 +429,7 @@ could then be converted (with any fractional share determined on an aggregate co
 being rounded to the nearest whole share), and with respect to such voto, such holder shall have full
 
 9
+
 voting rights and powers equal to the voting rights and powers of the holders nf Common Stock
 (except as otherwise expressly provided herein or as required by Jaw, voting togcther with bolders of
 Common Stock, with respect to any question upon which holders of Common Stock have the right to
@@ -468,6 +477,7 @@ to a merger effected exclusively for the purpose of changing the domicile of the
 (iv) _ liquidate or dissolve the corporation.
 
 10
+
 6. Status of Converted Stock. In the event any shares of Preferred Stock shall be
 converted pursuant to Section 3 hereof, thc shares so converted shall be canceled and shall not be
 issuable by the corporation, and the Articles of Incorporation of the corporation shall be
@@ -491,7 +501,7 @@ Board of Directors.
 
 2. Liquidation Rights. Upon the liquidation, dissolution or winding up of the
 corporation, the assets of the corporation shall be distributed as provided in Section B.2. of this
-Article Il.
+Article DIL.
 
 3. Redemption. The Common Stock is not redeemable.
 
@@ -512,6 +522,7 @@ Woodside, CA 94062
 ARTICLE V
 
 11
+
 (A) Limitation of Directors Liability. The liahility of the directors of the corporation for
 monetary damages shall be climinatcd to the fullest extent permissible under Califomia law.
 
@@ -534,6 +545,7 @@ number of shares voting in favor of the foregoing amendment and restatement cqua
 vote required, such required vote being a majority of the outstanding shares of Common Stock.
 
 12
+
 The undersigned declare under penalty of perjury under the laws of the State of California
 that they have read the foregoing Certificate and that the matters set forth in the foregoing Certificate
 are true and correct of their own knowledge.

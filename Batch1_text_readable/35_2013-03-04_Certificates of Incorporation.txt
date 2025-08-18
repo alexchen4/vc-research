@@ -51,6 +51,7 @@ The Preferred Stock shall be divided into two series. The first series shall be 
 designated “Series A-2 Preferred Stock” and shall consist of 11,000,000 shares.
 
 LIBC/4767362.5 1
+
 B. Rights, Preferences and Restrictions of Preferred Stock. The Preferred Stock
 shall have such voting power, preferences and relative, participating, optional or other special
 
@@ -101,6 +102,7 @@ of the Company legally available for distribution shall be distributed ratably a
 
 LIBC/4767362.5 2
 
+
 of the Series A-1 Preferred Stock in proportion to the full preferential amount that each such
 holder is otherwise entitled to receive under this subsection (a). “Original Series A-1 Issue
 Price” shall mean $0.137146 per share for each share of the Series A-1 Preferred Stock (as
@@ -150,6 +152,7 @@ Company is other than cash, its value will be deemed its fair market value. Any 
 be valued as follows:
 
 LIBC/4767362.5 3
+
 (A) Securities not subject to investment letter or other
 similar restrictions on free marketability:
 
@@ -201,6 +204,7 @@ Stock into such number of shares of Common Stock as provided in Section B.4 of t
 
 LIBC/4767362.5 4
 
+
 contingent upon the consummation of the Acquisition; it being the intent of this Section that
 holders of Preferred Stock be given the opportunity to maximize the return on their investment in
 the event that they convert their shares of Preferred Stock into Common Stock and not to require
@@ -250,6 +254,7 @@ converted basis) and (B) at least two-thirds (2/3) of the then outstanding share
 Preferred Stock.
 
 LIBC/4767362.5 5
+
 (c) Mechanics of Conversion.
 
 (i) Before any holder of a series of Preferred Stock shall be
@@ -298,6 +303,7 @@ represent the shares of Common Stock into which such shares of the applicable cl
 Preferred Stock have been converted.
 
 LIBC/4767362.5 6
+
 (d) Conversion Price Adjustments of Preferred Stock for Certain
 Dilutive Issuances, Splits and Combinations. The Conversion Price of the Series A-1 Preferred
 Stock shall be subject to adjustment from time to time as follows:
@@ -346,6 +352,7 @@ A-1 Preferred Stock above the Conversion Price for the Series A-1 Preferred Stoc
 effect immediately prior to such adjustment.
 
 LIBC/4767362,5 7
+
 (C) In the case of the issuance of Common Stock for
 cash, the consideration shall be deemed to be the amount of cash paid therefor before
 deducting any reasonable discounts, commissions or other expenses allowed, paid or
@@ -395,6 +402,7 @@ thereof, the Conversion Price for the Series A-1 Preferred Stock, to the extent 
 affected by or computed using such options, rights or securities, shall be recomputed to reflect
 
 LIBC/4767362,5 8
+
 such change, but no further adjustment shall be made for the actual issuance of Common Stock
 or any payment of such consideration upon the exercise of any such options or rights or the
 conversion or exchange of such securities; provided, however, that this subsection shall not have
@@ -445,6 +453,7 @@ A-1 Preferred Stock, (1) a strategic licensing transaction; or (2) a corporate p
 joint venture or similar strategic agreement or transaction; provided, in any issuance
 
 LIBC/4767362.5 9
+
 pursuant to this subsection 4(d)(ii)(E), such issuance is for other than primarily equity
 financing purposes;
 
@@ -499,6 +508,7 @@ Stock issuable on conversion of each share of such series shall be decreased in 
 decrease in outstanding shares,
 
 LIBC/4767362.5 10
+
 (v) Notwithstanding anything herein to the contrary, the
 operation of, and any adjustment of the Conversion Prices pursuant to, the provisions of
 subsection 4(d)(i) may be waived with respect to the Series A-1 Preferred Stock, either
@@ -548,6 +558,7 @@ Stock issuable upon conversion of the Preferred Stock immediately prior to such 
 merger. In any such case, appropriate provision shall be made with respect to the rights and
 
 LIBC/4767362,5 ll
+
 interests of the holders of the Preferred Stock to the end that the provisions hereof (including,
 without limitation, provisions for adjustment of each applicable Conversion Price) shall
 thereafter be applicable, as nearly as may be practicable, in relation to any shares of stock,
@@ -597,6 +608,7 @@ such dividend, distribution, right or other exchange.
 shall at all times reserve and keep available out of its authorized but unissued shares of Common
 
 LIBC/4767362.5 12
+
 Stock, solely for the purpose of effecting the conversion of all outstanding shares of Preferred
 Stock such number of shares of Common Stock as shall from time to time be sufficient to effect
 such conversion; and if at any time the number of authorized but unissued shares of Common
@@ -646,6 +658,7 @@ resulting from any increase in the authorized number of directors or amendment o
 Certificate of Incorporation, and vacancies created by removal or resignation of a director, may
 
 LIBC/4767362.5 13
+
 be filled by a majority of the directors then in office, though less than a quorum, or by a sole
 remaining director, and the directors so chosen shall hold office until the next annual election
 and until their successors are duly elected and shall qualify, unless sooner displaced; provided,
@@ -694,6 +707,7 @@ which the Company has the option to repurchase such shares at cost or at cost up
 occurrence of certain events, such as the termination of employment or the repurchase of any
 
 LIBC/4767362.5 14
+
 shares pursuant to the exercise by the Company of contractual rights of first refusal with respect
 to such shares;
 
@@ -744,6 +758,7 @@ Preferred Stock.
 Preferred Stock acquired by the Company by reason of redemption, purchase, conversion or
 
 LIBC/4767362.5 15
+
 otherwise shall be retired and have the status of authorized but unissued shares of Preferred
 Stock, without designation as to series until such shares are once more designated as part of a
 particular series by the Board of Directors.
@@ -793,6 +808,7 @@ of Delaware as the bylaws of the Company may provide or as may be designated fro
 time by the Board of Directors.
 
 LIBC/4767362.5 16
+
 ARTICLE VI
 
 A. Limitation on Liability. A director of the Company shall not be personally liable
@@ -838,6 +854,7 @@ repurchase, the amount of any “preferential dividends arrears amount” or “
 amount” (as those terms are defined therein) shall be deemed to be zero.
 
 LIBC/4767362.5 17
+
 ARTICLE VII
 
 Except as otherwise provided in this certificate of incorporation, the Company reserves
@@ -858,6 +875,7 @@ General Corporation Law, and written notice has been given as provided in Sectio
 [Remainder of this page intentionally left blank. ]
 
 LIBC/4767362.5 18
+
 IN WITNESS WHEREOF, 4INFO, INC. has caused this certificate to be signed by its
 President on March 4, 2013.
 

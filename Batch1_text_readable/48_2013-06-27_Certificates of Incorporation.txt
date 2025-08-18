@@ -49,6 +49,7 @@ B. Preferred Stock. The rights, preferences, privileges and restrictions granted
 imposed on the Preferred Stock are as follows:
 
 lew
+
 I. Dividend Provisions. The holders of shares of Preferred Stock shal] be
 entitled to receive dividends, pari passu to each other, at a rate of $0.012 per share of Series A
 Preferred per annum, $0.0204 per share of Series B Preferred per annum, $0.029784 per share of
@@ -96,6 +97,7 @@ share of Series A Preferred, $0.85 per share of Series B Preferred, $1.241 per s
 Preferred, and $2,500.00 per share of the Series D Preferred; and
 
 Gi} The sum of:
+
 (x) alf declared but unpaid dividends on each such share of
 Preferred Stock then held by such holder, plus
 
@@ -140,6 +142,7 @@ given the same option (with it being understood that the value of any such non-c
 shall be determined as provided in Section 2(e) of this Article II or, at the election of the Series D
 Majority, as may be provided in the definitive agreement(s) entered into in connection with any such
 Liquidity Event).
+
 (d) "Liquidity Event" shall mean (i) the acquisition of the corporation by
 another person by means of any transaction or series of related transactions to which the corporation
 is party (including, without limitation, any stock acquisition, reorganization, merger or
@@ -188,6 +191,7 @@ the corporation as if the Initial Consideration were the only consideration paya
 such deemed Liquidity Event and (ii) any additional consideration which becomes payable to the
 
 4
+
 
 shareholders of the corporation upon release from escrow or satisfaction of contingencies shall be
 allocated among the holders of capital stock of the corporation in accordance with Section 2 of this
@@ -238,6 +242,7 @@ results in aggregate gross cash proceeds to the corporation in excess of $10,000
 
 5
 
+
 offering price (before deducting commissions, discounts or expenses) of which is not less than $5.00
 per share (adjusted to reflect subsequent stock dividends, stock splits or recapitalizations)
 ("Qualified Offering"). In the event of the automatic conversion of the Preferred Stock upon a
@@ -283,6 +288,7 @@ Multiple shall be equal to 1.5 plus the product of (x) 0.5 and (y) a fraction, t
 the number of days elapsed between the one (|) year anniversary of the Series D Purchase Date and
 the date of the consummation of the IPO Preference Triggering Offering, and the denominator of
 which i is 365; or
+
 
 (C) in the event that the consummation of an IPO
 Preference Triggering Offering occurs on or after the two (2) year anniversary of the Series D
@@ -332,6 +338,7 @@ issue any Additional Stock (as defined below) without consideration or for a con
 less than the Series A Conversion Price with respect to the Series A Preferred, the Series B
 
 7
+
 
 Conversion Price with respect to the Series B Preferred, the Series C Conversion Price with respect
 to the Series C Preferred or the Series D Conversion Price with respect to the Series D Preferred, in
@@ -383,6 +390,7 @@ reasonable discounts, commissions or other expenses allowed, paid or incurred by
 
 8
 
+
 (D) In the case of the issuance of the Common Stock for a
 consideration in whole o or in part other than cash, the consideration other than cash shall be deemed
 to be the fair value thereof as determined by the Board of Directors irrespective of any accounting
@@ -433,6 +441,7 @@ the expiration of any options or rights related to such convertible or exchangea
 
 9
 
+
 Conversion Price of the Preferred Stock obtained with respect to the adjustment which was made
 upon the issuance of such options, rights or securities or options or rights related to such securities,
 and any subsequent adjustments based thereon, shall be recomputed to reflect the issuance of only
@@ -479,6 +488,7 @@ issuances are for other than equity financing purposes,
 pursuant to this Section 3,
 
 (E) upon conversion of the Preferred Stock,
+
 
 (F) pursuant to the payment of the Series D IPO Preference
 Payment,
@@ -529,6 +539,7 @@ time after the Series D Purchase Date is decreased by a combination of the outst
 Common Stock, then, following the record date of such combination, the Conversion Price for the
 
 1]
+
 
 Preferred Stock shall be appropriately increased so that the number of shares of Common Stock
 
@@ -581,6 +592,7 @@ carried forward.
 
 12
 
+
 (vi) If the corporation, (a) at any time after the issuance of
 Additional Brocade Stock, if any is issued, or (b) at any time after the date that is 30 days following
 the Series D Purchase Date, but in each case on or prior to September 30, 2013, shall repurchase up
@@ -627,6 +639,7 @@ accordance with generally accepted accounting principles in the United States in
 December 31, 2013) of at least $160,000,000 for its fiscal year ending December 31, 2013, as
 
 13
+
 
 indicated in its audited financial statements for such fiscal year (such event, the “Performance
 Yarget Achievement").
@@ -676,6 +689,7 @@ amendment of its Articles of Incorporation or through any reorganization, recapi
 of assets, consolidation, merger, dissolution, issue or sale of securities or any other voluntary action,
 
 14
+
 avoid or seek to avoid the observance or performance of any of the terms to be observed or
 performed under these Articles of Incorporation by the corporation, but will at all times in good faith
 assist in the carrying out of all the provisions of this Section 3 and in the taking of all such action as
@@ -726,6 +740,7 @@ Stock solely for the purpose of effecting the conversion of the shares of the Pr
 
 15
 
+
 number of its shares of Common Stock as shall from time to time be sufficient to effect the
 conversion of all outstanding shares of the Preferred Stock; and if at any time the number of
 authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion of
@@ -774,6 +789,7 @@ below) may, by affirmative vote, elect a successor to hold the office for the un
 director whose place shall be vacant. Any director who shall have been elected pursuant to
 
 16
+
 
 Section 4(b) above or any director so elected as provided in this Section 4(c), may be removed
 during the aforesaid term of office, whether with or without cause, by the affirmative vote of the
@@ -824,6 +840,7 @@ provisions of, or permit any of its subsidiaries to enter into, amend, modify or
 any provisions of, any agreement, transaction, commitment or arrangement with any officer, director
 
 17
+
 or any holder of five percent (5%) or more of the corporation's outstanding capital stock (or any
 member of such person's immediate family), unless such transaction is a compensatory arrangement
 entered into in the ordinary course of business and consistent with past practice;
@@ -873,6 +890,7 @@ in each case other than:
 
 18
 
+
 (1) repurchases or redemptions of the Class D Preferred in
 accordance with the terms of Section 6; and
 
@@ -921,6 +939,7 @@ interest rate shall increase automatically at the end of each succeeding 90 day 
 ‘increment of two (2) percentage points (but in no event shall such interest rate exceed fourteen
 
 19
+
 percent (14%). The Redemption Delay Payment shall be fully paid with funds irrevocably set apart
 for payment thereof in all cases before any dividends may be declared or paid with respect to any
 shares that are not Redemption Shares. At any time thereafter when additional funds of the
@@ -969,6 +988,7 @@ shares shall not thereafter be transferred on the books of the corporation or be
 outstanding for any purpose whatsoever.
 
 20
+
 (f) On or prior to the Redemption Date, the corporation may deposit the
 Redemption Price of all Redemption Shares in the Redemption Notice and not yet redeemed with a
 bank or trust corporation having aggregate capital and surplus in excess of $100,000,000, as a trust
@@ -1017,6 +1037,7 @@ C, Common Stock.
 at the time outstanding having prior rights as to dividends, the holders of the Common Stock shall be
 
 21
+
 entitled to receive, when and as declared by the Board of Directors, out of any assets of the
 corporation legally available therefor, such dividends as may be declared from time to time by the
 Board of Directors.
@@ -1060,6 +1081,7 @@ required, such required vote being a majority of the outstanding shares of Commo
 majority of the outstanding shares of Preferred Stock, each voting as a separate class,
 
 22
+
 
 The undersigned declare under penalty of perjury under the laws of the State of Californi
 that they have read the foregoing Certificate and that the matters set forth in the foregoing Certificat

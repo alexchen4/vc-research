@@ -47,6 +47,7 @@ corporations may be organized under the General Corporation Law of the State of 
 “General Corporation Law”).
 
 GDS VF&H\797059.3
+
 ARTICLE IV
 
 A. Classes of Stock. The total number of shares of all classes of capital stock that
@@ -96,6 +97,7 @@ Stock as provided in subsection 1(a), the holders of shares of Series C Preferre
 entitled to receive dividends, out of any assets legally available therefor, prior and in preference
 
 GDSVF&H\797059.3 2
+
 to any declaration or payment of any dividend (payable other than in Common Stock or other
 securities and rights convertible into or entitling the holder thereof to receive, directly or
 indirectly, shares of Common Stock of the Company) on the Series A Preferred Stock, Series B
@@ -143,6 +145,7 @@ repurchases of Common Stock upon termination of employment or service as a consu
 director.
 
 GDS VF&H\797059.3 3
+
 2. Liquidation Preference.
 
 (a) In the event of any liquidation, dissolution or winding up of the
@@ -192,6 +195,7 @@ Company); (B) a sale of all or substantially all of the assets of the Company; u
 Company’s stockholders of record as constituted immediately prior to such Acquisition (as
 
 GDS VF&EN\797059.3 4
+
 defined below) will, immediately after such Acquisition (by virtue of securities issued as
 consideration for the Acquisition or otherwise) hold at least 50% of the voting power of the
 surviving or acquiring entity; or (C) an exclusive licensing of all or substantially all of the
@@ -241,6 +245,7 @@ outstanding shares of Preferred Stock.
 investment letter or other restrictions on free marketability (other than restrictions arising
 
 GDS VF&H\797059.3 5
+
 solely by virtue of a stockholder’s status as an affiliate or former affiliate) shall be to
 make an appropriate discount, if any, from the market value determined as set forth above
 in Section 2(d)(ii)(A) (1), (2) or (3) to reflect the approximate fair market value thereof,
@@ -291,6 +296,7 @@ rights as follows (the “Conversion Rights”):
 convertible at the option of the holder thereof, at any time after the date of issuance of such
 
 GDS VF&H\797059,3 6
+
 share, at the office of the Company or any transfer agent for Series A Preferred Stock, Series B
 Preferred Stock, Series C Preferred Stock or Series D Preferred Stock, as the case may be, into
 such number of fully paid and nonassessable shares of Common Stock as is determined by
@@ -340,6 +346,7 @@ at least $9.00 (subject to adjustment to reflect subsequent stock dividends, sto
 combinations or other recapitalizations) or (i1) the date specified by written consent or agreement
 
 GDS VF&H\797059.3 7
+
 of the holders of at least a majority of the then outstanding shares of Series B Preferred Stock
 and Series A Preferred Stock (voting together as a single class and not as separate series and on
 an as-converted basis).
@@ -389,6 +396,7 @@ shares of Common Stock issuable upon such conversion shall be treated for all pu
 record holder or holders of such shares of Common Stock on such date. Until certificates for
 
 GDSVF&H\797059.3 8
+
 such shares of Preferred Stock of the applicable classes that have been converted have been
 delivered to the Company for exchange for certificates representing shares of Common Stock,
 such certificates shall be deemed to represent the shares of Common Stock into which such
@@ -438,6 +446,7 @@ Price for such series of Preferred Stock pursuant to this subsection 4(d)(i) sha
 effect of increasing the Conversion Price for such series of Preferred Stock above the
 
 GDS VF&HN\797059.3 9
+
 GDS VF&H\797059.3
 
 Conversion Price for such series of Preferred Stock in effect immediately prior to such
@@ -488,6 +497,7 @@ potential antidilution adjustments) upon the conversion or exchange of such
 securities or the exercise of any related options or rights (the consideration in each
 
 10
+
 case to be determined in the manner provided in subsections 4(d)(i)(C) and
 
 4(d))@)).
@@ -540,6 +550,7 @@ Company directly or pursuant to a stock option, stock bonus, stock purchase or r
 stock plan or agreement or warrants approved by the Board of Directors of the Company;
 
 il
+
 to time
 
 (C) Common Stock issued or issuable upon conversion
@@ -595,6 +606,7 @@ indirectly, additional shares of Common Stock (hereinafter referred to as “Com
 GDS VE&H\797059.3
 
 12
+
 Equivalents”) without a corresponding subdivision, dividend or other distribution to holders of
 Preferred Stock and without payment of any consideration by such holder for the additional
 shares of Common Stock or the Common Stock Equivalents (including the additional shares of
@@ -644,6 +656,7 @@ recapitalization or reorganization of the Common Stock (other than a subdivision
 or merger or sale of assets transaction provided for elsewhere in this subsection 4 or
 
 GDS VF&EN797059.3 13
+
 subsection 2) provision shall be made so that the holders of the Preferred Stock shall thereafter
 be entitled to receive, upon conversion thereof, the number of shares of stock or other securities
 or property of the Company or otherwise, to which a holder of Common Stock deliverable upon
@@ -681,7 +694,7 @@ carrying out of all the provisions of this subsection 4 and in the taking of all
 be necessary or appropriate in order to protect the Conversion Rights of the holders of the
 Preferred Stock against impairment.
 
-(h) NoFractional Shares and Certificate as to Adjustments.
+(th) No Fractional Shares and Certificate as to Adjustments.
 
 (i) No fractional shares shall be issued upon the conversion of
 any share or shares of the Preferred Stock, and the number of shares of Common Stock to be
@@ -693,6 +706,7 @@ time converting into Common Stock and the number of shares of Common Stock issua
 such aggregate conversion.
 
 GDS VF&H\797059.3 14
+
 (ii) | Upon the occurrence of each adjustment or readjustment of
 the Conversion Price of Preferred Stock pursuant to this subsection 4, the Company, at its
 expense, shall promptly compute such adjustment or readjustment in accordance with the terms
@@ -739,6 +753,7 @@ receipt requested, postage prepaid, and addressed to each holder of record at hi
 appearing on the books of the Company.
 
 GDS VF&H\797059.3 15
+
 5. Noting Rights.
 
 (a) Voting Other than for Directors. Except as required by law and in
@@ -788,6 +803,7 @@ of the holders of a majority of the outstanding Common Stock; and the Joint Dire
 removed from the Board of Directors, either with or without cause, only by the affirmative vote
 
 GDSVF&M\797059,3 16
+
 of the holders of a majority of the Preferred Stock and Common Stock, voting together as a
 single class and on an as-converted basis.
 
@@ -836,6 +852,7 @@ fifty-five percent (55%) of the then outstanding shares of Preferred Stock, voti
 single class and not as separate series and on an as-converted basis:
 
 GDSVF&H\797059.3 17
+
 (i) increase or decrease (other than by conversion) the total
 number of authorized shares of Preferred Stock;
 
@@ -885,6 +902,7 @@ preferences, rights, privileges or powers of, or the restrictions provided for t
 Series B Preferred Stock.
 
 GDSVF&HV797059.3 18
+
 (d) So long as at least five hundred thousand (500,000) shares of
 Series C Preferred Stock and Series D Preferred Stock (subject to adjustment for any stock split,
 reverse stock split or other similar event affecting the Preferred Stock after the filing date hereof)
@@ -934,6 +952,7 @@ respect of each share of stock held by such holder of record on the books of the
 election of directors and on all matters submitted to a vote of stockholders of the Company.
 
 GDS VF&H\797059.3 19
+
 3. Dividends. Subject to the preferential rights of the Preferred Stock, the
 holders of shares of Common Stock shall be entitled to receive, when and if declared by the
 Board of Directors, out of the assets of the Company which are by law available therefor,
@@ -980,6 +999,7 @@ shares representing at least sixty six and two thirds percent (66 2/3%) of the s
 Company entitled to vote in the election of directors, voting as one class.
 
 GDSVF&AH\797059.3 20
+
 ARTICLE VII
 
 Except as otherwise provided in this Amended and Restated Certificate of Incorporation,
@@ -1001,6 +1021,7 @@ General Corporation Law, and written notice has been given as provided in Sectio
 [Remainder of this page intentionally left blank.]
 
 GDS VF&H\797059.3 1
+
 IN WITNESS WHEREOF, 4INFO, Inc. has caused this certificate to be signed by its
 President and Secretary this 20" day of June, 2007.
 

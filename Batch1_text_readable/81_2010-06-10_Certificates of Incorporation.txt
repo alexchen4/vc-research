@@ -52,6 +52,7 @@ C Stock”), 2.014.652 shares of Serics C-1 Convertible Preferred Stock, par val
 (the “Series C-1 Stock” and, together with the Scries C Stock, the “Series C Preferred Stock”).
 
 24664081 7. DOC
+
 955,414 shares of Serics D Convertible Preferred Stock. par valuc $.001 per share (the “Series D
 Stock”), 2,802,548 shares of Series 1-1} Convertible Preferred Stock. par value $.001 per share
 (the “Serics D-1 Stock” and, together with the Series D Stock, the “Series D Preferred Stock”),
@@ -67,7 +68,7 @@ Section |. Liquidation Rights.
 
 (a) Liquidation Payments.
 
-(i) In the event of any liquidation, dissolution or winding up of the
+(1) In the event of any liquidation, dissolution or winding up of the
 affairs of the Corporation, whether voluntary or involuntary, the holders of shares of the Series E
 Preferred Stock shall be entitled to be paid first. on a pari passu basis, out of the assets of the
 Corporation available for distribution to holders of the Corporation's capital stock of all classes
@@ -81,7 +82,7 @@ immediately prior to such liquidation, dissolution or winding up.
 The “Special Series E Liquidation Payment” shail mean an amount, per share of Scries E
 Preferred Stock, equal to (1) 1.22%(x/365) (ic 1.22 raised to the power (x/365)) multiplied by (2)
 $3.14 (which amount shall be subject to equitable adjustment whenever there shall occur a stock
-dividend, stock split, combination of shares. reclassification or other similar event with respect to
+dividend, stock split, combination of shares, reclassification or other similar event with respect to
 the Scries |. Preferred Stock), where “x” is equal to the number of days clapsed from the date of
 issuance of such share of Serics E Preferred Stock to the date of the applicable liquidation,
 dissolution or winding up of the affairs of the Corporation. Deemed U.iquidation Event (as
@@ -101,6 +102,7 @@ of the amounts thev are entitled to receive under this Subsection | (a)(i).
 24664081 7.DOC
 
 i)
+
 (ii) After such payments shall have been made in ful! to the holders of
 the Scrics E Preferred Stock. or funds necessary for such payments shall have been sct aside by
 the Corporation in trust for the account of holders of Series |i Preferred Stock so as to be
@@ -148,6 +150,7 @@ dissolution or winding up.
 24664081 7 DOC
 
 Lor)
+
 If the assets of the Corporation shall be insufficient to permit the payment in full to the
 holders of the Series C Preferred Stock of all amounts so distributable to them, then the entire
 assets of the Corporation available for such distribution after payment has been made in full
@@ -195,6 +198,7 @@ Stock, Series C Preferred Stock and Series B Preferred Stock so as to be availab
 payments. the holders of shares of the Serics A Preferred Stock shall then be entitled to be paid.
 
 24664081_7.D0C
+
 on a pari passu basis, out of the remaining assets of the Corporation available for distribution to
 holders of the Corporation's capital stock of all classes the greater of (A) $1.00 per share (which
 amount shall be subject to cquitable adjustment whenever there shall occur a stock dividend,
@@ -240,6 +244,7 @@ Payments,” “Series [3 liquidation Payments” and the “Series A Liquidatio
 respectively.
 
 24664081 7. DOC
+
 (b) Distributions Other than Cash. Whenever any portion of the distributions
 provided for in this Section | shall be payable in property other than cash, the value of such
 property shall be the fair market valuc of such property as determined in good faith by the Board
@@ -288,6 +293,7 @@ dissolution or winding up before the expiration of thirty (30) days after the ma
 
 24664081 7 DOC
 
+
 notice or twenty (20) days after the mailing of any subsequent written notice, whichever is later,
 provided that any such 30-day or 20-day period may be shortened or waived as to the Series E
 Preferred Stock. Series D Preferred Stock, Serics C Preferred Stock, Serics B Preferred Stock or
@@ -335,6 +341,7 @@ Conversion Price and Series A Conversion Price shall be subject to adjustment, i
 the number of shares of Common Stock into which the Series E Preferred Stock, Series D
 
 24664081 7.DOC
+
 Preferred Stock, Serics C Stock, Series C-] Stock, Series B Preferred Stock and Series A
 Preferred Stock is convertible, as hereinafter provided.
 
@@ -382,6 +389,7 @@ requirements of Scction 2(b)(i), each share of Serics A Preferred Stock, Series 
 Series C-! Stock. Series C Stock, Series D Preferred Stock and Scries [E Preferred Stock shall
 
 24664081_7 DOC
+
 automatically be converted effective upon and subject to the closing of such firm commitment
 underwritten public offering into shares of Common Stock at the Series A Conversion Price,
 Series B Conversion Price, Series C-| Conversion Price. Scrics C Conversion Price, Series D
@@ -429,6 +437,7 @@ therefor, to receive certificates for the number of sharcs of Common Stock into 
 of Preferred Stock has been converted, including after giving effect to the provisions of
 
 24664081_7 DOC
+
 Subsection 2(b)(iii), together with cash in an amount cqual to all dividends declared but unpaid
 on, and any and all other amounts owing with respect to, the shares of Prelerred Stock converted
 to and including the time of conversion. Upon the automatic conversion of the Preferred Stock,
@@ -476,6 +485,7 @@ conversion. issue and deliver at such office to such holder of Preferred Stock, 
 nominee or nominees, a certificate or certificates for the number of shares of Common Stock to
 
 246640817. DOC
+
 which the holder shall be entitled as aforesaid. together with cash in licu of any fraction ofa
 share and cash in an amount equal to all dividends declared but unpaid thercon and any and all
 other amounts owing with respect thereto at such time. Unless otherwise specified by the holder
@@ -523,6 +533,7 @@ agreements and restricted stock agreements) approved by a majority of the Corpor
 of Directors. which majority includes a majority of the Preferred Stock Directors (as hercinafier
 
 24664081_7.00C
+
 defined); and provided that such number may be adjusted upward with the approval of the
 holders of at least two-thirds of the Preferred Stock then outstanding as provided in Section 3(b):
 
@@ -569,6 +580,7 @@ Price. Series B Conversion Price or Series A Conversion Price, respectively, tha
 adjustment in the Series EF Conversion Price, Series 1) Conversion Price, Series C Conversion
 
 24664081_7.DOC
+
 Price. Series C-] Conversion Price, Series B Conversion Price or Scries A Conversion Price. as
 applicable. shall be made.
 
@@ -617,6 +629,7 @@ Series C-] Conversion Price, Serics B Conversion Price or Scrics A Conversion Pr
 
 24664081 7.DOC
 13
+
 upon the original issuc thereof (or upon the occurrence of a record date with respect thereto), and
 any subsequent adjustments based thereon, shall. upon such expiration. be recomputed as if:
 
@@ -652,11 +665,11 @@ adjustment date and such readjustment datc;
 
 (E) if such record date shall have been fixed and such
 Options or Convertible Securities are not issued on the date fixed thercfor, the adjustment
-previously made in the Scries E Conversion Price, Serics D Conversion Price, Series C
-Conversion Price, Series C-1 Conversion Price. Series 3 Conversion Price or Scries A
+previously made in the Scries E Conversion Pricc, Serics D Conversion Price, Series C
+Conversion Price, Series C-1 Conversion Price. Series 13 Conversion Price or Series A
 Conversion Price which became effective on such record date shall be canceled as of the close of
-business on such record date. and thereafter the Series E Conversion Price. Serics 1) Conversion
-Price, Series C Conversion Price, Series C-| Conversion Price. Series 3 Conversion Price or
+business on such record date. and thereafter the Scrics E Conversion Price, Scrics ) Conversion
+Price, Series C Conversion Price, Serics C-! Conversion Price. Series 3 Conversion Price or
 Series A Conversion Price shall be adjusted pursuant to this Subsection 2(c¢)(iii) as of the actual
 date of their issuance.
 
@@ -665,6 +678,7 @@ event the Corporation al any time or from time to time afier the Original Issue 
 
 24664081 7 DOC
 14
+
 or pay any dividend or make any other distribution on the Common Stock payable in Common
 Stock or effect a subdivision of the outstanding shares of Common Stock (by reclassification or
 otherwise than by payment of a dividend in Common Stock), then and in any such event,
@@ -709,6 +723,7 @@ with such issue. to a price (calculated to the nearest one tenth of one cent) de
 accordance with the following formula:
 
 24664081_7.DOC
+
 (P))(Q,) + (P3) (Q5)
 NC
 
@@ -763,6 +778,7 @@ Stock; provided that if such tssuance or deemed issuance was without considerati
 Corporation shall be deemed to have reccived an aggregate of $.001 of consideration for all such
 
 24664081 7.DOC
+
 Additional Shares of Common Stock issued or deemed to be issued: provided further, that, if
 pursuant to Subsection 2(e)(111)(1)(C) no Additional Shares of Common Stock upon which an
 adjustment had been previously made are decmed to have been issued, then the Series E
@@ -810,6 +826,7 @@ aggregate amount of additional consideration (as set forth in the instruments re
 without regard to any provision contained therein for a subsequent adjustment of such
 
 24664081_7 DOC
+
 consideration) payable to the Corporation upon the exercise of such Options or the conversion or
 exchange of such Convertible Securitics, or in the case of Options for Convertible Securities. the
 exercise of such Options for Convertible Securitics and the conversion or exchange of such
@@ -858,6 +875,7 @@ a different number of shares of any class or scrics of stock or other securities
 whether by capital reorganization, reclassification, recapitalization or otherwise (other than a
 
 24664081 7.D0C
+
 subdivision or combination of shares or stock dividend provided for above. or a merger,
 consolidation, or sale of assets provided for below), then and in cach such event the holder of
 any shares of the applicable Preferred Stock shall have the right thercafter to convert such sharcs
@@ -906,6 +924,7 @@ Preferred Stock held by Affiliates (as defined below) of such holder shall be ag
 such holder’s shares and all Offered Securities purchased by Affiliates of such holder shall be
 
 24664081 7,.DOC
+
 agpregated with the Offered Securitics (as defined below) purchased by such holder (provided
 that no shares or securities shall be attributed to morc than one entity or person within any such
 group of affiliated entities or persons). Any such conversion is sometimes hercinafter referred to
@@ -951,6 +970,7 @@ accordingly.
 apply:
 
 24664081_7. DOC
+
 (1) “Affiliate” shall mean, with respect to any holder of shares
 of Preferred Stock. any person, cntity or firm which, dircctly or indirectly, controls, is controlled
 by or is under common control with such holder, including, without limitation. any entity of
@@ -998,6 +1018,7 @@ observance or performance of any of the terms to be observed or performed hereun
 Corporation but shall at all times in good faith assist in the carrving out of all the provisions of
 
 24664081 7 DOC
+
 this Section 2 and in the taking of all such action as may be necessary or appropriate in order to
 protect the Conversion Rights of the holders of Preferred Stock against impairment.
 
@@ -1043,6 +1064,7 @@ shall not be required to pay any tax which may te payable in respect of anv tran
 other than that of the holder of the Preferred Stock.
 
 24664081_7. DOC
+
 (o) Closing of Books. The Corporation shall al no time close its transfer books
 against the transfer of any Preferred Stock or of any shares of Common Stock issued or issuable
 upon the conversion of any shares of Preferred Stock in any manner which interferes with the
@@ -1073,8 +1095,8 @@ directly or by amendment, merger. consolidation or otherwise:
 (i) amend or repeal any provision of, or add any provision to, the
 Corporation's Certificate of Incorporation or By-laws:
 
-(ii) authorize or designate any class or series of capital stock having
-rights senior to or on a parity with the Series D Preferred Stock, Series C Preferred Stock, Series
+(ii) authorize or designate any class or scrics of capital stock having
+rights senior to or on a parity with the Series D Preferred Stock, Series C Preferred Stock, Serivs
 B Preferred Stock or Series A Preferred Stock as to dividends. liquidation or otherwise;
 
 (iii) enter into any merger, consolidation, capital reorganization,
@@ -1090,6 +1112,7 @@ in the consolidation of that entity into the results of operations of the Corpor
 
 24664031_7. DOC
 23
+
 (vi) acquire another entity in a transaction in which the aggregate
 consideration paid has a value of morc than $1,000,000:
 
@@ -1131,6 +1154,7 @@ authorize or designate any class or scrics of capital stock having rights senior
 the Serics E Preferred Stock as to dividends, liquidation or otherwisc.
 
 2466-4081_7.DOC
+
 
 Section 4. Voting Rights.
 
@@ -1179,6 +1203,7 @@ Serics A Preferred Stock Directors, the “Preferred Stock Directors’). The Se
 Stock Director shall be elected by the vote or written consent of the holders of a majority of the
 
 24464081 7 DOC
+
 outstanding Scries B Preferred Stock. Ifa Serics B Preferred Stock Director shall cease to serve
 as a director for any reason, another director designated by the holders of the outstanding shares
 of Series B Preferred Stock shall replace such director. Any Series 13 Preferred Stock Director
@@ -1211,6 +1236,7 @@ of Section 242(b)(2) of the General Corporation Law.
 
 24664081 7 DOC ‘
 2
+
 Section 5. Dividends.
 
 (a) Dividends may be declared and paid on Common Stock from funds lawfully
@@ -1257,6 +1283,7 @@ or not in any fiscal year there shall be net profits or surplus available for th
 dividends in such fiscal vear, so that if in any fiscal year or years, such dividends are not paid in
 
 24664081 7.DOC
+
 whole or in part upon the Preferred Stock. the portion of such dividends as shall be unpaid shall
 accumulate as against the holders of the Common Stock.
 
@@ -1304,6 +1331,7 @@ certificate or certificates to the record holder of such Series E Preferred Stoc
 thereafter when additional funds of the Corporation become legally available for the redemption
 
 24664081 7. DOC
+
 of Series E Preferred Stock, such funds will be used to redecm the maximum number of
 additional shares of Series E Preferred Stock which the Corporation was theretofore obligated to
 redeem. on the basis set forth in the preceding sentence.
@@ -1350,7 +1378,8 @@ redeem. on the basis set forth in the preceding sentence.
 (c) Scrics C Redemption. Hat any time following the redemption in full of all
 shares of Scrics LE Prelerred Stock and Series D Prelerred Stock subject to a redemption request,
 
-24664081 _7.DOC
+24664081 _7.D0C
+
 the Corporation receives written election of holders of at least two-thirds of the outstanding
 shares of Series C Preferred Stock made at any time on or afier the date that is 90 days before the
 fifth anniversary of the Original Issue Date of the Series E Stock, the Corporation shall be
@@ -1398,6 +1427,7 @@ Corporation shall be required to redcem all, but not less than all. of the outst
 Series B Preferred Stock in three equal annual installments. upon the terms set forth in this
 
 24664081 _7.D00
+
 
 Section 6 (the date of each installment being referred to as a “Scries B Redemption Date”). On
 each Series B Redemption Date. the Corporation shall redeem, on a pro rata basis in accordance
@@ -1447,6 +1477,7 @@ Series A Redemption Date by (ii) the number of remaining Scries A Redemption Dat
 
 24664081 7.00C
 3|
+
 (including the Series A Redemption Date to which such calculation applies). On cach such Series
 A Redemption Date, the holders of Scrics A Preferred Stock shall surrender the certificate or
 certificates for the shares to be redeemed duly endorsed for transfer or with duly executed stock
@@ -1490,10 +1521,11 @@ Stock, Series D Preferred Stock, Series C Preferred Stock. Serics B Preferred St
 Preferred Stock who is not party to a redemption request with respect to such series of Preferred
 Stock may convert any or all of the sharcs of such series of Preferred Stock owned by such
 halder into Common Stock in accordance with Section 4 al any lime prior to the date of
-redemption of such shares. The Corporation, if advised before the close of business on the
+redemption of such shares. The Corporation, ifadvised before the close of business on the
 relevant redemption date by written notice from any holder of record of Preferred Stock to be
 
 24664081 _7.D0C
+
 redeemed, shall credit against the number of shares of Preferred Stock required to be redeemed
 from such holder, and shall not redeem, the number of shares of Preferred Stock which shall
 have been converted by such holder on or before such date and which shall not previously have
@@ -1545,6 +1577,7 @@ or duly sent by first-class mai] postage prepaid (other than in the case of noti
 
 ve
 ive)
+
 non-US. resident) or by fax or DHL, Federal Express or other recognized express international
 courier service, addressed to the intended recipient at the recipient's address as it appears on the
 books of the Corporation.
@@ -1592,6 +1625,7 @@ Article SIXTH shall deprive a director or officer of the benefit hercof with res
 failure to act occurring prior to such amendment or repeal.
 
 246640817 DOC
+
 SEVENTH: No director of the Corporation shall be personally liable to the Corporation
 or to any of its stockholders for monetary damages arising out of such director's breach of his
 fiduciary duty as a director of the Corporation, except to the extent that the climination or
@@ -1610,6 +1644,7 @@ REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
 
 24664081 7 DOC
 35
+
 IN WITNESS WHEREOF, the Corporation has caused this Amended and Restated _
 Certificate of Incorporation to be signed by John Knopf, its Chicf Executive Officcr, this (C'™
 day of June, 2010.

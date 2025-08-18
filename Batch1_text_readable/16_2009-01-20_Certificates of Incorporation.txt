@@ -51,6 +51,7 @@ A. Authorization of Stock. This corporation is authorized to issue two classes
 of stock to be designated, respectively, common stock and preferred stock. The total number of
 
 GDS VF&H1983091.5
+
 shares that this corporation is authorized to issue is 276,095,825. The total number of shares of
 common stock authorized to be issued is 175,000,000, par value $0.0001 per share (the
 “Common Stock”). The total number of shares of preferred stock authorized to be issued is
@@ -101,6 +102,7 @@ the payment to such holders of the full aforesaid preferential amounts, then the
 legally available for distribution shall be distributed ratably among the holders of the Series D
 
 GDSVF&HI983091.5 2
+
 Preferred Stock in proportion to the full preferential amount that each such holder is otherwise
 entitled to receive under this subsection (a). For purposes of this Restated Certificate of
 Incorporation, “Original Issue Price” shall mean $0,15243 per share for each share of the Series
@@ -150,6 +152,7 @@ applicable Participation Cap (as defined below); thereafter, if Proceeds remain,
 Common Stock of this corporation shall receive all of the remaining Proceeds pro rata based on
 
 GDS VF&H1983091.5 3
+
 the number of shares of Common Stock held by each. For purposes of this Restated Certificate
 of Incorporation, “Participation Cap” shall mean $1.42365 for the Series C Preferred Stock and
 $0.45729 for the Series D Preferred Stock (each as adjusted for any stock splits, stock dividends,
@@ -197,6 +200,7 @@ twenty (20) trading-day period ending three (3) trading days prior to the closin
 Liquidation Event; and
 
 GDSVF&H\983091.5 4
+
 (3) If there is no active public market, the value shall be
 the fair market value thereof, as mutually determined by the board of directors of this corporation
 and the holders of at least two-thirds of the voting power of all then outstanding shares of
@@ -246,6 +250,7 @@ of this corporation or any transfer agent for such stock, into such number of fu
 nonassessable shares of Common Stock as is determined by dividing (X) the applicable Original
 
 GDSVF&HW983091.5 5
+
 Issue Price for such series, by (Y) the Conversion Price (as defined below) applicable to such
 series (the conversion rate for a series of Preferred Stock into Common Stock is referred to
 herein as the “Conversion Rate” for such series), determined as hereinafter provided, in effect on
@@ -303,6 +308,7 @@ entitled to receive the shares of Common Stock issuable upon such conversion sha
 for all purposes as the record holder or holders of such shares of Common Stock as of such date.
 
 GDSVF&1983091.5 6
+
 If the conversion is in connection with an underwritten offering of securities registered pursuant
 to the Securities Act of 1933, as amended, the conversion may, at the option of any holder
 tendering Preferred Stock for conversion, be conditioned upon the closing with the underwriters
@@ -350,6 +356,7 @@ Conversion Price pursuant to this subsection 3(d)(i) shall have the effect of in
 Conversion Price above the Conversion Price in effect immediately prior to such adjustment.
 
 GDSVF&H1983091.5 7
+
 (B) In the case of the issuance of Additional Stock for cash, the
 consideration shall be deemed to be the amount of cash paid therefor before deducting any
 reasonable discounts, commissions or other expenses allowed, paid or incurred by this
@@ -399,6 +406,7 @@ affected by or computed using such options, rights or securities, shall be recom
 such change, but no further adjustment shall be made for the actual issuance of Common Stock
 
 GDSVF&HI983091.5 8
+
 or any payment of such consideration upon the exercise of any such options or rights or the
 conversion or exchange of such securities.
 
@@ -447,6 +455,7 @@ Stock resulting from the operation of Section 3(d);
 Series D Preferred Stock;
 
 GDS VF&H1983091.5 9
+
 (H) Common Stock issued in connection with joint ventures,
 development projects or other strategic transactions in each case approved by this corporation’s
 Board of Directors (including unanimous approval of the Preferred Directors, as defined below),
@@ -496,6 +505,7 @@ Section 2) provision shall be made so that the holders of the Preferred Stock sh
 entitled to receive upon conversion of the Preferred Stock the number of shares of stock or other
 
 GDSVF&HN983091.5 10
+
 securities or property of this corporation or otherwise, to which a holder of Common Stock
 deliverable upon conversion would have been entitled on such recapitalization, reclassification or
 other change. In any such case, appropriate adjustment shall be made in the application of the
@@ -545,6 +555,7 @@ securities or property, or to receive any other right, this corporation shall ma
 Preferred Stock, at least twenty (20) days prior to the date specified therein, a notice specifying
 
 GDSVF&H1983091.5 11
+
 the date on which any such record is to be taken for the purpose of such dividend, distribution or
 right, and the amount and character of such dividend, distribution or right.
 
@@ -594,6 +605,7 @@ aggregating all shares into which shares of Preferred Stock held by each holder 
 converted) shall be rounded to the nearest whole number (with one-half being rounded upward).
 
 GDSVF&H\983091.5 12
+
 (b) Noting for the Election of Directors. As long as a majority of the shares of
 Series A Preferred Stock originally issued remain outstanding, the holders of such shares of
 Series A Preferred Stock shall be entitled to elect one (1) director of this corporation at any
@@ -643,6 +655,7 @@ Preferred Stock;
 total number of authorized shares of Common Stock or Preferred Stock;
 
 GDSVF&H1983091.5 13
+
 (iv) create (by reclassification or otherwise) any equity security
 (including any other security convertible into or exercisable for any such equity security) with
 rights, preferences or privileges senior to, or on a parity with, any series of Preferred Stock;
@@ -691,6 +704,7 @@ C. Common Stock. The rights, preferences, privileges and restrictions
 granted to and imposed on the Common Stock are as set forth below in this Article TV(C).
 
 GDSVF&H\983091,5 14
+
 1, Dividend Rights. Subject to the prior rights of holders of all classes of
 stock at the time outstanding having prior rights as to dividends, the holders of the Common
 Stock shall be entitled to receive, when, as and if declared by the Board of Directors, out of any
@@ -739,6 +753,7 @@ as may be designated from time to time by the Board of Directors or in the Bylaw
 corporation.
 
 GDSVF&H1983091.5 15
+
 ARTICLE IX
 
 A director of this corporation shall not be personally liable to this corporation or
@@ -789,6 +804,7 @@ employees, officers, directors, advisors, consultants or other persons performin
 corporation or any subsidiary pursuant to agreements under which the corporation has the option
 
 GDSVF&H1983091.5 16
+
 to repurchase such shares at cost upon the occurrence of certain events, such as the termination
 of employment, Sections 502 and 503 of the California Corporations Code shall not apply in all
 or in part with respect to such repurchases.
@@ -819,6 +835,7 @@ Incorporation, has been duly adopted in accordance with Sections 242 and 245 of 
 Corporation Law.
 
 GDSVF&H1983091.5 17
+
 IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been
 executed by a duly authorized officer of this corporation on this 20th day of January, 2009,
 

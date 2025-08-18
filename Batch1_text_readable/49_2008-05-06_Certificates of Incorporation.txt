@@ -50,6 +50,7 @@ shall have authority to issue is (i) 100,000,000 shares of Common Stock, $.001 p
 share (“Common Stock”), and (ii) 47,688,561 shares of Preferred Stock, $.001 par value per
 
 USIDOCS 6625043v6
+
 share, of which (A) 8,312,087 shares shall be designated “Series A Convertible Preferred Stock”
 (the “Series A Preferred Stock”), (B) 2,925,000 shares shall be designated “Series A-]
 Convertible Preferred Stock” (the ‘‘Series A-1 Preferred Stock”), (C) 9,691,116 shares shall be
@@ -95,6 +96,7 @@ Corporation available for distribution to its stockholders. subject to any prefe
 then outstanding Preferred Stock.
 
 USIDOCS 66250436
+
 B. PREFERRED STOCK.
 
 The Series A Preferred Stock, Series A-1 Preferred Stock, Series B Preferred Stock,
@@ -148,6 +150,7 @@ distribution to stockholders (the “Liquidation Proceeds’’) are less than o
 
 USIDOCS 6625043v6
 
+
 shall be entitled to be paid out of the assets of the Corporation available for distribution to its
 stockholders, before any payment shal! be made to the holders of Series B-1 Preferred Stock,
 Common Stock or any other class or series of stock ranking on liquidation junior to the Senior
@@ -198,6 +201,7 @@ of shares of Series A Preferred Stock, Series A-] Preferred Stock, Series B Pref
 -4-
 
 LSIDOCS 662504306
+
 Series C Preferred Stock and the Series E Preferred Stock the full amount to which they shal! be
 entitled pursuant to this Section 2(b). such assets shall be distributed ratably to holders of Series
 A Preferred Stock, Series A-1 Preferred Stock, Series B Preferred Stock, Series C Preferred
@@ -249,6 +253,7 @@ least two (2) days before the effective date of such event. If no such notice is
 
 USIDOCS 662504306
 
+
 shall be deemed to be a Liquidation Event for the purposes of the Preferred Stock. The amount
 to be distributed to the holders of Preferred Stock or Common Stock in connection with a
 transaction referred to in this Section 2(e) shall be the cash or the value of the property, rights or
@@ -266,6 +271,8 @@ make such an election, the Corporation shall use its best efforts to amend the a
 of merger or consolidation to adjust the rate at which the shares of capital stock of the
 Corporation are converted into or exchanged for cash. new securities or other property to give
 effect to such election.
+
+3. Voting.
 
 (a) | Each holder of outstanding shares of Preferred Stock shall be entitled to
 the number of votes equal to the number of whole shares of Common Stock into which the
@@ -297,6 +304,7 @@ Preferred Stock in a manner adverse to holders of the Series B-1 Preferred Stock
 -6-
 
 USIDOCS 662504356
+
 similarly adverse to other classes or series of Preferred Stock or increase the authorized number
 of shares of Series B-1 Preferred Stock, without the written consent or affirmative vote of the
 holders of not less than a majority of the then outstanding shares of Series B-1 Preferred Stock,
@@ -346,6 +354,7 @@ preference of the Series E Preferred Stock, (ii) amend, alter or repeal this Sec
 
 -7-
 USI DOCS 6625033v6
+
 4(d)(i), the last sentence of Section 4(d)(ii) below, Section 4(d)(iv)(B) below or the second or the
 last sentence of Section 5(a) below or (iii) increase the authorized number of shares of Series E
 Preferred Stock, without the written consent or affirmative vote of the holders of at least 60% of
@@ -395,6 +404,7 @@ including the approval of the Preferred Designees:
 
 -8-
 USI DOCS 6625033v6
+
 (viii) amend any provision of, or add any provision to, the Corporation's
 Certificate of Incorporation or By-Laws;
 
@@ -446,6 +456,7 @@ shares of Common Stock as is determined (i) in the case of Series A Preferred St
 -9-
 
 USI DOCS 6625043+6
+
 $1.00 by the Series A Conversion Price (as defined below) in effect at the time of conversion, (ii)
 in the case of Series A-| Preferred Stock by dividing $1.50 by the Series A-1 Conversion Price
 (as defined below) in effect at the time of conversion. (iii) in the case of Series B Preferred Stock
@@ -458,7 +469,7 @@ dividing $6.56063 by the Series D Conversion Price (as defined below) in effect 
 conversion and (vii) in the case of the Series E Preferred Stock by dividing $16.5923 by the
 Series E Conversion Price (as defined below) in effect at the time of conversion. The “Series A
 Conversion Price” shall initially be $1.00. The “Series A-1 Conversion Price” shall initially be
-$1.50. The “Series B Conversion Price” shall initially be $2.078192. The “Series B-1
+$1.50. The “Series B Conversion Price” shall initially be $2.078192. The “Series B-I
 Conversion Price” shall initially be $3.33. The “Series C Conversion Price” shall initially be
 $3.371016. The “Series D Conversion Price” shall initially be $6.56063. The “Series E
 Conversion Price” shall initially be $16.5923. Such initial Series A, Series A-1, Series B, Series
@@ -496,6 +507,7 @@ surrendered for conversion shall be endorsed or accompanied by a written instrum
 -10-
 
 USIDOCS 66250436
+
 instruments of transfer, in form satisfactory to the Corporation, duly executed by the registered
 holder or his or its attorney duly authorized in writing. The date of receipt of such certificates
 and notice by the transfer agent (or by the Corporation if the Corporation serves as its own
@@ -545,6 +557,7 @@ may be payable in respect of any issuance or delivery of shares of Common Stock 
 
 -Il-
 USI DOCS 66250436
+
 conversion of shares of Preferred Stock pursuant to this Section 4. The Corporation shall not,
 however, be required to pay any tax which may be payable in respect of any transfer involved in
 the issuance and delivery of shares of Common Stock in a name other than that in which the
@@ -596,6 +609,7 @@ Common Stock (or Options with respect thereto) (or
 
 -|2-
 USI DOCS 66250436
+
 US} DOCS 662504396
 
 (V)
@@ -655,6 +669,7 @@ shares of Series C Preferred Stock issued or issuable
 to Silicon Valley Bank or Gold Hill Ventures upon
 
 -13-
+
 exercise of certain warrants issued by the
 Corporation to such entities; or
 
@@ -706,6 +721,7 @@ Series D Preferred Stock with respect to an issuance or deemed issuance of Addit
 -14-
 
 USI DOCS 6625043 v6
+
 Common Stock that otherwise would adjust the Series D Conversion Price or (vi) at least 60% of
 the then outstanding shares of Series E Preferred Stock with respect to an issuance or deemed
 issuance of Additional Shares of Common Stock that otherwise would adjust the Series E
@@ -756,6 +772,7 @@ the rights of conversion or exchange under such Convertible Securities;
 -15-
 
 USIDOCS 0625043v6
+
 (C) Upon the expiration or termination of any unexercised
 Option, the affected Series A Conversion Price, Series A-| Conversion Price, Series B
 Conversion Price, Series C Conversion Price, Series D Conversion Price or Series E Conversion
@@ -807,6 +824,7 @@ deemed to be issued pursuant to Subsection 4(d)(iii), but excluding shares issue
 -16-
 
 USIDOCS 6625043v6
+
 or combination as provided in Subsection 4(e) or upon a dividend or distribution as provided in
 Subsection 4(f)), without consideration or for a consideration per share less than the applicable
 Series A Conversion Price, Series A-1 Conversion Price, Series B Conversion Price, Series C
@@ -857,6 +875,7 @@ be received by the Corporation for the total number of Additional Shares of Comm
 
 ~-17-
 USIDOCS 66250136
+
 issued would purchase at such then existing Series E Conversion Price; and (II) the denominator
 of which shall be the number of shares of Common Stock outstanding immediately prior to such
 issue (calculated assuming conversion of all issued and outstanding shares of Preferred Stock
@@ -907,6 +926,7 @@ faith by the Board of Directors.
 -18&-
 
 USIDOCS 6625043v6
+
 (B) Options and Convertible Securities. The consideration per
 
 share received by the Corporation for Additional Shares of Common Stock deemed to have been
@@ -959,6 +979,7 @@ Series C Conversion Price, Series D Conversion Price or Series E Conversion Pric
 -19-
 
 US] DOCS 6625043v6
+
 immediately before the combination shall be proportionately increased. Any adjustment under
 this paragraph shall become effective at the close of business on the date the subdivision or
 combination becomes effective.
@@ -1011,6 +1032,7 @@ dividend or other distribution payable in securities of the Corporation other th
 -20-
 
 USI DOCS 6625043.6
+
 Common Stock, then and in each such event provision shall be made so that the holders of
 Preferred Stock shall receive upon conversion thereof in addition to the number of shares of
 Common Stock receivable thereupon, the amount of securities of the Corporation that they
@@ -1062,6 +1084,7 @@ thereafter deliverable upon the conversion of the Preferred Stock.
 
 -2)-
 US!DOCS 6625043\6
+
 Q) Certificate as to Adjustments. Upon the occurrence of each adjustment or
 readjustment of the Series A Conversion Price, Series A-! Conversion Price, Series B
 Conversion Price, Series B-! Conversion Price, Series C Conversion Price, Series D Conversion
@@ -1113,6 +1136,7 @@ expected that holders of Common Stock of record shall be entitled to exchange th
 -22-
 
 US1DOCS 6625043v6
+
 Common Stock for securities or other property deliverable upon such reclassification,
 consolidation, merger, sale or Liquidation Event; provided, however, that the Corporation's
 failure to provide any notice required under this Section 4(k) after using reasonable efforts shall
@@ -1162,6 +1186,7 @@ of Series E Preferred Stock other than (i) pursuant to a Qualifying Public Offer
 
 -23-
 USI DOCS 6625043v6
+
 pursuant to and in connection with a Liquidation Event in which the Liquidation Proceeds are
 greater than or equal to an amount which would result in holders of Series E Preferred Stock
 receiving in such Liquidation Event an amount equal to or greater than $16.5923 per share
@@ -1213,6 +1238,7 @@ the Series A Preferred Stock plus all declared but unpaid dividends thereon (sub
 -24-
 
 US!DOCS 6625043v6
+
 appropriate adjustment in the event of any stock dividend, stock split, combination or other
 recapitalization affecting such Series A Preferred Stock) (the “Series A Redemption Price”), (ii)
 $1.50 per share with respect to the Series A-1 Preferred Stock plus all declared but unpaid
@@ -1262,6 +1288,7 @@ by electronic communication in compliance with the provisions of the Delaware Ge
 -25-
 
 USIDOCS 6625043.6
+
 Corporation Law, not less than 30 days prior to each Redemption Date. Each Redemption
 Notice shall state:
 
@@ -1312,6 +1339,7 @@ Redemption Price without interest upon surrender of their certificate or certifi
 -26-
 
 USI DOCS 6625033v6
+
 (e) Any shares of Senior Preferred Stock redeemed pursuant to this Section 6
 will be cancelled and will not under any circumstances be reissued. sold or transferred and the
 Corporation may from time to time take such appropriate action as may be necessary to reduce
@@ -1361,6 +1389,7 @@ the By-Laws of the Corporation.
 -27-
 
 USI DOCS 6625043v6
+
 SIXTH. Except to the extent that the General Corporation Law of the State of
 Delaware prohibits the elimination or limitation of liability of directors for breaches of fiduciary
 duty, no director of the Corporation shall be personally liable to the Corporation or its
@@ -1414,6 +1443,7 @@ partnership, joint venture, trust or other enterprise (including any employee be
 
 US! DOCS 6625043v6
 
+
 reason of any action alleged to have been taken or omitted in such capacity, against all expenses
 (including attorneys’ fees) and, to the extent permitted by law, amounts paid in settlement
 actually and reasonably incurred by him or on his behalf in connection with such action, suit or
@@ -1465,6 +1495,7 @@ otherwise expressly provided by this Article. The Corporation shall not be entit
 -29-
 
 USIDOCS 6625043v6
+
 consent of the Indemnitee, to assume the defense of any claim brought by or in the right of the
 Corporation or as to which counsel for the Indemnitee shall have reasonably made the conclusion
 provided for in clause (ii) above.
@@ -1515,6 +1546,7 @@ indemnitee has not met the applicable standard of conduct. The Indemnitee’s ex
 -30-
 
 USIDOCS 6625043v6
+
 (including attorneys’ fees) incurred in connection with successfully establishing his right to
 indemnification, in whole or in part, in any such proceeding shall also be indemnified by the
 Corporation.
@@ -1565,6 +1597,7 @@ facts occurring prior to the date of such merger or consolidation.
 -31-
 
 USIDOCS 6625043v6
+
 13. Savings Clause. If this Article or any portion hereof shall be invalidated on any
 ground by any court of competent jurisdiction, then the Corporation shall nevertheless indemnify
 each Indemnitee as to any expenses (including attorneys’ fees), judgments, fines and amounts
@@ -1593,6 +1626,7 @@ granted subject to this reservation.
 ~32-
 
 USIDOCS 662504346
+
 IN WITNESS WHEREOF, the Corporation has caused this Eighth Amended and
 Restated Certificate of Incorporation to be signed by its President this 6th day of May, 2008.
 
