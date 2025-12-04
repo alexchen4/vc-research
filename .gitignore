@@ -9,3 +9,5 @@ apikey*
 ignore*
 !Reese's readme.txt
 .gitignore
+*.zip
+*.png
